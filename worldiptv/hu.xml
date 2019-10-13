@@ -1,3 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>HU | M1</title>
+<link>https:$doregex[Url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/2Qv89CT.png</thumbnail>
+<fanart>https://i.imgur.com/SP2dHDW.jpg</fanart>    
+<regex>
+<name>m3u8</name>
+<expres>file": "(.*?)"</expres>
+<page>https://player.mediaklikk.hu/playernew/player.php?video=mtv1live</page>
+<referer>https://player.mediaklikk.hu/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Url</name>
+<expres>$pyFunction:'$doregex[m3u8]'.replace('\/','/')</expres>
+<page></page>
+</regex>    
+</item>
+   
+<item>
+<title>HU | M2</title>
+<link>https:$doregex[Url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/Cpwehv4.png</thumbnail>
+<fanart>https://i.imgur.com/SP2dHDW.jpg</fanart>    
+<regex>
+<name>m3u8</name>
+<expres>file": "(.*?)"</expres>
+<page>https://player.mediaklikk.hu/playernew/player.php?video=mtv2live</page>
+<referer>https://player.mediaklikk.hu/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Url</name>
+<expres>$pyFunction:'$doregex[m3u8]'.replace('\/','/')</expres>
+<page></page>
+</regex>   
+</item>
+   
+<item>
+<title>HU | M4 Sport (VPN)</title>
+<link>https:$doregex[Url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/aDTAZGD.jpg</thumbnail>
+<fanart>https://i.imgur.com/SP2dHDW.jpg</fanart>    
+<regex>
+<name>m3u8</name>
+<expres>file": "(.*?)"</expres>
+<page>https://player.mediaklikk.hu/playernew/player.php?video=mtv4live</page>
+<referer>https://player.mediaklikk.hu/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Url</name>
+<expres>$pyFunction:'$doregex[m3u8]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+</item>   
+   
+<item>
+<title>HU | M5</title>
+<link>https:$doregex[Url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/v9lXKOM.jpg</thumbnail>
+<fanart>https://i.imgur.com/SP2dHDW.jpg</fanart>    
+<regex>
+<name>m3u8</name>
+<expres>file": "(.*?)"</expres>
+<page>https://player.mediaklikk.hu/playernew/player.php?video=mtv5live</page>
+<referer>https://player.mediaklikk.hu/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Url</name>
+<expres>$pyFunction:'$doregex[m3u8]'.replace('\/','/')</expres>
+<page></page>
+</regex>    
+</item>   
+   
+<item>
+<title>HU | Duna</title>
+<link>https:$doregex[Url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/1LP2qsx.png</thumbnail>
+<fanart>https://i.imgur.com/SP2dHDW.jpg</fanart>    
+<regex>
+<name>m3u8</name>
+<expres>file": "(.*?)"</expres>
+<page>https://player.mediaklikk.hu/playernew/player.php?video=dunalive</page>
+<referer>https://player.mediaklikk.hu/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Url</name>
+<expres>$pyFunction:'$doregex[m3u8]'.replace('\/','/')</expres>
+<page></page>
+</regex>    
+</item>   
+  
+<item>
+<title>HU | Duna World</title>
+<link>https:$doregex[Url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/lNLPodL.png</thumbnail>
+<fanart>https://i.imgur.com/SP2dHDW.jpg</fanart>    
+<regex>
+<name>m3u8</name>
+<expres>file": "(.*?)"</expres>
+<page>https://player.mediaklikk.hu/playernew/player.php?video=dunaworldlive</page>
+<referer>https://player.mediaklikk.hu/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Url</name>
+<expres>$pyFunction:'$doregex[m3u8]'.replace('\/','/')</expres>
+<page></page>
+</regex>  
+</item>   
+  
+<item>
+<title>HU | Irány Televízió</title>
+<dmlive>x1buzv1</dmlive>
+<thumbnail>https://i.imgur.com/FB0oNOO.png</thumbnail>
+<fanart>https://i.imgur.com/QQhqbac.jpg</fanart>  
+</item>  
 </items>
