@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+ 
+<item>
+<title>CYFO 1</title>
+<thumbnail>https://i.imgur.com/dyjeDvr.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo1.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+   
+<item>
+<title>CYFO 2</title>
+<thumbnail>https://i.imgur.com/CPU58H9.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo2.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+   
+<item>
+<title>CYFO 3</title>
+<thumbnail>https://i.imgur.com/MvGf1BE.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo3.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+   
+<item>
+<title>CYFO 4</title>
+<thumbnail>https://i.imgur.com/O2WyaHy.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo4.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+   
+ <item>
+<title>CYFO 5</title>
+<thumbnail>https://i.imgur.com/65EIZPO.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo5.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+ 
+<item>
+<title>CYFO 6</title>
+<thumbnail>https://i.imgur.com/62tcrBV.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo6.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+   
+ <item>
+<title>CYFO 7</title>
+<thumbnail>https://i.imgur.com/ZRyVq2q.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo7.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+   
+ <item>
+<title>CYFO 8</title>
+<thumbnail>https://i.imgur.com/kFzsZDp.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo8.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+   
+<item>
+<title>CYFO 9</title>
+<thumbnail>https://i.imgur.com/dtbI0tO.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo9.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+   
+<item>
+<title>CYFO 10</title>
+<thumbnail>https://i.imgur.com/CGQom76.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo10.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>    
+  
+<item>
+<title>CYFO 11</title>
+<thumbnail>https://i.imgur.com/ClHegNS.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo11.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>  
+  
+<item>
+<title>SPORTZONLINE HD1</title>  
+<thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/hd/hd1.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/hd/hd1.php</page>
+        <referer>https://sportzonline.co/channels/hd/hd1.php</referer>
+    </regex>
+</item> 
+   
+<item>
+<title>SPORTZONLINE HD2</title> 
+<thumbnail>https://i.postimg.cc/gJZX9tzY/2.png</thumbnail>  
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/hd/hd2.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/hd/hd2.php</page>
+        <referer>https://sportzonline.co/channels/hd/hd2.php</referer>
+    </regex>
+</item> 
+    
+<item>
+<title>SPORTZONLINE HD3</title>   
+<thumbnail>https://i.postimg.cc/WzmdzDqC/3.png</thumbnail>   
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/hd/hd3.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/hd/hd3.php</page>
+        <referer>https://sportzonline.co/channels/hd/hd3.php</referer>
+    </regex>
+</item>     
+  
+ <item>
+<title>SPORTZONLINE HD4</title>  
+<thumbnail>https://i.postimg.cc/ncZs516J/4.png</thumbnail>   
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/hd/hd4.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/hd/hd4.php</page>
+        <referer>https://sportzonline.co/channels/hd/hd4.php</referer>
+    </regex>
+</item> 
+  
+ <item>
+<title>SPORTZONLINE HD5</title>  
+<thumbnail>https://i.postimg.cc/598YnrKg/5.png</thumbnail>    
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/hd/hd5.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/hd/hd5.php</page>
+        <referer>https://sportzonline.co/channels/hd/hd5.php</referer>
+    </regex>
+</item>     
+ 
+  <item>
+<title>SPORTZONLINE HD6</title>  
+<thumbnail>https://i.postimg.cc/6pp86pWb/6.png</thumbnail>     
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/hd/hd6.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/hd/hd6.php</page>
+        <referer>https://sportzonline.co/channels/hd/hd6.php</referer>
+    </regex>
+</item>      
+
+ <item>
+<title>SPORTZONLINE HD7</title>  
+<thumbnail>https://i.postimg.cc/L6TqM1pZ/7.png</thumbnail>     
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/hd/hd7.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/hd/hd7.php</page>
+        <referer>https://sportzonline.co/channels/hd/hd7.php</referer>
+    </regex>
+</item>        
+ 
+ <item>
+<title>SPORTZONLINE BR1</title>   
+<thumbnail>https://i.postimg.cc/DZ4c0cgZ/br1.png</thumbnail>      
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/bra/br1.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/bra/br1.php</page>
+        <referer>https://sportzonline.co/channels/bra/br1.php</referer>
+    </regex>
+</item>  
+
+ <item>
+<title>SPORTZONLINE BR2</title>  
+<thumbnail>https://i.postimg.cc/Y2g3wb0D/br2.png</thumbnail>     
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/bra/br2.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/bra/br2.php</page>
+        <referer>https://sportzonline.co/channels/bra/br2.php</referer>
+    </regex>
+</item>  
+    
+ <item>
+<title>SPORTZONLINE BR3</title>   
+<thumbnail>https://i.postimg.cc/qqfx3CbG/br3.png</thumbnail>        
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/bra/br3.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/bra/br3.php</page>
+        <referer>https://sportzonline.co/channels/bra/br3.php</referer>
+    </regex>
+</item>      
+ 
+ <item>
+<title>SPORTZONLINE SPORT TV1</title>   
+<thumbnail>https://i.postimg.cc/7L6984JS/8.png</thumbnail>        
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/pt/sporttv1.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/pt/sporttv1.php</page>
+        <referer>https://sportzonline.co/channels/pt/sporttv1.php</referer>
+    </regex>
+</item> 
+    
+ <item>
+<title>SPORTZONLINE SPORT TV2</title>   
+<thumbnail>https://i.postimg.cc/1zjHydD2/9.png</thumbnail>       
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/pt/sporttv2.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/pt/sporttv2.php</page>
+        <referer>https://sportzonline.co/channels/pt/sporttv2.php</referer>
+    </regex>
+</item> 
+    
+ <item>
+<title>SPORTZONLINE SPORT TV3</title>  
+<thumbnail>https://i.postimg.cc/BbxccQRf/10.png</thumbnail>         
+    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
+    <regex>
+        <name>geturl</name>
+        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+    </regex>
+    <regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+        <page>https:$doregex[lacasitos]</page>
+        <referer>https://sportzonline.co/channels/pt/sporttv3.php</referer>
+    </regex>
+    <regex>
+        <name>lacasitos</name>
+        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
+        <page>https://sportzonline.co/channels/pt/sporttv3.php</page>
+        <referer>https://sportzonline.co/channels/pt/sporttv3.php</referer>
+    </regex>
+</item> 
+   
+<item>
+<title>Daily Sport 1</title>
+<link>https://cdn1.dailysport.pw/20/20.m3u8</link> 
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+<item>
+<title>Daily Sport 2</title>
+<link>https://cdn1.dailysport.pw/21/21.m3u8</link>
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+<item>
+<title>Daily Sport 3</title>
+</link>https://cdn1.dailysport.pw/22/22.m3u8</link>
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+<item>
+<title>Daily Sport 4</title>
+<link>https://cdn1.dailysport.pw/23/23.m3u8</link> 
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+<item>
+<title>Daily Sport 5</title>
+<link>https://cdn1.dailysport.pw/24/24.m3u8</link> 
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+<item>
+<title>Daily Sport 6</title>
+<link>https://cdn1.dailysport.pw/25/25.m3u8</link> 
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+<item>
+<title>Daily Sport 7</title>
+<link>https://cdn1.dailysport.pw/26/26.m3u8</link> 
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item>    
+<item>
+<title>Daily Sport 8</title>
+<link>https://cdn1.dailysport.pw/1/1.m3u8</link> 
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+<item>
+<title>Daily Sport 9</title>
+<link>https://cdn1.dailysport.pw/27/27.m3u8</link> 
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+<item>
+<title>Daily Sport 10</title>
+<link>https://cdn1.dailysport.pw/3/3.m3u8</link> 
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Olympic Channel 1</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC1_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 2</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC2_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 3</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC3_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 4</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC4_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 5</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC5_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 6</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC6_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 7</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC7_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 8</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC8_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 9</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC9_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 10</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC10_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 11</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC11_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 12</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC12_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 13</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC13_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 14</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC14_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 15</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC15_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 16</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC16_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 17</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC17_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 18</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC18_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 19</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC19_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 20</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC20_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 21</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC21_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 22</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC22_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 23</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC23_0.m3u8</link>   
+</item> 
+<item>
+<title>Olympic Channel 24</title>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+<link>https://ott-live.olympicchannel.com/out/u/OC24_0.m3u8</link>   
+</item> 
+ 
+<item>
+<title>SPORTACENTRS 1</title>
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.1_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>
+<item>
+<title>SPORTACENTRS 2</title>    
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.2_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>
+<item>
+<title>SPORTACENTRS 3</title> 
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.3_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>
+<item>
+<title>SPORTACENTRS 4</title>
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.4_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>
+<item>
+<title>SPORTACENTRS 5</title> 
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.5_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>
+<item>
+<title>SPORTACENTRS 6</title> 
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.6_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>
+<item>
+<title>SPORTACENTRS 7</title> 
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.7_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>
+<item>
+<title>SPORTACENTRS 8</title> 
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.8_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>
+<item>
+<title>SPORTACENTRS 9</title>
+<link>http://edge-telia2.tiesraides.lv/live/sportacentrs.tv.9_0/chunklist.m3u8</link>
+<thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
+</item>  
+
+</items>
