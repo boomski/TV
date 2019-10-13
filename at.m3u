@@ -1,9 +1,17 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-austria.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JL4YyiX.png" group-title="",AT |ServusTV [1080p - VPN]
+#EXTINF:-1 tvg-id="ORF eins-AT" tvg-name="ORF eins-AT" tvg-logo="https://i.imgur.com/CVMEQ8V.png" group-title="",AT VPN |ORF 1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-id="ORF 2-AT" tvg-name="ORF 2-AT" tvg-logo="https://i.imgur.com/KLQFEsR.png" group-title="",AT VPN |ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-id="ORF III-AT" tvg-name="ORF III-AT" tvg-logo="https://i.imgur.com/GO5rSRD.png" group-title="",AT VPN |ORF 3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SpMOpHQ.png" group-title="",AT VPN |ORF Sport Plus
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JL4YyiX.png" group-title="",AT VPN |ServusTV [1080p]
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JL4YyiX.png" group-title="",AT |ServusTV [720p - VPN]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JL4YyiX.png" group-title="",AT VPN |ServusTV [720p]
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_3392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JL4YyiX.png" group-title="",AT |ServusTV [540p - VPN]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JL4YyiX.png" group-title="",AT VPN |ServusTV [540p]
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_1628.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNiWKvL.png" group-title="",AT |Brandnite TV
 https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
