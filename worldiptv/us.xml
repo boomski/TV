@@ -1,3 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>[B]USTV GO[/B]</title>
+<thumbnail>https://i.imgur.com/BQmLjLo.png</thumbnail>	 
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] </title>
+<link>$doregex[getpage]|User-Agent=iPad&amp;Referer=http://ustvgo.tv/</link>
+]]></listrepeat>
+<expres><![CDATA[title-link"\s*href="(.*?)".*?>(.*?)<]]></expres>
+<page>$doregex[createsessionhome]</page>
+</regex>
+<regex>
+<name>createsessionhome</name>
+<expres>$pyFunction:sucuri_cookie.createCookie('http://ustvgo.tv/',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getpage</name>
+<expres>file:\s*'([^']+)</expres>
+<page>$doregex[createsession]</page>
+</regex>
+<regex>
+<name>createsession</name>
+<expres>$pyFunction:sucuri_cookie.createCookie('[makelist.param1]',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</expres>
+<page></page>
+</regex>
+</item>  
 </items>
