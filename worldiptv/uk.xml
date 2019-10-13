@@ -1,3 +1,111 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>UK | GCN Racing</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww</page>
+</regex>
+<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>UK | GCN Racing | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCu7phdCr-raU7OaJfEpHZww/</jsonrpc>
+<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>        
+</item> 
+
+<item>
+<title>UK | InCycle</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCXgba6tOLghtJuXaD8LBHWg</page>
+</regex>
+<thumbnail>https://i.imgur.com/W65Ck6i.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>UK | British Cycling</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC7QMT1odZ6QeJPg5GwClUlw</page>
+</regex>
+<thumbnail>https://i.imgur.com/qz1rj1d.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>UK | British Basketball League</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCMdM4nJ7TJn0ZKwbLG5IPug</page>
+</regex>
+<thumbnail>https://i.imgur.com/EmW3wa8.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>   
+  
+<item>
+<title>UK | Internationall Netball Federation TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC1xj3SxIbGzdDBO37h1woRA</page>
+</regex>
+<thumbnail>https://i.imgur.com/ONwjZrP.jpg</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>
+
+<item>
+<title>UK | ITF</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCsyvlpbK0BTEc3jec6nhPyQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/W3gtqvj.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>  
+  
+<item>
+<title>UK | ITF | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCVQ_DsLv2r9sPQfpQRQCR7g/</jsonrpc>
+<thumbnail>https://i.imgur.com/W3gtqvj.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>       
+</item>  
+
+<item>
+<title>UK | Britasia TV</title>
+<thumbnail>https://i.imgur.com/xpvQJ2g.png</thumbnail> 
+<dmlive>x6s18p8</dmlive>
+<fanart>https://i.imgur.com/iMLeMbQ.jpg</fanart>   
+</item>  
+
+<item>
+<title>UK | Cardiff TV</title>
+<thumbnail>https://i.imgur.com/Y3WKnYe.jpg</thumbnail>    
+<dmlive>x5ev9xg</dmlive>
+<fanart>https://i.imgur.com/iMLeMbQ.jpg</fanart> 
+</item>
+  
+<item>
+<title>UK | North Wales TV</title>
+<thumbnail>https://i.imgur.com/ESATxic.png</thumbnail> 
+<dmlive>x702fmv</dmlive>
+<fanart>https://i.imgur.com/iMLeMbQ.jpg</fanart>  
+</item>  
 </items>
