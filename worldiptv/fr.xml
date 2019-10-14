@@ -201,5 +201,18 @@
 <link>https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8</link>      
 <thumbnail>https://i.imgur.com/NMjuEXC.png</thumbnail>
 <fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>   
-</item>  
+</item> 
+ 
+<item>
+<title>FR | France 24</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g</page>
+</regex>
+<thumbnail>https://i.imgur.com/ajohRTr.png</thumbnail>  
+<fanart>https://i.imgur.com/6PPlLva.jpg</fanart>  
+</item>
+ 
 </items>
