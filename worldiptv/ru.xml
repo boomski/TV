@@ -1,3 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+<item>
+<title>RU | Cycling Russia</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCJC9y2y4Rs1fXYjogBBs4Ow</page>
+</regex>
+<thumbnail>https://i.imgur.com/tqTdSQf.png</thumbnail> 
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart> 
+</item>
+  
+<item>
+<title>RU | Russian Premier Liga</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
+</regex>
+<thumbnail>https://i.imgur.com/hDJReJT.png</thumbnail> 
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart> 
+</item>
+  
+<item>
+<title>RU | RT</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg</page>
+</regex>
+<thumbnail>https://i.imgur.com/u1EMHbL.png</thumbnail> 
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart> 
+</item> 
+  
+<item>
+<title>RU | RT Español</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/VMDbZ60.jpg</thumbnail>
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart>   
+</item>
+  
+<item>
+<title>RU | Россия 24</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC_IEcnNeHc_bwd92Ber-lew</page>
+</regex>
+<thumbnail>https://i.imgur.com/xq3Lum0.jpg</thumbnail> 
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart> 
+</item>
+  
+<item>
+<title>RU | Star Media | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCuSx-lf2ft7hPceGVNHybOw/</jsonrpc>
+<thumbnail>https://i.imgur.com/PQd2RYs.png</thumbnail> 
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart>       
+</item>  
+
+  
+  
 </items>
