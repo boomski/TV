@@ -1,3 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+
+<item>
+<title>CH | UCI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCloqTh1nPpW13LCntQglS-Q</page>
+</regex>
+<thumbnail>https://i.imgur.com/HH1L9Ou.jpg</thumbnail> 
+<fanart>https://i.imgur.com/S39YZzw.jpg</fanart>   
+</item>
+  
+<item>
+<title>CH | FIBA</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCtInrnU3QbWqFGsdKT1GZtg</page>
+</regex>
+<thumbnail>https://i.imgur.com/JVuDXSC.jpg</thumbnail> 
+<fanart>https://i.imgur.com/S39YZzw.jpg</fanart>   
+</item>  
+  
+<item>
+<title>CH | FIBA 3x3</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC7LpyJP5fupiJu2CdzRQheg</page>
+</regex>
+<thumbnail>https://i.imgur.com/HOdG2gN.png</thumbnail> 
+<fanart>https://i.imgur.com/S39YZzw.jpg</fanart>   
+</item>  
+
+  
 </items>
