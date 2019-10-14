@@ -45,4 +45,16 @@
 <referer>http://iframe.dacast.com/</referer>
 </regex>
 </item>  
+  
+<item>
+<title>IT | Telecostasmeralda</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC4hrVUC9k0yUjQhKZmyGzdw</page>
+</regex>
+<thumbnail>https://i.imgur.com/CxAvBd6.png</thumbnail>  
+<fanart>https://i.imgur.com/WbUYeMO.jpg</fanart>   
+</item>  
 </items>
