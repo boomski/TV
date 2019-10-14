@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+<item>
+<title>TR | Star TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCsFINj3y7SjBaeUxiSdRjlA</page>
+</regex>
+<thumbnail>https://i.imgur.com/YofGkni.png</thumbnail>  
+<fanart>https://i.imgur.com/5jcjSfe.jpg</fanart>  
+</item>  
+  
 </items>
