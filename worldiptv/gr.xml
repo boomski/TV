@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+<item>
+<title>GR | Mega Classics</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCpWa_Y5O7U2oQLAz-FRllwg</page>
+</regex>
+<thumbnail>https://i.imgur.com/myIKknw.png</thumbnail>  
+<fanart>https://i.imgur.com/zMuP0q6.jpg</fanart> 
+</item>  
+  
 </items>
