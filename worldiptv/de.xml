@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+<item>
+<title>DE | DW News</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg</page>
+</regex>
+<thumbnail>https://i.imgur.com/bWqMBSJ.png</thumbnail>  
+<fanart>https://i.imgur.com/IyY6Xp8.jpg</fanart>  
+</item> 
+
+</items>
