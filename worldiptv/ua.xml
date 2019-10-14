@@ -1,3 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+<item>
+<title>UA | Football Hub</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCTY4zQ2wDTZk91XeKXWUk7Q</page>
+</regex>
+<thumbnail>https://i.imgur.com/8Ruzr3f.png</thumbnail>  
+<fanart>https://i.imgur.com/iw2rKhK.jpg</fanart>  
+</item>  
+    
+<item>
+<title>UA | 112 Украина</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCj4dH8kfRQFey9MYSENPNaQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/hhThHj8.png</thumbnail>  
+<fanart>https://i.imgur.com/iw2rKhK.jpg</fanart>  
+</item>  
+  
+<item>
+<title>UA | 5 канал</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCkyrSWEcjZKpIwMxiPfOcgg</page>
+</regex>
+<thumbnail>https://i.imgur.com/aJG1prz.png</thumbnail>  
+<fanart>https://i.imgur.com/iw2rKhK.jpg</fanart>  
+</item>  
+  
+<item>
+<title>UA | Телеканал ZIK</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCUOsDBuiB_1zkRixc33TgSg</page>
+</regex>
+<thumbnail>https://i.imgur.com/uzEhU4Q.png</thumbnail>  
+<fanart>https://i.imgur.com/iw2rKhK.jpg</fanart>  
+</item> 
+  
 </items>
