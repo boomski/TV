@@ -71,6 +71,71 @@
 </regex>
 <thumbnail>https://i.imgur.com/0KgiSKz.png</thumbnail>  
 <fanart>https://i.imgur.com/0GQIvYY.jpg</fanart>  
+</item> 
+  
+<item>
+<title>MX | TUDN</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/ffr2L7v.jpg</thumbnail>
+<fanart>https://i.imgur.com/Cn2LvDU.jpg</fanart>    
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=22</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
+</item> 
+  
+<item>
+<title>MX | Azteca Mundo</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/0x6Exv1.png</thumbnail>
+<fanart>https://i.imgur.com/Cn2LvDU.jpg</fanart> 
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=123</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
 </item>   
+  
+<item>
+<title>MX | Univision / TDN</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/qyDyhz4.jpg</thumbnail>
+<fanart>https://i.imgur.com/Cn2LvDU.jpg</fanart>  
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=22</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
+</item>  
+  
+<item>
+<title>MX | Canal 5</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/Jz9EEOY.png</thumbnail>
+<fanart>https://i.imgur.com/Cn2LvDU.jpg</fanart>  
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=36</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
+</item>  
+
+<item>
+<title>MX | Azteca 7</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/ssjHmYS.jpg</thumbnail>
+<fanart>https://i.imgur.com/Cn2LvDU.jpg</fanart>  
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=35</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
+</item>
   
 </items>
