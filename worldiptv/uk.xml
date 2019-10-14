@@ -86,7 +86,29 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page>http://m.liveonlinetv247.info/external.php?title=Sky+Atlantic&amp;stream=skyatlantic-hq</page>
 </regex>
-</item>   
+</item>  
+  
+<item>
+<title>UK | ITV 1</title>
+<thumbnail>https://i.imgur.com/PY6Sh3j.jpg</thumbnail> 
+<fanart>https://i.imgur.com/iMLeMbQ.jpg</fanart>  
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  vcodes = eval(re.findall(r'var[^=]+=\s*(\[[^;]+)', page_data)[0])
+  sval = int(re.findall(r'fromCharCode[^\d]+([\d]+)', page_data)[0])
+  strpage = ''
+  for vcode in vcodes:
+    strpage += chr(vcode-sval)
+  strurl = re.findall(r'source:\s*"([^"]+)', strpage)[0]
+  return strurl
+]]></expres>
+<page>http://m.liveonlinetv247.info/external.php?title=ITV1&amp;stream=itv1-hq</page>
+</regex>
+</item>  
   
 <item>
 <title>UK | British Basketball League</title>
