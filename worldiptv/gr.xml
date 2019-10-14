@@ -2,6 +2,20 @@
 <items>
   
 <item>
+<title>GR | Star Kentrikis Elladas</title>
+<dmlive>xqjey2</dmlive>
+<fanart>https://i.imgur.com/zMuP0q6.jpg</fanart>  
+<thumbnail>https://i.imgur.com/LiRZs60.jpg</thumbnail>
+</item>
+  
+<item>
+<title>GR | Action 24</title>
+<dmlive>x61fbhs</dmlive>
+<fanart>https://i.imgur.com/zMuP0q6.jpg</fanart>  
+<thumbnail>https://i.imgur.com/ENgbv18.png</thumbnail>
+</item>    
+  
+<item>
 <title>GR | Mega Classics</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
