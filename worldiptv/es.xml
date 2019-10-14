@@ -56,5 +56,19 @@
 <fanart>https://i.imgur.com/Qoft0AM.jpg</fanart>  
 <externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/malaga24h</externallink>
 </item> 
+ 
+<item>
+<title>ES | Canal Cero</title>
+<thumbnail>https://i.imgur.com/KB4oiKG.png</thumbnail> 
+<fanart>https://i.imgur.com/2sMPKw7.jpg</fanart>  
+<link>https:$doregex[secure]|Referer=https://vergol.com&amp;User-Agent=iPad</link>
+<regex>
+   <name>secure</name>   
+   <expres>source:\s*'(/[^']+)</expres>  
+   <page>https://vergol.com/canales996/live/plus1.php</page>
+   <referer>https://vergol.com/</referer>
+   <post>manzana66:12345</post>
+</regex>
+</item> 
   
 </items>
