@@ -1,3 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+<item>
+<title>VN | VIETLIVE.TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCI8U_NB23FbKPly8gIEdLmA</page>
+</regex>
+<thumbnail>https://i.imgur.com/N83uYnV.png</thumbnail>  
+<fanart>https://i.imgur.com/YeSNQke.jpg</fanart> 
+</item>  
+  
 </items>
