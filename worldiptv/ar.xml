@@ -1,3 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+<item>
+<title>AR | America Sports</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q</page>
+</regex>
+<thumbnail>https://i.imgur.com/LWh9CeP.png</thumbnail>  
+<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
+</item>
+  
+<item>
+<title>AR | TV Pública Argentina</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg</page>
+</regex>
+<thumbnail>https://i.imgur.com/kuiH4nW.png</thumbnail>  
+<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
+</item> 
+  
+<item>
+<title>AR | A24</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/jnh9Zxv.png</thumbnail>  
+<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
+</item>   
+  
+<item>
+<title>AR | Youtube C5N</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w</page>
+</regex>
+<thumbnail>https://i.imgur.com/9AQcDoF.png</thumbnail>  
+<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
+</item>
+
+<item>
+<title>AR | LN+</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA</page>
+</regex>
+<thumbnail>https://i.imgur.com/5SfEOmj.png</thumbnail>  
+<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
+</item>    
+  
 </items>
