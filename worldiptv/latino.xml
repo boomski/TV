@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+<item>
+<title>LATINO | FOX Sports 1</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<fanart>https://i.imgur.com/tF1z5J2.png</fanart>  
+<thumbnail>https://i.imgur.com/v2pg2OX.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=1</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
+</item>
+
+<item>
+<title>LATINO | ESPN Deportes</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<thumbnail>https://i.imgur.com/N2d6GhA.png</thumbnail>
+<fanart>https://i.imgur.com/tF1z5J2.png</fanart>
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=159</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
+</item>  
+
+<item>
+<title>LATINO | FOX Sports 2</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<fanart>https://i.imgur.com/tF1z5J2.png</fanart>  
+<thumbnail>https://i.imgur.com/6mSypTO.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=3</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
+</item>
+ 
+<item>
+<title>LATINO | Directv Sports</title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<fanart>https://i.imgur.com/tF1z5J2.png</fanart>  
+<thumbnail>https://i.imgur.com/lHS7WSv.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=13</page>
+<referer>http://www.tv-onlinehd.com/</referer>
+</regex>
+</item> 
+
+</items>
