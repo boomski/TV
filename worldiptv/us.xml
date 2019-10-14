@@ -29,5 +29,73 @@
 <expres>$pyFunction:sucuri_cookie.createCookie('[makelist.param1]',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</expres>
 <page></page>
 </regex>
+</item> 
+
+<item>
+<title>US | PAC 12 Network</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCx0IoH70qVp11Qkv1pa0phQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/0ctWSCA.png</thumbnail>  
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item>
+  
+<item>
+<title>US | USA Cycling</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCfkKltnHzMs7U8QCl3BWfrg</page>
+</regex>
+<thumbnail>https://i.imgur.com/NiMrd4U.png</thumbnail>  
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item>
+
+<item>
+<title>US | BMXLive.TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCpZWA4p0dFQgomdP_eqUNHw</page>
+</regex>
+<thumbnail>https://i.imgur.com/heNqEn4.png</thumbnail>  
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item> 
+  
+<item>
+<title>US | BIG EAST Conference</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCAcXdiimhsuivSn2PxtsRFw</page>
+</regex>
+<thumbnail>https://i.imgur.com/NpO8gxk.png</thumbnail>  
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item>  
+  
+<item>
+<title>US | Newsmax TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCx6h-dWzJ5NpAlja1YsApdg</page>
+</regex>
+<thumbnail>https://i.imgur.com/0CnNbwz.png</thumbnail>  
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item>  
+  
+<item>
+<title>US | MASL TV | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCVQ_DsLv2r9sPQfpQRQCR7g/</jsonrpc>
+<thumbnail>https://i.imgur.com/Qquxkio.png</thumbnail> 
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>       
 </item>  
 </items>
