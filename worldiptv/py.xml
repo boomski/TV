@@ -1,3 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>PY | Red Guaraní Canal 2</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher2013
+  return '$doregex[fUrl]'+re.findall('"token".+?"(\?[^"]+)',page_data)[0].replace('\\','')+'|user-agent=ipad&referer=http://www.tufmpy.com/2016/10/red-guarani-en-vivo-canal-2-paraguay.html'
+]]></expres>
+<page>https://services.dacast.com/token/i/b/$doregex[IDs]?</page>
+<referer>http://www.tufmpy.com/2016/10/red-guarani-en-vivo-canal-2-paraguay.html</referer>
+</regex>
+<regex>
+<name>fUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher2013
+  return re.findall('"hls".+?"(h[^"]+)',page_data)[0].replace('\\','')
+]]></expres>
+<page>http://json.dacast.com/b/$doregex[IDs]</page>
+<referer>http://www.tufmpy.com/2016/10/red-guarani-en-vivo-canal-2-paraguay.html</referer>
+</regex>
+<regex>
+<name>IDs</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher2013
+  return re.findall('"video-container"[\w\W]*?id="(\d+[^"]+)',page_data)[0].replace('_','/')
+]]></expres>
+<page>http://www.tufmpy.com/2016/10/red-guarani-en-vivo-canal-2-paraguay.html</page>
+</regex>
+<thumbnail>https://i.imgur.com/kj575Oe.png</thumbnail>
+<fanart>https://i.imgur.com/V92wib3.jpg</fanart>  
+</item>   
 </items> 
