@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidegreece.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kpOpUWX.jpg" group-title="Movies",CY |Cyprus Cinema
+http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" group-title="",CY |Ada TV
 https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist_w326024869.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8GocquE.png" group-title="",CY |BRT 1 HD
