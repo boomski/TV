@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz"
-#EXTINF:-1 tvg-id="Discovery-CZ" tvg-name="Discovery Channel-CZ" tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="",Discovery
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7CDuHs.png",CZ |Discovery Channel
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Elektrika TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3phROC.png",CZ |Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion",FashionTV Czech&Slovak
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fhpf3SF.png",CZ |FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.filmpro.cz/filmpro/images/logo-300.gif" group-title="Movies",FILMpro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tkxXt0c.png",CZ |FILMpro
 http://flashmaster1.streamcdn.eu:1935/mgrpavelhladky-flash-live1/_definst_/filmpro/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids",JimJam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJZcd4c.png",CZ |JimJam
 http://83.167.253.110:5000/live/jimjam/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova-CZ" tvg-name="Nova-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TV_Nova_logo_2017.png/250px-TV_Nova_logo_2017.png" group-title="",Nova
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SWqtnSv.png",CZ |Nova
 https://nova-live.ssl.cdn.cra.cz/channels/mcra/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="Nova 2 HD-CZ" tvg-name="Nova 2 HD-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Nova_2_logo-600x207.png/375px-Nova_2_logo-600x207.png" group-title="",Nova 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hRHMsAP.png",CZ |Nova 2
 https://nova-live.ssl.cdn.cra.cz/channels/mcrg/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="Nova Action-CZ" tvg-name="Nova Action-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nova-action-logo-2017.png" group-title="",Nova Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsuuJx2.png",CZ |Nova Action
 http://92.62.234.223/102/mystream.m3u8
-#EXTINF:-1 tvg-id="Nova Cinema HD-CZ" tvg-name="Nova Cinema HD-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="",Nova Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGlbuuV.png",CZ |Nova Cinema
 https://nova-live.ssl.cdn.cra.cz/channels/mcri/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png" group-title="",Nova Gold
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mRuhyC.png",CZ |Nova Gold
 https://nova-live.ssl.cdn.cra.cz/channels/mcrh/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://polar.cz/images/layout/header/logo.png" group-title="",Polar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vy23B1v.png",CZ |Polar TV
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prahatv.eu/images/layout/header/logo.png" group-title="",Praha TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHcyTPh.png",CZ |Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Prima HD-CZ" tvg-name="Prima HD-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Prima_TV_logo.svg/300px-Prima_TV_logo.svg.png" group-title="",Prima
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnt7Qvb.png",CZ |Prima
 http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Prima Cool HD-CZ" tvg-name="Prima Cool HD-CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Prima_Cool_logo.svg/1200px-Prima_Cool_logo.svg.png" group-title="",Prima Cool
 http://92.62.234.223/104/mystream.m3u8
