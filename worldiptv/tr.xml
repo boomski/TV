@@ -89,5 +89,55 @@
 <thumbnail>https://i.imgur.com/YofGkni.png</thumbnail>  
 <fanart>https://i.imgur.com/5jcjSfe.jpg</fanart>  
 </item>  
+
   
+<item>
+<title>TR | TV BOX </title>
+<thumbnail>https://i.imgur.com/I9XnMUm.png</thumbnail>   
+<fanart>https://i.imgur.com/5jcjSfe.jpg</fanart>    
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR gold][makelist.param2][/COLOR]</title>
+<link>$doregex[get-url]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+<fanart>https://i.imgur.com/5jcjSfe.jpg</fanart>  
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  import requests
+  url = 'https://tvboxtr.com/page/{}/'
+  headers={'User-Agent': 'Mozilla/5.0', 'Referer': 'https://tvboxtr.com/'}
+  channels = []
+  for i in range(1,6):
+    html = requests.get(url.format(i), headers=headers).text
+    channels += re.findall(r'<li><a\s*href="([^"]+)"\s*title="([^"]+)"><img\s*src="([^"]+)',html)
+  return sorted(channels)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  import requests
+  headers={'User-Agent': 'Mozilla/5.0', 'Referer': 'https://tvboxtr.com/'}
+  if '<iframe' in page_data:
+    surl = re.findall('<iframe\s*src="([^"]+)', page_data)[0].replace('&amp;','&')
+    surl = 'https:' + surl if surl.startswith('//') else surl
+    spage = requests.get(surl, headers=headers).text
+    strurl = re.findall('file:\s*"([^"]+)', spage)[0]
+  else:
+    strurl = re.findall('<source\s*src="([^"]+)', page_data)[0]
+    surl = headers['Referer']
+  strurl = 'https:' + strurl if strurl.startswith('//') else strurl
+  return strurl + '|Referer={}&User-Agent=iPad'.format(surl)
+]]></expres>
+<page>[makelist.param1]</page>
+<referer>https://tvboxtr.com/</referer>
+</regex>
+</item> 
 </items>
