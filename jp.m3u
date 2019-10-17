@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6BGC1fw.jpg" group-title="",JP |BS 日本映画
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TSc2pJ.png",JP |Animax
+http://183.89.1.114:1009
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BGC1fw.jpg",JP |BS 日本映画
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6BGC1fw.jpg" group-title="",JP |BS 日本映画
 http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
