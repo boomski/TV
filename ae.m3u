@@ -263,14 +263,16 @@ http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:-1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="Kids",AE |Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-#EXTINF:-1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies",AE |Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQ1RfUa.png",AE |Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
-#EXTINF:-1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies",AE |Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQ1RfUa.png",AE |Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies",AE |Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQ1RfUa.png",AE |Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Star Movies ARB" tvg-name="Star Movies ARB" tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="Movies",AE |Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQ1RfUa.png",AE |Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQ1RfUa.png",AE |Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
 #EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/9c316dr.png" group-title="",AE |Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
 #EXTINF:-1 tvg-id="Star World ARB" tvg-name="Star World ARB" tvg-logo="https://i.imgur.com/9c316dr.png" group-title="",AE |Star World
