@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fbKECO8.png" group-title="Sport",ARENA SPORT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fbKECO8.png",RS |ARENA SPORT 1
 https://sportbar.biz/lba/123/g6/arena1rs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KHRWK6Y.png" group-title="Sport",ARENA SPORT 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHRWK6Y.png",RS |ARENA SPORT 3
 https://sportbar.biz/lba/123/g1/sportarena3rs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oKLqSYI.png" group-title="Sport",ARENA SPORT 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oKLqSYI.png",RS |ARENA SPORT 4
 https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2UJb01J.png" group-title="Sport",ARENA SPORT 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UJb01J.png",RS |ARENA SPORT 5
 https://sportbar.biz/lba/123/g7/ar5sport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NLxTA0Z.png" group-title="Music",Radio S1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLxTA0Z.png",RS |Radio S1
 http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTS 1-EXYU" tvg-name="RTS 1-EXYU" tvg-logo="https://i.imgur.com/RsklyBe.png" group-title="",RTS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsklyBe.png",RS |RTS 1
 http://62.210.205.41:8080/RTS1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gkgYixn.jpg" group-title="",RTV Puls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gkgYixn.jpg" group-title="",RS |RTV Puls
 http://rtvpuls.itprishtina.com:8005/rtvpuls-eset/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gkgYixn.jpg" group-title="",RTV Puls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gkgYixn.jpg" group-title="",RS |RTV Puls
 http://stream.rtvpuls.com/broadcasting
-#EXTINF:-1 tvg-id="Studio B-EXYU" tvg-name="Studio B-EXYU" tvg-logo="https://i.imgur.com/1p4U6TP.png" group-title="",Studio B
+#EXTINF:-1 tvg-id="Studio B-EXYU" tvg-name="Studio B-EXYU" tvg-logo="https://i.imgur.com/1p4U6TP.png" group-title="",RS |Studio B
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GdYHpXO.png" group-title="",Telegraf TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GdYHpXO.png" group-title="",RS |Telegraf TV
 http://now.tf.rs/2016/11/3/RETROSPEKTIVA_0211/RETROSPEKTIVA_0211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GkqifMa.jpg" group-title="",Televizija Leskovac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GkqifMa.jpg" group-title="",RS |Televizija Leskovac
 http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" group-title="Music",TV Duga Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" group-title="",RS |TV Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Hram-EXYU" tvg-name="TV Hram-EXYU" tvg-logo="https://i.imgur.com/Msxeu2S.png" group-title="",TV Hram
+#EXTINF:-1 tvg-id="TV Hram-EXYU" tvg-name="TV Hram-EXYU" tvg-logo="https://i.imgur.com/Msxeu2S.png" group-title="",RS |TV Hram
 http://178.253.194.75:1935/live/hram.stream/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kjxgyS.jpg" group-title="",Yu Planet TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1kjxgyS.jpg" group-title="",RS |Yu Planet TV
 http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
