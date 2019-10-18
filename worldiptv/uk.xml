@@ -111,6 +111,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>  
   
 <item>
+<title>UK | International Socca Federation</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCh8bwk-zO3FqyeT-f2Z2pcA</page>
+</regex>
+<thumbnail>https://i.imgur.com/kvJdHJt.jpg</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>   
+  
+<item>
 <title>UK | British Basketball League</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
