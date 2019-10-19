@@ -32,7 +32,7 @@
 </item> 
 
 <item>
-<title>US | PAC 12 Network</title>
+<title>US SPORT| PAC 12 Network</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -44,7 +44,7 @@
 </item>
   
 <item>
-<title>US | USA Cycling</title>
+<title>US SPORT| USA Cycling</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -56,7 +56,7 @@
 </item>
 
 <item>
-<title>US | BMXLive.TV</title>
+<title>US SPORT| BMXLive.TV</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -68,7 +68,7 @@
 </item> 
   
 <item>
-<title>US | BIG EAST Conference</title>
+<title>US SPORT| BIG EAST Conference</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -100,7 +100,7 @@
 </item>
   
 <item>
-<title>US | NBCSN</title>
+<title>US SPORT| NBCSN</title>
 <fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
 <thumbnail>https://i.imgur.com/DoRNJgH.png</thumbnail>     
 <link>$doregex[get-url]</link>
@@ -154,10 +154,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>  
   
 <item>
-<title>US | Red Bull TV</title>
+<title>US SPORT| Red Bull TV</title>
 <thumbnail>https://i.imgur.com/7NeBmWX.jpg</thumbnail>
 <link>ignore</link>
 <fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
 <externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/redbull2</externallink>
-</item>     
+</item> 
+
+<item>
+<title>US SPORT| Disc Golf Pro Tour</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCw0WzNn6m2Na6ZW7rKqWI3g</page>
+</regex>
+<thumbnail>https://i.imgur.com/KdBRGDQ.png</thumbnail>  
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item>  
 </items>
