@@ -2,6 +2,42 @@
 <items>
   
 <item>
+<title>TN | Watania 1</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCdvWVsmQBROkgcGzVep73oA</page>
+</regex>
+<thumbnail>https://i.imgur.com/C018bUt.png</thumbnail>  
+<fanart>https://i.imgur.com/5vwjMgr.jpg</fanart>  
+</item>  
+  
+<item>
+<title>TN | Watania 2</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCJW9gatYczI191TunQxMGbA</page>
+</regex>
+<thumbnail>https://i.imgur.com/AHF6AgD.png</thumbnail>  
+<fanart>https://i.imgur.com/5vwjMgr.jpg</fanart>   
+</item>    
+  
+<item>
+<title>TN | Attessia TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCQS3ejF2jBAhwmbGD9Q3oeA</page>
+</regex>
+<thumbnail>https://i.imgur.com/4Y28Xne.png</thumbnail>  
+<fanart>https://i.imgur.com/5vwjMgr.jpg</fanart>   
+</item>    
+  
+<item>
 <title>TN | Nessma TV</title>
 <dmlive>x6lt4lo</dmlive>
 <fanart>https://i.imgur.com/5vwjMgr.jpg</fanart>  
