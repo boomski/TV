@@ -8,7 +8,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://cyfostreams.com/cyfo1.html'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo1.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
