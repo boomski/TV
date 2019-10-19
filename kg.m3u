@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ktrk.kg/images/channels/nav/ktrk.png" group-title="",KG |КТРК
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3rhdLb3.png",KG |КТРК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ktrk.kg/images/channels/nav/alatoo.png" group-title="",KG |КТРК Ала-Тоо 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9XEVY3.png",KG |КТРК Ала-Тоо 24
 http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ktrk.kg/images/channels/nav/balastan.png" group-title="",KG |КТРК Баластан
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RH7HdF4.png",KG |КТРК Баластан
 http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" group-title="Music",KG |КТРК Музыка
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zk1l8Ak.png",KG |КТРК Музыка
 http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ktrk.kg/images/channels/nav/sport.png" group-title="Sport",KG |КТРК Спорт
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7IiSIY.png",KG |КТРК Спорт
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KG |Любимый HD/ТНТ4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rdLzrpr.png",KG |ТНТ4
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
