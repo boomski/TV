@@ -24,7 +24,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo1.ht
 <link>$doregex[get-M3U8]</link>
 <regex>
 <name>get-M3U8</name>
-<expres>file:"(.*?)"</expres>
+<expres>file: "(.*?)"</expres>
 <page>http://www.cyfostreams.com/cyfo1.html</page>
 </regex>
 </item> 
