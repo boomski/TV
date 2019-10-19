@@ -52,5 +52,34 @@
 <referer>http://www.tv-onlinehd.com/</referer>
 </regex>
 </item> 
+ 
+<item>
+<title>Television Libre</title>
+<fanart>https://i.imgur.com/tF1z5J2.png</fanart>  
+<thumbnail>https://i.imgur.com/lila5vp.png</thumbnail>  
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param3]</title>
+<link>$doregex[getpage]|User-Agent=iPad&amp;Referer=http://ustvgo.tv/</link>
+<thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)card-wrapper">\s*<a href="(?:\.\.)?(/[^"]+).+?src="([^"]+).+?title="([^"]+)]]></expres>
+<page>https://televisionlibre.net/es/</page>
+</regex>
+<regex>
+<name>getpage</name>
+<expres>file:\s*['"]([^'""]+)</expres>
+<page>https://televisionlibre.net$doregex[embed]</page>
+<referer>https://televisionlibre.net/</referer>
+</regex>
+<regex>
+<name>embed</name>
+<expres><![CDATA[<iframe.+?src="(?:\.\./\.\.)?(/[^"]+)]]></expres>
+<page>https://televisionlibre.net[makelist.param1]</page>
+<referer>https://televisionlibre.net/</referer>
+</regex>
+</item>
 
 </items>
