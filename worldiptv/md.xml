@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>MD SPORT | FMF TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCVh6jm3bUs7R9qxZp--PqXg</page>
+</regex>
+<thumbnail>https://i.imgur.com/DVLeuBM.png</thumbnail>  
+<fanart>https://i.imgur.com/KX228CG.jpg</fanart>   
+</item>   
+   
+<item>
 <title>MD | Jurnal TV</title>
 <fanart>https://i.imgur.com/KX228CG.jpg</fanart> 
 <thumbnail>https://i.imgur.com/Cy9VPZF.png</thumbnail>    
