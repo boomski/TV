@@ -2,7 +2,7 @@
 <items>
  
 <item>
-<title>ES | LaLigaSports</title>
+<title>ES | LaLiga Sports</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -10,6 +10,18 @@
 <page>https://www.youtube.com/channel/UCIfgjNyrVPxtn86fWU65lSg</page>
 </regex>
 <thumbnail>https://i.imgur.com/nqkbvCb.png</thumbnail> 
+<fanart>https://i.imgur.com/2sMPKw7.jpg</fanart>  
+</item>
+
+<item>
+<title>ES | LaLiga SmartBank</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
+</regex>
+<thumbnail>https://i.imgur.com/Sq0QuPt.png</thumbnail> 
 <fanart>https://i.imgur.com/2sMPKw7.jpg</fanart>  
 </item>
   
