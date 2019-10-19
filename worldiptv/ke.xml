@@ -2,7 +2,7 @@
 <items>
   
 <item>
-<title>KE | Kenyan Premier League</title>
+<title>KE SPORT| Kenyan Premier League</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -10,6 +10,18 @@
 <page>https://www.youtube.com/channel/UCSk_nh-LpsSbUtzoMrm4VlQ</page>
 </regex>
 <thumbnail>https://i.imgur.com/uPnlcpj.png</thumbnail>  
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart>   
+</item> 
+  
+<item>
+<title>KE | KTN News</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCKVsdeoHExltrWMuK0hOWmg</page>
+</regex>
+<thumbnail>https://i.imgur.com/TCmrgFO.jpg</thumbnail>  
 <fanart>https://i.imgur.com/qES61RK.jpg</fanart>   
 </item>  
   
