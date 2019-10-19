@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dla19Aw.png",LB |Aghani Aghani
 https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1bXAHq.png",LB |Al Waad TV
+https://bcliveunivsecure-lh.akamaihd.net/i/AlWaad_1@772935/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcYwUYo.png",LB |Tele Liban
+http://cdn.catiacast.video/tl/38ad46d994b30fa6aed632fc597ca329.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CxpXfP.png",LB |Al Jadeed
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2CxpXfP.png",LB |Al Jadeed
@@ -25,7 +29,7 @@ https://svs.itworkscdn.net/lanatvlive/lana/chunklist_DVR.m3u8
 http://livecdnh1.tvanywhere.ae/hls/lanatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PTOeIjz.png",LB |LBC
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4tXL1fv.png",LB |LBC International
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdmhtAD.png",LB |LDC
 http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4tXL1fv.png",LB |LBC International
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/03.m3u8
@@ -59,5 +63,4 @@ http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hFY6vpe.jpg",LB |OTV
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_t64TFE=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lcYwUYo.png",LB |Tele Liban
-http://cdn.catiacast.video/tl/38ad46d994b30fa6aed632fc597ca329.sdp/tracks-v1a1/mono.m3u8
+
