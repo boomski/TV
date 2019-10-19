@@ -32,4 +32,16 @@
 <externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/afmtv</externallink>
 </item>  
   
+<item>
+<title>NL | IKF TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCvgp9yvH-c_L07RBk7iqGaQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/nsrk74Q.png</thumbnail>  
+<fanart>https://i.imgur.com/QLX9FZM.jpg</fanart>   
+</item>  
+  
 </items>
