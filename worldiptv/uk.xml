@@ -194,4 +194,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/8DeAFgi.jpg</fanart>  
 <externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/ukparliament</externallink>
 </item>  
+
+<item>
+<title>UK | Onside TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCr5v-g7OlBTfmdFC_A9Jpbg</page>
+</regex>
+<thumbnail>https://i.imgur.com/Kv5jTlW.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>   
 </items>
