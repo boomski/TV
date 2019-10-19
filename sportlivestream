@@ -19,15 +19,24 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo1.ht
 </item> 
  
 <item>
-<title>BE |CYFO 1</title>
-<thumbnail>https://i.imgur.com/dyjeDvr.jpg</thumbnail> 
-<link>$doregex[get-M3U8]</link>
+<title>cyfostreams.com</title>
+<link>$doregex[cristalazul]</link>
 <regex>
-<name>get-M3U8</name>
-<expres>file: "(.*?)"</expres>
-<page>http://www.cyfostreams.com/cyfo1.html</page>
+<name>cristalazul</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][cristalazul.param1][/COLOR]   $doregex[m3u8]  </title>
+<link>$doregex[m3u8]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)<li>.*?<a href="(cyfo\d*).]]></expres>
+<page>http://cyfostreams.com</page>
 </regex>
-</item> 
+<regex>
+<name>m3u8</name>
+<expres>Clappr.Player[\w\W]*?[\'"](.*?)[\'"]</expres>
+<page>http://cyfostreams.com/[cristalazul.param1].php</page>
+</regex>
+</item>
    
 <item>
 <title>BE |CYFO 2</title>
