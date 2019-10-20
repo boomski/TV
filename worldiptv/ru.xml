@@ -23,6 +23,20 @@
 </item>
   
 <item>
+<title>RU | Telekanal 78</title>
+<thumbnail>https://i.imgur.com/2iPmTph.jpg</thumbnail>
+<urlsolve>https://ok.ru/videoembed/351615524467</urlsolve>
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart>   
+</item>  
+  
+<item>
+<title>RU | Telekanal Hunter & Fishermen</title>
+<thumbnail>https://i.imgur.com/kDlzBqe.png</thumbnail>
+<urlsolve>https://ok.ru/videoembed/404041965268</urlsolve>
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart>   
+</item>  
+  
+<item>
 <title>RU SPORT| Cycling Russia</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
