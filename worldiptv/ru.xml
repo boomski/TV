@@ -2,7 +2,14 @@
 <items>
   
 <item>
-<title>RU | Cycling Russia</title>
+<title>RU | ACB TV</title>
+<urlsolve>https://ok.ru/videoembed/589897427</urlsolve>
+<thumbnail>https://i.imgur.com/nZuf3fT.png</thumbnail>
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart>   
+</item>  
+  
+<item>
+<title>RU SPORT| Cycling Russia</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -14,7 +21,7 @@
 </item>
   
 <item>
-<title>RU | Russian Premier Liga</title>
+<title>RU SPORT| Russian Premier Liga</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
