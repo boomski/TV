@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wf2BlTG.png" group-title="",TZ |IBN TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wf2BlTG.png",TZ |IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8dDtCp.png",TZ |Baraza Radio TV
+https://5cc309e93b721.streamlock.net:443/8490/8490/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8dDtCp.png",TZ |Baraza Radio TV
+https://5cc309e93b721.streamlock.net:443/8452/8452/playlist.m3u8
