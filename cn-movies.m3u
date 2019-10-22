@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA1dVCr.jpg",CN | CBN Daily Cinema
 http://42.48.60.248:8082/live/gqts-800k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsUlTSh.png",CN | CBN Happy Theater
+http://42.48.60.248:8082/live/gqys-800k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf2ZFEB.png",CN | 24/7 Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf2ZFEB.png",CN | 24/7 Hollywood Movies 6
