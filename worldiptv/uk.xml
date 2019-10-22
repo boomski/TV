@@ -205,5 +205,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/Kv5jTlW.png</thumbnail> 
 <fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>  
+
+<item>
+<title>UK Movies</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/Moviesets/uksubs</externallink>
+<thumbnail>https://i.imgur.com/dPnN7Ix.png</thumbnail>
+<fanart>https://i.imgur.com/8OnTAou.jpg</fanart>
 </item>   
 </items>
