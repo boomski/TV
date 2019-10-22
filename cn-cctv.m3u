@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
+http://cctv1-lh.akamaihd.net/i/cctv1_1@619500/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
 http://220.158.149.28:8180/TV00000000000000000103@HHZT;LIVE 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
