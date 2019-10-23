@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXuzh9z.png",CN | Heilongjiang Satellite TV HD
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXuzh9z.png",CN | Heilongjiang 1 TV
+http://223.82.250.72/live/hdheilongjiangstv/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4kvWvr.png",CN | QXNDT 1
 http://live.qxndt.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4kvWvr.png",CN | QXNDT 2
