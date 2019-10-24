@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV 1
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV 2
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV 3
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV Star
+http://cstvpull.live.wscdns.com/live/xiamen4.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8Z939N.png",CN XXX| HOT
 http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1kB5Mk6.png",CN XXX| Rainbow TV
