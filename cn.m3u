@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBJ6JEB.png",CN | TVS2
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png",CN | Xuzhou TV 1 Shanghai
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LcJZVV5.png",CN | Xuzhou TV 2 Shanghai
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7cLVUk.jpg",CN | SinoVision
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f7cLVUk.jpg",CN | SinoVision
+http://ec.sinovision.net/video/ts/newlv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV 1
 http://cstvpull.live.wscdns.com/live/xiamen1.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV 2
@@ -39,8 +49,22 @@ http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
 http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PoLaXw.png",CN SPORT | NewTV Super sports HD
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PoLaXw.png",CN SPORT | NewTV Super sports HD
+http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJJPepl.png",CN SPORT | NBA BesTV Live Room 1HD
 http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJPepl.png",CN SPORT | NBA BesTV Live Room 2HD
+http://223.110.243.170/PLTV/2/224/3221226797/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJPepl.png",CN SPORT | NBA BesTV Live Room 3HD
+http://223.110.243.170/PLTV/2/224/3221226799/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJPepl.png",CN SPORT | NBA BesTV Live Room 4HD
+http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJPepl.png",CN SPORT | NBA BesTV Live Room 5HD
+http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJPepl.png",CN SPORT | NBA BesTV Live Room 6HD
+http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJJPepl.png",CN SPORT | NBA BesTV Live Room 7HD
+http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
 http://cctv1-lh.akamaihd.net/i/cctv1_1@619500/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
@@ -69,9 +93,9 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/index.m3u8
 http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
 http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWAFjro.png",CN | CCTV-5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWAFjro.png",CN SPORT | CCTV-5
 http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rH3s3LG.png",CN | CCTV 5+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rH3s3LG.png",CN SPORT | CCTV 5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
 http://220.158.149.28:8180/TV00000000000000000103@HHZT;LIVE 
@@ -147,7 +171,7 @@ http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225984/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpVm4KK.jpg",CN | iPanda
 http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXZZoB9.jpg",CN | CCTV Golf - Tennis Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXZZoB9.jpg",CN SPORT | CCTV Golf - Tennis Channel
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXuzh9z.png",CN | Heilongjiang Satellite TV HD
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
@@ -197,29 +221,29 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WZT37L.png",CN | AYSAR Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WZT37L.png",CN |AYSAR Hollywood Movies 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WZT37L.png",CN | AYSAR Hollywood Movies 7
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 11
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 12
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 15
 https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 16
 https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 2
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 4
 http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 4
 https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 6
 http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR MOVIE 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR MOVIE 7
 http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR Movie 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR Movie 9
 http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN |AYSAR Movie 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zeGhFYw.jpg",CN | AYSAR Movie 9
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NUflwTN.png",CN |BabyFirst臺灣
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUflwTN.png",CN | BabyFirst臺灣
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
