@@ -1,15 +1,17 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideturkey.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1lAZKv.png",TR |Mercan TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIo8R2C.png",TR | Metro TV
+http://metrotv.garantisistem.com:1935/metrotv/metrohd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1lAZKv.png",TR | Mercan TV
 https://59cba4d34b678.streamlock.net/live/mercantv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SmCjRrW.jpg",TR |A Haber
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SmCjRrW.jpg",TR | A Haber
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fZb4lHB.png",TR |A Para
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZb4lHB.png",TR | A Para
 https://trkvz-m.ercdn.net/trkvz-temp/aparahdm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5gHwze2.jpg",TR |A Spor
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5gHwze2.jpg",TR | A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5gHwze2.jpg",TR |A Spor
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5gHwze2.jpg",TR | A Spor
 https://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YIv7xEi.png",TR |A2TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YIv7xEi.png",TR | A2TV
 http://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A1HOMZ.png"TR |Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
