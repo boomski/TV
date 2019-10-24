@@ -27,7 +27,8 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/index.m3u8
 http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
 http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWAFjro.png",CN | CCTV-5
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rH3s3LG.png",CN | CCTV 5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
