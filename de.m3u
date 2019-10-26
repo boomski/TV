@@ -115,7 +115,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",DE | DW English
 http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" ,DE | DW English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",DE | DW English
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",DE | DW English
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
@@ -221,57 +221,57 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-b.m3u8?sd=10&rebase=on&id=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UMaAaCW.png",DE | NDR Schleswig-Holstein
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | Noa 4 Hamburg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZMJyON.png",DE | Noa 4 Hamburg
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif",DE | Noa 4 Norderstedt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ernMSzP.png",DE | Noa 4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | NRD Niedersachsen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eHdM7JM.png",DE | NRD Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8?sd=10&rebase=on&id=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RkF2Kmx.png",DE | NRWision
 https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RkF2Kmx.png",DE | NRWision
 https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png",DE | NRWision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RkF2Kmx.png",DE | NRWision
 https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | Oberpfalz TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WoX9ZzN.png",DE | Oberpfalz TV
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | Offener Kanal Dessau
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8NFR15c.jpg",DE | Offener Kanal Dessau
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="http://www.youngspeech.de/wp-content/gallery/pop10-konzert/d-logode.jpg",DE | Offener Kanal Dessau
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8NFR15c.jpg",DE | Offener Kanal Dessau
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHTsPMP.png",DE | Offener Kanal Magdeburg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7GMH9d.png",DE | Offener Kanal Magdeburg
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | Offener Kanal Magdeburg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7GMH9d.png",DE | Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png",DE | Offener Kanal Magdeburg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7GMH9d.png",DE | Offener Kanal Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B5obZtE.png",DE | Offener Kanal Salzwedel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVpkZ9o.jpg",DE | Offener Kanal Salzwedel
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | Offener Kanal Salzwedel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVpkZ9o.jpg",DE | Offener Kanal Salzwedel
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="" group-title="",DE | OK-Stendal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qWaa18.jpg",DE | OK-Stendal
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | OK-Stendal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3qWaa18.jpg",DE | OK-Stendal
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
-#EXTINF:-1 tvg-logo="https://ok54.de/wp-content/uploads/2012/01/ok54.png",DE | OK54
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L9gsRdy.png",DE | OK54
 http://stream-cdn.ok54.de/hls/ok54.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1hkyd7.png",DE | Oldenburg Eins
 http://oeins.de:1935/live/studio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",DE | Parlamentsfernsehen 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JC2Y18.png",DE | Parlamentsfernsehen 1
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | Parlamentsfernsehen 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JC2Y18.png",DE | Parlamentsfernsehen 1
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png",DE | Parlamentsfernsehen 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JC2Y18.png",DE | Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | Parlamentsfernsehen 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JC2Y18.png",DE | Parlamentsfernsehen 2
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/potsdamtv.png",DE | Potsdam TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjN5EBF.png",DE | Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjN5EBF.png",DE | Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ubEUBmB.png" group-title="Music",DE | Radio 21 TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubEUBmB.png",DE | Radio 21 TV
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Music",DE | Radio Weser TV Bremen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png",DE | Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUP8ZBb.png",DE | RAN1 Regionalfernsehen
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8?fluxustv.m3u8
@@ -281,7 +281,7 @@ https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m
 http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Ab8RAp.jpg",DE | Regio TV Stuttgart
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | RFO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cORX89u.png",DE | RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkB39hx.png",DE | RNF
 http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
@@ -299,61 +299,57 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mrj4D9n.png",DE | Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jyMedaF.png" group-title="Religious",DE | Sophia TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jyMedaF.png",DE | Sophia TV
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | SYLT1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ctmek2e.jpg",DE | SYLT1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YyzfTYR.jpg",DE | Südthüringer Regionalfernsehen
 http://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | tagesschau 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNFNAhZ.jpg",DE | tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | tagesschau 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNFNAhZ.jpg",DE | tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="",DE | tagesschau 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNFNAhZ.jpg",DE | tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | tagesschau24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNFNAhZ.jpg",DE | tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8JgvKq.png",DE | Tele Regional Passau 1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="",CH | Telebasel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="http://www.portmann-media.com/wp-content/uploads/2015/06/telebasel.png",CH | Telebasel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/trp1.png",DE | TRP1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Up20uiQ.png",DE | TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | TV Aktuell
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5S2Bpu.jpg",DE | TV Aktuell
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GUBVccx.png",DE | TV Halle
 http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | TV Mainfranken
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hPnvrkf.jpg",DE | TV Mainfranken
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | TV Mainfranken
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hPnvrkf.jpg",DE | TV Mainfranken
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | TV Mittelrhein
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfVmmdJ.jpg",DE | TV Mittelrhein
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/927.png",DE | TV Oberfranken
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EbcM68S.jpg",DE | TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | TV Oberfranken
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EbcM68S.jpg",DE | TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | TV Oberfranken
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EbcM68S.jpg",DE | TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/925.png",DE | TVA Ostbayern
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZ5paIC.jpg",DE | TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DE | TVA Ostbayern
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZ5paIC.jpg",DE | TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",DE | TVA Ostbayern
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZ5paIC.jpg",DE | TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg",DE | TVA Ostbayern
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZ5paIC.jpg",DE | TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.firstonetv.eu/images/logos/de/TVA.png",DE | TVA Ostbayern
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZ5paIC.jpg",DE | TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png",DE | Unserding
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXN8ob5.png",DE | Unserding
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/wdr.png",DE | WDR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b12F9fE.png",DE | WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | WDR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b12F9fE.png",DE | WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DE | WDR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b12F9fE.png",DE | WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sn32FG.png",DE | Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
