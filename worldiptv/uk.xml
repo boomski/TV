@@ -116,6 +116,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page>http://m.liveonlinetv247.info/external.php?title=ITV1&amp;stream=itv1-hq</page>
 </regex>
+</item> 
+  
+<item>
+<title>UK | BDO Darts</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC92zCMeQJdH8ChEamXZxSeQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/MuYi76O.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
 </item>  
   
 <item>
