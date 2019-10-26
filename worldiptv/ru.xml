@@ -188,5 +188,16 @@
 <fanart>https://i.imgur.com/vEHNECR.jpg</fanart>       
 </item>  
 
+<item>
+<title>RU SPORT| GETBIG.TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCVRIw39rh98yHiKyytbqgEg</page>
+</regex>
+<thumbnail>https://i.imgur.com/lqdBLac.png</thumbnail> 
+<fanart>https://i.imgur.com/vEHNECR.jpg</fanart> 
+</item>  
 
 </items>
