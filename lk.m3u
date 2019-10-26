@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="",LK |Aarya TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E653EU6.jpg",LK | Aarya TV
 http://150.242.21.2/aaryaa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://theboss.in/wp-content/uploads/2016/06/logo-1.png" group-title="",LK |Boss TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dnyVIAc.png",LK | Boss TV
 http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.asiaexhibition.lk/images/partners/partner%20logo%20hiru.jpg" group-title="",LK |Hiru TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3zKlO3h.jpg",LK | Hiru TV
 http://cdncities.com/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/si/8/88/ITN_TV_Sri_Lanka.png" group-title="",LK |ITN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2mFa7i7.png",LK | ITN
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/706800739776143360/P38PX84d.jpg" group-title="",LK |Santhora TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra5jbe7.png",LK | Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/532196435702198274/Dcl1GXNu_400x400.png" group-title="",LK |Vendharm TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myuvWsY.png",LK | Vendharm TV
 http://45.79.203.234:1935/vendharm/myStream/chunklist_w200179631index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNqhdSv.jpg",LK | Jaffna TV
+http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8
