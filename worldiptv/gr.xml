@@ -25,6 +25,18 @@
 </regex>
 <thumbnail>https://i.imgur.com/myIKknw.png</thumbnail>  
 <fanart>https://i.imgur.com/zMuP0q6.jpg</fanart> 
+</item> 
+  
+<item>
+<title>GR SPORT| Nova Sports</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCEIbXco8hU9oDHXGo1kwIlA</page>
+</regex>
+<thumbnail>https://i.imgur.com/CEPLmEH.png</thumbnail>  
+<fanart>https://i.imgur.com/zMuP0q6.jpg</fanart> 
 </item>  
   
 </items>
