@@ -25,4 +25,16 @@
 <fanart>https://i.imgur.com/lSTL8vj.jpg</fanart> 
 </item>  
   
+<item>
+<title>KR SPORT| JTBC3 FOX Sports</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCTdZyOFVzontd9MZOJDg8Qw</page>
+</regex>
+<thumbnail>https://i.imgur.com/VUqlusx.png</thumbnail> 
+<fanart>https://i.imgur.com/lSTL8vj.jpg</fanart> 
+</item>   
+  
 </items>
