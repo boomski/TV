@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEKoBdu.jpg",US | VH1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLvWFGr.png",US |Global Mall TV
+https://fr-1.galaxyott.com/viettv24/streamer/vgmtv/livebl/vgmtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEKoBdu.jpg",US |VH1
 http://185.176.117.242/live/eds/VH1/HLS_encr/VH1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lHwcrLd.png",US |Victory Channel
 https://5a5dd46b0441f.streamlock.net/bvovlive/bvovlive.smil/chunklist.m3u8
