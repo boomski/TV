@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSMSp74.jpg",CN | Xi'an Health
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSMSp74.jpg",CN | Xi'an Film and Television
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSMSp74.jpg",CN | Xi'an News
+http://stream2.xiancity.cn/xatv1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSMSp74.jpg",CN | Xi'an White Pigeon
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSMSp74.jpg",CN | Xi'an Information
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSMSp74.jpg",CN | Xi'an Music Variety
+http://stream2.xiancity.cn/xatv6/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LjBIftE.jpg",CN | Xinjiang 1
 http://livehyw2.sobeycache.com/xjtvs/zb01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LjBIftE.jpg",CN | Xinjiang 2
