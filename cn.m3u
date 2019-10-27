@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBjtWAY.png",CN | Wan Zai Integrated Channel
+http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ect3BgK.png",CN | Sanya News Synthesis
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5vDrck.png",CN | CCTV 13
+http://klmyyun.chinavas.com/hls/qishi2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNTvtPm.png",CN | Seven Divisions News Synthesis
 http://klmyyun.chinavas.com/hls/qishi1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOpXb6J.png",CN | Seventh Division Film Channel
+http://klmyyun.chinavas.com/hls/qishi3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uOpXb6J.png",CN | Seventh Division Film Channel
 http://klmyyun.chinavas.com/hls/qishi4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XSMSp74.jpg",CN | Xi'an Health
