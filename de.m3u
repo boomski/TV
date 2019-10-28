@@ -295,6 +295,8 @@ http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/piwT1HQ.jpg",DE | Sonnenklar.TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/piwT1HQ.jpg",DE | Sonnenklar.TV
+http://euvia-live.hls.adaptive.level3.net/ses/euvia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mrj4D9n.png",DE | Sonus FM
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mrj4D9n.png",DE | Sonus FM TV
