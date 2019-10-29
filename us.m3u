@@ -1,4 +1,18 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaQSYGw.jpg",US SPORT| Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FM3fBaj.png",US | Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg",US | Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgNIT3I.png",US | Western 4U
+https://nimble.dashmedia.tv/onestudio/western4u/ playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjvjGVf.png",US | American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KjDQSPu.jpg",US | Black Widow TV
+https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/APGJc8I.jpg",US | Wink TV
+https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zQSTKzm.png",US SPORT | ESPN 
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLvWFGr.png",US | Global Mall TV
