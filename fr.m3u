@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATYvqej.jpg",FR SPORT | L'Équipe 21
+https://s1.tntendirect.com/lequipe21/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="",FR |Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="",FR |Alsace 20
