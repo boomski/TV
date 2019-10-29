@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zv580WD.jpg",US | Sci-Fi 4U
+https://nimble.dashstreams.net/onestudio/SciFiTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4i8Ldk.jpg",US | She TV
+https://nimble.dashstreams.net/onestudio/She_Tv_Network/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tq7JILk.jpg",US | Going To War
+https://nimble.dashstreams.net/onestudio/going_to_war/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UuJQntj.jpg",US | Planet Cannabis Entertainment
 https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N3mYbtb.jpg",US | MyHolyfield TV
