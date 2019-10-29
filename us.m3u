@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3cydCQ2.jpg",US SPORT | Sports TV Plus
+https://nimble.dashstreams.net/onestudio/sportstvplus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zv580WD.jpg",US | Sci-Fi 4U
 https://nimble.dashstreams.net/onestudio/SciFiTV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4i8Ldk.jpg",US | She TV
