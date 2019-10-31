@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidedenmark.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png",DK | DR 1 [VPN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png",DK VPN | DR 1 
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png",DK | DR 2 [VPN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png",DK VPN | DR 2 
 https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WkgWOxp.png",DK | DR 3 [VPN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkgWOxp.png",DK VPN | DR 3 
 https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FdnMM6X.png",DK | DR K [VPN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FdnMM6X.png",DK VPN | DR K 
 https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYmulOw.png",DK | DR Ramasjang [VPN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYmulOw.png",DK VPN | DR Ramasjang 
 https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNZ6Zid.jpg",DK | DR Ultra [VPN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNZ6Zid.jpg",DK VPN | DR Ultra 
 https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y8HxE6T.jpg",DK |Folketinget TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8HxE6T.jpg",DK | Folketinget TV
 https://cdnapisec.kaltura.com/p/2158211/sp/215821100/playManifest/entryId/1_24gfa7qq/format/applehttp/protocol/https/uiConfId/41529681/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hATNB38.jpg",DK |Kanal Hovedstaden
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hATNB38.jpg",DK | Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpl90ZC.png",DK | KKRtv
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
