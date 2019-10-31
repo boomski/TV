@@ -1,12 +1,18 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mFo0cXN.jpg",US | Weather 4U
-https://nimble.dashstreams.net/onestudio/weather4u/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T91W6v7.png",US XXX | Reality Kings
-http://player.altervista.org/bd.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yaMhN8U.jpg",US | USA HD
-https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQSTKzm.png",US SPORT | ESPN 
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3cydCQ2.jpg",US SPORT | Sports TV Plus
 https://nimble.dashstreams.net/onestudio/sportstvplus/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaQSYGw.jpg",US SPORT | Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T91W6v7.png",US XXX | Reality Kings
+http://player.altervista.org/bd.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnEVsia.png",US XXX | WetAndPissing.com
+http://player.altervista.org/effe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mFo0cXN.jpg",US | Weather 4U
+https://nimble.dashstreams.net/onestudio/weather4u/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaMhN8U.jpg",US | USA HD
+https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zv580WD.jpg",US | Sci-Fi 4U
 https://nimble.dashstreams.net/onestudio/SciFiTV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M4i8Ldk.jpg",US | She TV
@@ -33,8 +39,6 @@ https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LEqi0D.png",US | Opportunity Knocks
 https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MaQSYGw.jpg",US SPORT | Action Sports 4U
-https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FM3fBaj.png",US | Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg",US | Documentaries 4U
@@ -47,8 +51,6 @@ https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
 https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/APGJc8I.jpg",US | Wink TV
 https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zQSTKzm.png",US SPORT | ESPN 
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CLvWFGr.png",US | Global Mall TV
 https://fr-1.galaxyott.com/viettv24/streamer/vgmtv/livebl/vgmtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEKoBdu.jpg",US | VH1
