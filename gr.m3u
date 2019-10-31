@@ -1,4 +1,32 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidegreece.xml.gz"
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlatIjx.jpg",GR SPORT | EPT SPORT
+https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg",GR | EPT 1
+https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXWk2Dy.jpg",GR | EPT 2
+https://ert-live.siliconweb.com/media/ert_2/ert_2medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLxDtIh.jpg",GR | EPT 3
+https://ert-live.siliconweb.com/media/ert_3/ert_3medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcLqlcO.jpg",GR | EPT Play 1
+https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozWM3NM.jpg",GR | EPT Play 2
+https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8w5mR9.jpg",GR | EPT Play 3
+https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryehye1.jpg",GR | EPT Play 4
+https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EV2BxLo.jpg",GR | ART
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKzO5ab.png",GR | High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH1Jyc8.png",GR | 4E
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YP8tKFv.png",GR | Cannali
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CddzqU7.png",GR | Greek Voice
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vtC5ZcI.png",GR | Ellas TV
+http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DNNP75.png",GR | ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l8dDtCp.png",GR | Baraza Radio TV
