@@ -19,6 +19,8 @@ http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/kibriskanalt/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAn5BJZ.png",CY | RIK Sat
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfU5DGE.jpg",CY | Sigma TV
+http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xvJw3qt.png",CY | Sat 7 Arabic
 https://unirtmp.tulix.tv/sat7arabic/satarabiclive-web.smil/chunklist_w1635903706_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NM0QWA0.png",CY | Sat 7 Kids
@@ -31,5 +33,3 @@ https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/chunklist_w879240201_b100
 https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/chunklist_w328296882_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NM0QWA0.png",CY | Sat7 Kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbHRUkk.jpg",CY | Sigma TV
-http://81.21.47.74/hls/live.m3u8
