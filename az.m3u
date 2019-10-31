@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCPSjpD.png",AZ | Gunaz
+https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjirvEO.png",AZ | Turan TV
+http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GbJb8HL.png",AZ | Play One
 http://51.158.103.244/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0MFkKAr.jpg",AZ | ARB
@@ -15,8 +19,6 @@ http://85.132.81.184:8080/atv-2/index.m3u8
 http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4VAiAnb.jpg",AZ | CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1352949174.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r9st75H.jpg",AZ SPORT | CBC Sport
-http://0s.ha2s4mjtgixdkmzogu3a.cmle.ru/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/glJmSlO.png",AZ | Dalga
 http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/geyLqiw.jpg",AZ | Ictimai TV
@@ -33,7 +35,5 @@ http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 http://streams2.livetv.az/azerbaijan/real/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SJnBHy.png",AZ | Space TV
 http://streams2.livetv.az/azerbaijan/space_stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VdobclM.jpg",AZ | Xəzər TV
-http://streams2.livetv.az/azerbaijan/xazar_sd_stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gawtAFV.png",AZ | Ümüd
 http://win26.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist.m3u8
