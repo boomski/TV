@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mFo0cXN.jpg",US | Weather 4U
+https://nimble.dashstreams.net/onestudio/weather4u/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T91W6v7.png",US XXX | Reality Kings
+http://player.altervista.org/bd.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaMhN8U.jpg",US | USA HD
+https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3cydCQ2.jpg",US SPORT | Sports TV Plus
 https://nimble.dashstreams.net/onestudio/sportstvplus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zv580WD.jpg",US | Sci-Fi 4U
@@ -1043,8 +1049,6 @@ http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJgbASp.png",US | Uncion 24
 http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tIaICiP.jpg",US | USA HD
-https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
 #EXTINF:-1 tvg-logo="http://uwwtv.org/wp-content/uploads/2013/07/UWW-TV-Logo-Square-2018_NO-OUTLINE-4.png",US | UWW-TV
 http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1AW9O1.png",US | Venus TV (US Eastern)
