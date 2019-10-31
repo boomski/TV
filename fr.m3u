@@ -1,6 +1,44 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATYvqej.jpg",FR SPORT | L'Équipe 21
 https://s1.tntendirect.com/lequipe21/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06fP5xL.jpg",FR | TF1
+https://s1.tntendirect.com/tf1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zg1VRRE.png",FR | FRANCE 2
+https://s1.tntendirect.com/france2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1qAZ5N.jpg",FR | FRANCE 3
+https://s1.tntendirect.com/france3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLaq3fo.png",FR | FRANCE 4
+https://s1.tntendirect.com/france4/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRQAsS5.png",FR | FRANCE 5
+https://s1.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQR2nGg.jpg",FR | FRANCE O
+https://s1.tntendirect.com/franceo/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zthzjPs.png",FR | ARTE
+https://s1.tntendirect.com/arte/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNonACy.png",FR | M6
+https://s1.tntendirect.com/m6/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4ApWGr.jpg",FR | C8
+https://s1.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLW5G7x.png",FR | W9
+https://s1.tntendirect.com/w9/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cV2Os0a.jpg",FR | TMC
+https://s1.tntendirect.com/tmc/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLbpKZh.png",FR | TFX
+https://s1.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qp2eWJW.png",FR | NRJ 12
+https://s1.tntendirect.com/nrj12/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClMYrD0.png",FR | BFM TV
+https://s1.tntendirect.com/bmftv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fLTTUm.jpg",FR | CSTAR
+https://s1.tntendirect.com/d17/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2KsDA0.png",FR | GULLI
+https://s1.tntendirect.com/gulli/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcUdig8.jpg",FR | TF1 SERIES-FILMS
+https://s1.tntendirect.com/hd1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg",FR | RMC-HISTOIRE
+https://s1.tntendirect.com/numero23/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg",FR | RMC-DECOUVERTE
+https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="",FR |Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="",FR |Alsace 20
