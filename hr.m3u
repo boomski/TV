@@ -1,9 +1,9 @@
-#EXTM3U x-tvg-url="http://tvprofil.net/xmltv/data/epg_tvprofil.net.xml"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7q3g8AS.png" group-title="",HR |Radio Televizija Banovina
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7q3g8AS.png",HR | Radio Televizija Banovina
 rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S75GJym.png" group-title="",HR |Slavonska TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S75GJym.png",HR | Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/QMQqXgS.jpg" group-title="",HR |Televizija Aurora
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMQqXgS.jpg",HR | Televizija Aurora
 http://85.94.81.190:8844/sdi/aurora.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gdaxFrx.jpg" group-title="",HR |Z1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdaxFrx.jpg",HR | Z1
 http://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
