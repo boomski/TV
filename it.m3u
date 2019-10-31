@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBP50Wa.jpg",IT | Primocanale
+http://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8?sd=10&rebase=on 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeuezBt.jpg",IT | Primocanale Liguria
+http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HyKNVS5.jpg",IT | TG Videolina
+https://5bb65e9de3fdf.streamlock.net/live/Videolina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdfR2Sg.png",IT | Repubblica TV
+http://player.altervista.org/repubblicatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p70i4x0.png",IT | FM Italia TV
 http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1Yq3iV.png",IT | Aurora Arte
@@ -13,25 +21,25 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZSFqUz.png",IT | 111 TV Liguria
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-logo="http://i65.tinypic.com/wmf409.jpg",IT | 51 Radio TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z04w6Es.jpg",IT | 51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-logo="",IT | ALICE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKd4w7t.png",IT | ALICE
 https://stream.next-sys.it:8443/live/alice/index.m3u8
-#EXTINF:-1 tvg-logo="",IT | Alto Adige TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NCtORAC.jpg",IT | Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2kNV88y.png",IT | Antenna Sud
 http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="",IT | Antenna Tre
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wwmuf40.png",IT | Antenna Tre
 http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png",IT | Azzurra TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fv3aW10.png",IT | Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png",IT | CafèTV24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jz1XWFz.png",IT | CafèTV24
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="",IT | Canale 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vEE0jD.png",IT | Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1 tvg-logo="",IT | Canale 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vEE0jD.png",IT | Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png",IT | Canale 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vEE0jD.png",IT | Canale 10
 http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uh4R5Ih.png",IT | Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?fluxustv.m3u8
@@ -141,8 +149,6 @@ https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8?fluxustv.m3u8
 https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouSptk1.png",IT | Prima TV
 http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg",IT | Primocanale Liguria
-http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMs3Sp6.png",IT | Quarto Canale Flegreo
 http://live-fs.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://securecdn.pymnts.com/wp-content/uploads/2017/03/QVC.jpg",IT | QVC
