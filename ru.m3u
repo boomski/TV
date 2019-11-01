@@ -69,7 +69,7 @@ http://92.43.140.249/s18/04.m3u8
 http://ott-cdn.ucom.am/s18/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/sBmqwwQ.png",RU | Fox Life
 http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lD7NEtI.png" group-title="XXX",RU XXX|Frenchlover TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD7NEtI.png",RU XXX | Frenchlover TV
 http://91.204.234.3:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="freshtv" tvg-name="Fresh TV" tvg-logo="https://i.imgur.com/Ju3mLgq.png",RU | Fresh TV
 http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
@@ -145,27 +145,27 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 https://sportbar.biz/lba/123/g8/setantarus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4NDvnU.jpg",RU | Setanta Sports 2
 http://92.43.140.200/s82/04.m3u8
-#EXTINF:-1 tvg-id="shopping-live" tvg-name="Shopping Live" tvg-logo="" group-title="Shop",RU | Shopping Live
+#EXTINF:-1 tvg-logo="",RU | Shopping Live
 http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
-#EXTINF:-1 tvg-id="sochi-live" tvg-name="Sochi Live" tvg-logo="https://sochilive.tv/sites/all/themes/sochilive/logo.png",RU | Sochi Live
+#EXTINF:-1 tvg-logo="https://sochilive.tv/sites/all/themes/sochilive/logo.png",RU | Sochi Live
 http://212.8.233.150:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="tiji" tvg-name="TiJi" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tiji.jpg" group-title="Kids",RU | TiJi
+#EXTINF:-1 tvg-id="tiji" tvg-name="TiJi" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tiji.jpg",RU | TiJi
 http://92.43.140.249/s59/04.m3u8
-#EXTINF:-1 tvg-id="tiji" tvg-name="TiJi" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tiji.jpg" group-title="Kids",RU | TiJi
+#EXTINF:-1 tvg-id="tiji" tvg-name="TiJi" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tiji.jpg",RU | TiJi
 http://ott-cdn.ucom.am/s59/index.m3u8
 #EXTINF:-1 tvg-id="tiop-shop-tv" tvg-name="Top Shop TV" tvg-logo="" group-title="Shop",RU | Top Shop TV
 http://tv-topshop.netrack.ru/hls/topshop.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="TV1000 Action" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/viasat_tv1000_action_east.jpg",RU | TV1000 Action
 http://ott-cdn.ucom.am/s91/index.m3u8
-#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVMChannel" tvg-logo="" group-title="Music",RU | TVMChannel
+#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVMChannel" tvg-logo="",RU | TVMChannel
 http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVMChannel" tvg-logo="" group-title="Music",RU | TVMChannel
+#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVMChannel" tvg-logo="",RU | TVMChannel
 https://strm.yandex.ru/kal/tvm_supres/tvm_supres0.m3u8
-#EXTINF:-1 tvg-id="univer-tv" tvg-name="Univer TV" tvg-logo="" group-title="Local",RU | Univer TV
+#EXTINF:-1 tvg-id="univer-tv" tvg-name="Univer TV" tvg-logo="",RU | Univer TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="univer-tv" tvg-name="Univer TV" tvg-logo="" group-title="Local",RU | Univer TV
+#EXTINF:-1 tvg-id="univer-tv" tvg-name="Univer TV" tvg-logo="",RU | Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="univer-tv" tvg-name="Univer TV" tvg-logo="" group-title="Local",RU | Univer TV
+#EXTINF:-1 tvg-id="univer-tv" tvg-name="Univer TV" tvg-logo="",RU | Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://prod-profile.pscp.tv/1lZKpYwRPRnjn/cc1b0983c5d435dc4d89887b54860f25-128.jpg",RU | VIVA Russia
 http://85.143.202.116/hls/viva.m3u8
