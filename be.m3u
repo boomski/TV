@@ -77,3 +77,111 @@ http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=16
 https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wvo2EYr.jpg",BE | XITE
 https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RwGoDM1.jpg",RADIO BE | Radio Lichtaart
+http://radiolichtaart.shoutcaststream.com:8114/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPDWLSG.jpg",RADIO BE | Radio Utopia - Baal
+http://panel.beheerstream.com:2199/tunein/radioutopia.asx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHeNeDw.jpg",RADIO BE | Ment Radio
+https://5b615a20b0939.streamlock.net:444/live/myStream_aac/playlist.m3u8?wowzaaudioonly
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9MEdhq.jpg",RADIO BE | Radio Nostalgie
+http://nostalgiewhatafeeling.ice.infomaniak.ch/nostalgiewhatafeeling-128.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGtFswZ.jpg",RADIO BE | Radio Pros
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dngk24G.jpg",RADIO BE | Radio Opsinjoor - Mechelen
+http://streams.movemedia.eu:8800
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gjLpRFe.jpg",RADIO BE | Puur Vlaams
+http://37.187.79.153:6158/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LahHA42.jpg",RADIO BE | Vlaamse Wonderjaren
+http://streaming.radionomy.com/Vlaamse-Wonderjaren?AppName=vTune
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJn0Mz3.jpg",RADIO BE | HUMORZENDER
+http://streaming.radionomy.com/humorzender?AppName=vTuner
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JS9gg2G.jpg",RADIO BE | Radio Mol 105.2
+http://studio.radiomol.be:5001/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/govGITq.jpg",RADIO BE | Radio Apollo 106.8 FM Wiekevorst
+http://37.59.195.28:8045
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tk8wCTv.jpg",RADIO BE | Omroep Neteland
+http://cstmn.gr/radio/8030/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MalyLh.jpg",RADIO BE | MNM
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bK2CGCa.jpg",RADIO BE | Studio Brussel
+https://live-vrt-verizon.ebuflow.com/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39AWoNk.jpg",RADIO BE | Fun Radio
+http://funlive.vedge.infomaniak.com/livecast/funlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2jCSLS.jpg",RADIO BE | Radio 1
+https://live-radio.lwc.vrtcdn.be/groupb/live/47303075-8243-434b-8199-2e62cf4dd97a/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpDreAT.jpg",RADIO BE | Radio 2 Antwerpen
+https://live-radio.lwc.vrtcdn.be/groupb/live/033d312d-31f7-400a-b81a-61195f0b79c5/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpDreAT.jpg",RADIO BE | Radio 2 Limburg
+https://live-radio.lwc.vrtcdn.be/groupb/live/d9c49923-b49f-4ab3-8532-4e9bd850b4e2/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpDreAT.jpg",RADIO BE | Radio 2 Oost-Vlaanderen
+https://live-radio.lwc.vrtcdn.be/groupb/live/93a8a402-9008-4a97-b473-bc107be7524d/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpDreAT.jpg",RADIO BE | Radio 2 Vlaams-Brabant
+https://live-radio.lwc.vrtcdn.be/groupc/live/1e08f370-1f20-4807-aaa3-051c7f0d8359/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpDreAT.jpg",RADIO BE | Radio 2 West-Vlaanderen
+https://live-radio.lwc.vrtcdn.be/groupc/live/604e4a0e-22e8-4f99-ad5e-4f62d27dfec4/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QXxArtN.jpg",RADIO BE | Klara
+https://live-radio.lwc.vrtcdn.be/groupa/live/a9f36fda-cb3c-4b4e-9405-a5bba55654c0/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QXxArtN.jpg",RADIO BE | Klara Continuo
+https://live-radio.lwc.vrtcdn.be/groupa/live/0d06dbbe-92d4-4cfe-a0b3-ccc6b7a32ec4/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bK2CGCa.jpg",RADIO BE | Studio Brussel
+https://live-radio.lwc.vrtcdn.be/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bK2CGCa.jpg",RADIO BE | Studio Brussel - De Tijdloze
+https://live-radio.lwc.vrtcdn.be/groupc/live/582109ca-1e71-4330-93fc-e9affee94d7d/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vbfgya2.jpg",RADIO BE | MNM
+https://live-radio.lwc.vrtcdn.be/groupa/live/68dc3b80-040e-4a75-a394-72f3bb7aff9a/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vbfgya2.jpg",RADIO BE | MNM UrbaNice
+https://live-radio.lwc.vrtcdn.be/groupa/live/da0b681c-73db-4c9e-af32-7921591d3fbd/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vbfgya2.jpg",RADIO BE | MNM Hits
+https://live-radio.lwc.vrtcdn.be/groupb/live/35dd91de-0352-4865-8632-17e5af8dc6ba/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nwfScXP.jpg",RADIO BE | Ketnet Hits
+https://live-radio.lwc.vrtcdn.be/groupa/live/014a9eea-af85-4da6-aab2-c472ca8d0149/live.isml/.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IHvIKwi.jpg",RADIO BE | VRTNWS
+http://progressive-audio.lwc.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGqC5UP.jpg",RADIO BE | Joe 70's
+https://streaming-medialaan-cdp.triple-it.nl/JOEfm_be_70s_64.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGqC5UP.jpg",RADIO BE | Joe FM
+https://streaming-medialaan-cdp.triple-it.nl/JOEfm_be_live_64.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGqC5UP.jpg",RADIO BE | Joe 80's
+https://streaming-medialaan-cdp.triple-it.nl/JOEfm_be_80s_64.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGqC5UP.jpg",RADIO BE | Joe Top 2000
+https://streaming-medialaan-cdp.triple-it.nl/JOEfm_be_t2000_64.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0CZjmi.png",RADIO BE | Q-Music
+https://20853.live.streamtheworld.com/QMUSICAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FPKGRxr.jpg",RADIO BE | RGR FM
+http://stream.intronic.nl/rgrfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QRRjTo.jpg",RADIO BE | Hit FM
+http://94.23.48.124:8000/;&type=mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QRRjTo.jpg",RADIO BE | Hit FM Limburg
+http://94.23.48.124:8000/;stream/1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uRoJjk.jpg",RADIO BE | Zoe FM - Zoersel
+http://shoutcast.movemedia.be/zoe320
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hhk0yUM.jpg",RADIO BE | Radio Die Musketiers
+http://demusketiers.shoutcaststream.com:8268/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KqRq42o.jpg",RADIO BE | 21bis
+http://3755.cloudrad.io:8008/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f3oeAwf.jpg",RADIO BE | NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wGKNFhz.jpg",RADIO BE | MNM Kijk
+http://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bK2CGCa.jpg",RADIO BE | StuBru Kijk Live 
+http://live-vrt-verizon.ebuflow.com/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sYTAoaf.jpg",RADIO BE | XITE
+https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEZZa8x.jpg",RADIO BE | City Music
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0x8DfD.jpg",RADIO BE | RTBF PURE VISION
+http://rtbf.l3.freecaster.net/live/rtbf/geo/drm/purevision-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AswQkU9.jpg",RADIO BE | RTBF TARMAC
+http://rtbf.l3.freecaster.net/live/rtbf/geo/drm/tarmac-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R73cPOZ.jpg",RADIO BE | RTBF VIVACITE VISION
+http://rtbf.l3.freecaster.net/live/rtbf/geo/drm/vivacitevision-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39AWoNk.jpg",RADIO BE | Fun Radio
+http://funlive.vedge.infomaniak.com/livecast/funlive/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAi8dIH.jpg",RADIO BE | BEL RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMuSlFm.jpg",RADIO BE | Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMuSlFm.jpg",RADIO BE | Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGxoeZm.png",RADIO BE | Willy
+https://playerservices.streamtheworld.com/api/livestream-redirect/WILLY.mp3
