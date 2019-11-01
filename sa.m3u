@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5cc4g5.png",SA | 22 TV
+http://82.212.74.99:8000/live/hls/8117.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2qHUKF.png",SA | Kaif TV
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nkfeAOi.png",SA | Beity TV 
+http://82.212.74.99:8000/live/hls/8164.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8kS2rD.jpg",SA | Ayaat TV
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVteJq5.jpg",SA | Al Quran Al Kareem (Mecca)
