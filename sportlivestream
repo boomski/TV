@@ -486,56 +486,29 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo11.p
         <referer>https://sportzonline.co/channels/pt/sporttv3.php</referer>
     </regex>
 </item> 
-   
+ 
 <item>
-<title>SPORT | Daily Sport 1</title>
-<link>https://cdn1.dailysport.pw/20/20.m3u8</link> 
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item> 
-<item>
-<title>SPORT | Daily Sport 2</title>
-<link>https://cdn1.dailysport.pw/21/21.m3u8</link>
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item> 
-<item>
-<title>SPORT | Daily Sport 3</title>
-</link>https://cdn1.dailysport.pw/22/22.m3u8</link>
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item> 
-<item>
-<title>SPORT | Daily Sport 4</title>
-<link>https://cdn1.dailysport.pw/23/23.m3u8</link> 
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item> 
-<item>
-<title>SPORT | Daily Sport 5</title>
-<link>https://cdn1.dailysport.pw/24/24.m3u8</link> 
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item> 
-<item>
-<title>SPORT | Daily Sport 6</title>
-<link>https://cdn1.dailysport.pw/25/25.m3u8</link> 
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item> 
-<item>
-<title>SPORT | Daily Sport 7</title>
-<link>https://cdn1.dailysport.pw/26/26.m3u8</link> 
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item>    
-<item>
-<title>SPORT | Daily Sport 8</title>
-<link>https://cdn1.dailysport.pw/1/1.m3u8</link> 
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item> 
-<item>
-<title>SPORT | Daily Sport 9</title>
-<link>https://cdn1.dailysport.pw/27/27.m3u8</link> 
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
-</item> 
-<item>
-<title>SPORT | Daily Sport 10</title>
-<link>https://cdn1.dailysport.pw/3/3.m3u8</link> 
-<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail>
+  <title>SPORT | Daily Sport</title>
+  <thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail> 
+  <link>$doregex[makelist]</link>
+  <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+    <title>[COLOR olivedab][makelist.param1] - [COLOR gold][makelist.param2][/COLOR]</title>
+    <link>$doregex[getpage]|User-Agent=iPad</link>
+    <thumbnail></thumbnail>
+    ]]></listrepeat>
+    <expres><![CDATA[(?s)<tr>\n<td>([^<]+)<.+?<td>(?:<span.+?span>)?([^<]+).+?href=([^>]+)]]></expres>
+    <page>https://dailysport.pw/</page>
+    <setcookie>challenge=BitMitigate.com</setcookie>
+  </regex>
+  <regex>
+    <name>getpage</name>
+    <expres>source:\s*['"]([^'"]+)</expres>
+    <page>https://dailysport.pw/[makelist.param3]</page>
+    <setcookie>challenge=BitMitigate.com</setcookie>
+    <referer>https://dailysport.pw/</referer>
+  </regex>
 </item> 
 
 <item>
