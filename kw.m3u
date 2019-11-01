@@ -1,63 +1,63 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vHUyVf0.jpg",KW |Al-Qurain TV
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vHUyVf0.jpg",KW | Al-Qurain TV
 https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7l1tVRM.png",KW |Alrai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7l1tVRM.png",KW | Alrai TV
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7l1tVRM.png",KW |Alrai TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7l1tVRM.png",KW | Alrai TV
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b3pGT5G.png",KW |Funoon TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3pGT5G.png",KW | Funoon TV
 http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b3pGT5G.png",KW |Funoon TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3pGT5G.png",KW | Funoon TV
 http://livecdnh3.tvanywhere.ae:80/hls/funoon/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fqCoqHq.jpg",KW |KTV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqCoqHq.jpg",KW | KTV 1
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fqCoqHq.jpg",KW |KTV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqCoqHq.jpg",KW | KTV 1
 https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oNwbB9.jpg",KW |KTV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oNwbB9.jpg",KW | KTV 2
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oNwbB9.jpg",KW |KTV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5oNwbB9.jpg",KW | KTV 2
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSA98Dt.jpg",KW |KTV Al Majlis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSA98Dt.jpg",KW | KTV Al Majlis
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSA98Dt.jpg",KW |KTV Al Majlis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSA98Dt.jpg",KW | KTV Al Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSA98Dt.jpg",KW |KTV Al Majlis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSA98Dt.jpg",KW | KTV Al Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/smil:kalmajlis.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EqVKaQ7.png",KW |KTV Arabe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqVKaQ7.png",KW | KTV Arabe
 http://www.elahmad.com/tv/m3u8/ktv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EqVKaQ7.png",KW |KTV Arabe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqVKaQ7.png",KW | KTV Arabe
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv6
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EqVKaQ7.png",KW |KTV Arabe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqVKaQ7.png",KW | KTV Arabe
 https://svs.itworkscdn.net/ktvarabelive/karabe.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EqVKaQ7.png",KW |KTV Arabe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqVKaQ7.png",KW | KTV Arabe
 https://svs.itworkscdn.net/ktvarabelive/smil:karabe.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xj8a8jY.png",KW |KTV Ethraa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xj8a8jY.png",KW | KTV Ethraa
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xj8a8jY.png",KW |KTV Ethraa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xj8a8jY.png",KW | KTV Ethraa
 https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xj8a8jY.png",KW |KTV Ethraa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xj8a8jY.png",KW | KTV Ethraa
 https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xj8a8jY.png",KW |KTV Ethraa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xj8a8jY.png",KW | KTV Ethraa
 https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KwcDkDH.jpg",KW |KTV Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwcDkDH.jpg",KW | KTV Kids
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KwcDkDH.jpg",KW |KTV Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwcDkDH.jpg",KW | KTV Kids
 https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KwcDkDH.jpg",KW |KTV Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwcDkDH.jpg",KW | KTV Kids
 https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pJr778E.png",KW |KTV Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJr778E.png",KW | KTV Plus
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pJr778E.png",KW |KTV Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJr778E.png",KW | KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pJr778E.png",KW |KTV Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJr778E.png",KW | KTV Plus
 https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VNyjjI.png",KW SPORT|KTV Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VNyjjI.png",KW SPORT | KTV Sport
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VNyjjI.png",KW SPORT|KTV Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VNyjjI.png",KW SPORT | KTV Sport
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VNyjjI.png",KW SPORT|KTV Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VNyjjI.png",KW SPORT | KTV Sport
 https://svs.itworkscdn.net/ktvsportslive/smil:ksports.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeG9K1y.png",KW |Ch4Teen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeG9K1y.png",KW | Ch4Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qeWaLeX.jpg",KW |Al Maaref TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qeWaLeX.jpg",KW | Al Maaref TV
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
