@@ -9,24 +9,24 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 1
 http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 1 [720p]
 https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 1 [1080p]
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 2 
 http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 2 [720p]
 https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 2 [720p]
 https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg",XXX | AST TV 2 [1080p]
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T91W6v7.png",XXX | Reality Kings
-http://player.altervista.org/bd.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnEVsia.png",XXX | WetAndPissing.com
 http://player.altervista.org/effe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXTjWgP.png",RELIGION | Christian Youth Channel
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QsvBuWG.png",MUSIC | Eamar Music
+http://82.212.74.3:8000/live/hls/7514.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png",MUSIC | DJing
 http://www.djing.com/tv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XQ2vMHd.png",MUSIC | DJing Animation
