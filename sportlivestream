@@ -678,4 +678,22 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo11.p
 <thumbnail>http://sportacentrs.com/images/lv/logo_esports2.png</thumbnail>
 </item>  
 
+<item>
+<title>SPORT | LIVE SPORT</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e04.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=43</page>[IMG]https://i.imgur.com/Kdb2UbJ.jpg[/IMG]
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>
 </items>
