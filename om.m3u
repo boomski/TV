@@ -1,17 +1,17 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H7D7dmK.png",OM |Al-Istiqama TV
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H7D7dmK.png",OM | Al-Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dfyeg.jpg",OM |Oman Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dfyeg.jpg",OM | Oman Sport
 http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dfyeg.jpg",OM |Oman Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dfyeg.jpg",OM | Oman Sport
 http://38.96.148.35:1935/live/omantv02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dfyeg.jpg",OM |Oman Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dfyeg.jpg",OM | Oman Sport
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=oman_sport
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJgabmB.png",OM |Oman TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJgabmB.png",OM | Oman TV
 http://38.96.148.35:1935/live/omantv01/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJgabmB.png",OM |Oman TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJgabmB.png",OM | Oman TV
 http://38.96.148.35:1935/live/omantv01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJgabmB.png",OM |Oman TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJgabmB.png",OM | Oman TV
 http://38.96.148.35:1935/live/omantv03/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rgOKX9s.png",OM |Oman TV Cultural
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgOKX9s.png",OM | Oman TV Cultural
 http://38.96.148.35:1935/live/omantv04/chunklist.m3u8
