@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZuyMXQ.png",60 FPS LIVE | Indiana Pacers
+http://cdn.60fps.live/live/Pacers/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZuyMXQ.png",60 FPS LIVE | ESPN
+http://cdn.60fps.live/live/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZuyMXQ.png",60 FPS LIVE | Orlando Magic
+http://cdn.60fps.live/live/Magic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZuyMXQ.png",60 FPS LIVE | beIN Sports 2
 http://cdn.60fps.live/live/e31/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZuyMXQ.png",60 FPS LIVE | NBA TV
