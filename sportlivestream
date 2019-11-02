@@ -693,7 +693,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo11.p
 <regex>
 <name>makelist</name>
 <expres><![CDATA[iframe src="(.*?)"]]></expres>
-<page>https://live-sports-stream.net/embed/video.php?channel=43</page>[IMG]https://i.imgur.com/Kdb2UbJ.jpg[/IMG]
+<page>https://live-sports-stream.net/embed/video.php?channel=43</page>
 <Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
 </regex>
 <regex>
@@ -703,4 +703,22 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo11.p
 <Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
 </regex>
 </item>
+ 
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 78</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>   
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://live-sports-stream.net/embed/video.php?channel=78'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
 </items>
