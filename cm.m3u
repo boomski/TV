@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfMJvpy.jpg",CM | Canal 2 International
+https://stream.ecable.tv/canal2inter/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ylDp2XR.png",CM | Canal 2 English
+https://stream.ecable.tv/canal2eng/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vytGg8I.jpg",CM | Canal 2 Movies
+https://stream.ecable.tv/canal2movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmqJmql.png",CM | Afrique Média TV
 https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTUx6q3.png",CM | Afrobit
