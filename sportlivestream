@@ -10,333 +10,38 @@
 <item>
 <title>BE | CYFO SPORTS</title>
 <link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/cyfosports</externallink>
-<thumbnail>https://i.imgur.com/dyjeDvr.jpg</thumbnail>
-</item>  
- 
-
-  
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/cyfosports/index</externallink>
+<thumbnail>https://i.imgur.com/LQ4JyVs.jpg</thumbnail>
+</item> 
 <item>
-<title>SPORT | SPORTZONLINE HD1</title>  
-<thumbnail>https://i.postimg.cc/1zTnj1ZC/1.png</thumbnail>   
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd1.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd1.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd1.php</referer>
-    </regex>
-</item> 
-   
-<item>
-<title>SPORT | SPORTZONLINE HD2</title> 
-<thumbnail>https://i.postimg.cc/gJZX9tzY/2.png</thumbnail>  
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd2.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd2.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd2.php</referer>
-    </regex>
-</item> 
-    
-<item>
-<title>SPORT | SPORTZONLINE HD3</title>   
-<thumbnail>https://i.postimg.cc/WzmdzDqC/3.png</thumbnail>   
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd3.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd3.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd3.php</referer>
-    </regex>
-</item>     
-  
- <item>
-<title>SPORT | SPORTZONLINE HD4</title>  
-<thumbnail>https://i.postimg.cc/ncZs516J/4.png</thumbnail>   
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd4.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd4.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd4.php</referer>
-    </regex>
-</item> 
-  
- <item>
-<title>SPORT | SPORTZONLINE HD5</title>  
-<thumbnail>https://i.postimg.cc/598YnrKg/5.png</thumbnail>    
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd5.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd5.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd5.php</referer>
-    </regex>
-</item>     
- 
-  <item>
-<title>SPORT | SPORTZONLINE HD6</title>  
-<thumbnail>https://i.postimg.cc/6pp86pWb/6.png</thumbnail>     
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd6.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd6.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd6.php</referer>
-    </regex>
-</item>      
-
- <item>
-<title>SPORT | SPORTZONLINE HD7</title>  
-<thumbnail>https://i.postimg.cc/L6TqM1pZ/7.png</thumbnail>     
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/hd/hd7.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/hd/hd7.php</page>
-        <referer>https://sportzonline.co/channels/hd/hd7.php</referer>
-    </regex>
-</item>        
- 
- <item>
-<title>SPORT | SPORTZONLINE BR1</title>   
-<thumbnail>https://i.postimg.cc/DZ4c0cgZ/br1.png</thumbnail>      
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/bra/br1.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/bra/br1.php</page>
-        <referer>https://sportzonline.co/channels/bra/br1.php</referer>
-    </regex>
-</item>  
-
- <item>
-<title>SPORT | SPORTZONLINE BR2</title>  
-<thumbnail>https://i.postimg.cc/Y2g3wb0D/br2.png</thumbnail>     
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/bra/br2.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/bra/br2.php</page>
-        <referer>https://sportzonline.co/channels/bra/br2.php</referer>
-    </regex>
-</item>  
-    
- <item>
-<title>SPORT | SPORTZONLINE BR3</title>   
-<thumbnail>https://i.postimg.cc/qqfx3CbG/br3.png</thumbnail>        
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/bra/br3.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/bra/br3.php</page>
-        <referer>https://sportzonline.co/channels/bra/br3.php</referer>
-    </regex>
-</item>      
- 
- <item>
-<title>SPORT | SPORTZONLINE SPORT TV1</title>   
-<thumbnail>https://i.postimg.cc/7L6984JS/8.png</thumbnail>        
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv1.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/pt/sporttv1.php</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv1.php</referer>
-    </regex>
-</item> 
-    
- <item>
-<title>SPORT | SPORTZONLINE SPORT TV2</title>   
-<thumbnail>https://i.postimg.cc/1zjHydD2/9.png</thumbnail>       
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv2.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/pt/sporttv2.php</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv2.php</referer>
-    </regex>
-</item> 
-    
- <item>
-<title>SPORT | SPORTZONLINE SPORT TV3</title>  
-<thumbnail>https://i.postimg.cc/BbxccQRf/10.png</thumbnail>         
-    <link>$doregex[geturl]|user-agent=ipad&amp;referer=https:$doregex[lacasitos]</link>
-    <regex>
-        <name>geturl</name>
-        <expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-        <page>$doregex[getunpacked]</page>
-    </regex>
-    <regex>
-        <name>getunpacked</name>
-        <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
-        <page>https:$doregex[lacasitos]</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv3.php</referer>
-    </regex>
-    <regex>
-        <name>lacasitos</name>
-        <expres><![CDATA[iframe.+?src="(.+?)"]]></expres>
-        <page>https://sportzonline.co/channels/pt/sporttv3.php</page>
-        <referer>https://sportzonline.co/channels/pt/sporttv3.php</referer>
-    </regex>
+<title>SPORT | SPORTZONLINE</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/sportzonline/index</externallink>
+<thumbnail>https://i.imgur.com/gwH2mzX.jpg</thumbnail>
 </item> 
  
 <item>
-  <title>SPORT | Daily Sport</title>
-  <thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail> 
-  <link>$doregex[makelist]</link>
-  <regex>
-    <name>makelist</name>
-    <listrepeat><![CDATA[
-    <title>[COLOR olivedab][makelist.param1] - [COLOR gold][makelist.param2][/COLOR]</title>
-    <link>$doregex[getpage]|User-Agent=iPad</link>
-    <thumbnail></thumbnail>
-    ]]></listrepeat>
-    <expres><![CDATA[(?s)<tr>\n<td>([^<]+)<.+?<td>(?:<span.+?span>)?([^<]+).+?href=([^>]+)]]></expres>
-    <page>https://dailysport.pw/</page>
-    <setcookie>challenge=BitMitigate.com</setcookie>
-  </regex>
-  <regex>
-    <name>getpage</name>
-    <expres>source:\s*['"]([^'"]+)</expres>
-    <page>https://dailysport.pw/[makelist.param3]</page>
-    <setcookie>challenge=BitMitigate.com</setcookie>
-    <referer>https://dailysport.pw/</referer>
-  </regex>
+<title>SPORT | Daily Sport</title>
+<thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail> 
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR darkorange][makelist.param1] - [COLOR gold][makelist.param2][/COLOR]</title>
+<link>$doregex[getpage]|User-Agent=iPad</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)<tr>\n<td>([^<]+)<.+?<td>(?:<span.+?span>)?([^<]+).+?href=([^>]+)]]></expres>
+<page>https://dailysport.pw/</page>
+<setcookie>challenge=BitMitigate.com</setcookie>
+</regex>
+<regex>
+<name>getpage</name>
+<expres>source:\s*['"]([^'"]+)</expres>
+<page>https://dailysport.pw/[makelist.param3]</page>
+<setcookie>challenge=BitMitigate.com</setcookie>
+<referer>https://dailysport.pw/</referer>
+</regex>
 </item> 
 
 <item>
