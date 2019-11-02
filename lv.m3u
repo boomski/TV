@@ -1,4 +1,12 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QImzlC.png",LV | Mamontenok HD
+http://82.193.71.93/MamontLV/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EXJ1A5j.jpg",LV | KINO 24
+http://82.193.71.93/Kino24LV/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRSgGY8.png",LV | PINGVIN LOLO
+http://82.193.71.93/LoLoLv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqmdFai.jpg",LV | PRO 100 TV Riga Plauout
+http://82.193.71.93/Pro100TvRuRigaPlauout/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TsI8C9r.jpg",LV | 1BM
 https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9RtBZN.jpg",LV | Chau TV
