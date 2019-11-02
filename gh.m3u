@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nda6qzU.jpg",GH | Joy Prime
 https://hls396474.r-cdn.com/trn_61808/1140/remux/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nda6qzU.jpg",GH | Joy Prime
+https://stream.ecable.tv/joyprime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1Egygb.png",GH | Joy News
+https://stream.ecable.tv/joynews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4UOolK.jpg",GH | Resurrection TV
 http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEuSjuY.jpg",GH | SAM TV
