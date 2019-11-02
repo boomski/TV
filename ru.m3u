@@ -1,4 +1,8 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRSgGY8.png",RU | PINGVIN LOLO
+http://82.193.71.93:80/LoLoRuSattelite/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EqmdFai.jpg",RU | PRO 100 TV
+http://82.193.71.93:80/Pro100TvRuSattelite/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVXp6k9.png",RU | Udmurtiya
 https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AP8kAv8.png",RU | 360°
