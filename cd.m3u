@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEM93cd.png",CD | RTNC
+https://stream.ecable.tv/rtnc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRUNmHQ.png",CD | B-One TV
+https://stream.ecable.tv/b-one/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Csb9UFe.jpg",CD | Télé 50
+https://stream.ecable.tv/tele50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJTSIe8.png",CD | Trace Kitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
