@@ -51,3 +51,5 @@ http://connectiktv.ddns.me:5000/247tv/247tv/chunklist.m3u8
 http://connectiktv.ddns.net:5000/vibetv/vibetv_360p+SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FekWmTu.jpg",CM | Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jba1LaK.png",CM | Boom TV
+https://stream.ecable.tv/boom/tracks-v1a1/mono.m3u8
