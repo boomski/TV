@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/622mJDZ.png",ID | Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EsprRfi.jpg",ID | RCTV
 http://122.248.43.138:1935/ch9/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1xBiOcX.png",ID | BTV Sepekan
