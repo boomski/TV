@@ -5,6 +5,8 @@ http://223.110.249.133:6410/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ
 http://223.110.249.133:6410/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rH3s3LG.png",CN SPORT | CCTV 5+
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXZZoB9.jpg",CN SPORT | CCTV Golf - Tennis Channel
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CnC116N.png",CN SPORT | IPTV 5+
 http://117.156.28.119/270000001111/1110000054/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/88PpHhf.png",CN SPORT | BTV 6
@@ -27,20 +29,98 @@ http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
 http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJJPepl.png",CN SPORT | NBA BesTV Live Room 7HD
 http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
+http://223.110.249.133:6410/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yK4ZYL.png",CN | CCTV 2 
+http://223.110.249.133:6410/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NabNIpk.png",CN | CCTV 3 
+http://223.110.249.133:6410/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VvTY259.png",CN | CCTV 4 
+http://223.110.249.133:6410/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JPePYtJ.png",CN | CCTV 6 
+http://223.110.249.133:6410/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ol9mOD8.png",CN | CCTV 7
+http://223.110.249.133:6410/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
+http://223.110.249.133:6410/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G44EeoI.png",CN | CCTV 9
+http://223.110.249.133:6410/gitv/live1/G_CCTV-9/G_CCTV-9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
+http://223.110.249.133:6410/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu62Oqi.png",CN | CCTV 11
+http://223.110.249.133:6410/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2vTCYRc.png",CN | CCTV 12
+http://223.110.249.133:6410/gitv/live1/CCTV-12/CCTV-12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLNOIqs.png",CN | CCTV 13
+http://223.110.249.133:6410/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZjguoS.png",CN | CCTV 14
+http://223.110.249.133:6410/gitv/live1/G_CCTV-14/G_CCTV-14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CrGvPq.png",CN | CCTV 15
+http://223.110.249.133:6410/gitv/live1/G_CCTV-15/G_CCTV-15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAnQDaH.png",CN | CCTV NEWS
+http://223.110.249.133:6410/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaQMpWh.jpg",CN | CETV 1
+http://223.110.249.133:6410/gitv/live1/G_CETV-1/G_CETV-1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mo5Zmtd.jpg",CN | CETV 2
+http://223.110.249.133:6410/gitv/live1/G_CETV-2/G_CETV-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6zwf9S.jpg",CN | CETV 3
+http://223.110.249.133:6410/gitv/live1/G_CETV-3/G_CETV-3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rl0zXGb.jpg",CN | CETV 4
+http://223.110.249.133:6410/gitv/live1/G_CETV-4/G_CETV-4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RpVm4KK.jpg",CN | iPanda
+http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9iCUve.jpg",CN | Xiamen Satellite TV
+http://223.110.249.133:6410/gitv/live1/G_XIAMEN/G_XIAMEN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNqLAiD.png",CN | Henan Satellite TV
+http://223.110.249.133:6410/gitv/live1/HENAN/HENAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rsjRoWS.png",CN | Shenzhen Satellite TV
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9fdZ54.jpg",CN | Guangdong Satellite TV [1080p]
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guacangdongstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I9fdZ54.jpg",CN | Guangdong Satellite TV [1080p]
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRU0iGL.png",CN | Xuandong TV
 http://223.110.249.133:6410/gitv/live1/G_XUANDONG/G_XUANDONG
-#EXTINF:-1 tvg-logo="https://i.imgur.com/74LPYL1.png",CN | AHWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1DrpkHv.jpg",CN | Jiangxi Satellite TV
+http://223.110.249.133:6410/cntv/live1/jiangxistv/jiangxistv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QacqtAs.png",CN | Anhui Satellite TV [1080p]
+http://223.110.249.133:6410/cntv/live1/anhuistv/anhuistv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QacqtAs.png",CN | Anhui Satellite TV [576p]
 http://223.110.249.133:6410/gitv/live1/AHWS/AHWS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ppgBzhW.png",CN | LNWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQQ3tD2.jpg",CN | Liaoning Satellite TV [1080p]
+http://223.110.249.133:6410/cntv/live1/liaoningstv/liaoningstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQQ3tD2.jpg",CN | Liaoning Satellite TV [576p]
 http://223.110.249.133:6410/gitv/live1/LNWS/LNWS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NFgWdlt.png",CN | SDWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZsEaORW.jpg",CN | Dragon TV [1080p]
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZsEaORW.jpg",CN | Dragon TV [1080p]
+http://223.110.249.133:6410/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/988gBaW.jpg",CN | Shandong Satellite TV
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/988gBaW.jpg",CN | Shandong Satellite TV
 http://223.110.249.133:6410/gitv/live1/SDWS/SDWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YZlbBPP.jpg",CN | Hubei Satellite TV
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PjXhAE.jpg",CN | Hunan Satellite TV
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1bxILU.png",CN | GXWS
 http://223.110.249.133:6410/gitv/live1/GXWS/GXWS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85QPMW0.png",CN | LYWS
 http://223.110.249.133:6410/gitv/live1/LYWS/LYWS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/88PpHhf.png",CN | BTV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88PpHhf.png",CN | BTV 1 [1080p]
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-beijingstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88PpHhf.png",CN | BTV 1 [576p]
 http://223.110.249.133:6410/gitv/live1/G_BEIJING/G_BEIJING
+#EXTINF:-1 tvg-logo="https://i.imgur.com/niFK0TF.jpg",CN | Jiangsu Satellite TV
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/niFK0TF.jpg",CN | Jiangsu Satellite TV
+http://223.110.249.133:6410/cntv/live1/jiangsustv/jiangsustv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wPiTLvX.jpg",CN | Sichuan Satellite TV
+http://223.110.249.133:6410/cntv/live1/sichuanstv/sichuanstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KyXgWKy.jpg",CN | Tianjin Satellite TV
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeF2Llh.jpg",CN | Zhejiang Satellite TV
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-zhejiangstv/HD-2500k-1080P-zhejiangstv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UBjtWAY.png",CN | Wan Zai Integrated Channel
 http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ect3BgK.png",CN | Sanya News Synthesis
@@ -155,114 +235,8 @@ http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
 http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6wjMqzM.png",CN XXX | XCafe Erotic
 http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://cctv1-lh.akamaihd.net/i/cctv1_1@619500/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://111.44.138.251:16414/contents39/live/CHANNEL9908b259e5a74eb59270318d56a33840/HD_1396371360726111648/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://112.50.243.7/PLTV/88888888/224/3221226489/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://183.207.249.9/PLTV/3/224/3221225530/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://hbpx.chinashadt.com:2036/live/px2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://hhab.chinashadt.com:2136/live/di1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://hnqf.chinashadt.com:2036/live/8.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://www.szmgiptv.com:14437/hls/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://39.135.16.142:6060/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1D941LM.png",CN | CCTV 1
-http://cctv.v.kcdnvip.com/live/cctv1_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://220.158.149.28:8180/TV00000000000000000103@HHZT;LIVE 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://183.207.248.11/PLTV/4/224/3221225866/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://hbry.chinashadt.com:1938/live/1002.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://sxws.chinashadt.com:1936/live/tv7.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://cctv.v.kcdnvip.com/live/cctv8_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://223.110.245.139:80/PLTV/4/224/3221227304/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227304/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227418/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://121.31.30.90:8085/ysten-business/live/cctv-8/yst.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://117.169.120.140:8080/live/cctv-8/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://223.110.242.131:6610/cntv/live1/HD-2500k-1080P-cctv8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://39.135.32.29:6610/000000001000/1000000001000003736/index.m3u8?i
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvRmOhJ.png",CN | CCTV 8
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G44EeoI.png",CN | CCTV 9
-http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225868/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://112.50.243.7/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://112.50.243.7/PLTV/88888888/224/3221226488/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227317/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://hnmc.chinashadt.com:3036/live/1004.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://cctv.v.live.qingcdn.com/live/cctv10_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://223.110.245.170/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://117.169.120.140:8080/live/cctv-10/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://183.207.249.71/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://223.110.242.131:6610/cntv/live1/cctv-10/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jh68vnP.png",CN | CCTV 10
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225984/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RpVm4KK.jpg",CN | iPanda
-http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXZZoB9.jpg",CN SPORT | CCTV Golf - Tennis Channel
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXuzh9z.png",CN | Heilongjiang Satellite TV HD
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
+http://223.110.249.133:6410/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4kvWvr.png",CN | QXNDT 1
 http://live.qxndt.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4kvWvr.png",CN | QXNDT 2
