@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LrNmGm7.png",IT SPORT | PMG Sport
+https://pulsemediav4-apple-live.secure.footprint.net/egress/bhandler/pulsemediav4/channel01rtmp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t80tXIJ.png",ID SPORT | MNC Sports
 http://202.80.222.182/000001/2/ch00000090990000001753/1024.m3u8?m3u8_level=2&zte_bandwidth=1003&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OM0nDru.png",US SPORT | WOSN TV
@@ -181,16 +183,6 @@ http://37.152.135.169:9002/play/a002/index.m3u8
 http://37.152.135.169:9002/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sZpnm3U.png",HU SPORT | StreamSport
 https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aQNLp5y.png",ID SPORT | SuperSoccer TV
-http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aQNLp5y.png",ID SPORT | SuperSoccer TV
-http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aQNLp5y.png",ID SPORT | SuperSoccer TV
-http://210.210.155.35/uq2663/h/h20/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aQNLp5y.png",ID SPORT | SuperSoccer TV
-http://210.210.155.35/uq2663/h/h20/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aQNLp5y.png",ID SPORT | SuperSoccer TV
-http://45.126.83.51/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ykUfUM.jpg",IN SPORT | Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2ev9TV.jpg",IN SPORT | DD Sports
