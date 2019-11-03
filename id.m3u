@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lUeOoD.jpg",ID | Pontianak Televisi
+http://122.248.43.138:1935/ch15/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oU3pRA2.jpg",ID | Padang TV
+http://122.248.43.138:1935/ch16/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oU3pRA2.jpg",ID | Padang TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9hrjwi.png",ID | Radar TV
+http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzrhCXa.png",ID | Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzrhCXa.png",ID | Ahsan TV
@@ -169,8 +177,7 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJCbDAn.png",ID | Nu Channel
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="",ID | Padang TV
-https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png",ID | Rajawali TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219992019062322543114287379
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHDcCfx.png",ID | RCTI
