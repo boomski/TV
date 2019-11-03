@@ -171,5 +171,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/KdBRGDQ.png</thumbnail>  
 <fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item> 
+  
+<item>
+<title>US | ESPN SEC Network</title>   
+<link>$doregex[get-decode]|Referer=http://yoursports.stream/live?v=play?s=c2Vj&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0</link>
+<regex>
+<name>base64</name>
+ <expres><![CDATA[mustave = atob.'(.*?)']]></expres>
+ <page>http://yoursports.stream/ing/play?s=c2Vj</page>
+ <cookieJar></cookieJar>
+ </regex>
+ <regex>
+ <name>get-decode</name>
+ <expres>$pyFunction:base64.b64decode("$doregex[base64]")</expres>
+ <page></page>
+ </regex>
+<thumbnail>https://i.imgur.com/ZmWGNBv.jpg</thumbnail>
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart> 
 </item>  
 </items>
