@@ -71,6 +71,14 @@ http://223.110.249.133:6410/gitv/live1/G_CETV-4/G_CETV-4
 http://gccnchwc.v.cdn20.com/gc/xiongmao01_1.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9iCUve.jpg",CN | Xiamen Satellite TV
 http://223.110.249.133:6410/gitv/live1/G_XIAMEN/G_XIAMEN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | Xiamen TV 1
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | Xiamen TV 2
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | Xiamen TV 3
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9iCUve.jpg",CN | Xiamen Satellite TV
+http://cstvpull.live.wscdns.com/live/xiamen4.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dNqLAiD.png",CN | Henan Satellite TV
 http://223.110.249.133:6410/gitv/live1/HENAN/HENAN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rsjRoWS.png",CN | Shenzhen Satellite TV
@@ -197,14 +205,6 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
 http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7cLVUk.jpg",CN | SinoVision
 http://ec.sinovision.net/video/ts/newlv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV 1
-http://cstvpull.live.wscdns.com/live/xiamen1.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV 2
-http://cstvpull.live.wscdns.com/live/xiamen2.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV 3
-http://cstvpull.live.wscdns.com/live/xiamen3.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",CN | XMTV Star
-http://cstvpull.live.wscdns.com/live/xiamen4.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8Z939N.png",CN XXX | HOT
 http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1kB5Mk6.png",CN XXX | Rainbow TV
