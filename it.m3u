@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LrNmGm7.png",IT SPORT | PMG Sport
+https://pulsemediav4-apple-live.secure.footprint.net/egress/bhandler/pulsemediav4/channel01rtmp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBP50Wa.jpg",IT | Primocanale
 http://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8?sd=10&rebase=on 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeuezBt.jpg",IT | Primocanale Liguria
