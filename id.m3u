@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EsprRfi.jpg",ID | RCTV
+http://122.248.43.138:1935/ch9/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xBiOcX.png",ID | BTV Sepekan
+http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q83PHlN.png",ID | Riau Televisi
+http://122.248.43.138:1935/ch11/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAdueTP.png",ID | RBTV Bengkulu
+http://122.248.43.138:1935/ch12/myStream/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjlcwLk.jpg",ID | SBO
+http://122.248.43.138:1935/ch13/myStream/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FB0kF2l.png",ID | Jek TV Jambi
+http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lUeOoD.jpg",ID | Pontianak Televisi
 http://122.248.43.138:1935/ch15/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oU3pRA2.jpg",ID | Padang TV
@@ -7,6 +19,12 @@ http://122.248.43.138:1935/ch16/myStream/chunklist.m3u8
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9hrjwi.png",ID | Radar TV
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CulEP32.png",ID | Jawapostv
+http://122.248.43.138:1935/ch18/myStream/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8sv6gD.png",ID | STV Samarinda
+http://122.248.43.138:1935/ch19/myStream/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IW3VzLi.jpg",ID | Jambi TV
+http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzrhCXa.png",ID | Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzrhCXa.png",ID | Ahsan TV
@@ -177,7 +195,6 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJCbDAn.png",ID | Nu Channel
 http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/500px-Rajawali_Televisi.svg.png",ID | Rajawali TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219992019062322543114287379
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHDcCfx.png",ID | RCTI
