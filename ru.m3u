@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSTfCLZ.jpg",RU | Tyumenskoye vremya
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IRSgGY8.png",RU | PINGVIN LOLO
 http://82.193.71.93:80/LoLoRuSattelite/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EqmdFai.jpg",RU | PRO 100 TV
@@ -373,8 +375,6 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
 #EXTINF:-1 tvg-id="tugan-tel" tvg-name="Туган Тел" tvg-logo="https://i.imgur.com/6rbVqcY.png",RU | Туган Тел
 http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
-#EXTINF:-1 tvg-id="tumenskoe-vremia" tvg-name="Тюменское время" tvg-logo="" group-title="Local",RU | Тюменское время
-http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="udmurtia" tvg-name="Удмуртия" tvg-logo="" group-title="Local",RU | Удмуртия
 http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="urfo24" tvg-name="УрФО24" tvg-logo="" group-title="Local",RU | УрФО 24
