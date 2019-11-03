@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h36wuCx.jpg",EG | Aghapy TV
+http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbC1X9B.png",EG | Al Fath TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HocMyE.jpg",EG | Al Hayat
