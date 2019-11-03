@@ -17,6 +17,8 @@ http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/play
 http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHHE8Rt.png",DE XXX | Babestation24
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iV0doUF.png",DE XXX | Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uj8JQFY.png",DE | Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uj8JQFY.png",DE | Baden TV
