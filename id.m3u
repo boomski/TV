@@ -1,45 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",ID | Ahsan TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzrhCXa.png",ID | Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-1 tvg-logo="",ID | Ahsan TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzrhCXa.png",ID | Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png",ID | Animax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sdXTKay.png",ID | Bandung TV [720p]
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sdXTKay.png",ID | Bandung TV [360p]
+http://202.150.153.254/bandungtv360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppn6fe3.png",ID | Animax
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png",ID | Animax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ppn6fe3.png",ID | Animax
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png",ID | Aniplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDTwOLR.png",ID | Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Antv.png",ID | ANTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MpbDR7.png",ID | ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="",ID | ANTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MpbDR7.png",ID | ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Balitv_2002.png",ID | Bali TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1sCsWC.png",ID | Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="",ID | Bali TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1sCsWC.png",ID | Bali TV
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="",ID | BeritaSatu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UI1Frkm.png",ID | BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151",ID | BeritaSatu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UI1Frkm.png",ID | BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg",ID | BeritaSatu World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0YGZhq0.png",ID | BeritaSatu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/celestial--1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg",ID | Celestial 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TygM2Qk.png",ID | Celestial 
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="",ID | Celestial 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TygM2Qk.png",ID | Celestial 
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png",ID | Celestial 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TygM2Qk.png",ID | Celestial 
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
-#EXTINF:-1 tvg-logo="",ID | CNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvMxAtL.png",ID | CNA
 http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
-#EXTINF:-1 tvg-logo="",ID | CNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvMxAtL.png",ID | CNA
 http://210.210.155.35/uq2663/h/h29/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",ID | CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sm7VkJ6.png",ID | CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",ID | CNN Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JwhuoWm.png",ID | CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",ID | CNN Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JwhuoWm.png",ID | CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png",ID | CNN Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JwhuoWm.png",ID | CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="",ID | CNTV 2
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
