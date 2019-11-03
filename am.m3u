@@ -1,68 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uTpdxvo.png",AM | 5 Channel
-http://ott-cdn.ucom.am/s6/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vQVwUV.jpg",AM | Amga
 https://streamer1.connectto.com/AMGA_WEB_1202/amga/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5RquBOS.jpg",AM | Arm News TV
-http://ott-cdn.ucom.am/s11/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5RquBOS.jpg",AM | Arm News TV
-http://ott-cdn.ucom.am/s11/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CR9UQIA.png",AM | Armenia Comedy
-http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PHyikQJ.png",AM | Armenia TV
-http://ott-cdn.ucom.am/s4/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PHyikQJ.png",AM | Armenia TV
-http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kbCyJhp.jpg",AM | Armenia TV Premium 1
-http://ott-cdn.ucom.am/s83/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kbCyJhp.jpg",AM | Armenia TV Premium 1
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o2rwtC8.png",AM | Armenia TV Premium 2
-http://ott-cdn.ucom.am/s22/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxwdNwD.png",AM | Armenia TV Premium 4
-http://ott-cdn.ucom.am/s32/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGK9VSf.jpg",AM | ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5JGJRL9.png",AM | ATV
-http://ott-cdn.ucom.am/s8/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLEj30l.png",AM | ATV Filmzone
-http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8DToc8n.png",AM | ATV Cooking
-http://ott-cdn.ucom.am/s53/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8DToc8n.png",AM | ATV Cooking
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ItM7u0A.png",AM | ATV Kids
-http://ott-cdn.ucom.am/s74/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bfj8O2N.png",AM | ATV Cinema
-http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OXaJoQI.png",AM | ATV Hay TV
-http://ott-cdn.ucom.am/s73/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OXaJoQI.png",AM | ATV Hay TV
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLEj30l.png",AM | ATV Movie
-http://ott-cdn.ucom.am/s48/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b1gT2mR.png",AM | Bazmoc
-http://ott-cdn.ucom.am/s74/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKVkDVo.png",AM | H1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKVkDVo.png",AM | H1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MKVkDVo.png",AM | H1
-http://ott-cdn.ucom.am/s1/05.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJOPtzM.png",AM | H2
-http://ott-cdn.ucom.am/s2/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N0epdVk.png",AM | Hay kino
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/71OQvXB.jpg",AM | Kentron
-http://ott-cdn.ucom.am/s5/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/71OQvXB.jpg",AM | Kentron
-http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AhCxEDh.png",AM | Kinoman ATV
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AhCxEDh.png",AM | Kinoman ATV
-http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHWCflS.jpg",AM | MoTV
-http://ott-cdn.ucom.am/s12/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wSLAZP1.png",AM | PanArmenia
 http://37.221.175.40:8082/Panarm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYO4KjA.jpg",AM | Radio Van 103.0 FM Yerevan
@@ -73,31 +17,8 @@ http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdJeT34.jpg",AM | TBN Armenia
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bLTwA84.png",AM | Tuntunik
-http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NopzOwA.jpg",AM | US Armenia TV
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/llEDEfK.png",AM | Yerkir Media
 http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/llEDEfK.png",AM | Yerkir Media
-http://ott-cdn.ucom.am/s7/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYIJ2PN.png",AM | Armenia TV Premium 3
-http://ott-cdn.ucom.am/s42/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lYIJ2PN.png",AM | Armenia TV Premium 3
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yJBfIax.png",AM | Armenia TV Premium 5
-http://ott-cdn.ucom.am/s46/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LUsP2re.png",AM | Armenia TV Premium 6
-http://ott-cdn.ucom.am/s66/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/juVKKG2.png",AM | Freedom TV
-http://ott-cdn.ucom.am/s3/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/juVKKG2.png",AM | Freedom TV
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I1TxFUq.jpg",AM | AR
-http://ott-cdn.ucom.am/s9/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I1TxFUq.jpg",AM | AR
-http://ott-cdn.ucom.am/s9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USGVQIv.png",AM | 21 HD
-http://ott-cdn.ucom.am/s10/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USGVQIv.png",AM | 21 HD
-http://ott-cdn.ucom.am/s10/index.m3u8
+
