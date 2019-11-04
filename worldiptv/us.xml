@@ -190,14 +190,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/ZmWGNBv.jpg</thumbnail>
 <fanart>https://i.imgur.com/Vse5cgb.jpg</fanart> 
 </item>  
-  http://yoursports.stream/live?v=acc
+
 <item>
 <title>US SPORT | ACCN</title>   
 <link>$doregex[get-decode]|Referer=http://yoursports.stream/live?v=acc&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0</link>
 <regex>
 <name>base64</name>
  <expres><![CDATA[mustave = atob.'(.*?)']]></expres>
- <page>http://yoursports.stream/live?v=acc</page>
+ <page>http://yoursports.stream/ing/acc</page>
  <cookieJar></cookieJar>
  </regex>
  <regex>
