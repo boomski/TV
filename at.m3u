@@ -22,7 +22,7 @@ https://stream.openplayout.org/hls/dorf.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HSRpYUl.jpg",AT | FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxISEZf.png",AT | Go TV
-http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pb4Iqno.png",AT | Hitradio Ö3
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OyOPRtq.png",AT | K-TV
