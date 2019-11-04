@@ -1,142 +1,124 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ykUfUM.jpg",IN SPORT | Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2ev9TV.jpg",IN SPORT | DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2ev9TV.jpg",IN SPORT | DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cq2jLic.jpg",IN | Reporter TV
+http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MawZrKm.jpg",IN | Zoom TV
+http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHoPWXs.jpg",IN | Bollywood TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nt8hp1T.png",IN | Lotus TV News
 http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8 
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/06/3tamiltv.jpg",IN | 3Tamil TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hTGjEAn.png",IN | 3Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJAB5AAB.jpg",IN | 5aab TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cidS6NU.jpg",IN | 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png",IN | 7S Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPR3Zj2.jpg",IN | 7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="9XM-IN" tvg-name="9XM-IN" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",IN | 9XM
 http://161.0.157.5/PLTV/88888888/224/3221227097/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P3j9VWa.png",IN | Aarya TV
 http://150.242.21.2/aaryaa.m3u8
-#EXTINF:-1 tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg",IN | ABP Ananda
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w77jPRO.jpg",IN | ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g",IN | ABP Asmita
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K39fi6a.jpg",IN | ABP Asmita
 http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png",IN | ABP Asmita
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K39fi6a.jpg",IN | ABP Asmita
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg",IN | ABP Majha
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5YucTq.jpg",IN | ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",IN | ABP News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJOIWBM.jpg",IN | ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abu_dhabi_sports_ae_1.png",IN | Abudhabi Sports 1
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abu_dhabi_sports_ae_2.png",IN | Abudhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/ACV.png",IN | ACV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auC7N4L.jpg",IN | ACV
 https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv.png",IN | ACV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auC7N4L.jpg",IN | ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/Juke%20Box.png",IN | ACV Jukebox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Izx7lF.png",IN | ACV Jukebox
 https://acv.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvjukee.png",IN | ACV Jukebox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Izx7lF.png",IN | ACV Jukebox
 https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png",IN | ACV News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WA5Mhlc.jpg",IN | ACV News
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvutsaav.png",IN | ACV Utsav
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4dd6kFp.png",IN | ACV Utsav
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acvplus.png",IN | ACV Utsav Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3C09Io.png",IN | ACV Utsav Plus
 https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",IN | Akaal TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkvqxYx.png",IN | Akaal TV
 http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWIknEr.jpg",IN | Akaram Gallata TV
-http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAgaVPa.jpg",IN | Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaramkids1.png" group-title="Kids",IN | Akaram Kidz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAgaVPa.jpg",IN | Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaram.png",IN | Akaram Mix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhA9NAR.png",IN | Akaram Mix
 http://akaram.zecast.net/akaram-live/akarammix1/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mix.png",IN | Akaram Mix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhA9NAR.png",IN | Akaram Mix
 http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FidIz1G.jpg",IN | Akaram Mix TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhA9NAR.png",IN | Akaram Mix
 http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://saalaitv.com/logo/Akaram.png",IN | Akaram TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZ6e3b8.png",IN | Akaram TV
 http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaram1.png",IN | Akaram TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZ6e3b8.png",IN | Akaram TV
 http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN | Amar Ujala
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1RNBgC.jpg",IN | Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png",IN | Amrita TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7fBCaPB.jpg",IN | Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg",IN | Analai Express HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWWtYDO.png",IN | Analai Express HD
 http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ANANDTV-1.png",IN | Anand TV
-https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ANANDTV-1.png",IN | Anand TV
-https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/745AR754.png",IN | Arihant TV
-https://ylive72-i.akamaihd.net/hls/live/691753/arihant/arihant/playlist.m3u8?b=100-2500&dw=7200&hdnea=st=1568042660~exp=1568057060~acl=!*/691753/arihant/*!/payload/yupptvnewservice_5_-1_na_IN_146.88.24.128/*~hmac=ce9136133e83ec5f44199a19b537ebfc4464402657face38e04d683f193f2b55&partnerid=1000&partnername=YUPPIN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IirZ43F.png",IN | Asianet Middle East
-http://150.242.21.2/middleeast.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89LBgkl.png",IN | Asianet News
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/Asianet%20Utsav.png",IN | Asianet Utsav
-https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8
-#EXTINF:-1 tvg-logo="http://teleon.tv/images/logos/acv-utsav-plus-in.png",IN | Asianet Utsav Plus
-https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",IN | Assam Talks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HfEbO6E.png",IN | Anand TV
+https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkY6Bof.jpg",IN | Arihant TV
+https://ylive72-i.akamaihd.net/hls/live/691753/arihant/arihant/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOgS4Px.png",IN | Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png",IN | Ayush TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gbkizY3.jpg",IN | Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gbkizY3.jpg",IN | Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZw0thL.png",IN | Ayush TV
 http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png",IN | B4U Kadak
+#EXTINF:-1 tvg-logo="https://i.imgur.com/889C8LI.jpg",IN | B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png",IN | B4U Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EI0SHN.jpg",IN | B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
-#EXTINF:-1 tvg-id="B4U Movies-IN" tvg-name="B4U Movies-IN" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2017/03/b4umovies001.jpg",IN | B4U Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EI0SHN.jpg",IN | B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="B4U Music-IN" tvg-name="B4U Music-IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png",IN | B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mj8CBbB.jpg",IN | B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png",IN | B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mj8CBbB.jpg",IN | B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png",IN | B4U Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cz7Bofr.jpg",IN | B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/balleXballetv.jpg",IN | Balle Balle
-http://live.cloud6.in:1935/balleballe/Live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png",IN | BBC World News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rsTzfIU.png",IN | BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.bhaktisagartv.com/images/HD-Logo.png",IN | Bhakti Sagar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAAYr7Q.png",IN | Bhakti Sagar
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN | Bhakti Sagar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uAAYr7Q.png",IN | Bhakti Sagar
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png",IN | Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w06sLAh.jpg",IN | Bollywood Now
 https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN | Boogle Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKsnL62.jpg",IN | Boogle Bollywood
 http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png",IN | Boogle Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKsnL62.jpg",IN | Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BOOGLE56BOLLYWOOD.png",IN | Boogle Bollywood TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKsnL62.jpg",IN | Boogle Bollywood
 http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN | Boss TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ju4dvac.jpg",IN | Boss TV
 http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/ccc.png",IN | CCC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkZnAeb.png",IN | Hatway CCC TV
 https://acv.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/Screenshot_1-1.png",IN | Channel D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pgCgL6j.jpg",IN | Channel D
 http://37.220.111.189:1935/live/Studio_web/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.chsuk.tv/img/cateringcircle.png",IN | Channel S
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXg6qLX.jpg",IN | Channel S
 http://cdn02.iqbroadcast.tv/1345/iqb/ad4e11a583b062d0039b0f1f96769c4b.sdp/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN | Channel Win
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m94KanV.png",IN | Channel Win
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",IN | Channel Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJw5yiv.jpg",IN | Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg",IN | Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUhufk.jpg",IN | Cine Voice
-http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/66/5d/c8/665dc866-df03-0f5f-8f37-fba059f74155/source/512x512bb.jpg",IN | Cine Voice
-http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/cinema_tv_in.png",IN | Cinema TV
 https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/yuppclassicsmarathi.png",IN | Classics Marathi
