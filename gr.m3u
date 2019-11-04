@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlatIjx.jpg",GR SPORT | EPT SPORT
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fpsSia.jpg",GR SPORT | Tile Sport
+http://tv3.streampulse.eu:1935/tilesport/movie1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg",GR | EPT 1
 https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXWk2Dy.jpg",GR | EPT 2
@@ -135,12 +137,8 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AfU5DGE.jpg",GR | Sigma TV
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xokA84y.png",GR | Skai
-http://master.cystreams.com:25461/live/greek/macedonia/42.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fExrqlx.png",GR | Smile TV
-http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P2DO5dj.png",GR | Star
-http://master.cystreams.com:25461/live/greek/macedonia/40.ts
+http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xcBPsdi.png",GR | Start TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qK8gBAq.png",GR | Syros TV1
@@ -181,4 +179,7 @@ http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OnB6n3C.jpg",GR | Mediterranean TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/esX3ggl.png",GR | Cartoon TV
+http://web.onair-radio.eu:1935/cartoon/cartoon/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tB3wqn.png",GR | Montreal TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
