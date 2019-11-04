@@ -174,7 +174,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
   
 <item>
-<title>US | ESPN SEC Network</title>   
+<title>US SPORT | ESPN SEC Network</title>   
 <link>$doregex[get-decode]|Referer=http://yoursports.stream/live?v=play?s=c2Vj&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0</link>
 <regex>
 <name>base64</name>
@@ -188,6 +188,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <page></page>
  </regex>
 <thumbnail>https://i.imgur.com/ZmWGNBv.jpg</thumbnail>
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart> 
+</item>  
+  http://yoursports.stream/live?v=acc
+<item>
+<title>US SPORT | ACCN</title>   
+<link>$doregex[get-decode]|Referer=http://yoursports.stream/live?v=acc&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0</link>
+<regex>
+<name>base64</name>
+ <expres><![CDATA[mustave = atob.'(.*?)']]></expres>
+ <page>http://yoursports.stream/live?v=acc</page>
+ <cookieJar></cookieJar>
+ </regex>
+ <regex>
+ <name>get-decode</name>
+ <expres>$pyFunction:base64.b64decode("$doregex[base64]")</expres>
+ <page></page>
+ </regex>
+<thumbnail>https://i.imgur.com/uiOvleA.jpg</thumbnail>
 <fanart>https://i.imgur.com/Vse5cgb.jpg</fanart> 
 </item>  
 </items>
