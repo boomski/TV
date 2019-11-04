@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidegreece.xml.gz"
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vq4YBIA.png",CY SPORT | Alfa Sport
+https://l7.cloudskep.com/alsports/alsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kpOpUWX.jpg",CY | Cyprus Cinema
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8op3Wh.jpg",CY | Ada TV
