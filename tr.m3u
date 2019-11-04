@@ -1,14 +1,18 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAmKpO6.png",TR SPORT | Sports TV
 https://mn-nl.mncdn.com/blutv_live/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxXWsTf.jpg",TR SPORT | TRT Spor
+https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ceYfPXJ.jpg",TR | TV 4
+https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gHwze2.jpg",TR SPORT | A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzrFNZQ.png",TR SPORT | NTV Spor
 http://46.105.233.106:8181/hls/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WlydW.jpg",TR SPORT | beIN 1 Sports Turkiye
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hxXWsTf.jpg",TR SPORT | TRT Spor
-https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kA45FvQ.jpg",TR | Kanal D
+https://sportbar.biz/lba/123/g9/kanald.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxXWsTf.jpg",TR SPORT | TRT Spor
 http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFcfWcZ.png",TR | TV8 HD
@@ -17,18 +21,16 @@ http://blutv-beta.akamaized.net/tv8hd/tv8hd.smil/playlist.m3u8
 https://blutv-beta.akamaized.net/beyaztv/beyaztv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jKvBsQ.jpg",TR | Star TV
 https://blutv-beta.akamaized.net/startvhd/startvhd.smil/chunklist_b2628000_sltur.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qI07Yw7.jpg",TR | Kanal 7
+https://blutv-beta.akamaized.net/kanal7hd/kanal7hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIo8R2C.png",TR | Metro TV
 http://metrotv.garantisistem.com:1935/metrotv/metrohd/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1lAZKv.png",TR | Mercan TV
-https://59cba4d34b678.streamlock.net/live/mercantv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmCjRrW.jpg",TR | A Haber
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZb4lHB.png",TR | A Para
 https://trkvz-m.ercdn.net/trkvz-temp/aparahdm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIv7xEi.png",TR | A2TV
 http://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8A1HOMZ.png",TR | Afyon Turk TV
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obCp0aK.png",TR | Ahi TV Kirsehir
 http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TaQzL9I.jpg",TR | Akilli TV
@@ -49,8 +51,6 @@ http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 http://kanalben.cubecdn.net/live/kanalben1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTJIlt9.jpg",TR | Beyaz TV
 http://streams2.livetv.az/turk/beyaz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qti5aea.png",TR | Beşiktaş Web TV
-http://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k6DUajb.png",TR | Bursa TV
 https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2phcMx.png",TR | Buyuk Sivas TV
@@ -75,8 +75,18 @@ http://live.netd.com.tr/S1/HLS_LIVE/dha1/index.m3u8
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbkdWg9.png",TR | Diyalog TV
 http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1lAZKv.png",TR | Mercan TV
+https://59cba4d34b678.streamlock.net/live/mercantv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8A1HOMZ.png",TR | Afyon Turk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbkdWg9.png",TR | Diyalog TV
 https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEKxk0v.png",TR | Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8D2zT1.png",TR | Kanal 5
+https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8uqiZD.jpg",TR | Kon TV
+https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MwuqE6S.jpg",TR | DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MwuqE6S.jpg",TR | DMAX
@@ -119,10 +129,6 @@ http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHAGsRk.png",TR | Kanal 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z8D2zT1.png",TR | Kanal 5
-https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qI07Yw7.jpg",TR | Kanal 7
-https://blutv-beta.akamaized.net/kanal7hd/kanal7hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kA45FvQ.jpg",TR | Kanal D
 https://live.dogannet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kA45FvQ.jpg",TR | Kanal D
@@ -133,12 +139,8 @@ http://18515265153.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_1_320/playlist.m3u8?
 http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kA45FvQ.jpg",TR | Kanal D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kA45FvQ.jpg",TR | Kanal D
-https://sportbar.biz/lba/123/g9/kanald.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbVZFtm.png",TR | Kanal Urfa
 http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D8uqiZD.jpg",TR | Kon TV
-https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7H8WKei.png",TR | Kral Pop
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7H8WKei.png",TR | Kral Pop
@@ -231,8 +233,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjTjJ1N.png",TR | TRT World
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ceYfPXJ.jpg",TR | TV 4
-https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3kO0yeE.jpg",TR | Türkiyem
 https://waw2.artiyerelmedya.net/turkiyemtv/bant1/chunklist_w114827257.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0PTAYbs.jpg",TR | UçanKuş TV
@@ -245,6 +245,8 @@ https://s01.vpis.io/wmtv/wmtv.m3u8
 http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xyubJha.png",TR | Doğuş TV
 http://s01.vpis.io/dogustv/dogustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qti5aea.png",TR SPORT | Beşiktaş Web TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ChS6XBo.png",TR | TRT Diyanet
 https://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3KkbTd.png",TR | Ziraat TV
