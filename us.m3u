@@ -1,4 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXEl1Xx.png",US SPORT | MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXEl1Xx.png",US SPORT | MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXEl1Xx.png",US SPORT | MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png",US SPORT | EDGEsport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png",US SPORT | EDGEsport
@@ -19,6 +25,8 @@ https://a.jsrdn.com/broadcast/3gT64sH/1200.m3u8
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OM0nDru.png",US SPORT | WOSN TV
 http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WzdxEay.jpg",US | Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png",US | WPBT South Florida PBS (WPBT)
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EA2rA7R.png",US | PBS
@@ -723,18 +731,6 @@ https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/l
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",US | MCN6
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",US XXX | Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",US XXX | Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",US XXX | Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 tvg-id="MLB Network-US" tvg-name="MLB Network-US" tvg-logo="https://i.imgur.com/mXEl1Xx.png",US SPORT | MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-id="MLB Network-US" tvg-name="MLB Network-US" tvg-logo="https://i.imgur.com/mXEl1Xx.png",US SPORT | MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
-#EXTINF:-1 tvg-id="MLB Network-US" tvg-name="MLB Network-US" tvg-logo="https://i.imgur.com/mXEl1Xx.png",US SPORT | MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg",US | Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XzKinh7.jpg",US | Models Inc.
@@ -1123,8 +1119,6 @@ http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",WHO TV Channel 13 News (WHO-DT)
 http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QIod9ih.png",US | Willow
-http://103.77.252.58:8081/live/willow/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ab3e1242be690697279c75d/logo.png",US | Wipeout
 http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-logo="",US | WJHL-TV (Johnson City)
@@ -1155,7 +1149,12 @@ https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/playl
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3Z5i2L.png",US | Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png",US XXX | Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png",US XXX | Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png",US XXX | Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 
 
 
