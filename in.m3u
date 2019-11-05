@@ -5,6 +5,10 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2ev9TV.jpg",IN SPORT | DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C0JpJOw.jpg",IN | Shemaroo Hindi TV
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C0JpJOw.jpg",IN | Shemaroo Punjabi TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cq2jLic.jpg",IN | Reporter TV
 http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MawZrKm.jpg",IN | Zoom TV
