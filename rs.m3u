@@ -11,6 +11,10 @@ https://sportbar.biz/lba/123/g7/ar5sport.m3u8
 http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RsklyBe.png",RS | RTS 1
 http://62.210.205.41:8080/RTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RsklyBe.png",RS | RTS 1
+http://163.172.43.207:8081/rts1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="",RS | RTS2
+http://163.172.43.207:8081/rts2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkgYixn.jpg",RS | RTV Puls
 http://rtvpuls.itprishtina.com:8005/rtvpuls-eset/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkgYixn.jpg",RS | RTV Puls
