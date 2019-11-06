@@ -41,6 +41,12 @@ https://s1.tntendirect.com/numero23/live/playlist.m3u8
 https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FhnHS8.png",FR | Chérie 25
 https://s1.tntendirect.com/cherie25/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06fP5xL.jpg",FR | TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcUdig8.jpg",FR | TF1 SERIES-FILMS
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLbpKZh.png",FR | TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TqpSgK.png",FR | Numero23
 http://163.172.43.207:8081/numero23/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCAiVeB.png",FR | 6ter
