@@ -56,6 +56,139 @@
 <Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
 </regex>
 </item>  
+  
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 4</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=4</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>  
+  
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 5</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=5</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>   
+  
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 6</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=6</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item> 
+  
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 7</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=7</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item> 
+  
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 8</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=8</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>   
+  
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 9</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=9</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>   
+  
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 10</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=10</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>   
 
 <item>
 <title>SPORT | LIVE SPORT - CHANNEL 78</title>
