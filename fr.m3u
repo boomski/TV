@@ -263,3 +263,5 @@ https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/803evgT.png",FR | viàVosges
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2KsDA0.png",FR VPN | Gulli
+https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
