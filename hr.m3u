@@ -7,3 +7,11 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 http://85.94.81.190:8844/sdi/aurora.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdaxFrx.jpg",HR | Z1
 http://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiwRvO7.png",HR | Doma
+http://62.210.205.41:8080/DOMATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VF4v1Wo.png",HR | Nova
+http://62.210.205.41:8080/NOVATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1VKNE40.png",HR | Pink Plus
+http://62.210.205.41:8080/PINK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0S83Su.png",HR | RTL
+http://62.210.205.41:8080/RTL/index.m3u8
