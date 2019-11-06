@@ -169,7 +169,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/inde
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QfVRYL.png",ID | TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4QfVRYL.png",ID | TVRI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QfVRYL.png",ID | TVRI 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QfVRYL.png",ID | TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
@@ -315,5 +315,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/ind
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3JWfNVZ.png",ID | TVRI Yogyakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4QfVRYL.png",ID | TVRI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QfVRYL.png",ID | TVRI [720p]
 https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QfVRYL.png",ID | TVRI [270p]
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream02/streamPlaylist.m3u8
