@@ -191,7 +191,7 @@
 </item>   
 
 <item>
-<title>SPORT | LIVE SPORT - CHANNEL 78</title>
+<title>SPORT | LIVE SPORT - CHANNEL 78 - NHL</title>
 <thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
 <fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
 <link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
@@ -208,9 +208,28 @@
 <Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
 </regex>
 </item>
+  
+<item>
+<title>SPORT | LIVE SPORT - CHANNEL 79 - NBA</title>
+<thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
+<fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
+<link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<expres><![CDATA[iframe src="(.*?)"]]></expres>
+<page>https://live-sports-stream.net/embed/video.php?channel=79</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+<regex>
+<name>makelist1</name>
+<expres><![CDATA[player","(.*?)"]]></expres>
+<page>$doregex[makelist]</page>
+<Agent>Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0</Agent>
+</regex>
+</item>  
 
 <item>
-<title>SPORT | LIVE SPORT - CHANNEL 80</title>
+<title>SPORT | LIVE SPORT - CHANNEL 80 - NFL</title>
 <thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
 <fanart>https://i.imgur.com/eRgwqhO.png</fanart>     
 <link>https://e14.weplaylive.stream/stream/$doregex[makelist1]/masterm.m3u8|Referer=$doregex[makelist]</link>
