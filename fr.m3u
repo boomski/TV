@@ -11,7 +11,7 @@ https://s1.tntendirect.com/france3/live/playlist.m3u8
 https://s1.tntendirect.com/france4/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRQAsS5.png",FR | FRANCE 5
 https://s1.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GQR2nGg.jpg",FR | FRANCE O
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQR2nGg.jpg",FR | FRANCE Ô
 https://s1.tntendirect.com/franceo/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zthzjPs.png",FR | ARTE
 https://s1.tntendirect.com/arte/live/playlist.m3u8
@@ -29,18 +29,60 @@ https://s1.tntendirect.com/nt1/live/playlist.m3u8
 https://s1.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClMYrD0.png",FR | BFM TV
 https://s1.tntendirect.com/bmftv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fLTTUm.jpg",FR | CSTAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fLTTUm.jpg",FR | CStar
 https://s1.tntendirect.com/d17/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U2KsDA0.png",FR | GULLI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2KsDA0.png",FR | Gulli
 https://s1.tntendirect.com/gulli/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcUdig8.jpg",FR | TF1 SERIES-FILMS
 https://s1.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg",FR | RMC-HISTOIRE
 https://s1.tntendirect.com/numero23/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg",FR | RMC-DECOUVERTE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg",FR | RMC Découverte
 https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FhnHS8.png",FR | Chérie 25
 https://s1.tntendirect.com/cherie25/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TqpSgK.png",FR | Numero23
+http://163.172.43.207:8081/numero23/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xCAiVeB.png",FR | 6ter
+http://163.172.43.207:8081/6ter/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84yWXoj.jpg",FR | NT1
+http://163.172.43.207:8081/nt1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cV2Os0a.jpg",FR | TMC
+http://163.172.43.207:8081/tmc/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlGbRzm.png",FR | HD1
+http://163.172.43.207:8081/hd1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLW5G7x.png",FR | W9
+http://163.172.43.207:8081/w9/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg",FR | RMC Découverte
+http://163.172.43.207:8081/rmcdecouverte/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U2KsDA0.png",FR | Gulli
+http://163.172.43.207:8081/gulli/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNonACy.png",FR | M6
+http://163.172.43.207:8081/m6/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06fP5xL.jpg",FR | TF1
+http://163.172.43.207:8081/tf1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qp2eWJW.png",FR | NRJ 12
+http://163.172.43.207:8081/nrj12/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fLTTUm.jpg",FR | CStar
+http://163.172.43.207:8081/d17/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4ApWGr.jpg",FR | C8
+http://163.172.43.207:8081/d8/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gu22WDJ.png",FR | CNews
+http://163.172.43.207:8081/itele/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zg1VRRE.png",FR | FRANCE 2
+http://163.172.43.207:8081/france2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1qAZ5N.jpg",FR | FRANCE 3
+http://163.172.43.207:8081/france3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLaq3fo.png",FR | FRANCE 4
+http://163.172.43.207:8081/france4/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRQAsS5.png",FR | FRANCE 5
+http://163.172.43.207:8081/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zthzjPs.png",FR | ARTE
+http://163.172.43.207:8081/arte/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FhnHS8.png",FR | Chérie 25
+http://163.172.43.207:8081/cherie25/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQR2nGg.jpg",FR | FRANCE Ô
+http://163.172.43.207:8081/franceo/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r1pq8hQ.png",FR | Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r1pq8hQ.png",FR | Alsace 20
