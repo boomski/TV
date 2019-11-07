@@ -29,12 +29,14 @@ http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u
 https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqiyOPo.jpg",DE | BLK TV
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVoPROn.png",DE | BR Event 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUOLpfa.png",DE | BR Event 1
 http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVoPROn.png",DE | BR Event 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUOLpfa.png",DE | BR Event 2
 http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QVoPROn.png",DE | BR Event 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUOLpfa.png",DE | BR Event 3
 http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUOLpfa.png",DE | BR Event 4
+http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVoPROn.png",DE | BR Fernsehen1
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVoPROn.png",DE | BR Fernsehen Sued
