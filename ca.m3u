@@ -38,6 +38,8 @@ http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ul9qddp.jpg",CA | EMCI TV (Montréal)
 https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png",CA | EWTN Canada
+https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png",CA | EWTN Canada
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c34WFZw.png",CA | Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
