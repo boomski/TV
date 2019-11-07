@@ -8,9 +8,13 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pW6pPFF.jpg",SE | Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5ktCEA.jpg",SE | Kanal 10
-http://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p5ktCEA.jpg",SE | Kanal 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qtWLJkM.png",SE | Kanal 10 Asia
+http://cdn-kanal10.crossnet.net:1935/kanal10/ngrp:kanal10asia_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWNNpB6.png",SE | Kanal 10 Norge
+http://cdn-kanal10.crossnet.net:1935/kanal10no/mp4:live1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5ktCEA.jpg",SE | Kanal 10 Sverige
+https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10sverige_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvwiSqt.png",SE | TV 4
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/psAAPIE.jpg",SE | TV 4 Nyheterna
