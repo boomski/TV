@@ -1,10 +1,8 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYWg1gp.png",RU | Ocean TV
+http://188.35.9.5:10007/stolen/122v/parasite.install
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oSTfCLZ.jpg",RU | Tyumenskoye Vremya
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IRSgGY8.png",RU | PINGVIN LOLO
-http://82.193.71.93:80/LoLoRuSattelite/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EqmdFai.jpg",RU | PRO 100 TV
-http://82.193.71.93:80/Pro100TvRuSattelite/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVXp6k9.png",RU | Udmurtiya
 https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AP8kAv8.png",RU | 360°
@@ -13,8 +11,6 @@ http://360tv-cdn.facecast.io/360/channel2/1.m3u8
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AP8kAv8.png",RU | 360°
 http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AP8kAv8.png",RU | 360°
-https://strm.yandex.ru/kal/360tv/360tv0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djWB6E5.png",RU | 360° Новости
 http://360tv-cdn.facecast.io/360/channel1/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iOujgHR.png",RU | 47 Канал
@@ -45,8 +41,6 @@ http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111
 http://91.204.234.3:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ju3mLgq.png",RU | Fresh TV
 http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju3mLgq.png",RU | Fresh TV
-http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",RU | GlobalStar TV
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Cv33AY.png",RU | HD Media 3D
