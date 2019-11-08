@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz"
-#EXTINF:-1 tvg-logo="",IT SPORT VPN | Rai Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXRDdYm.jpg",IT SPORT VPN | Rai Sport 1
 https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/raisport1_1800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="",IT SPORT VPN | Rai Sport Web 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXRDdYm.jpg",IT SPORT VPN | Rai Sport Web 1
 https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="",IT SPORT VPN | Rai Sport Web 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXRDdYm.jpg",IT SPORT VPN | Rai Sport Web 2
 https://b2everyrai-lh.akamaihd.net/i/raisportjolly2_1@181924/index_1500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="",IT SPORT VPN | Rai Sport Web 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXRDdYm.jpg",IT SPORT VPN | Rai Sport Web 3
 https://everyrai-lh.akamaihd.net/i/raisportjolly3_1@125929/index_1500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LrNmGm7.png",IT SPORT | PMG Sport
 https://pulsemediav4-apple-live.secure.footprint.net/egress/bhandler/pulsemediav4/channel01rtmp/chunklist.m3u8
