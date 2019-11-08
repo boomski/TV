@@ -1,6 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYWg1gp.png",RU | Ocean TV
 http://188.35.9.5:10007/stolen/122v/parasite.install
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KC6AdSE.png",RU | Volga
+http://188.35.9.5:10007/stolen/216v/parasite.install
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gef9Kml.png",RU | Yurgan
+http://188.35.9.5:10007/stolen/221v/parasite.install
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oSTfCLZ.jpg",RU | Tyumenskoye Vremya
 http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVXp6k9.png",RU | Udmurtiya
