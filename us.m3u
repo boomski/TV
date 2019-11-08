@@ -73,7 +73,7 @@ https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
 https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yaMhN8U.jpg",US | USA HD
 https://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
-#EXTINF:-1 tvg-id="Fox News-US" tvg-name="Fox News-US" tvg-logo="https://i.imgur.com/e9sgV1r.png",US | FOX News HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e9sgV1r.png",US | FOX News HD
 https://cvtv.cvalley.net/hls/FoxNewsHD/FoxNewsHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vHYFQYR.png",US SPORT | Fox Sports 1
 https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
@@ -612,7 +612,7 @@ https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",US | FiOS1 News Long Island
 https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_b159ee77/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hV46zMX.png",US | Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/KSAZ_logo_2006.png/225px-KSAZ_logo_2006.png",US | FOX 10 Phoenix (KSAZ-TV)
 http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
 #EXTINF:-1 tvg-logo="https://localtvkstu.files.wordpress.com/2019/01/kstulogo.jpg",US | FOX 13 Salt Lake City (KSTU)
@@ -739,31 +739,29 @@ https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39NuAwl.png",US | Law And Crime Network
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",US | Leominster TV Educational
+#EXTINF:-1 tvg-logo="",US | Leominster TV Educational
 http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",US | Leominster TV Educational
-http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Leominster TV Government
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",US | Leominster TV Government
 http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",US | Leominster TV Government
-http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",Leominster TV Public
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",US | Leominster TV Public
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="http://www.leominster.tv/SiteAssets/LATV%20Black%20and%20Gold.png",US | Leominster TV Public
-http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",US | Lex TV
-http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
-#EXTINF:-1 tvg-logo="http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png",US | Lex TV
-http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",US | LifevisionTV
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/02KWJFS.png",US | Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAMzBTH.jpg",US | LifevisionTV
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/9AnBf9_s5RDDg6joBI3kPqglfVddV72Esw1jGBc4rGzlxUElacw4UQy_z2CTVnI7vHgZXDQbqp2Gw5UqzD3uvzkJXfT0YZbxKmoeNMo",US | Local Now Philidelphia
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YnOZtNm.png",US | LoveWorld USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",US | MCN6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9t9WPSV.png",US | MCN6
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg",US | Mobcrush
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xz6SCBa.jpg",US | Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XzKinh7.jpg",US | Models Inc.
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
@@ -799,9 +797,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOFEg4F.png",US | National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="US-NBC HD New York" tvg-name="US-NBC HD New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png",US | NBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lH1MDVs.png",US | NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/WTVJ_2009_Logo.png",US | NBC 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VIhINRP.jpg",US | NBC 6 South Florida (WTVJ)
 http://190.80.3.28/NBC/NBC.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIhINRP.jpg",US | NBC 6 South Florida (WTVJ)
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
