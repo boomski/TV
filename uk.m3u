@@ -11,6 +11,14 @@ http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",UK SPORT | BT Sport 2
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4U6yS7q.jpg",UK | Sky Disney
+http://95.170.215.118/hls/m3u8/Sky-MoviesDisney.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTEJmih.png",UK | Sky Family
+http://95.170.215.118/hls/m3u8/Sky-MoviesFamily.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjDhtvA.png",UK | Sky Cinema Drama
+http://95.170.215.118/hls/m3u8/Sky-MoviesDrama.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mALwVqT.png",UK | Sky Cinema Comedy
+http://95.170.215.118/hls/m3u8/Sky-MoviesComedy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",UK SPORT | Sky Sports Main Event
 https://sportbar.biz/lba/123/g2/maineventss.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",UK SPORT | BT Sport 2
