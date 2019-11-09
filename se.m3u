@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5CdW62M.png",SE | ATG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7V46L55.png",SE SPORT | CMore Football
+http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5CdW62M.png",SE SPORT | ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zApTDWn.png",SE | Di TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
@@ -21,13 +23,14 @@ https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRh8iCp.png",SE | TV 4 Svensk Politik
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mol9GKz.jpg",SE | Västmanlands TV
-https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1wCZTZ.jpg",SE | Öppna Kanalen
 http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvwiSqt.png",SE | TV 4
+http://188.35.9.5:10007/stolen/245e/parasite.install
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mol9GKz.jpg",SE | Västmanlands TV
+https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KAGE41l.jpg",SE | Malmö mediakanal
 https://edg02-prd-se-ixn.solidtango.com/edge/_8ynhbua3_/8ynhbua3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fydpCS.png",SE | Miracle Channel
 http://miracle_worker-02.stream.boxigy.com/hls/miracle1_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mvwiSqt.png",SE | TV 4
-http://188.35.9.5:10007/stolen/245e/parasite.install
+
