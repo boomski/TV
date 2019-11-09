@@ -1,4 +1,18 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaDsVKL.jpg",IN | Sangeet Bangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cXJDNAc.png",IN | Zoom
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWOet8s.png",IN | Zee Bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZN2LON.jpg",IN | Star Jalsha
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wlPjlp8.png",IN | Star Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBMSpmk.jpg",IN | Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AZnB240.jpg",IN | Zee TV
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ykUfUM.jpg",IN SPORT | Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2ev9TV.jpg",IN SPORT | DD Sports
@@ -451,7 +465,7 @@ http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
 http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GylvfMQ.png",IN | Star Movies HD Middle East
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BZSRtmI.png",IN | Star World HD Middle East
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vBMSpmk.jpg",IN | Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nwxCDxG.png",IN | Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
