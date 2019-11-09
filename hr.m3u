@@ -15,3 +15,7 @@ http://62.210.205.41:8080/NOVATV/index.m3u8
 http://62.210.205.41:8080/PINK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0S83Su.png",HR | RTL
 http://62.210.205.41:8080/RTL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vyjuvuD.png",HR | HRT 2
+http://62.210.205.41:8080/HRT2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xRs1zDm.png",HR | HRT 1
+http://62.210.205.41:8080/HRT1/index.m3u8
