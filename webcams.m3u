@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jhX2v4.png",Italy - Val di Fassa
 http://46.234.224.177:81/axis-cgi/mjpg/video.cgi?timestamp=AXIS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltdfMND.png",Switzerland - Niesen
+http://212.147.32.236:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JTg4D7.png",Ukraine - Victory Square
 http://vps.guru.ua/hls/pobedy.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JTg4D7.png",Ukraine - St. Andrew's Descent
