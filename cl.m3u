@@ -111,6 +111,8 @@ https://v2.tustreaming.cl/canal11aysen/live1/tracks-v1a1/mono.m3u8
 https://v3.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wg4djPb.png",CL | AM Canal
 http://v3.tustreaming.cl/amtv/live1/tracks-v1a1/rewind-999999.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GNjmXxP.png",CL | UTV San Clemente
+http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAj2nzu.jpg",CL | Canal 11 Cabrero
 http://play.streaminghd.cl:80/claudio441/claudio441/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hq8ri30.jpg",CL | Nuevo Tiempo
@@ -175,3 +177,9 @@ http://canal22santiago.cl/Cellular_High/playlist.m3u8
 http://li1008-155.members.linode.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbZH1tl.png",CL | TV Red
 http://45.33.58.155:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1d5nq3F.png",CL | UESTV Los Lagos
+http://uestv.02.cl.cdnz.cl/uloslagos/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3FpQAc.png",CL | VTV Aconcagua  
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3FpQAc.png",CL | VTV Viña del Mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
