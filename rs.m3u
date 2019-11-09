@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-exyu.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfxXFkL.jpg",RS | PRVA
+http://62.210.205.41:8080/PRVA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWTmaji.jpg",RS | Pink
+http://62.210.205.41:8080/PINK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbKECO8.png",RS SPORT | ARENA SPORT 1
 https://sportbar.biz/lba/123/g6/arena1rs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHRWK6Y.png",RS SPORT | ARENA SPORT 3
