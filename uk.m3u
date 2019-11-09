@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",UK SPORT | Sky Sports Football HD
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",UK SPORT | Sky Sports Premier League HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",UK SPORT | Sky Sports Football HD
+http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",UK SPORT | Sky Sports Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5lJcL.jpg",UK SPORT | BT Sport 1HD
+http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",UK SPORT | BT Sport 2
+http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgcR1ju.jpg",UK SPORT | Sky Sports Main Event
 https://sportbar.biz/lba/123/g2/maineventss.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png",UK SPORT | BT Sport 2
