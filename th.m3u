@@ -29,6 +29,10 @@ http://stream.doball.com:8080/hls/ch13.m3u8
 http://stream.doball.com:8080/hls/ch14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YKKWJe.png",TH SPORT | DOBALL 15 HD
 http://stream.doball.com:8080/hls/ch15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMB0rMA.png",TH SPORT | True Premier Football 1
+http://119.59.116.83:8081/4k/t1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIajfHG.png",TH SPORT | True Premier Football 2
+http://119.59.116.83:8081/4k/t2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fdopfeC.jpg",TH | 13 Siam TV
 http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KVr5UN.png",TH | 69 TV
