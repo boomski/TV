@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qbsJP9C.png",TR SPORT | Yeni Malatyaspor TV
+http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",AL SPORT | RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVRlYjT.png",UK SPORT | Sky Sports Football HD
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBF6vAk.png",UK SPORT | Sky Sports Premier League HD
@@ -13,6 +17,16 @@ http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7V46L55.png",SE SPORT | CMore Football
 http://95.170.215.120/hls/m3u8/CMore-Football.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMB0rMA.png",TH SPORT | True Premier Football 1
+http://119.59.116.83:8081/4k/t1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIajfHG.png",TH SPORT | True Premier Football 2
+http://119.59.116.83:8081/4k/t2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lIAs2dG.png",PK SPORT | One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWAFjro.png",CN SPORT | CCTV 5
+http://223.110.249.133:6410/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rH3s3LG.png",CN SPORT | CCTV 5+
+http://223.110.249.133:6410/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ
 #EXTINF:-1 tvg-logo="",IT SPORT VPN | Rai Sport 1
 https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/raisport1_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="",IT SPORT VPN | Rai Sport Web 1
@@ -27,20 +41,12 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",US SPORT | Tennis Plus 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lIAs2dG.png",PK SPORT | One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qbsJP9C.png",TR SPORT | Yeni Malatyaspor TV
-http://5.39.105.79:1935/santraltv_925/santraltv_925/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxXWsTf.jpg",TR SPORT | TRT Spor
 http://blutv-beta.akamaized.net/trtsporhd/trtsporhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fpsSia.jpg",GR SPORT | Tile Sport
 http://tv3.streampulse.eu:1935/tilesport/movie1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VGU1uTD.png",CY SPORT | Alfa Sport
 https://l7.cloudskep.com/alsports/alsports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWAFjro.png",CN SPORT | CCTV 5
-http://223.110.249.133:6410/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rH3s3LG.png",CN SPORT | CCTV 5+
-http://223.110.249.133:6410/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LrNmGm7.png",IT SPORT | PMG Sport
 https://pulsemediav4-apple-live.secure.footprint.net/egress/bhandler/pulsemediav4/channel01rtmp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OM0nDru.png",US SPORT | WOSN TV
@@ -107,8 +113,6 @@ http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3
 http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxxjMPJ.jpg",AE SPORT | Dubai Sports 3
 http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",AL SPORT | RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S0WUoFW.png",AL SPORT | Supersport 3
 https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpMOpHQ.png",AT SPORT VPN | ORF Sport Plus
