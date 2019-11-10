@@ -1,4 +1,14 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjgMGVp.jpg",IQ | Babylon TV
+https://babylonlive.net/babylontv/kardokardo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2oBo5hq.jpg",IQ | Al Taghier TV
+http://api.new.livestream.com/accounts/17678123/events/8170529/broadcasts/198767789.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lj7NOj0.png",IQ | Al Fallujah
+http://api.new.livestream.com/accounts/4671269/events/4213685/broadcasts/198764660.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TggZsj.jpg",IQ | Al-Rafidain TV
+http://cdn.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQ07yb3.png",IQ | Al-Masar Al-Oula Satellite Channel
+http://212.18.231.213:1935/almasar/_definst_/almasar_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqmtvgL.jpg",IQ | Al Hurra Iraq
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypXkamI.png",IQ | Ishtar
@@ -23,7 +33,7 @@ http://www.elahmad.com/tv/m3u8/gmswf.m3u8?id=alrasheed
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qNi4rwG.jpg",IQ | Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5buqzt.jpg",IQ | Al-Rafidain TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2TggZsj.jpg",IQ | Al-Rafidain TV
 http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5JpO5ml.png",IQ | Astera TV
 http://cdn.teradek.live:1935/live/astera/chunklist.m3u8
