@@ -1,14 +1,26 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqmtvgL.jpg",IQ | Al Hurra Iraq
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypXkamI.png",IQ | Ishtar
+http://avenuewtv1.srfms.com:4436/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m8uGzDA.jpg",IQ | Al Fady
+http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ln8Jhmp.jpg",IQ | Aldiyar TV
 http://82.212.74.99:8000/live/hls/8166.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iV3H8eY.png",IQ | ANB
 http://82.212.74.100:8000/live/hls/8127.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Uwxwks.jpg",IQ | ANBsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Uwxwks.jpg",IQ | ANBsat
+https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyMDWkz.jpg",IQ | Al Mayadeen TV
 http://95.170.215.109/hls/MAYADEEN-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLYX2bO.png",IQ | Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLYX2bO.png",IQ | Al Rasheed
 http://www.elahmad.com/tv/m3u8/gmswf.m3u8?id=alrasheed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/foIeOzU.png",IQ | Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qNi4rwG.jpg",IQ | Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5buqzt.jpg",IQ | Al-Rafidain TV
@@ -39,6 +51,8 @@ http://live.imamhossaintv.com/live/ih4.m3u8
 https://ur.imamhusseintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GLfhYSH.png",IQ | Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BR3XTPh.png",IQ | AshurSat
+https://5afd52b55ff79.streamlock.net/AshurSat/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srOJGEF.png",IQ | KurdMax
 http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IIfqqD2.png",IQ | KurdMax Music
