@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items> 
+<item>
+<title>US | Emily Ortiz</title>
+<fanart>https://i.imgur.com/Nm7r9Ti.jpg</fanart>
+<thumbnail>https://i.imgur.com/QJFN632.png</thumbnail>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/emilyortiz1/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+
+<item>
+<title>NL | Elise</title>
+<fanart>https://i.imgur.com/P8iEusy.jpg</fanart>
+<thumbnail>https://i.imgur.com/PyStn84.png</thumbnail>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/siswet19/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+
+<item>
+<title>RU | Lucy Candy</title>
+<fanart>https://i.imgur.com/6UfeSa9.jpg</fanart>
+<thumbnail>https://i.imgur.com/yUIOC2Y.png</thumbnail> 
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/lusycandy/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+
+<item>
+<title>RU | Veronika</title>
+<fanart>https://i.imgur.com/MthIZoG.png</fanart>
+<thumbnail>https://i.imgur.com/yUIOC2Y.png</thumbnail>   
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/ronny_ponny/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+
+<item>
+<title>RU | Sophie & Eva</title>
+<fanart>https://i.imgur.com/yY3YDhg.jpg</fanart>
+<thumbnail>https://i.imgur.com/yUIOC2Y.png</thumbnail>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/sophiesatsy/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+</items>
