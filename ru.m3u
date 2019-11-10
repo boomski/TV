@@ -131,6 +131,8 @@ http://xstream.afontovo.ru/afontovo_sd.m3u8
 http://iptv.barstv.ru/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36dR6ft.jpg",RU | Soviet Cinema
 http://178.124.183.13:80/hls/CH_SOVKINO/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGLk36g.jpg",RU | Film TV
+http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1 tvg-id="bashkortostan24" tvg-name="Башкортостан 24" tvg-logo="https://gtrk.tv/sites/default/files/channels/mono/mono-b24.png",RU | Башкортостан 24
 http://live.gtrk.tv/720/b24-720.m3u8
 #EXTINF:-1 tvg-id="belgorod24" tvg-name="Белгород 24" tvg-logo="" group-title="Local",RU | Белгород 24
