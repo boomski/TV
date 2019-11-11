@@ -1,6 +1,96 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> 
 <item>
+<title>LT | Aura</title>
+<fanart>https://i.imgur.com/Q4BNjN7.png</fanart>
+<thumbnail>https://i.imgur.com/Q4IFn63.png</thumbnail>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/aura_69/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>  
+   
+<item>
+<title>CA | Ivy Jones</title>
+<fanart>https://i.imgur.com/8SxUI6I.png</fanart>
+<thumbnail>https://i.imgur.com/amzQZrE.png</thumbnail>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/ivyjjones/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+   
+<item>
+<title>IT | Laura</title>
+<fanart>https://i.imgur.com/Cj0G4xt.jpg</fanart>
+<thumbnail>https://i.imgur.com/T9F8R1y.png</thumbnail>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/lauraxx_/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+   
+<item>
+<title>US | Evelyn Piers</title>
+<fanart>https://i.imgur.com/oVwYvhR.jpg</fanart>
+<thumbnail>https://i.imgur.com/QJFN632.png</thumbnail>     
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/evelynpiers/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+   
+<item>
+<title>US | Asiri Ocean</title>
+<fanart>https://i.imgur.com/ZFZzh29.jpg</fanart>
+<thumbnail>https://i.imgur.com/QJFN632.png</thumbnail>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://nl.chaturbate.com/asiri_ocean/'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+   
+<item>
 <title>UK | Hannah James</title>
 <fanart>https://i.imgur.com/5rAJl7h.jpg</fanart>
 <thumbnail>https://i.imgur.com/kRjWS5n.png</thumbnail>    
