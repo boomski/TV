@@ -1,6 +1,16 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UXJNiPz.png",RU | A2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWTql2d.png",RU | TVTUR.TV
 http://live.planeta-online.tv:1935/public/channel_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJFZFlf.png",RU | Relaks TV
+http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju3mLgq.png",RU | Fresh TV
+http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oI3OOlt.jpg",RU | Premyera TV
+http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BudNcW.png",RU | Lyubimoye.TV
+http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQQlvFq.jpg",RU | Vkusnoye TV
+http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UXJNiPz.png",RU | A2
 https://sc.id-tv.kz/A2_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMOLqMW.png",RU | Мir 24
@@ -55,8 +65,6 @@ https://sportbar.biz/lba/123/g2/ruseuro2.m3u8
 http://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/index_0_av.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lD7NEtI.png",RU XXX | Frenchlover TV
 http://91.204.234.3:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ju3mLgq.png",RU | Fresh TV
-http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",RU | GlobalStar TV
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Cv33AY.png",RU | HD Media 3D
@@ -153,8 +161,6 @@ http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MxUWIbJ.png",RU | Vitrina TV
 http://v1.proofix.ru/live-vitrina-tv/stream1-ru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQQlvFq.jpg",RU | Vkusnoye TV
-http://live.planeta-online.tv:1935/public/channel_133/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecIlqjp.png",RU | Volzhskiy Plyus
 http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kU8BxKB.jpg",RU | Vsya Ufa
@@ -219,8 +225,6 @@ http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 http://live.trk-luch.ru/hls/live_hi.m3u8
 #EXTINF:-1 tvg-id="luch" tvg-name="ТРК Луч" tvg-logo="" group-title="Local",RU | Луч (Пуровск)
 http://live.trk-luch.ru/hls/live_mid.m3u8
-#EXTINF:-1 tvg-id="lubimoe-tv" tvg-name="Любимое.ТВ" tvg-logo="" group-title="Kids",RU | Любимое.ТВ
-http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-logo="https://i.imgur.com/ud7AVaF.png",RU | Матч!
 http://176.114.16.54:80/match/index.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-logo="https://i.imgur.com/ud7AVaF.png",RU | Матч!
@@ -283,8 +287,6 @@ http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 http://uiptv.do.am/1ufc/000000008/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-krymsky" tvg-name="Первый крымский" tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png",RU | Первый крымский
 http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",RU | Премьера TV
-http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png",RU | Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="radio-shanson" tvg-name="Радио Шансон" tvg-logo="" group-title="Music",RU | Радио Шансон
@@ -309,8 +311,6 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",RU | Регион 29 (Архангельск)
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",RU | Релакс TV
-http://live.planeta-online.tv:1935/public/channel_3/playlist.m3u8
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-name="РЖД ТВ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rzd_russian_railways.jpg",RU | РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-name="РЖД ТВ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rzd_russian_railways.jpg",RU | РЖД ТВ
