@@ -69,6 +69,14 @@ https://distro.akamaized.net/indexfd_1280x720.m3u8
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnZiAm6.png",US | Studio C
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfsWvWu.jpg",US | Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gcb4bDv.jpg",US | Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9afzbIo.png",US | Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aS543e2.jpg",US | Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JtSSvss.png",US SPORT | ESPN 2 HD
 https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zQSTKzm.png",US SPORT | ESPN HD
@@ -499,6 +507,10 @@ https://live.chdrstatic.com/cbn/primary/1.m3u8
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T6B00V1.jpg",US | Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFE8fdN.png",US | MSNBC
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suuHr0I.png",US | CNBC
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/suuHr0I.png",US | CNBC
 http://71ad2a18.iptvbot.ru/iptv/UAVTALUW886L8G/962/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png",US | CNBC Arabiya
@@ -511,6 +523,8 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4zFHzI.png",US | CNN
 https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P4zFHzI.png",US | CNN
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAdCAa8.png",US | ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png",US | Court TV
@@ -649,6 +663,8 @@ http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
 http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Od29Zk6.png",US | FOX 8 (WGHP)
 http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCSzaNI.png",US | FOX News
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iD8Ux0m.jpg",US | Free Speech TV
 http://bit.ly/2xV7ewi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iD8Ux0m.jpg",US | Free Speech TV
