@@ -339,55 +339,45 @@ http://rusevertv.ru/576/rs_crf28_.m3u8
 https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1 tvg-id="saratov-24" tvg-name="Саратов 24" tvg-logo="" group-title="Local",RU | Саратов 24
 http://46.165.235.6:8083/hls/saratov24/index.m3u8
-#EXTINF:-1 tvg-logo="http://lime-tv.ru/uploads/posts/2018-06/thumbs/1529009151_sgdf24.png",RU | СГДФ 24 (Свердлов)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fmlGGT.png",RU | SGDF 24 (Sverdlov)
 http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="sever" tvg-name="Север" tvg-logo="http://www.visitnao.ru/upload/iblock/1c0/1c0bd0c468ce71c2c0deab8ee728440a.png",RU | Север (Нарьян-Мар)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OvLBspZ.jpg",RU | Sever (Naryan-Mar)
 http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
-#EXTINF:-1 tvg-id="sever" tvg-name="Север" tvg-logo="" group-title="Local",RU | Север (Нарьян-Мар)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OvLBspZ.jpg",RU | Sever (Naryan-Mar)
 http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
-#EXTINF:-1 tvg-id="sever" tvg-name="Север" tvg-logo="" group-title="Local",RU | Север (Нарьян-Мар)
-http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-logo="" group-title="Sport",RU | Сила
-http://gcore.silatv.ru/streams/3431_1488/480n/index.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-logo="" group-title="Sport",RU | Сила
-https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
-#EXTINF:-1 tvg-id="sila" tvg-name="Сила" tvg-logo="" group-title="Sport",RU | Сила
-https://gcore.silatv.ru/streams/3431_1488/720n/index.m3u8
-#EXTINF:-1 tvg-id="sinergia-tv" tvg-name="Синергия ТВ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/synergy_tv_ru.jpg" group-title="Business",RU | Синергия ТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rZIv6t.jpg",RU | Sinergiya TV
 http://live-synergytv.cdnvideo.ru/synergytv/synergytv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="skazki-zayki" tvg-name="Сказки Зайки" tvg-logo="https://pp.userapi.com/c605926/v605926465/5557/g0bL-ADWjOI.jpg",RU | Сказки Зайки
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNCo055.jpg",RU | Skazki Zayki
 http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
-#EXTINF:-1 tvg-id="smaylik-tv" tvg-name="Смайлик ТВ" tvg-logo="http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png",RU | Смайлик ТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gheB1Id.png",RU | Smaylik TV
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="solnechnogoskoetv" tvg-name="Солнечногорское TV" tvg-logo="https://solntv.ru/images/stv-logo-hq.png",RU | Солнечногорское TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9vkOfL.png",RU | Solnechnogorskoye TV
 http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="soyuz" tvg-name="Союз" tvg-logo="https://tv-soyuz.ru/static/img/logo.png",RU | Союз
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hszO6SM.png",RU | Soyuz
 http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",RU | Страна FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qh5dXvn.jpg",RU | Strana FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="surgut-24" tvg-name="Сургут 24" tvg-logo="http://online-red.com/images/tv/surgut-24.png",RU | Сургут 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UMtQDIS.png",RU | Surgut 24
 http://video1.in-news.ru/c24/index.m3u8
-#EXTINF:-1 tvg-id="tatarstan24" tvg-name="Татарстан-24" tvg-logo="http://www.zelenodolsk.ru/share/images/base/7/170_157352.jpg",RU | Татарстан-24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sNMTBBC.jpg",RU | Tatarstan-24
 http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",RU | ТВР 24 (Сергиев Посад)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f2xHZT2.jpg",RU | TVR 24 (Sergiev Posad)
 http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://online-red.com/images/tv/86.png",RU | Телеканал 86 (Сургут)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVyi5bW.png",RU | Telekanal 86 (Surgut)
 https://sitv.ru/hls/s861024.m3u8
-#EXTINF:-1 tvg-logo="https://webarmen.com/my/iptv/uploads/icon/55.png",RU | ТНТ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5a1n7ok.png",RU | ТНТ
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg",RU | Тольятти 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ce2xvUR.jpg",RU | Togliatti 24
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
-#EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка" tvg-logo="http://i.otzovik.com/objects/b/510000/502811.png",RU | Точка
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unBls63.jpg",RU | Tochka
 http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
-#EXTINF:-1 tvg-id="tri-angela" tvg-name="Три Ангела" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png",RU | Три Ангела
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hECkNTk.png",RU | Tri Angela
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 tvg-id="trofey" tvg-name="Трофей" tvg-logo="https://www.tvradiomd.ru/wp-content/uploads/2016/12/trofey.png",RU | Трофей
-http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
-#EXTINF:-1 tvg-id="tugan-tel" tvg-name="Туган Тел" tvg-logo="https://i.imgur.com/6rbVqcY.png",RU | Туган Тел
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rbVqcY.png",RU | Tuhan Tel
 http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
-#EXTINF:-1 tvg-id="udmurtia" tvg-name="Удмуртия" tvg-logo="" group-title="Local",RU | Удмуртия
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGzfhK2.png",RU | Udmurtiya
 http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="urfo24" tvg-name="УрФО24" tvg-logo="" group-title="Local",RU | УрФО 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IKkd28h.png",RU | УрФО 24
 http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6yDXOx.png",RU | Tsentr/Impuls
 https://s30160.cdn.ngenix.net/live/impulse-live/playlist.m3u8
