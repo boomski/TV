@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OtTaj4h.jpg",TW | Zhongtian News HD
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4me59FE.jpg",TW | Extraordinary News
+http://60.199.188.65/HLS/WG_USTV-N/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Py0hg1.png",TW | TVBS News HD
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pvoBwsa.png",TW | Sanli News
+http://60.199.188.65/HLS/WG_ETTV-N/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Py0hg1.png",TW | TVBS News
+http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png",TW XXX | NYX Media 1
 https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D62Pi3e.png",TW XXX | NYX Media 1
