@@ -1,4 +1,12 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q5XxFQi.png",RU | Russia К
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q5XxFQi.png",RU | Russia К
+http://uiptv.do.am/1ufc/000000005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0vWU2a.png",RU | Russia 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0vWU2a.png",RU | Russia 1
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WWTql2d.png",RU | TVTUR.TV
 http://live.planeta-online.tv:1935/public/channel_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rJFZFlf.png",RU | Relaks TV
@@ -315,31 +323,17 @@ http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="rzhd-tv" tvg-name="РЖД ТВ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rzd_russian_railways.jpg",RU | РЖД ТВ
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
-http://chgtrk.ru/pl/stream/hls/R1_360p/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
-http://rt-ct-vrzh-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
-http://rt-nw-arkh-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-name="Россия" tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
-http://www.vradio.ru/hls/russia-1-live-2000/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl6" tvg-name="Россия 1 +6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rossiya_1.jpg",RU | Россия 1 (+6)
 http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png",RU | Россия 24
 http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rossiya_24.jpg",RU | Россия 24
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:-1 tvg-id="rossia-k" tvg-name="Россия К" tvg-logo="http://fanat.tv/images/tv/rossiya-k.png",RU | Россия К
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="rossia-k" tvg-name="Россия К" tvg-logo="" group-title="",RU | Россия К
-http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:-1 tvg-id="russky-sever" tvg-name="Русский Север" tvg-logo="" group-title="Local",RU | Русский Север (Вологда)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJfftUs.jpg",RU | Русский Север (Вологда)
 http://rusevertv.ru/576/rs_crf28_.m3u8
-#EXTINF:-1 tvg-id="s1-surgut" tvg-name="С1 Сургут" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg",RU | С1 (Сургут)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FDgmHzB.jpg",RU | С1 (Сургут)
 https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 tvg-id="saratov-24" tvg-name="Саратов 24" tvg-logo="" group-title="Local",RU | Саратов 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jUp71dQ.jpg",RU | Saratov 24
 http://46.165.235.6:8083/hls/saratov24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvLBspZ.jpg",RU | Sever (Naryan-Mar)
 http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
