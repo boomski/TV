@@ -1,12 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QImzlC.png",LV | Mamontenok HD
-http://82.193.71.93/MamontLV/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EXJ1A5j.jpg",LV | KINO 24
-http://82.193.71.93/Kino24LV/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IRSgGY8.png",LV | PINGVIN LOLO
-http://82.193.71.93/LoLoLv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EqmdFai.jpg",LV | PRO 100 TV Riga Plauout
-http://82.193.71.93/Pro100TvRuRigaPlauout/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TsI8C9r.jpg",LV | 1BM
 https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9RtBZN.jpg",LV | Chau TV
@@ -47,7 +39,4 @@ https://cdn2.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-audio_20001=960
 https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-audio_20001=96000-video=2200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png",LV | TVNET
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b3hwBCb.png",LV | Рен ТВ Baltic
-http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b3hwBCb.png",LV | Рен ТВ Baltic
-http://ott-cdn.ucom.am/s85/index.m3u8
+
