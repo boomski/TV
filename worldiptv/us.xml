@@ -1,6 +1,154 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>US SPORT | The Tennis Channel</title>
+<thumbnail>https://i.imgur.com/44nR5hA.jpg</thumbnail>
+<fanart>https://i.imgur.com/0ooxUAz.jpg</fanart>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/45711.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>  
+  
+<item>
+<title>US SPORT | The Tennis Channel 2</title>
+<thumbnail>https://i.imgur.com/44nR5hA.jpg</thumbnail>
+<fanart>https://i.imgur.com/0ooxUAz.jpg</fanart>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/2/45711.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+  
+  
+ 
+<item>
+<title>US SPORT | The Tennis Channel Plus 1</title>
+<thumbnail>https://i.imgur.com/44nR5hA.jpg</thumbnail>
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/48769.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+  
+<item>
+<title>US SPORT | The Tennis Channel Plus 2</title>
+<thumbnail>https://i.imgur.com/44nR5hA.jpg</thumbnail>
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/2/48769.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+  
+<item>
+<title>US SPORT | ACCN</title>
+<thumbnail>https://i.imgur.com/5YMDjjF.jpg</thumbnail>
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/50008.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+  
+<item>
+<title>US SPORT | ESPN SEC Network</title>
+<thumbnail>https://i.imgur.com/ZmWGNBv.jpg</thumbnail>
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/46070.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+  
+<item>
+<title>US SPORT | FOX Soccer Plus</title>
+<thumbnail>https://i.imgur.com/uvP7rF6.png</thumbnail>
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/56872.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+  
+<item>
+<title>US SPORT | Fox Sports 1</title>
+<thumbnail>https://i.imgur.com/noIyid7.png</thumbnail>
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>    
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/45459.html'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+  
+  
+  
+<item>
 <title>[B]USTV GO[/B]</title>
 <thumbnail>https://i.imgur.com/BQmLjLo.png</thumbnail>	 
 <fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
@@ -146,7 +294,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>   
   
 <item>
-<title>US | Eleven Sports Next</title>
+<title>US SPORT | Eleven Sports Next</title>
 <thumbnail>https://i.imgur.com/Tp129Qm.png</thumbnail>
 <link>ignore</link>
 <fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
@@ -154,7 +302,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>  
   
 <item>
-<title>US SPORT| Red Bull TV</title>
+<title>US SPORT | Red Bull TV</title>
 <thumbnail>https://i.imgur.com/7NeBmWX.jpg</thumbnail>
 <link>ignore</link>
 <fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
@@ -162,7 +310,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item> 
 
 <item>
-<title>US SPORT| Disc Golf Pro Tour</title>
+<title>US SPORT | Disc Golf Pro Tour</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
