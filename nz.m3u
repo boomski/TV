@@ -1,4 +1,20 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f2wepOJ.png",NZ | TVNZ 1
+http://43.224.120.99:8080/tv1/tv1_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCPwDNa.png",NZ | TVNZ 2
+http://43.224.120.99:8080/tv2/tv2_1500k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pl6cOGt.png",NZ | Bravo NZ
+http://43.224.120.99:8080/four/four_1000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLH8DDZ.png",NZ | Choice TV
+http://43.224.120.99:8080/choicetv/choicetv_1000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CxRwHgL.png",NZ | Prime NZ
+http://43.224.120.99:8080/prime/prime_1000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2aMYuH.png",NZ | Chinese TV 29
+http://43.224.120.99:8080/tv29/tv29_1000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTsCG0b.png",NZ | APNA TV
+http://43.224.120.99:8080/apnatv/apnatv_1000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yhjxShN.png",NZ | Panda TV 37
+http://43.224.120.99:8080/pandatv/pandatv_1000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2TKL6BX.png",NZ | Firstlight TV
 http://streamer1.streamhost.org/salive/GMIFLNL/chunklist_w418539476.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nwPaKlQ.png",NZ | Māori Television
