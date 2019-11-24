@@ -52,7 +52,7 @@ http://api.new.livestream.com/accounts/dominio/events/8405951/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p2y6Fbd.png",MX | EWTN
 http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QqDCsoS.png",MX | FOROtv
-https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMtKE60.png",MX | Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CA0LESg.jpg",MX | Ingenio TV 
@@ -141,3 +141,5 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPfRDR9.png",MX | Tele Yucatan
 http://streamingcws20.com:1935/teleyucatan/videoteleyucatan/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYYmxbo.png",MX | Canal 66
+http://streamingcws10.com:1935/canal66/videocanal66/chunklist.m3u8
