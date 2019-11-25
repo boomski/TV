@@ -1,8 +1,12 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCA2hg4.png",RU | Smilik TV
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q5XxFQi.png",RU | Russia К
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q5XxFQi.png",RU | Russia К
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1Gi9p3.png",RU | Russia PTP
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0vWU2a.png",RU | Russia 1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0vWU2a.png",RU | Russia 1
