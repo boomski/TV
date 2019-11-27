@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2N3OBFH.png",TH | Fox Family Movies
+http://27.254.149.109:8081/tumlive/Foxfamily/chunks.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1EGx5o.png",TH | Fox Crime
+http://27.254.149.109:8081/tumlive/Foxcrime/chunks.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXzpZAI.png",TH SPORT | True Sports 5
+http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn8rDB9.png",TH SPORT | True Sports 6
+http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YKKWJe.png",TH SPORT | DOBALL 1 HD
 http://stream.doball.com:8080/hls/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7YKKWJe.png",TH SPORT | DOBALL 2 HD
