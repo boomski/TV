@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgcS4KO.png",US | Filmon 360
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PoMIIT.jpg",US SPORT | WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",US SPORT | Tennis Channel
