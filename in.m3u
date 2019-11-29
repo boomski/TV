@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bgF7U4U.png",IN | Jeevan TV
+https://5d00db0e0fcd5.streamlock.net/7644/7644/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bgF7U4U.png",IN | Jeevan TV
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2t8t4ur.png",IN | Peppers TV
+http://xlbor33arvaj-hls-live.wmncdn.net/peppers/live.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OaDsVKL.jpg",IN | Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXJDNAc.png",IN | Zoom
@@ -17,6 +23,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 http://cdn.joovox.xyz/hls293/Jio_Cricket_Hindi.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ykUfUM.jpg",IN SPORT | Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ykUfUM.jpg",IN SPORT | Dsport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2ev9TV.jpg",IN SPORT | DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2ev9TV.jpg",IN SPORT | DD Sports
@@ -157,8 +165,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/yuppcomedytelugu.png",IN | Comedy Telugu
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Dsports-channel-hd-img_logo.jpg",IN | D Sport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCEj7Nv.png",IN | DD Kisan
 https://nicls2-lh.akamaihd.net/i/ddkisan_1@409176/master.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/dd_malayalam-1.png",IN | DD Malayalam
@@ -273,8 +279,6 @@ http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
 https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
 #EXTINF:-1 tvg-logo="https://www.jaytv.in/wp-content/uploads/2018/06/Jay-TV-Transparant-Logo.png",IN | Jay TV
 http://livematrix.in:1935/live/jay/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jeevantv.png",IN | Jeevan TV
-http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gIYOu4i.jpg",IN | Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",IN | JK 24x7 News
