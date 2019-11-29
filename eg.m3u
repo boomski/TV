@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9aSEX.png",EG | Huda TV
+http://41.33.67.146:1935/live/1mystream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h36wuCx.jpg",EG | Aghapy TV
 http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbC1X9B.png",EG | Al Fath TV
