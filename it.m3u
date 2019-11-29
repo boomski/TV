@@ -389,6 +389,8 @@ http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 http://217.61.26.46:8080/hls/triveneta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ACOCdV.png",IT | TVA Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ACOCdV.png",IT | TVA Vicenza
+https://5cdb29755e02b.streamlock.net:1936/live/diretta_1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oVsMybF.jpg",IT | TVL Toscana
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0vLfpFD.png",IT | TVR Xenon (Caltagirone)
