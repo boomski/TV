@@ -1,4 +1,8 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSDKD5a.jpg",SA SPORT | KSA Sport [320p]
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSDKD5a.jpg",SA SPORT | KSA Sport [480p]
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5cc4g5.png",SA | 22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2qHUKF.png",SA | Kaif TV
