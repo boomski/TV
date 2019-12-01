@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>BE SPORT | Motomediateam</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCOopJCfktYVsCP6p7TOEmvA</page>
+</regex>
+<thumbnail>https://i.imgur.com/YTHrPsX.png</thumbnail>  
+<fanart>https://i.imgur.com/bwlpVPS.jpg</fanart>  
+</item>  
   
-  https://www.youtube.com/channel/UCOopJCfktYVsCP6p7TOEmvA
   
 <item>
 <title>BE | NRJ Hits</title>
