@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>NL | Wielerflits | ON DEMAND</title>
+<title>NL SPORT | Wielerflits | ON DEMAND</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCi-goPuS8ELT9_S0SeerY1Q/</jsonrpc>
 <thumbnail>https://i.imgur.com/VpnNHuL.png</thumbnail> 
@@ -30,10 +30,22 @@
 <link>ignore</link>
 <fanart>https://i.imgur.com/6kJ57rR.jpg</fanart>  
 <externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/afmtv</externallink>
-</item>  
+</item> 
   
 <item>
-<title>NL | IKF TV</title>
+<title>NL SPORT | ISU Skating</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCVZpqbnDjHyScSYGFPMUtYA</page>
+</regex>
+<thumbnail>https://i.imgur.com/ekPA639.png</thumbnail> 
+<fanart>https://i.imgur.com/QLX9FZM.jpg</fanart> 
+</item>   
+  
+<item>
+<title>NL SPORT | IKF TV</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
