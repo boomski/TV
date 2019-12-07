@@ -15,7 +15,9 @@ https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
 https://ap01.iqplay.tv:81/iqb8002/s0mnew12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71UKcdB.png",SO | Horn Cable TV
 http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4dsbDVM.jpg",SO | Kalsan TV
+http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sF00ODA.png",SO | Jubbaland TV
-http://cdn02.iqbroadcast.tv/1345/iqb/3748782c336460247a0ea0b592d4130c.sdp/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZFGKEc.png",SO | Universal TV
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
