@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>HDTV.DE</title>
+<thumbnail>https://i.imgur.com/IyY6Xp8.jpg</thumbnail>  
+<fanart>https://i.imgur.com/IyY6Xp8.jpg</fanart>   
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param3]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)"moviefilm".+?src="([^"]+).+?href="(.*?)">([^<]+)]]></expres>
+<page>https://www.hdtvde.com/category/deutsche-tv-sender/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  link=re.findall('"filmicerik"[\w\W]*?src="([^"]+)',page_data)[0]
+  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param2]'}).content
+  return re.findall('id=.tvplayer[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>[makelist.param2]</page>
+<referer>https://www.hdtvde.com/category/deutsche-tv-sender/</referer>
+</regex>
+</item>  
 
 <item>
 <title>DE | DW News</title>
