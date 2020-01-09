@@ -114,4 +114,29 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/54015.
 <fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
 </item>    
   
+<item>
+<title>AR | Viajar</title>  
+<thumbnail>https://i.imgur.com/uLJhPuu.png</thumbnail> 
+<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>   
+<link>$doregex[get-Clean-M3U8]$doregex[get-Clean-token]</link><regex>
+<name>get-Clean-token</name>
+<expres>$pyFunction:'$doregex[get-token]'.replace('\/','/')</expres>
+<page>https://iframe.dacast.com/b/118358/c/484245</page>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://services.dacast.com/token/i/b/118358/c/484245</page>
+<referer>http://iframe.dacast.com/</referer>
+</regex><regex>
+<name>get-Clean-M3U8</name>
+<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+<page>https://iframe.dacast.com/b/118358/c/484245</page>
+</regex><regex>
+<name>get-M3U8</name>
+<expres>"hls":"(.*?)"</expres>
+<page>http://json.dacast.com/b/118358/c/484245</page>
+<referer>http://iframe.dacast.com/</referer>
+</regex>
+</item>     
 </items>
