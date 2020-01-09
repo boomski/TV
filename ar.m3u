@@ -71,6 +71,8 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZlUGBf.jpg",AR | Chacra TV
 http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbxMs5i.png",AR | Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1504807357.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg",AR | Ciudad TV Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5LZXT5f.jpg",AR | CL3
@@ -142,19 +144,9 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FscV0as.png",AR | Tierramia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
-http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8?tecnotv.info?iptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fV6ki6B.jpg",AR | TV Máná Cordoba
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fV6ki6B.jpg",AR | TV Máná Cordoba
