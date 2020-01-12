@@ -1,6 +1,12 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDEj21d.png",CZ SPORT | CT Sport
 http://176.74.130.28:9981/stream/channelid/1583058594
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDEj21d.png",CZ SPORT | CT Sport
+http://85.132.139.144:9981/stream/channelid/741380479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDEj21d.png",CZ SPORT | CT Sport
+http://85.132.139.144:9981/stream/channelid/1098422703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDEj21d.png",CZ SPORT | CT Sport
+http://85.132.139.144:9981/stream/channelid/2133098913
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y7CDuHs.png",CZ | Discovery Channel
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d3phROC.png",CZ | Elektrika TV
