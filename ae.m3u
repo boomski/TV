@@ -14,12 +14,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icskFzD.png",AE SPORT | Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
-http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6FT7yx.jpg",AE | Ajman TV
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
@@ -30,11 +24,9 @@ http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7OrfyOx.jpg",AE | Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rLR5q2x.png",AE | Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rLR5q2x.png",AE | Al Hadath
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b1400000.m3u8
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FpKvYT1.png",AE | Al Wousta TV
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/chunklist_w1270221403_b764000_t64VVE=.m3u8
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IvIdaGB.png",AE | B4U Aflam
 http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KnpCnyh.png",AE | B4U Plus
@@ -55,33 +47,17 @@ https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png",AE SPORT | Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png",AE SPORT | Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png",AE SPORT | Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png",AE SPORT | Dubai Racing
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png",AE SPORT | Dubai Sports
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qBdOZ1x.png",AE SPORT | Dubai Sports 2
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qBdOZ1x.png",AE SPORT | Dubai Sports 2
-http://dmivll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxxjMPJ.jpg",AE SPORT | Dubai Sports 3
-http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QKXDeMQ.png",AE | Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F5U9qpf.png",AE | Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F5U9qpf.png",AE | Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5S2ci8p.png",AE | Emarat TV
-http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5S2ci8p.png",AE | Emarat TV
-http://adtv.ercdn.net/adalemarat/adalemarat_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5S2ci8p.png",AE | Emarat TV
-http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5S2ci8p.png",AE |Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2tnZJmq.jpg",AE MOVIES | Imagine Movies
 http://95.170.215.109/hls/Imagine-M-Backup-M.m3u8
