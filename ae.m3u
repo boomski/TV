@@ -1,44 +1,8 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_480p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
-http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",AE SPORT | Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",AE SPORT | Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",AE SPORT | Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",AE SPORT | Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",AE SPORT | Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",AE SPORT | Abu Dhabi Sports
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",AE SPORT | Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",AE SPORT | Abu Dhabi Sports
-https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?st=P9H1mUdptRfQ99toISpmTg&e=1495397980
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",AE SPORT | Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",AE SPORT | Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",AE SPORT | Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8?v=3157566659
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",AE SPORT | Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",AE SPORT | Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",AE SPORT | Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",AE SPORT | Abu Dhabi Sports 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",AE SPORT | Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U6XDpXY.png",AE SPORT | Abu Dhabi Sports 3
