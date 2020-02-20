@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6lt2P1.jpg",BELGIË | Een
+plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BELGIË | Canvas
+plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gu8tWn6.png",SPORT BE | Sporza
+plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg",SPORT BE | CYFO 3
+http://178.62.104.116/vvv/s33/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",SPORT | Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 2
@@ -9,10 +19,24 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png",SPORT UK | Free Sports
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT CH | Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT US | MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT US | Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT US | Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uL98NGs.png",SPORT LV | Sportacentrs
+https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png",BELGIË | RTC Télé Liège
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iy7xluM.png",FRANKRIJK | Gong
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gong&item_module=resources.lib.channels.fr.gong&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FRANKRIJK | Gulli
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gulli&item_module=resources.lib.channels.fr.gulli&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AUSTRALIË | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
