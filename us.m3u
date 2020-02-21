@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgcS4KO.png",US | Filmon 360
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQSTKzm.png",US SPORT | ESPN 
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PoMIIT.jpg",US SPORT | WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",US SPORT | Tennis Channel
@@ -19,20 +21,8 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png",US SPORT | EDGEsport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/voYBgzu.png",US | TVW
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/voYBgzu.png",US | TVW-2
-http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uwg0Phq.png",US | WGGS-TV (Greenville)
-https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zQSTKzm.png",US SPORT | ESPN 
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XGdRgA0.png",US | ABC 7 WWSB
-https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hDUaA4.png",US | Shop LC
-https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VEoLKzb.png",US | Jewish Life TV
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xRtIgOi.png",US SPORT | ACCN
+http://nfl.yrsprts.xyz/hls/x.m3u8?ch=acc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",US SPORT | Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",US SPORT | Stadium
@@ -41,6 +31,18 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PNKPHC2.png",US SPORT | Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/voYBgzu.png",US | TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/voYBgzu.png",US | TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uwg0Phq.png",US | WGGS-TV (Greenville)
+https://d202lge9i6ts6.cloudfront.net/origin1ingest1/c7956aac88/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XGdRgA0.png",US | ABC 7 WWSB
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hDUaA4.png",US | Shop LC
+https://dpfbqenlgkzdh.cloudfront.net/shoplc_backup/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VEoLKzb.png",US | Jewish Life TV
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pIuJqYk.png",US | Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TDRDF4q.png",US | byu TV
