@@ -7,7 +7,7 @@
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo1.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo1.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -24,7 +24,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo1.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo2.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo2.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -41,7 +41,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo2.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo3.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo3.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo3.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo4.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo4.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -75,7 +75,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo4.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo5.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo5.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -92,7 +92,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo5.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo6.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo6.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -109,7 +109,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo6.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo7.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo7.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -126,7 +126,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo7.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo8.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo8.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -143,7 +143,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo8.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo9.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo9.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -160,7 +160,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo9.ph
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo10.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo10.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
@@ -177,7 +177,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo10.p
 <regex>
 <name>GetPageUrl</name>
 <expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo11.php'):
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo11.html'):
    import liveresolver
    u = liveresolver.resolve(url)
    return u
