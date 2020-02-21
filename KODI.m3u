@@ -27,6 +27,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT US | Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xRtIgOi.png",SPORT US | ACCN
+http://nfl.yrsprts.xyz/hls/x.m3u8?ch=acc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uL98NGs.png",SPORT LV | Sportacentrs
 https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ksZ53A1.png",SPORT LT | Sport 1
@@ -41,4 +43,5 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=g
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gulli&item_module=resources.lib.channels.fr.gulli&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AUSTRALIË | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIrlu0v.jpg",INDONESIË | Discovery Channel
+https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13.m3u8
