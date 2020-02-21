@@ -21,6 +21,16 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT CH | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT US | Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT US | Tennis Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT US | Tennis Plus 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT US | Tennis Plus 3
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT US | Tennis Plus 4
+https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT US | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT US | Bek Sports East
