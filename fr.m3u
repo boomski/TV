@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EH24utk.jpg",FR | Euronews UK
+https://euronews-en-b-cdn.hexaglobe.net/c4480d6c757a352a052ffa838e6180d3/5e518025/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsUHDU2.png",FR | Euronews Greece
+https://euronews-el-p9-cdn.hexaglobe.net/45d8f6c749368601c64a4d04ade2622e/5e517f42/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/ewnsabrel_gre_720p33.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png",SPORT | Africa Sports TV
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
