@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6lt2P1.jpg",BELGIË | Een
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6lt2P1.jpg",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BELGIË | Canvas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gu8tWn6.png",SPORT | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
@@ -17,6 +17,8 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png",SPORT | Africa Sports TV
+https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png",SPORT | Free Sports
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
@@ -47,17 +49,17 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ksZ53A1.png",SPORT | Sport 1
 http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1-avc1_2200000=12.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png",BELGIË | RTC Télé Liège
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png",BE | RTC Télé Liège
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bRovBZG.png",NEDERLAND | Insight TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bRovBZG.png",NL | Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FRANKRIJK | A12 Televison
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iy7xluM.png",FRANKRIJK | Gong
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iy7xluM.png",FR | Gong
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gong&item_module=resources.lib.channels.fr.gong&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FRANKRIJK | Gulli
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FR | Gulli
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gulli&item_module=resources.lib.channels.fr.gulli&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AUSTRALIË | 10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bIrlu0v.jpg",INDONESIË | Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bIrlu0v.jpg",ID | Discovery Channel
 https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13.m3u8
