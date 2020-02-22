@@ -30,7 +30,18 @@
 <expres>Clappr.Player[\w\W]*?[\'"](.*?)[\'"]</expres>
 <page>http://www.cyfostreams.com/cyfo1.php</page>
 </regex>
-</item>      
+</item>  
+   
+<item>
+<title>CYFO 3</title>
+<thumbnail>https://i.imgur.com/MvGf1BE.jpg</thumbnail>  
+<link>$doregex</link>
+<regex>
+<name>m3u8</name>
+<expres>Clappr.Player[\w\W]*?[\'"](.*?)[\'"]</expres>
+<page>http://www.cyfostreams.com/cyfo3.php</page>
+</regex>
+</item>    
    
 <item>
 <title>BE | CYFO 1</title>
