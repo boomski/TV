@@ -51,6 +51,8 @@ http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1-avc1_2200000=12.m3u8
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRovBZG.png",NEDERLAND | Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FRANKRIJK | A12 Televison
+https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iy7xluM.png",FRANKRIJK | Gong
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gong&item_module=resources.lib.channels.fr.gong&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FRANKRIJK | Gulli
