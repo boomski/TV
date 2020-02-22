@@ -49,6 +49,8 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ksZ53A1.png",SPORT | Sport 1
 http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1-avc1_2200000=12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png",BE | ROB TV
@@ -65,10 +67,48 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png",BE | BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png",BE | City Music TV
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2wbX6e.jpg",BE | NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg",BE | TV Lux
+https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png",BE | TVCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg",BE | Antenne Centre
+http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png",BE | Telesambre
+https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7xUgDm.png",BE | Télé MB
+http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uoSMNnr.png",BE | Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png",BE | RTC Télé Liège
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png",BE | Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0CZjmi.png",BE | Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMjFeGE.png",BE | Radio PROS
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRovBZG.png",NL | Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png",LU | RTL
+http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png",LU | 2.RTL
+http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YldMnap.jpg",LU | Chamber TV
+https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ntor8S.png",LU | Eldoradio TV
+https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b4168000_slltz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png",LU | TV MCJ
+https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iy7xluM.png",FR | Gong
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gong&item_module=resources.lib.channels.fr.gong&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k6bnmCc.jpg",FR | Gong
