@@ -112,4 +112,38 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <referer>http://crackstreams.com/[makelist.param1]</referer>
 </regex>
 </item>
+ 
+<item>
+<title>SPORT | YOURSPORTS</title>
+<thumbnail>https://i.imgur.com/lSwnhLz.png</thumbnail>   
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2] [COLOR dodgerblue][makelist.param1][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  url='http://yoursports.stream/games.js?x='+re.findall('src="(/games.js[^"]+)',page_data)[0]
+  source=requests.get(url,headers={'user-agent':'Mozilla/5.0','referer':'http://yoursports.stream','accept':'*/*'}).content
+  return re.findall('time:.([^\'"]+)..chan:.([^\'"]+)..url:.([^\'"]+)',source)
+]]></expres>
+<page>http://yoursports.stream</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
+  url='http://yoursports.stream'+re.findall('id=playframe.+?src="([^"]+)',page_data)[0]
+  source=requests.get(url,headers={'user-agent':'Mozilla/5.0','referer':'http://yoursports.stream/live?v=[makelist.param3]'}).content
+  return re.findall('atob.[\'"]([^\'"]+)',source)[0].decode('base64')+'|user-agent=ipad&referer='+url
+]]></expres>
+<page>http://yoursports.stream/live?v=[makelist.param3]</page>
+<referer>http://yoursports.stream</referer>
+</regex>
+</item> 
 </items>
