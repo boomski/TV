@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>TIZ Cycling</title> 
+<title>SPORT | TIZ Cycling</title> 
 <thumbnail>https://i.imgur.com/OkMkWue.png</thumbnail>
 <link>https://usb.bozztv.com/ssh101/ghui22/ghui22/chunklist_w560744624.m3u8</link> 
 </item> 
@@ -67,4 +67,49 @@
 </regex>
 </item> 
 
+<item>
+<title>SPORT | CRACKSTREAMS</title>
+<thumbnail>https://i.imgur.com/GOwepky.jpg</thumbnail>  
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('href="/(.*?)">([^\s]+)',re.findall('"nav navbar-nav">(?s)(.*?)</ul',page_data)[0])
+]]></expres>
+<page>http://crackstreams.com/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist2.param3]/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>http://crackstreams.com/[makelist2.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('(?s)href=[\'"]([^\'"]+).+?(imag[^\'"]+).+?media-heading.>([^<]+)',re.findall('Schedule</h1>(?s)(.*?)(?:"text-center|<h2)',page_data)[0])
+]]></expres>
+<page>http://crackstreams.com/[makelist.param1]</page>
+<referer>http://crackstreams.com/</referer>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  link=re.findall('<iframe.+?src=[\'"]([^\'"]+)',page_data)[0]
+  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist2.param1]','accept':'*/*'}.content
+  return re.findall('id=.vid[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',source)[0]+'|user-agent=ipad&referer='+link
+]]></expres>
+<page>[makelist2.param1]</page>
+<referer>http://crackstreams.com/[makelist.param1]</referer>
+</regex>
+</item>
 </items>
