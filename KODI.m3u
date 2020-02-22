@@ -49,6 +49,14 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ksZ53A1.png",SPORT | Sport 1
 http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1-avc1_2200000=12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png",BE | ROB TV
+http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg",BE | TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png",BE | TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png",BE | RTC Télé Liège
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRovBZG.png",NL | Insight TV
