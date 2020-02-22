@@ -1,22 +1,14 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATYvqej.jpg",SPORT | L'Équipe 21
-https://s1.tntendirect.com/lequipe21/live/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png",SPORT | Africa Sports TV
+https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Iw1YRL.png",FR | TZiK
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w1612062948.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r1pq8hQ.png",FR | Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rCurmKp.jpg",FR | Bblack! Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XGOT4iz.png",FR | Bblack! Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1DWn1M.png",FR | Bblack! Classik
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mihujKt.jpg",FR | BFM Business
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4buTOS3.png",FR | BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4buTOS3.png",FR | BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFEqBS7.png",FR | BipTV
@@ -24,7 +16,7 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uNE046N.png",FR | Canal J
 http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cThInij.png",FR | D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9yLdYZ.png",FR | Dici TV
 http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yk0nq1P.jpg",FR | EMCI TV
