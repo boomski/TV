@@ -26,7 +26,7 @@ https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png",BE | TVCom
 https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyMGsVf.jpg",BE | 21bis
-http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg",BE | Antenne Centre
 http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png",BE | Telesambre
@@ -54,9 +54,9 @@ http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zNjUBun.png",BE | EbS Live
 http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png",BE | WTV
-https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/VzXNby.smil/chunklist.m3u8
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png",BE | Focus
-https://hls-origin01-focus-wtv.cdn01.rambla.be/adliveorigin-focus-wtv/_definst_/AK4e8O.smil/chunklist.m3u8
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
