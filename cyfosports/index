@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> 
 <item>
+<title>cyfostreams.com</title>
+<thumbnail>https://i.imgur.com/dyjeDvr.jpg</thumbnail>   
+<link>$doregex[cristalazul]</link>
+<regex>
+<name>cristalazul</name>
+<listrepeat><![CDATA[
+<title>[COLOR white][cristalazul.param1][/COLOR]   $doregex[m3u8]  </title>
+<link>$doregex[m3u8]</link>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(?s)<li>.*?<a href="(cyfo\d*).]]></expres>
+<page>http://cyfostreams.com</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>Clappr.Player[\w\W]*?[\'"](.*?)[\'"]</expres>
+<page>http://cyfostreams.com/[cristalazul.param1].php</page>
+</regex>
+</item>   
+<item>
 <title>BE | CYFO 1</title>
 <thumbnail>https://i.imgur.com/dyjeDvr.jpg</thumbnail>
 <link>$doregex[GetPageUrl]</link>
