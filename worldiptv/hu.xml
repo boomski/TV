@@ -39,7 +39,24 @@
 </item>
    
 <item>
-<title>HU | M4 Sport (VPN)</title>
+<title>HU SPORT | M4 Sport</title>
+<thumbnail>https://i.imgur.com/aDTAZGD.jpg</thumbnail>   
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  return re.findall('id=.xplayer[\w\W]+?src=[\'"]([^\'"]+)',page_data)[0].replace(':443','')+'|user-agent=ipad&referer=https://onlinestream.live/m4-sport/videoplayer/5903-3'
+]]></expres>
+<page>https://onlinestream.live/m4-sport/videoplayer/5903-3</page>
+<referer>https://onlinestream.live/videoplayer.cgi?id=5903&ch=3</referer>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUW9GRqpSRac0TtKuyxkwxFe13OSLbTPWQ9c78uR5d-1oJYg9&s</thumbnail>
+</item>   
+   
+<item>
+<title>HU SPORT | M4 Sport (VPN)</title>
 <link>https:$doregex[Url]|User-Agent=iPad</link>
 <thumbnail>https://i.imgur.com/aDTAZGD.jpg</thumbnail>
 <fanart>https://i.imgur.com/SP2dHDW.jpg</fanart>    
