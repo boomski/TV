@@ -33,11 +33,27 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Plus 4
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT  | MLS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",SPORT | Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",SPORT | Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6XDpXY.png",SPORT | Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8VqomZ5.png",SPORT | Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7snS5Ki.png",SPORT | Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icskFzD.png",SPORT | Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYgHR5D.png",SPORT | Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg",SPORT | Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT  | Bek Sports East
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT | Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT  | Bek Sports West
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT | Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xRtIgOi.png",SPORT | ACCN
 http://nfl.yrsprts.xyz/hls/x.m3u8?ch=acc
@@ -45,6 +61,8 @@ http://nfl.yrsprts.xyz/hls/x.m3u8?ch=acc
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg",SPORT | World Of Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2msWdzQ.jpg",SPORT | Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uL98NGs.png",SPORT | Sportacentrs
 https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ksZ53A1.png",SPORT | Sport 1
@@ -205,6 +223,12 @@ https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg",US | The Film Detective
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W5yDzNn.jpg",US | Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSpOD29.jpg",US | Monarch
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSAfKXY.jpg",US | People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTECoKS.png",US | Latido Music
@@ -221,6 +245,26 @@ https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYDR5VS.jpg",US | The Boat Show
 https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdEFuUG.jpg",US | Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIEhpPp.png",US | Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZE3Pwf.png",US | Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NsnVCJ.png",US | Field & Stream
+https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYGPodV.jpg",US | Everyday Heroes
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGN1TLJ.jpg",US | Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WNqDJT4.jpg",US | Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGFEW6W.jpg",US | Bollywood TV
+https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDbQWN5.jpg",US | Bollywood HD
+https://a.jsrdn.com/broadcast/j4jhsgg89/V_video_720p_9685.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EdH8s1I.jpg",UK | BritAsia Live
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0100/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGjCGml.jpg",UK | FashionTV L'Original 
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
@@ -229,7 +273,17 @@ https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bIrlu0v.jpg",ID | Discovery Channel
 https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CCrojy8.jpg",UK | MATV
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxK09kO.jpg",BD | Channel-S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plao8Ml.jpg",BD | NTV
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
+https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg",RW | KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png",RW | RTV
 https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
+
+
