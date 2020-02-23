@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> 
+<items>
+<item>
+<title>UK | GCN Racing</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww</page>
+</regex>
+<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>UK | GCN Racing | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCu7phdCr-raU7OaJfEpHZww/</jsonrpc>
+<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>        
+</item> 
+  
+<item>
+<title>UK | GCN | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCuTaETsuCOkJ0H_GAztWt0Q/</jsonrpc>
+<thumbnail>https://i.imgur.com/KCj6hgb.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>        
+</item>   
+
+<item>
+<title>UK | InCycle</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCXgba6tOLghtJuXaD8LBHWg</page>
+</regex>
+<thumbnail>https://i.imgur.com/W65Ck6i.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>UK | British Cycling</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC7QMT1odZ6QeJPg5GwClUlw</page>
+</regex>
+<thumbnail>https://i.imgur.com/qz1rj1d.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>  
+  
 <item>
 <title>http://hdstreams.club/</title>
 <link>$doregex[makelist]</link>
