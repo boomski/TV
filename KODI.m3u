@@ -205,9 +205,31 @@ https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSAfKXY.jpg",US | People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTECoKS.png",US | Latido Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pL0b3M6.png",US | Studio C
+https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQnWpg8.png",US | Saveur
+https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWj3dQP.jpg",US | Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vJGi73.jpg",US | IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQFtDvU.png",US | Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYDR5VS.jpg",US | The Boat Show
+https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGjCGml.jpg",UK | FashionTV L'Original 
+https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bIrlu0v.jpg",ID | Discovery Channel
 https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg",RW | KC2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png",RW | RTV
+https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
