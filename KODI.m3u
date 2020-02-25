@@ -173,6 +173,8 @@ https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b4168000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png",LU | TV MCJ
 https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A5elXFA.png",FR | C8
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=c8&item_module=resources.lib.channels.fr.mycanal&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iy7xluM.png",FR | Gong
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gong&item_module=resources.lib.channels.fr.gong&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k6bnmCc.jpg",FR | Gong
