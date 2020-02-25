@@ -2,49 +2,13 @@
 <items>
   
 <item>
-<title>IT | PMG Sport</title>         
+<title>SPORT | PMG Sport</title>         
 <link>https://pulsemediav4-apple-live.secure.footprint.net/egress/bhandler/pulsemediav4/channel01rtmp/index.m3u8</link>      
 <thumbnail>https://i.imgur.com/5tFmAzz.png</thumbnail>
 <fanart>https://i.imgur.com/O3haScH.jpg</fanart> 
 </item> 
 
-<item>
-<title>IT | PMG Sport</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCCuNpZUFKAaQIlyLt5-bp_g</page>
-</regex>
-<thumbnail>https://i.imgur.com/nRziQoM.png</thumbnail>  
-<fanart>https://i.imgur.com/WbUYeMO.jpg</fanart>   
-</item>  
-  
-<item>
-<title>IT | Lombardia TV Sports</title>  
-<thumbnail>https://i.imgur.com/MxHT1dx.png</thumbnail>  
-<fanart>https://i.imgur.com/O3haScH.jpg</fanart>  
-<link>$doregex[get-Clean-M3U8]$doregex[get-Clean-token]</link><regex>
-<name>get-Clean-token</name>
-<expres>$pyFunction:'$doregex[get-token]'.replace('\/','/')</expres>
-<page>https://iframe.dacast.com/b/114023/c/486544</page>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>https://services.dacast.com/token/i/b/114023/c/486544</page>
-<referer>http://iframe.dacast.com/</referer>
-</regex><regex>
-<name>get-Clean-M3U8</name>
-<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
-<page>https://iframe.dacast.com/b/114023/c/486544</page>
-</regex><regex>
-<name>get-M3U8</name>
-<expres>"hls":"(.*?)"</expres>
-<page>http://json.dacast.com/b/114023/c/486544</page>
-<referer>http://iframe.dacast.com/</referer>
-</regex>
-</item>  
+ 
   
 <item>
 <title>IT | Telecostasmeralda</title>
