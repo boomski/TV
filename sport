@@ -5,6 +5,144 @@
 <thumbnail>https://i.imgur.com/OkMkWue.png</thumbnail>
 <link>https://usb.bozztv.com/ssh101/ghui22/ghui22/chunklist_w560744624.m3u8</link> 
 </item> 
+
+<item>
+<title>SPORT | GCN Racing</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww</page>
+</regex>
+<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>SPORT | GCN Racing | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCu7phdCr-raU7OaJfEpHZww/</jsonrpc>
+<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>        
+</item> 
+  
+<item>
+<title>SPORT | GCN | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCuTaETsuCOkJ0H_GAztWt0Q/</jsonrpc>
+<thumbnail>https://i.imgur.com/KCj6hgb.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>        
+</item>   
+
+<item>
+<title>SPORT | InCycle</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCXgba6tOLghtJuXaD8LBHWg</page>
+</regex>
+<thumbnail>https://i.imgur.com/W65Ck6i.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>SPORT | British Cycling</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC7QMT1odZ6QeJPg5GwClUlw</page>
+</regex>
+<thumbnail>https://i.imgur.com/qz1rj1d.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>  
+  
+<item>
+<title>SPORT | HD Streams Club</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param3][COLOR dodgerblue] ([makelist.param2] | [makelist.param1])[/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  list=re.findall('<h2>(?s)(.*?)id=.comments',page_data)[0]
+  gtitle=re.findall('\d+:\d+.+?&.+?>([^<]+)',list)
+  for t in gtitle:
+     title=t.title().strip()
+     list=list.replace(t,title)
+  data=re.findall('(\d+:\d+).+?>(.*?)\s*&.+?>([^<]+).+?href="([^"]+)',list)
+  return data
+]]></expres>
+<page>http://hdstreams.club/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  ref='[makelist.param4]';hUrl=ref.replace('hd/','page/')
+  source=requests.get(hUrl,headers={'user-agent':'Mozilla/5.0','host':'hdstreams.club','referer':ref,'accept':'*/*'}).content
+  return re.findall('window.atob.[\'"]([^\'"]+)',source)[0].decode('base64')+'|user-agent=ipad&referer='+hUrl
+]]></expres>
+<page></page>
+</regex>
+</item>  
+  
+<item>
+<title>SPORT | Vegol1.live | Channels</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <inputstream>$doregex[getUrl]</inputstream>
+  <thumbnail>https://vegol1.live/wp-content/uploads/2019/08/logo-small.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  return re.findall('class="(?:active\s*|)item live".+?href="([^"]+).+?name.>([^<]+)',re.findall('id="channel-list">(?s)(.*?)</section',page_data)[0])
+]]></expres>
+<page>https://vegol1.live/</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  link=re.findall('id="player".+?data-player-url="([^#]+)',page_data)[0]
+  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param1]','accept':'*/*'}).content
+  decoder=re.findall('JSON.parse.atob.[\'"]([^\'"\)]+)',source)[0].decode('base64').replace('\\','')
+  return re.findall('\[[\'"]([^\'",]+)',decoder)[0]
+]]></expres>
+<page>[makelist.param1]</page>
+<page>https://vegol1.live/</page>
+</regex>
+<thumbnail>https://vegol1.live/wp-content/uploads/2019/08/logo-small.png</thumbnail>
+</item>
+
+<item>
+<title>SPORT | M4 Sport</title>
+<thumbnail>https://i.imgur.com/aDTAZGD.jpg</thumbnail>   
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  return re.findall('id=.xplayer[\w\W]+?src=[\'"]([^\'"]+)',page_data)[0].replace(':443','')+'|user-agent=ipad&referer=https://onlinestream.live/m4-sport/videoplayer/5903-3'
+]]></expres>
+<page>https://onlinestream.live/m4-sport/videoplayer/5903-3</page>
+<referer>https://onlinestream.live/videoplayer.cgi?id=5903&ch=3</referer>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUW9GRqpSRac0TtKuyxkwxFe13OSLbTPWQ9c78uR5d-1oJYg9&s</thumbnail>
+</item>  
+ 
 <item>
 <title>SPORT | 60FPS.LIVE</title>
 <link>ignoreme</link>
