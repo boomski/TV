@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>BE | CYFO SPORTS</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/cyfosports/index</externallink>
+<thumbnail>https://i.imgur.com/LQ4JyVs.jpg</thumbnail>
+</item>
+  
+<item>
 <title>SPORT | TIZ Cycling</title> 
 <thumbnail>https://i.imgur.com/OkMkWue.png</thumbnail>
 <link>https://usb.bozztv.com/ssh101/ghui22/ghui22/chunklist_w560744624.m3u8</link> 
@@ -57,6 +64,13 @@
 <thumbnail>https://i.imgur.com/qz1rj1d.png</thumbnail> 
 <fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
 </item>  
+  
+<item>
+<title>SPORT | Sport en France</title>
+<dmlive>x797sy0</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/DeuVEMk.jpg</thumbnail>
+</item>   
   
 <item>
 <title>SPORT | HD Streams Club</title>
@@ -150,12 +164,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <thumbnail>https://i.imgur.com/ZWdrGYj.png</thumbnail> 	
 <fanart>https://i.imgur.com/zOv7bEw.jpg</fanart>  
 </item> 
-<item>
-<title>BE | CYFO SPORTS</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/cyfosports/index</externallink>
-<thumbnail>https://i.imgur.com/LQ4JyVs.jpg</thumbnail>
-</item> 
+ 
 <item>
 <title>SPORT | SPORTACENTRS</title>
 <link>ignoreme</link>
@@ -284,5 +293,100 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 <referer>http://yoursports.stream</referer>
 </regex>
 </item> 
+  
+<item>
+<title>SPORT | La Casa Del Tiki Taka</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold][makelist.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="([^"]+).+?"tv".+?title="([^="]+).+?src="([^"]+)]]></expres>
+<page>https://revolucionariostv.eu/inicio.php</page>
+<referer>http://lacasadeltikitaka.info/</referer>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,urllib,jsunpack
+def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
+  link=re.findall('id="tv".+?src=[\'"]([^\'"]+)',page_data)[0]
+  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param1]'}).content.decode('ascii','ignore')
+  glink=re.findall('iframe.+?src=[\'"](.+?/(?:MultiTV|Repros)[^\'"]+)',source)[0]
+  if 'Repros' in glink:
+     source=requests.get(glink,headers={'user-agent':'Mozilla/5.0','referer':link}).content
+     if 'janjua.tv' in source:
+        cn,gID=re.findall('channel=[\'"]([^\'"]+).+?g=[\'"](\d+).+?janjua',source)[0]
+        jjurl='https://www.janjua.tv/hembedplayer/%s/%s/730/430'%(cn,gID)
+        fsource=requests.get(jjurl,headers={'user-agent':'Mozilla/5.0','referer':glink,'accept':'*/*'}).content
+        jsurl,scheme,netloc,param,blurl=re.findall('(?s)text.javascript.\s*src=[\'"](.*?newjanjua[^\'"]+).+?var\s*hlsUrl.+?"([^"]+).+?"([^"]+).+?enableVideo.[\'"]([^\'"]+).+?ajax.{url.+?"([^"]+)',fsource)[0]
+        jssource=requests.get(jsurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+        if 'substring' in jssource:
+           p1,p2=re.findall('enableVideo.+?,(\d+).+?(\d+)',jssource)[0];param=param[:int(p1)]+param[int(p2):]
+           blsource=requests.get(blurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+           furl=re.findall('(.*)',blsource)[0].split('=')[1]
+           return '%s%s%s%s|user-agent=ipad&referer=%s'%(scheme,furl,netloc,param,jjurl)
+        else:
+           blsource=requests.get(blurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+           furl=re.findall('(.*)',blsource)[0].split('=')[1]
+           return '%s%s%s%s|user-agent=ipad&referer=%s'%(scheme,furl,netloc,param,jjurl)
+     elif 'montenegroweb' in source:
+        html=re.findall('iframe.+?src="(.+?montenegroweb[^"]+)',source)[0]
+        source=requests.get(html,headers={'user-agent':'Mozilla/5.0','referer':glink}).content
+        if 'sportsbay.org' in source:
+           furl='https:'+re.findall('<iframe .+?src.+?(//sportsbay.org[^\'"]+)',source)[0]
+           sbsource=requests.get(furl,headers={'user-agent':'Mozilla/5.0','referer':html,'accept':'*/*'}).content
+           return re.findall('Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',sbsource)[0]+'|user-agent=ipad&referer='+furl
+        elif 'janjua.tv' in source:
+           cn,gID=re.findall('channel=[\'"]([^\'"]+).+?g=[\'"](\d+).+?janjua',source)[0]
+           jjurl='https://www.janjua.tv/hembedplayer/%s/%s/730/430'%(cn,gID)
+           fsource=requests.get(jjurl,headers={'user-agent':'Mozilla/5.0','referer':glink,'accept':'*/*'}).content
+           jsurl,scheme,netloc,param,blurl=re.findall('(?s)text.javascript.\s*src=[\'"](.*?newjanjua[^\'"]+).+?var\s*hlsUrl.+?"([^"]+).+?"([^"]+).+?enableVideo.[\'"]([^\'"]+).+?ajax.{url.+?"([^"]+)',fsource)[0]
+           jssource=requests.get(jsurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+           if 'substring' in jssource:
+              p1,p2=re.findall('enableVideo.+?,(\d+).+?(\d+)',jssource)[0];param=param[:int(p1)]+param[int(p2):]
+              blsource=requests.get(blurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+              furl=re.findall('(.*)',blsource)[0].split('=')[1]
+              return '%s%s%s%s|user-agent=ipad&referer=%s'%(scheme,furl,netloc,param,jjurl)
+           else:
+              blsource=requests.get(blurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+              furl=re.findall('(.*)',blsource)[0].split('=')[1]
+              return '%s%s%s%s|user-agent=ipad&referer=%s'%(scheme,furl,netloc,param,jjurl)
+     else:
+        source=requests.get(glink,headers={'user-agent':'Mozilla/5.0','referer':link}).content
+        dlink='https:'+re.findall('iframe\s*src.+?(//[^\'"]+)',source)[0]
+        source=requests.get(dlink,headers={'user-agent':'Mozilla/5.0','referer':url}).content
+        m3u8=jsunpack.unpack(re.findall('(eval.*m3u8.*)',source)[0])
+        return re.findall('player.src[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',m3u8)[0]+'|user-agent=ipad&referer-'+dlink
+  elif 'MultiTV' in glink:
+     source=requests.get(glink,headers={'user-agent':'Mozilla/5.0','referer':link}).content
+     url=re.findall('iframe.+?src="(.+?Repros[^"]+)',source)[0]
+     source=requests.get(url,headers={'user-agent':'Mozilla/5.0','referer':glink}).content
+     html=re.findall('id="tv".+?src="([^"]+)',source)[0]
+     source=requests.get(html,headers={'user-agent':'Mozilla/5.0','referer':url}).content
+     cn,gID=re.findall('channel=[\'"]([^\'"]+).+?g=[\'"](\d+).+?janjua',source)[0]
+     jjurl='https://www.janjua.tv/hembedplayer/%s/%s/730/430'%(cn,gID)
+     fsource=requests.get(jjurl,headers={'user-agent':'Mozilla/5.0','referer':html,'accept':'*/*'}).content
+     jsurl,scheme,netloc,param,blurl=re.findall('(?s)text.javascript.\s*src=[\'"](.*?newjanjua[^\'"]+).+?var\s*hlsUrl.+?"([^"]+).+?"([^"]+).+?enableVideo.[\'"]([^\'"]+).+?ajax.{url.+?"([^"]+)',fsource)[0]
+     jssource=requests.get(jsurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+     if 'substring' in jssource:
+        p1,p2=re.findall('enableVideo.+?,(\d+).+?(\d+)',jssource)[0];param=param[:int(p1)]+param[int(p2):]
+        blsource=requests.get(blurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+        furl=re.findall('(.*)',blsource)[0].split('=')[1]
+        return '%s%s%s%s|user-agent=ipad&referer=%s'%(scheme,furl,netloc,param,jjurl)
+     else:
+        blsource=requests.get(blurl,headers={'user-agent':'Mozilla/5.0','referer':jjurl,'accept':'*/*'}).content
+        furl=re.findall('(.*)',blsource)[0].split('=')[1]
+        return '%s%s%s%s|user-agent=ipad&referer=%s'%(scheme,furl,netloc,param,jjurl)
+]]></expres>
+<page>[makelist.param1]</page>
+<referer>https://revolucionariostv.eu/inicio.php</referer>
+</regex>
+<thumbnail>https://i.imgur.com/l5XRRyU.png</thumbnail>  
+</item>     
+     
 </items>
 
