@@ -51,6 +51,38 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg",SPORT | Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 1
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 2
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 3
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 4
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 5
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 6
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 7
+http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 8
+http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 9
+http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 10
+http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 11
+http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 12
+http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 13
+http://95.170.215.120:80/hls/m3u8/BeinSport13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 14
+http://95.170.215.120:80/hls/m3u8/BeinSport14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 15
+http://95.170.215.120:80/hls/m3u8/BeinSport15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bc2NcWw.jpg",SPORT | beIN Sports 16
+http://95.170.215.120:80/hls/m3u8/BeinSport16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT | Bek Sports East
@@ -71,6 +103,8 @@ https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
 http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1-avc1_2200000=12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlatIjx.jpg",SPORT | EPT SPORT
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLN6ffy.jpg",SPORT | TDM SPORTS MACAU
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
