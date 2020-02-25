@@ -25,6 +25,8 @@ https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasports
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqSjxvB.jpg",SPORT | Sport en France
+plugin://plugin.video.dailymotion_com/?url=%x797sy0%&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Plus 1
@@ -298,13 +300,4 @@ https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sMraJKX.png",SN | Africa7 TV
 plugin://plugin.video.dailymotion_com/?url=%x7r5g1k%&mode=playLiveVideo
 
-plugin://plugin.video.dailymotion_com/?url=%VIDEOID%&mode=playLiveVideo
-
-plugin://plugin.video.dailymotion_com/?url=%VIDEOID%&mode=playLiveVideo
-
-plugin://plugin.video.dailymotion_com/?url=%VIDEOID%&mode=playLiveVideo
-
-plugin://plugin.video.dailymotion_com/?url=%VIDEOID%&mode=playLiveVideo
-
-plugin://plugin.video.dailymotion_com/?url=%VIDEOID%&mode=playLiveVideo
 
