@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6lt2P1.jpg",BE | Een
-plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BE | Canvas
-plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gu8tWn6.png",SPORT | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",SPORT | Red Bull TV
@@ -107,6 +103,10 @@ http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1-avc1_2200000=12.m3u8
 https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLN6ffy.jpg",SPORT | TDM SPORTS MACAU
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6lt2P1.jpg",BE | Een
+plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BE | Canvas
+plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
@@ -333,5 +333,10 @@ https://a.jsrdn.com/rtmp/22690/index.m3u8
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png",RW | RTV
 https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://github.com/Catch-up-TV-and-More/images/raw/master/channels/wo/bvn.png",BVN
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=bvn&item_module=resources.lib.channels.wo.bvn&item_dict={}
+#EXTINF:-1 tvg-logo="https://github.com/Catch-up-TV-and-More/images/raw/master/channels/wo/arte.png",Arte DE
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=arte&item_module=resources.lib.channels.wo.arte&item_dict={"language":"DE"}
+#EXTINF:-1 tvg-logo="https://github.com/Catch-up-TV-and-More/images/raw/master/channels/ca/tva.png",TVA
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tva&item_module=resources.lib.channels.ca.tva&item_dict={}
 
