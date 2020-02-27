@@ -269,6 +269,8 @@ https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FfM66eF.png",DE VPN | ARTE
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=arte&item_module=resources.lib.channels.wo.arte&item_dict={"language":"DE"}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg",US | The Film Detective
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W5yDzNn.jpg",US | Movie Kingdom
@@ -315,6 +317,8 @@ https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0100/hi/c.m3u8
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4YXBNlf.png",CA VPN | TVA
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tva&item_module=resources.lib.channels.ca.tva&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwsmMWu.png",ES | Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
@@ -333,10 +337,6 @@ https://a.jsrdn.com/rtmp/22690/index.m3u8
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png",RW | RTV
 https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Catch-up-TV-and-More/images/raw/master/channels/wo/bvn.png",BVN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4f7G9rQ.png",VPN | BVN
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=bvn&item_module=resources.lib.channels.wo.bvn&item_dict={}
-#EXTINF:-1 tvg-logo="https://github.com/Catch-up-TV-and-More/images/raw/master/channels/wo/arte.png",Arte DE
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=arte&item_module=resources.lib.channels.wo.arte&item_dict={"language":"DE"}
-#EXTINF:-1 tvg-logo="https://github.com/Catch-up-TV-and-More/images/raw/master/channels/ca/tva.png",TVA
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tva&item_module=resources.lib.channels.ca.tva&item_dict={}
 
