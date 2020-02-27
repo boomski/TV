@@ -22,7 +22,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png",SPORT | Sport en France
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=sportenfrance&item_module=resources.lib.channels.fr.sportenfrance&item_dict={}
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Plus 1
