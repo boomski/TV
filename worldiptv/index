@@ -9,6 +9,18 @@
 </item>
  
 <item>
+<title>EE | Rockstick Productions</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCV6tB5e8Gtp05wLNxI_sZwA</page>
+</regex>
+<thumbnail>https://i.imgur.com/B81U3RM.png</thumbnail>  
+<fanart>https://i.imgur.com/ZpYROSW.jpg</fanart>  
+</item> 
+ 
+<item>
 <title>HU | M1</title>
 <thumbnail>https://i.imgur.com/lr6MmGt.png</thumbnail>   
 <link>$doregex[getUrl]</link>
