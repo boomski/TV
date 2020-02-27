@@ -157,6 +157,20 @@ https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bRovBZG.png",NL | Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8bqkwkG.png",NL | L1mburg
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLYsKKC.png",NL | Omroep Brabant
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2LZJo7k.png",NL | Omroep Gelderland
+http://web.omroepgelderland.nl/live/livetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6eHPxa.jpg",NL | Omroep Flevoland
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsD7Tsu.png",NL | RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png",NL | RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png",NL | RTV Noord Extra
+http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png",CW | DCTV
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kbx9ade.png",CW | Nos Païs
@@ -315,8 +329,54 @@ https://a.jsrdn.com/broadcast/j4jhsgg89/V_video_720p_9685.m3u8
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0100/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGjCGml.jpg",UK | FashionTV L'Original 
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mdNV8tQ.jpg",AU | Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg",AU | Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
+https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png",AU | 10 Peach
+https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILLDCjf.png",AU | 10 Bold
+https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1FCS89.png",AU | SBS VICELAND HD
+https://i.mjh.nz/au/Adelaide/tv.320203000303.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ondbFn1.png",AU | SBS VICELAND
+https://i.mjh.nz/au/Adelaide/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPT4Ck5.png",AU | SBS Food
+https://i.mjh.nz/au/Adelaide/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SYnJ80k.png",AU | SBS
+https://i.mjh.nz/au/Adelaide/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7P7lQc2.png",AU | NITV
+https://i.mjh.nz/au/Adelaide/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApQlQuX.png",AU | Channel 9
+https://i.mjh.nz/au/Adelaide/tv.101204500451.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWsIek4.png",AU | 9Life
+https://i.mjh.nz/au/Adelaide/tv.101204500454.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euJ6CeR.png",AU | 9Go!
+https://i.mjh.nz/au/Adelaide/tv.101204500458.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYnDH0e.png",AU | 9Gem
+https://i.mjh.nz/au/Adelaide/tv.101204500457.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YByZZBF.png",AU | ABC NEWS
+https://i.mjh.nz/au/Adelaide/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9Oc7v9.png",AU | ABC ME
+https://i.mjh.nz/au/Adelaide/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EReJ7TL.png",AU | ABC KIDS
+https://i.mjh.nz/au/Adelaide/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqzFVEW.png",AU | ABC Comedy
+https://i.mjh.nz/au/Adelaide/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCbgD85.png",AU | ABC
+https://i.mjh.nz/au/Adelaide/tv.101002510251.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Refere
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png",AU | Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png",AU | Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png",AU | Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyfoVha.png",AU | Australia Rainbow TV
+http://rtvcdn.com.au:8082/TV_GG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4YXBNlf.png",CA VPN | TVA
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tva&item_module=resources.lib.channels.ca.tva&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwsmMWu.png",ES | Divinity
