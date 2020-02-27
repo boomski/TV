@@ -7,20 +7,7 @@
 <thumbnail>https://i.imgur.com/3KXo1pr.png</thumbnail>	 
 <fanart>https://i.imgur.com/GIDPQ7H.jpg</fanart>  
 </item>
-  
-<item>
-<title>CO | Win Sports</title>
-<link>$doregex[url]|User-Agent=iPad</link>
-<thumbnail>https://i.imgur.com/6Tca0js.jpg</thumbnail>
-<fanart>https://i.imgur.com/E6mjUyM.jpg</fanart>
-<regex>
-<name>url</name>
-<expres> id=.player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
-<page>http://www.tv-onlinehd.com/vip/tvonlinehd.php?id=31</page>
-<referer>http://www.tv-onlinehd.com/</referer>
-</regex>
-</item> 
-  
+ 
 <item>
 <title>HU | M1</title>
 <thumbnail>https://i.imgur.com/lr6MmGt.png</thumbnail>   
