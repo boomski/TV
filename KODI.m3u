@@ -413,3 +413,5 @@ https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playli
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4f7G9rQ.png",VPN | BVN
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=bvn&item_module=resources.lib.channels.wo.bvn&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCI1w14.jpg",XXX | BSX
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8 
