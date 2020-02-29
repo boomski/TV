@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items> 
 <item>
+<title>TW | TVBS</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/PhFw10l.jpg</thumbnail>   
+</item>  
+ 
+<item>
 <title>CO | Canal Acuario</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/canalacuario</externallink>
