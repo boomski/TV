@@ -287,6 +287,8 @@ https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfM66eF.png",DE VPN | ARTE
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=arte&item_module=resources.lib.channels.wo.arte&item_dict={"language":"DE"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LUhiYfG.jpg",US | NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aA5JEO.jpg",US | Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg",US | The Film Detective
