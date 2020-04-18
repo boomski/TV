@@ -1,0 +1,20 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YiGoPpv.png",NO VPN | NRK 1
+https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MqDgyaH.png",NO VPN | NRK 2
+https://nrk-nrk2.akamaized.net/22/1/hls/nrk_2/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j3mLRVG.png",NO VPN | NRK 3
+https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jGqmtrZ.jpg",NO VPN | NRK Tegnspraak
+https://httpcache0-47115-httpcache0.dna.qbrick.com/47115-cachelive0/25/1/hls/nrk_tegnspraak/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5hu4cKT.png",NO VPN | NRK Super
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWNNpB6.png",NO | Kanal 10 Norge
+http://cdn-kanal10.crossnet.net:1935/kanal10no/mp4:live1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iviMrbO.jpg",NO | MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpdHuGo.png",NO | MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3U1p695.png",NO | Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+
