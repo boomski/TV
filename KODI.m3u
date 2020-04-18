@@ -177,6 +177,8 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJxD8Vc.png",CW | TV Direct 13
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
+https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitJsZU.png",DE | EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XbXSpy1.png",DE | Welt der Wunder
@@ -465,3 +467,4 @@ https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L955hWC.jpg",RADIO | 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+
