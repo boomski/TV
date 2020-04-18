@@ -217,6 +217,8 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifi
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RT3pz5L.png",FR | TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMp9M5A.jpg",FR | TVR
+https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdNV8tQ.jpg",AU | Australia Channel
@@ -279,6 +281,8 @@ https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/tracks-v1a1/m
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wlv9PeF.jpg",UK | Canaf 54
 https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEGJ3NX.jpg",DK | TV 2 Lorry
+https://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/1_grusx1zd/sd/6000/t/SBqf2reMLuRFOX3tQQv_Iw/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwsmMWu.png",ES | Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
