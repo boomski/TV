@@ -321,6 +321,8 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=t
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=arte&item_module=resources.lib.channels.wo.arte&item_dict={"language":"DE"}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CCrojy8.jpg",UK | MATV
 https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
+http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxK09kO.jpg",BD | Channel-S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plao8Ml.jpg",BD | NTV
