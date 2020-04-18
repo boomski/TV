@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJrQJs5.png",MT | Discover Malta
+http://www.evoiptv.com/hlsdiscover/hlsdiscover.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nyxsrvB.png",MT | Drama
+http://www.evoiptv.com/hlsdrama/hlsdrama.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIlT2N9.png",MT | ITV Shopping Channel
+http://www.evoiptv.com/hlsitv/hlsitv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvKSCZg.png",MT | MVTV
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5EzuLfj.png",MT | One TV
+http://api.new.livestream.com/accounts/18398100/events/ONELive/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6qrRPGz.png",MT | River
+http://www.evoiptv.com/hlsriver/hlsriver.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOQ3rau.png",MT | Splaxxx
+http://www.evoiptv.com/hlskids/hlskids.m3u8

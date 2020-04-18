@@ -1,0 +1,21 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7q3g8AS.png",HR | Radio Televizija Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S75GJym.png",HR | Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMQqXgS.jpg",HR | Televizija Aurora
+http://85.94.81.190:8844/sdi/aurora.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdaxFrx.jpg",HR | Z1
+http://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiwRvO7.png",HR | Doma
+http://62.210.205.41:8080/DOMATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VF4v1Wo.png",HR | Nova
+http://62.210.205.41:8080/NOVATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1VKNE40.png",HR | Pink Plus
+http://62.210.205.41:8080/PINK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0S83Su.png",HR | RTL
+http://62.210.205.41:8080/RTL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vyjuvuD.png",HR | HRT 2
+http://62.210.205.41:8080/HRT2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xRs1zDm.png",HR | HRT 1
+http://62.210.205.41:8080/HRT1/index.m3u8

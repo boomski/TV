@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mX080in.png",GE | 1TV
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mX080in.png",GE | 1TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBmQCH7.png",GE | 2TV
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJAT25i.jpg",GE | Enki-Benki
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fsqBn8G.png",GE | Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2pPZR6.png",GE | Imedi
+http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6p3KzI.png",GE | Marao
+http://188.93.95.34/marao/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ku9kLp8.png",GE | Music Box Georgia
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqSRphj.png",GE | Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUowZUT.png",GE | Rustavi 2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUowZUT.png",GE | Rustavi 2
+http://md-store4.tulix.tv/rustavi2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUowZUT.png",GE | Rustavi 2
+http://r2.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2hUpfN.jpg",GE | Mtavari Arxi
+https://hls.t.stream-dns.net/hls/mtavari_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJyGRxb.png",GE | TV Pirveli
+https://hls.t.stream-dns.net/hls/tvpirveli_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zNm8P83.jpg",GE | Maestro
+https://hls.t.stream-dns.net/hls/maestro_1/index.m3u8
+

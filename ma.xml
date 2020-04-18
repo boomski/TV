@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7GdM3L.png",MA | M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8hhUwXc.png",MA | Chada TV
+https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBgr8ot.jpg",MA | 2M Maroc
+http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE1SdyA.png",MA | 2M Monde
+http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE1SdyA.png",MA | 2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gEQhLN.png",MA | Al Aoula
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtu4cLu.png",MA | Al Aoula Laayoune TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtu4cLu.png",MA | Al Aoula Laayoune TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWT2kC.jpg",MA | Al-Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWT2kC.jpg",MA | Al-Maghribia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8jSVoz.png",MA | Arrabia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4B5VH.jpg",MA | Arriadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8jSVoz.png",MA | Arrabia
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8jSVoz.png",MA | Arrabia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4B5VH.jpg",MA | Arriadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NY4B5VH.jpg",MA | Arriadia
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kRJy1Ve.png",MA | Assadissa
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kRJy1Ve.png",MA | Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0uf0Vv.png",MA | Tamazight TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtu4cLu.png",MA | Al Aoula Laayoune TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uaRLzXZ.png",MA | Medi 1 TV
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0uf0Vv.png",MA | Tamazight TV
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sibv0t.png",MA | Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8

@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OgZQTPy.png",LT | LNK
+http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnfOI3O.png",LT | TV3 [HD]
+http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnfOI3O.png",LT | TV3 [SD]
+http://185.176.117.243/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TAeWSud.jpg",LT | TV6
+http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pYogpSY.png",LT | TV8
+http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tl9MZ9z.png",LT | LRT
+http://185.176.117.243/live/eds/LRT/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tl9MZ9z.png",LT | LRT Lithuania
+http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksZ53A1.png",LT SPORT | Sport1
+http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
+
