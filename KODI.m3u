@@ -293,6 +293,10 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 https://server.tvdj.info:8222/radioepirus/radioepirus/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiGrf6k.png",CI | NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnGxpM8.png",CI | RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3MHcyD0.png",CI | RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg",RW | KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png",RW | RTV
