@@ -221,6 +221,8 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 Español
+https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvrvwtm.png",FR | Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEA3az8.png",FR | Grand Lille TV
