@@ -1,73 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-</items>  
-
-
-
-
-
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-austria.xml.gz"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CVMEQ8V.png",AT VPN | ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLQFEsR.png",AT VPN | ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GO5rSRD.png",AT VPN | ORF 3
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SpMOpHQ.png",AT VPN | ORF Sport Plus
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [1080p]
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [720p]
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_3392.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [540p]
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_1628.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iV0doUF.png",AT XXX | Visit-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XNiWKvL.png",AT | Brandnite TV
-https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SK9IQ1Z.png",AT | Dorf TV
-https://stream.openplayout.org/hls/dorf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HSRpYUl.jpg",AT | FS1 Salzburg
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxISEZf.png",AT | Go TV
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pb4Iqno.png",AT | Hitradio Ö3
-http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OyOPRtq.png",AT | K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLwBOtU.jpg",AT | KroneHit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLwBOtU.jpg",AT | KroneHit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g2Hdysr.jpg",AT | Ländle TV
-https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xmfgBrg.png",AT | M4
-https://5a32c05065c79.streamlock.net/live/stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xgkun9X.png",AT | Melodie Express TV
-https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gRHJDxr.png",AT | oe24.TV
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9LgT0v.jpg",AT | Okto Eight
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg",AT | P3tv
-http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wu6SMvb.png",AT | R9
-https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SSDLpPU.png",AT | RTS-Salzburg
-http://lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SSDLpPU.png",AT | RTS-Salzburg
-https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KJie1k5.png",AT | Teins TV
-http://live1.markenfunk.com/t1/live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0jHWmjL.png",AT | Tirol TV
-http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J25y9ah.png",AT | W24
-https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eMivDjz.png",AT | Upper Austria
-http://163.172.15.177:80/live/sUPPERchannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fAkcCd.jpg",AT | Uppera Balkan
-http://163.172.15.177/live/sUPPERchannel2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png",AT | RTL Austria
-http://188.35.9.5:10020/stolen/502r/hot.dll
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sQZfm5e.jpg",AT | Schau TV
-https://schautv.mdn.ors.at/out/u/schautv-nodrm_5.m3u8
+  
+<item>
+<title>AT | Alpentour TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCvgp9yvH-c_L07RBk7iqGaQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/A0MYcKO.png</thumbnail>  
+<fanart>https://i.imgur.com/O8iw7ol.jpg</fanart>   
+</item>
+  
+<item>
+<title>AT | Sport Platin TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC9q0LSmy42m5r2fNbeUZ7qg</page>
+</regex>
+<thumbnail>https://i.imgur.com/tfSyUY8.png</thumbnail> 
+<fanart>https://i.imgur.com/O8iw7ol.jpg</fanart>    
+</item>  
+  
+<item>
+<title>AT | Sport Platin TV | ON DEMAND</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UC9q0LSmy42m5r2fNbeUZ7qg/</jsonrpc>
+<thumbnail>https://i.imgur.com/tfSyUY8.png</thumbnail> 
+<fanart>https://i.imgur.com/O8iw7ol.jpg</fanart>       
+</item>  
+  
+  
+</items>
