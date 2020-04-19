@@ -73,6 +73,10 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg",SPORT | LSN
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png",SPORT | MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/387jXC7.jpg",SPORT | KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg",SPORT | World Of Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2msWdzQ.jpg",SPORT | Horizon Sports
@@ -99,8 +103,6 @@ http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
 http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbpEDnM.jpg",SPORT | All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/387jXC7.jpg",SPORT | KOK Fights
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4FGVDqV.jpg",SPORT | Turkmenistan Sport
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AR3Snsb.png",SPORT | Varzesh TV Farsi
@@ -261,6 +263,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aA5JEO.jpg",US | Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naYszow.jpg",US | Unidentified
+https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tTmLQwo.png",US | Chive TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg",US | The Film Detective
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W5yDzNn.jpg",US | Movie Kingdom
@@ -283,6 +289,8 @@ https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYDR5VS.jpg",US | The Boat Show
 https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruG03IK.jpg",US | Outside TV +
+https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AdEFuUG.jpg",US | Sportskool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIEhpPp.png",US | Motorcyclist
@@ -297,10 +305,16 @@ https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8
 https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WNqDJT4.jpg",US | Titanic TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrYEcXp.png",US | Young Hollywood
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8wzxRP.jpg",US | Global Fashion Channel
+https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JGFEW6W.jpg",US | Bollywood TV
 https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPfpoF8.png",US | Sportsgrid Network
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png",US | Real Vision
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSIx6la.png",UK | Mafa Shortfilm
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XStfgbe.png",UK | Only Motors
@@ -423,6 +437,16 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKUvjkM.png",VIDEO | Fireplace Lounge
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLA5idh.png",VIDEO | Fish Tank
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q6YciJM.png",VIDEO | Relaxing Rain
+https://a.jsrdn.com/broadcast/76381deeda/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJh0HJp.png",VIDEO | Island Escape
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f6suPww.png",VIDEO | Tranquil Thunderstorms
+https://a.jsrdn.com/broadcast/18b42f9aef/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iV0doUF.png",XXX | Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHHE8Rt.png",XXX | Babestation 24
