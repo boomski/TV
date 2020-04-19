@@ -1,57 +1,19 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/26X2Jih.jpg",HU | 1 Music Channel
-http://92.249.129.152/stream/1music.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/26X2Jih.jpg",HU | 1 Music Channel
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1K6sQW.jpg",HU | ATV
-http://nodes.stream.atv.hu/atvliveedge/_definst_//atvstream_2_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xyG4O6F.jpg",HU | Balaton TV
-https://stream.iptvservice.eu/hls/balatontv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpGX5SH.png",HU | Bonum TV
-http://cdn.y5.hu/stream/bonum/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpGX5SH.png",HU | Bonum TV
-https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dpGX5SH.png",HU | Bonum TV
-https://stream.y5.hu/stream/stream_bonum/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxF5vwl.png",HU | Budapest Európa Televízió
-http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxF5vwl.png",HU | Budapest Európa Televízió
-http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y5XN7Vd.png",HU SPORT | DIGI Sport 1 HD
-http://37.152.135.169:9002/play/a002/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9jOeMY.jpg",HU SPORT | DIGI Sport 2 HD
-http://37.152.135.169:9002/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TMquVAi.png",HU | Dunaújváros Televízió
-http://91.82.85.71:1935/liverelay/dstv.sdp/HasBahCa.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xAmYapr.jpg",HU | Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FoDP1wn.jpg",HU | Fehérvár TV
-http://cloudfront44.lexanetwork.com:1730/HDE016/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oOeJUn4.jpg",HU | H!T Music Channel
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/64ygAE5.png",HU | Hatoscsatorna
-rtmp://lpmedia.hu:1935/Hatoscsatorna/livestream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LBV6D4C.png",HU | Kanizsa TV
-https://cloudfront44.lexanetwork.com:1440/HDE024/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G4GDbxM.png",HU | Kapos TV
-https://cloudfront63.lexanetwork.com:1440/hlsrelay016/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q9MWqpE.png",HU | Lóverseny közvetítés
-http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dl9xtgo.png",HU | Pannon RTV
-http://79.172.194.189/hls/pannonrtv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dl9xtgo.png",HU | Pannon RTV
-https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XbY3JF2.png",HU | RTL Gold
-http://37.152.135.169:9002/play/a00j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AG1xwNX.png",HU | RTL II
-http://37.152.135.169:9002/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZpnm3U.png",HU SPORT | StreamSport
-https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgcUO21.jpg",HU XXX | Super One HD
-http://188.35.9.5:10007/stolen/246r/parasite.install
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7GFotmy.jpg",HU | Tatai TV
-https://cloudfront63.lexanetwork.com:1440/hlsrelay014/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JCHEuWb.jpg",HU | VTV Füzesabony
-https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xiSeTRL.jpg",HU | Ózdi Városi TV
-https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items> 
+<item>
+<title>HU | M1</title>
+<thumbnail>https://i.imgur.com/lr6MmGt.png</thumbnail>   
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  return re.findall('id=.xplayer[\w\W]+?src=[\'"]([^\'"]+)',page_data)[0].replace(':443','')+'|user-agent=ipad&referer=https://onlinestream.live/stream/videoplayer/5901-3'
+]]></expres>
+<page>https://onlinestream.live/stream/videoplayer/5901-3</page>
+<referer>https://onlinestream.live/videoplayer.cgi?id=5901&ch=3</referer>
+</regex>
+<thumbnail>https://i.imgur.com/lr6MmGt.png</thumbnail>
+</item> 
+</items>  
