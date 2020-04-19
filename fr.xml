@@ -1,98 +1,218 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EH24utk.jpg",FR | Euronews UK
-https://euronews-en-b-cdn.hexaglobe.net/c4480d6c757a352a052ffa838e6180d3/5e518025/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsUHDU2.png",FR | Euronews Greece
-https://euronews-el-p9-cdn.hexaglobe.net/45d8f6c749368601c64a4d04ade2622e/5e517f42/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/ewnsabrel_gre_720p33.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+<item>
+<title>FR | Sport en France</title>
+<dmlive>x797sy0</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/DeuVEMk.jpg</thumbnail>
+</item>   
+ 
+<item>
+<title>FR | Télévision Locale du Choletais</title>
+<dmlive>x5aarnv</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<thumbnail>https://i.imgur.com/yEwrmqa.jpg</thumbnail>
+</item>   
+ 
+<item>
+<title>FR | Wéo</title>
+<dmlive>x62islg</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/NJUsGND.png</thumbnail>
+</item>
+ 
+<item>
+<title>FR | Wéo Picardie</title>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<dmlive>x63085w</dmlive>
+<thumbnail>https://i.imgur.com/VR7QLZc.png</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png",SPORT | Africa Sports TV
-https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
-https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Iw1YRL.png",FR | TZiK
-https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w1612062948.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r1pq8hQ.png",FR | Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mihujKt.jpg",FR | BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFEqBS7.png",FR | BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cThInij.png",FR | D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9yLdYZ.png",FR | Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YlN5Y5b.jpg",FR | Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png",FR | Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvNu4Rm.png",FR | Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n6owIqv.png",FR | Fashion TV PG13
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lvrvwtm.png",FR | Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k6bnmCc.jpg",FR | Gong
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2EkeQcb.png",FR | Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEA3az8.png",FR | Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tzurFum.png",FR | Holygod TV Europe & Middle East
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gGhCEmJ.jpg",FR | ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LvbXFUy.jpg",FR | KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xDLwsbY.png",FR | La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EgSC2QT.jpg",FR | MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X9U6AqK.png",FR | Persiana 1
-http://51.15.229.209/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ekRMtra.png",FR | Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ky4Yyx.png",FR | RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SUhmboG.png",FR | Trace Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UOG2hKQ.png",FR | Trace Mziki
-http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUQA8VB.png",FR | Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vJZIrJ0.png",FR | Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MoqoYvL.png",FR | Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMYXsMH.png",FR | Trace Urban
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05RMwlR.png",FR | TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRP03WJ.jpg",FR | TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png",FR | TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6ZDQAw.jpg",FR | TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiUPdvp.png",FR | TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuFISFk.png",FR | TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RT3pz5L.png",FR | TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GMp9M5A.jpg",FR | TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/803evgT.png",FR | viàVosges
-https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
-https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+<item>
+<title>FR | Radio Mont Blanc</title>
+<dmlive>x52iluh</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/tGPtTBa.jpg</thumbnail>
+</item>    
+  
+<item>
+<title>FR | TV Vendée</title>
+<dmlive>x38yjeb</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/E7Z4Pnq.jpg</thumbnail>
+</item> 
+ 
+<item>
+<title>FR | Provence AZUR</title>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>   
+<dmlive>x630sku</dmlive>
+<thumbnail>https://i.imgur.com/HKuSPAy.jpg</thumbnail>
+</item>  
+ 
+<item>
+<title>FR | VAR AZUR</title>
+<dmlive>x630wrb</dmlive>
+<thumbnail>https://i.imgur.com/globGCB.jpg</thumbnail>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+</item>  
+ 
+<item>
+<title>FR | AZUR TV</title>
+<dmlive>x13x1q2</dmlive>
+<thumbnail>https://i.imgur.com/uC7hpvZ.png</thumbnail>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+</item>
+ 
+<item>
+<title>FR | RV1</title>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<dmlive>x6mw7oz</dmlive>
+<thumbnail>https://i.imgur.com/hJctk6S.png</thumbnail>
+</item>  
+ 
+<item>
+<title>FR | France Bleu Elsass</title>
+<dmlive>x72b0ey</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>   
+<thumbnail>https://i.imgur.com/yhzTD3z.jpg</thumbnail>
+</item>   
+ 
+<item>
+<title>FR | LMtv Sarthe</title>
+<dmlive>xuyx0h</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/cc7eG0C.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>FR | Europe 1</title>
+<dmlive>xqjkfz</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<thumbnail>https://i.imgur.com/BrNTEjF.png</thumbnail>
+</item>  
+ 
+<item>
+<title>FR | Mouv'TV</title>
+<dmlive>x5ddv09</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<thumbnail>https://i.imgur.com/ODqOEUa.jpg</thumbnail>
+</item>   
+ 
+<item>
+<title>FR | viàGrandParis</title>
+<dmlive>x6gk2x7</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<thumbnail>https://i.imgur.com/FdjIdAM.jpg</thumbnail>
+</item>  
+ 
+<item>
+<title>FR | TL7</title>
+<dmlive>x5ct4nu</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/juHh6f0.png</thumbnail>
+</item> 
+ 
+<item>
+<title>FR | TV Tours Val de Loire</title>
+<dmlive>x73o21z</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/56uw6MY.png</thumbnail>
+</item>
+ 
+<item>
+<title>FR | Telenantes</title>
+<dmlive>x5so98l</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<thumbnail>https://i.imgur.com/xS9NXpG.png</thumbnail>
+</item>   
+ 
+<item>
+<title>FR | téléGrenoble Isère</title>
+<dmlive>x128fjo</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/BhOgnxr.png</thumbnail>
+</item>  
+ 
+<item>
+<title>FR | Corsaire TV</title>
+<dmlive>x69bhnf</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>   
+<thumbnail>https://i.imgur.com/aMZ8d6z.png</thumbnail>
+</item> 
+ 
+<item>
+<title>FR | Generations TV</title>
+<dmlive>x2fxcwq</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/3gqQg2q.jpg</thumbnail>  
+</item>  
+ 
+<item>
+<title>FR | Radio Airshow</title>
+<dmlive>x69a2vh</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>   
+<thumbnail>https://i.imgur.com/wRnOQrX.jpg</thumbnail>
+</item>  
+ 
+<item>
+<title>FR | Radio Espace Lyon 96.9 FM</title>
+<dmlive>x122wnj</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<thumbnail>https://i.imgur.com/E0UjnUG.jpg</thumbnail>
+</item> 
+ 
+<item>
+<title>FR | MB Live</title>
+<dmlive>x6142rr</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/3Sovvqs.jpg</thumbnail>
+</item>  
+ 
+<item>
+<title>FR | 8 Mont Blanc</title>
+<dmlive>x3wqv8b</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/bQ0qIxF.jpg</thumbnail>
+</item> 
+ 
+<item>
+<title>FR | 8 Mont Blanc (Live 2)</title>
+<dmlive>x71o73v</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
+<thumbnail>https://i.imgur.com/bQ0qIxF.jpg</thumbnail>
+</item>   
+ 
+<item>
+<title>FR | TV7 Bordeaux</title>
+<dmlive>x46ancl</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<thumbnail>https://i.imgur.com/lOFKkfZ.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>FR | Public Sénat</title>
+<dmlive>xkxbzc</dmlive>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart> 
+<thumbnail>https://i.imgur.com/35ntRpx.jpg</thumbnail>
+</item>  
+ 
+<item>
+<title>FR | Gulli</title>         
+<link>https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8</link>      
+<thumbnail>https://i.imgur.com/NMjuEXC.png</thumbnail>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>   
+</item> 
+ 
+<item>
+<title>FR | France 24</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g</page>
+</regex>
+<thumbnail>https://i.imgur.com/ajohRTr.png</thumbnail>  
+<fanart>https://i.imgur.com/6PPlLva.jpg</fanart>  
+</item>  
+  
+</items>  
