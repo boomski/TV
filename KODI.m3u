@@ -133,6 +133,8 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg",BE | Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P2KQ22O.png",BE | HLN LIVE
+https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png",BE | BX1
@@ -323,16 +325,10 @@ https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
 https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png",US | Real Vision
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2O8OE8m.jpg",US | Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmf93bR.jpg",US | Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lq3XHKj.png",US | Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rls0156.jpg",US | Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYbrWtG.jpg",US | AFV
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPfpoF8.png",US | Sportsgrid Network
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C0NoakZ.jpg",US | Court TV
