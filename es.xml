@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>24 Horas</title>
+<title>ES | RTVE 1</title>
+<thumbnail>https://i.imgur.com/eaLBGqn.png</thumbnail> 
+<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
+<inputstream>https://rtvelivestream.akamaized.net/la1_dvr.m3u8</inputstream>
+</item> 
+<item>
+<title>ES | RTVE 2</title>
+<thumbnail>https://i.imgur.com/qZWMOaV.png</thumbnail> 
+<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
+<inputstream>https://rtvelivestream.akamaized.net/la2_dvr.m3u8</inputstream>
+</item>   
+<item>
+<title>ES | 24 Horas</title>
 <thumbnail>https://i.imgur.com/SvUWRQm.png</thumbnail> 
-<fanart></fanart>
+<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
 <inputstream>https://rtvelivestream.akamaized.net/24h_dvr.m3u8</inputstream>
+</item>   
+<item>
+<title>VPN SPORT | Teledeporte</title>
+<thumbnail>https://i.imgur.com/NM9t1XU.png</thumbnail> 
+<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
+<inputstream>https://rtvelivestream.akamaized.net/tdp_dvr.m3u8</inputstream>
 </item>    
 </items>
