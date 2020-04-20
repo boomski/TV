@@ -11,10 +11,14 @@
 <thumbnail>https://i.imgur.com/YTHrPsX.png</thumbnail>  
 <fanart>https://i.imgur.com/bwlpVPS.jpg</fanart>  
 </item> 
-  
-  #EXTINF:-1 tvg-logo="https://i.imgur.com/P2KQ22O.png",BE | HLN LIVE
-https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive_720p.m3u8
-  
+ 
+<item>
+<title>BE | HLN LIVE</title>
+<thumbnail>https://i.imgur.com/bNOUl9V.jpg</thumbnail> 
+<fanart>https://i.imgur.com/bwlpVPS.jpg</fanart>
+<inputstream>https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive_720p.m3u8</inputstream>
+</item>   
+
 <item>
 <title>BE | Dobbit TV | YOUTUBE</title>
 <link>ignorme</link>
