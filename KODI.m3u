@@ -133,8 +133,6 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg",BE | Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P2KQ22O.png",BE | HLN LIVE
-https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png",BE | BX1
@@ -160,9 +158,9 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=r
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png",BE | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png",LU | RTL
-http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
+https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png",LU | 2.RTL
-http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YldMnap.jpg",LU | Chamber TV
 https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png",LU | TV MCJ
@@ -177,6 +175,12 @@ http://web.omroepgelderland.nl/live/livetv.m3u8
 http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsD7Tsu.png",NL | RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bAhMhuz.jpg",NL | Podium.TV
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&type=live&service=wowza&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bAhMhuz.jpg",NL | Podium.TV 2
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&type=live&service=wowza&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bAhMhuz.jpg",NL | Podium.TV 3
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowza&output=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png",NL | RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png",NL | RTV Noord Extra
@@ -204,7 +208,11 @@ http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EkeQcb.png",FR | Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FR | Gulli
+https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FR | Gulli
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=gulli&item_module=resources.lib.channels.fr.gulli&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtHaTAy.png",FR | TéléToon+
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Iw1YRL.png",FR | TZiK
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist_w1612062948.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mihujKt.jpg",FR | BFM Business
@@ -577,6 +585,10 @@ https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/index_3000_av-p.m3u8
 https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNZ6Zid.jpg",DK VPN | DR Ultra 
 https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/index_3000_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png",RADIO | Radio 1
+http://live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png",RADIO | MNM
+http://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMjFeGE.png",RADIO | Radio PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png",RADIO | City Music TV
@@ -625,3 +637,5 @@ https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
 https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJie1k5.png",RADIO | Teins TV
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GrB3ao.png",RADIO | Klara
+http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
