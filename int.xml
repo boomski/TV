@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
 <item>
 <title>http://ccclubfoundation.org/</title>
 <link>$doregex[makelist]</link>
@@ -33,3 +36,5 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <referer>http://topmovies.me/</referer>
 </regex>
 </item>
+
+</items>   
