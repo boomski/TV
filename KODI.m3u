@@ -573,18 +573,6 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=b
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tva&item_module=resources.lib.channels.ca.tva&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FfM66eF.png",DE VPN | ARTE
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=arte&item_module=resources.lib.channels.wo.arte&item_dict={"language":"DE"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png",DK VPN | DR 1 
-https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png",DK VPN | DR 2 
-https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WkgWOxp.png",DK VPN | DR 3 
-https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FdnMM6X.png",DK VPN | DR K 
-https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYmulOw.png",DK VPN | DR Ramasjang 
-https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNZ6Zid.jpg",DK VPN | DR Ultra 
-https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png",RADIO | Radio 1
 http://live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png",RADIO | MNM
