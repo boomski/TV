@@ -117,8 +117,6 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1e6M2L.png",SPORT | Varzesh TV Farsi 4
 http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NM9t1XU.png",SPORT VPN | Teledeporte
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png",BE | ROB TV
@@ -157,6 +155,8 @@ http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png",BE | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png",BE-NL | BVN
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png",LU | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png",LU | 2.RTL
@@ -191,8 +191,6 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJxD8Vc.png",CW | TV Direct 13
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
-https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitJsZU.png",DE | EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XbXSpy1.png",DE | Welt der Wunder
@@ -537,6 +535,8 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
+https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKUvjkM.png",VIDEO | Fireplace Lounge
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLA5idh.png",VIDEO | Fish Tank
@@ -553,26 +553,6 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikorRe8.png",XXX | A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CVMEQ8V.png",AT VPN | ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLQFEsR.png",AT VPN | ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GO5rSRD.png",AT VPN | ORF 3
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SpMOpHQ.png",AT VPN | ORF Sport Plus
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [1080p]
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [720p]
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_3392.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [540p]
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_1628.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4f7G9rQ.png",WORLD VPN | BVN
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=bvn&item_module=resources.lib.channels.wo.bvn&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4YXBNlf.png",CA VPN | TVA
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tva&item_module=resources.lib.channels.ca.tva&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfM66eF.png",DE VPN | ARTE
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=arte&item_module=resources.lib.channels.wo.arte&item_dict={"language":"DE"}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png",RADIO | Radio 1
 http://live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png",RADIO | MNM
