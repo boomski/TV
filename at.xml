@@ -2,7 +2,7 @@
 <items>
   
 <item>
-<title>AT | Alpentour TV</title>
+<title>AT SPORT | Alpentour TV</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -14,7 +14,7 @@
 </item>
   
 <item>
-<title>AT | Sport Platin TV</title>
+<title>AT SPORT  Sport Platin TV</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -26,7 +26,7 @@
 </item>  
   
 <item>
-<title>AT | Sport Platin TV | ON DEMAND</title>
+<title>AT SPORT | Sport Platin TV | ON DEMAND</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UC9q0LSmy42m5r2fNbeUZ7qg/</jsonrpc>
 <thumbnail>https://i.imgur.com/tfSyUY8.png</thumbnail> 
@@ -35,3 +35,17 @@
   
   
 </items>
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVMEQ8V.png",AT VPN | ORF 1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLQFEsR.png",AT VPN | ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GO5rSRD.png",AT VPN | ORF 3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SpMOpHQ.png",AT VPN | ORF Sport Plus
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [1080p]
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [720p]
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_3392.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JL4YyiX.png",AT VPN | ServusTV [540p]
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_1628.m3u8
