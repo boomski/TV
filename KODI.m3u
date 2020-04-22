@@ -67,6 +67,10 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg",SPORT | Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9BMhDS.png",SPORT | Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hgODI7q.png",SPORT | Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT | Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT | Bek Sports West
@@ -463,6 +467,20 @@ https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiyYqPK.jpg",CD | Congo Planet Television 2
 https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FekWmTu.jpg",CM | Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmqJmql.png",CM | Afrique Média TV
+https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QeGnyEI.jpg",CM | MyTV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VaqSmZv.png",CM | Top Movies
+http://41.223.30.250:8080/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yIAoh7.jpg",CM | Dream Channel
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist_w1977685799.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/REJJHir.jpg",CM | Emergence TV
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6FiGak.jpg",CM | Golden House TV
+http://connectiktv.ddns.net:5000/goldentv/goldentv/chunklist_w1093844285.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
@@ -625,3 +643,9 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist.m3u8
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GrB3ao.png",RADIO | Klara
 http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXlNxG3.jpg",RADIO | VIBE TV
+http://41.223.30.250:8080/vibe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZQy60ZC.jpg",RADIO | LOGOS Channel
+http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w750668821.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pIe8Xp.jpg",RADIO | Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
