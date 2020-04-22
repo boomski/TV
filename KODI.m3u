@@ -581,6 +581,30 @@ https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjirvEO.png",AZ | Turan TV
+http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GbJb8HL.png",AZ | Play One
+http://51.158.103.244/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0MFkKAr.jpg",AZ | ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiIJMek.jpg",AZ | ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VAiAnb.jpg",AZ | CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1352949174.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/glJmSlO.png",AZ | Dalga
+http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geyLqiw.jpg",AZ | Ictimai TV
+http://streams2.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6i8byT.png",AZ | Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SI78uPi.png",AZ | Muz TV
+http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKUvjkM.png",VIDEO | Fireplace Lounge
