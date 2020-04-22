@@ -289,12 +289,16 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vuFx0Zd.jpg",AU | Snowy Mountains TV
 http://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GLVVCvE.jpg",AU | Australia News Channel
+https://nimble.dashstreams.net/onestudio/australianewschannel/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LUhiYfG.jpg",US | NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aA5JEO.jpg",US | Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1qIwTY.jpg",US | Stirr
 https://playoutengine.sinclairstoryline.com/playout/cc31c22a-adb9-4a2e-bc54-2e7e7d68617c/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg",US | Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/naYszow.jpg",US | Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tTmLQwo.png",US | Chive TV
