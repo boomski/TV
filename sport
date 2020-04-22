@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>SPORT | OLYMPIC CHANNEL</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/olympicchannel/index</externallink>
+<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
+</item>  
   
 <item>
 <title>SPORT | UEFA NATIONS LEAUGUE DRAW</title> 
@@ -17,7 +23,7 @@
 <item>
 <title>SPORT | TIZ Cycling</title> 
 <thumbnail>https://i.imgur.com/OkMkWue.png</thumbnail>
-<link>https://usb.bozztv.com/ssh101/ghui22/ghui22/chunklist_w560744624.m3u8</link> 
+<link>https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8</link> 
 </item> 
 
 <item>
@@ -258,12 +264,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/sportzonline/index</externallink>
 <thumbnail>https://i.imgur.com/gwH2mzX.jpg</thumbnail>
 </item>
-<item>
-<title>SPORT | OLYMPIC CHANNEL</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/olympicchannel/index</externallink>
-<thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
-</item> 
+ 
  <item>
 <title>SPORT | LIVE SPORTS</title>
 <link>ignoreme</link>
