@@ -45,12 +45,10 @@ https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasports
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Plus 2
-https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Plus 3
-https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Plus 4
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djdariX.jpg",SPORT | Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",SPORT | Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",SPORT | Abu Dhabi Sports 2
@@ -355,6 +353,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C0NoakZ.jpg",US | Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzUcPXQ.jpg",US | Dabl
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSIx6la.png",UK | Mafa Shortfilm
@@ -487,6 +487,8 @@ http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GjJu9Rm.jpg",BB | CBC TV 8
+https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8IaQMJ.png",CN | CCTV 1
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G7hGk8y.png",CA | IIPC TV
@@ -543,6 +545,10 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWpevBp.jpg",CA | VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYV1csh.jpg",MT | TVM
+https://live.23video.com/live/amlst:bl4dcbugtv55oo2o13jacsu687:16966825-2ca040dbfeea9e5cb868.mp4/chunklist_b2128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gay0737.jpg",MT | TVM 2
+https://live.23video.com/live/amlst:ddo6m0063ahpv1i8bps0v6n3bb:16973314-1185a91eaad15f019b1b.mp4/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
@@ -571,6 +577,8 @@ https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKUvjkM.png",VIDEO | Fireplace Lounge
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLA5idh.png",VIDEO | Fish Tank
