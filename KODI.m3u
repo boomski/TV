@@ -113,6 +113,8 @@ http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4FGVDqV.jpg",SPORT | Turkmenistan Sport
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png",SPORT | Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AR3Snsb.png",SPORT | Varzesh TV Farsi
 http://51.158.66.44/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDY4Aiq.png",SPORT | Varzesh TV Farsi 2
@@ -603,6 +605,74 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OyOPRtq.png",AT | K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FAp0RtO.png",AE | Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WjJ8MHC.png",AE | Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKXDeMQ.png",AE | Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5U9qpf.png",AE | Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5S2ci8p.png",AE | Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bF6I3N1.jpg",AE | Sama Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9c316dr.png",AE | Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DQ1RfUa.png",AE | Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rLR5q2x.png",AE | Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FpKvYT1.png",AE | Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6FT7yx.jpg",AE | Ajman TV
+http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDhD6kT.png",AE | Al Aan TV
+http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKBXOKd.png",AE | MBC
+http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png",AE | MBC 2 HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png",AE | MBC 3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfF61uH.png",AE | MBC 4
+http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png",AE | MBC Max HD
+http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png",AE | MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMjhK06.png",AE | MBC Bollywood
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5ER0we.png",AE | MBC Drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrvZduL.jpg",AE | MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNhSZ9N.png",AE | Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lTEvrU.jpg",AE | Citruss TV
+https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L42Ouau.png",AE | Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mT3mCCK.png",AE | Cartoon Network كرتون
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsxrqta.jpg",AE | Toheed TV
+http://51.158.73.206/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg",AE | Wanasah
+http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Er1lh6.png",AE | Sharqiya from Kalba TV
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FP2yHkl.png",AE | Noor Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IvIdaGB.png",AE | B4U Aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnpCnyh.png",AE | B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ibUfEGr.png",AE | Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CCrojy8.jpg",UK | MATV
 https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
