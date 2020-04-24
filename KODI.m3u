@@ -381,6 +381,10 @@ https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XzUcPXQ.jpg",US | Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnBXXw4.png",US | The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xcjkr46.jpg",US | The Now Network
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSIx6la.png",UK | Mafa Shortfilm
@@ -651,6 +655,12 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikorRe8.png",XXX | A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png",XXX | Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png",XXX | Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png",XXX | Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png",RADIO | Radio 1
 http://live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png",RADIO | MNM
