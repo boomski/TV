@@ -1,105 +1,76 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2gf0KoK.png",IR | Al-Alam
-http://live2.alalam.ir/live/Alalam_high/index.m3u8?v=1771904733
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2gf0KoK.png",IR | Al-Alam
-https://live2.alalamtv.net/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nFz5rhQ.jpg",IR | Al-Sirat
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UFV7YVy.jpg",IR | Andisheh TV
-http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWgJdew.png",IR | Glory TV
-http://glorytv.ashttp9.visionip.tv/live/glorytv-glorytv-glorytv-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/clLs5In.jpg",IR | Hispan TV
-https://5a61de8ed719d.streamlock.net:1443/live/smil:live.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2UQCl7M.png",IR | iFilm 2
-http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2UQCl7M.png",IR | iFilm 2
-http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xrebqxX.png",IR | iFilm Arabic
-https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/chunklist_w1973189296_b944100_slen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xrebqxX.png",IR | iFilm English
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xrebqxX.png",IR | iFilm English
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xrebqxX.png",IR | iFilm Persian
-https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmtv.smil/chunklist_w205801397_b944100_slen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FPfq4O5.png",IR | Imam Hussein TV 1
-http://live.imamhossaintv.com/live/ih103/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/emQ8vln.jpg",IR | INTV Simaye Azadi
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wQO4Fiv.png",IR | Iran E Farda TV
-https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WMXQMtw.png",IR | IRIB Nasim
-https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXjgD4e.png",IR | IRIB Ofogh
-https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uwl2ar0.png",IR | IRIB TV1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FyQarPZ.png",IR | IRIB TV2
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dze3WjD.jpg",IR | IRIB TV4
-https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J2aLHOz.png",IR | IRIB TV5
-https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Csznywp.png",IR | Kanal Yek TV
-http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1F6HgRi.jpg",IR | Manoto
-https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1F6HgRi.jpg",IR | Manoto
-https://d6kn5bcgzkd2t.cloudfront.net/live_2500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1F6HgRi.jpg",IR | Manoto
-https://d6kn5bcgzkd2t.cloudfront.net/live_500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1F6HgRi.jpg",IR | Manoto
-https://d6kn5bcgzkd2t.cloudfront.net/live_750.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1F6HgRi.jpg",IR | Manoto
-https://dzll8dnb13thz.cloudfront.net/live_1500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r1VblfT.png",IR | Mohabat TV
-http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J0Oj78g.jpg",IR | PBC Tapesh TV
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z44uYUw.png",IR | Press TV
-https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m1nejf5.png",IR | Radio Farda
-http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4XTyMST.jpg",IR | Radio Javan TV
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s5yF9aU.jpg",IR | Rangarang TV
-http://iptv.rangarang.us/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TH6wljR.jpg",IR | Sahar Urdu
-https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YpBeTXf.png",IR | Tin TV
-https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YpBeTXf.png",IR | Tin TV 2
-https://unirtmp.tulix.tv/tintv2/tintv2//chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oeiaea6.png",IR | Iran International
-https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DgYGJIh.jpg",IR | TV Azadi
-https://5a3e964ed0b51.streamlock.net/w/azadah/chunklist_w1398305128.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KrFNgo3.jpg",IR | Valiasr TV
-https://ir3.live21.ir/hls2/valiasr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7uEI6ck.png",IR |VOA Persian
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5fYbnt1.png",IR | GEM TV
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gEM8Mr0.png",IR | GEM Classic
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K4PJFfI.png",IR | Gem Series
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I4agCyp.png",IR | Mifa
-http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXVQq3X.png",IR | River
-http://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eoqKh9B.png",IR | Rubix
-http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPuphgk.png",IR | Maxx
-http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9zCSBt.png",IR | GEM Kids
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V8Wbj0U.png",IR | GEM USA
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPgntQj.png",IR | GEM Bollywood
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z063Ty0.png",IR | GEM Junior
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3lptc7R.png",IR | GEM Drama
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>
+<title>Manoto TV Shows</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://dwphh95xlnw84.cloudfront.net/images/static/placeholder/logomanoto.png</thumbnail>
+<fanart>https://i.imgur.com/QrOHLrP.png</fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param2]</title>
+  <link>$doregex[makelist2]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  count=3;pn=1;data=[]
+  while pn <= int(count):
+    source=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/list?genre=&pageNumber=str(pn)&pageSize=35&sortBy=latest',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/shows'},cookies=Cookie_Jar).content#json()['details']['list']
+    data +=re.findall('slideID":(\d+).+?Title":"([^"]+).+?Url":"([^"]+)',source);pn +=1
+  return data
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[makelist2.param2]</title>
+  <link>$doregex[makelist3]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/serieslist?id=[makelist.param1]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/shows/[makelist.param1]'},cookies=Cookie_Jar).content#json()['details']['list']
+  return re.findall('"id":(\d+)."displayTitle":"([^"]+)',source)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+  <title>[makelist3.param3]</title>
+  <link>$doregex[getUrl]</link>
+  <thumbnail>[makelist3.param4]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source1=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/videocliplist?id=[makelist.param1]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/shows/[makelist.param1]'},cookies=Cookie_Jar).content#json()['details']['list']
+  source2=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/episodelist?id=[makelist2.param1]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/shows/[makelist.param1]'},cookies=Cookie_Jar).content#json()['details']['list']
+  data1=re.findall('slideType":"(.*?)"."slideID":(\d+).+?clipTitle":"([^"]+).+?Url":"([^"]+)',source1)
+  data2=re.findall('slideType":"(.*?)"."slideID":(\d+).+?formattedEpisodeTitle":"([^"]+).+?ImgIxUrl":"([^"]+)',source2)
+  return data1+data2
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m,stream='[makelist3.param1]'):#streamwatcher2013
+  if 'videoclip' in stream:
+    source=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/videoclipdetails?id=[makelist3.param2]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/clip/[makelist3.param2]'},cookies=Cookie_Jar)
+    return source.json()['details']['videoM3u8Url']+'|user-agent=ipad&referer=https://www.manototv.com/clip/[makelist3.param2]'
+  else:
+    source=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/episodedetails?id=[makelist3.param2]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/episode/[makelist3.param2]'},cookies=Cookie_Jar)
+    return source.json()['details']['videoM3u8Url']+'|user-agent=ipad&referer=https://www.manototv.com/episode/[makelist3.param2]'
+]]></expres>
+<page></page>
+</regex>
+</item>
+  
+</items> 
