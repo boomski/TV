@@ -35,6 +35,8 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",SPORT | Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV France
 http://51.15.254.60/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV Arabia
@@ -295,6 +297,22 @@ https://nimble.dashstreams.net/onestudio/australianewschannel/chunks.m3u8
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aA5JEO.jpg",US | Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P4zFHzI.png",US | CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxWGQ7J.png",US | FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png",US | Nat Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png",US | Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcIYiLM.jpg",US | Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOFEg4F.png",US | National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTlQAIX.jpg",US | ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png",US | History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1qIwTY.jpg",US | Stirr
 https://playoutengine.sinclairstoryline.com/playout/cc31c22a-adb9-4a2e-bc54-2e7e7d68617c/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg",US | Documentaries 4U
@@ -357,6 +375,10 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C0NoakZ.jpg",US | Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvY0iSk.jpg",US | Law & Crime
+https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvY0iSk.jpg",US | Law & Crime 2
+https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XzUcPXQ.jpg",US | Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
@@ -479,12 +501,18 @@ https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaqSmZv.png",CM | Top Movies
 http://41.223.30.250:8080/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ec931Yf.jpg",CM | Mango TV
+http://connectiktv.ddns.net:5000/mangotv/mangotv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5yIAoh7.jpg",CM | Dream Channel
 http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist_w1977685799.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/REJJHir.jpg",CM | Emergence TV
 http://connectiktv.ddns.net:5000/emergencetv/emergencetv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6FiGak.jpg",CM | Golden House TV
 http://connectiktv.ddns.net:5000/goldentv/goldentv/chunklist_w1093844285.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMB9xq3.png",CM | Conso TV Afrique
+http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FXHvEvJ.png",CM | Exel Discovery
+http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
@@ -685,3 +713,5 @@ http://41.223.30.250:8080/vibe/tracks-v1a1/mono.m3u8
 http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w750668821.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pIe8Xp.jpg",RADIO | Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTUx6q3.png",RADIO | Afrobit
+http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8
