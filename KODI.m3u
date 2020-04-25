@@ -611,6 +611,8 @@ http://mdstrm.com:80/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHiVXox.jpg",CR | Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0hXtmn.jpg",CR | TV Sur Canal 14
+https://livestreamcdn.net:444/TVSURCANAL14/TVSURCANAL14/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png",GR | Epirus TV 1
