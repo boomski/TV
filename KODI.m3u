@@ -99,6 +99,8 @@ https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
+https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7xHwxd.png",SPORT | SuperSport 1
 http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/67VfW5z.png",SPORT | SuperSport 2
@@ -713,6 +715,42 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0PD3Sqm.png",UA | Думская TV HD
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6fL4vc.png",AL | RTSH 1 HD
+https://edge06eu.ekranet.com/rtshhd_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWigxIX.png",AL | RTSH 2 HD
+https://edge06eu.ekranet.com/rtsh2hd1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlYvCID.png",AL | RTSH 24
+https://edge06eu.ekranet.com/rtsh24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1DDl1j.png",AL | RTSH 3
+https://edge06eu.ekranet.com/rtsh3hd1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dvqV5C1.png",AL | RTSH Film
+https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9ZAhXA.png",AL | RTSH Muzike
+https://edge06eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHG6Rve.png",AL | RTSH Shqip
+https://edge06eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0cZay7.png",AL | RTSH Korca
+https://edge01eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAqeWM0.png",AL | RTSH Kuvend
+https://edge06eu.ekranet.com/rtshkuvendweb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9WqPLZ.png",AL | TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UValLp1.png",AL | Zjarr TV
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1UOlkA.png",AL | EUROAL
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8Z9BRE.png",AL | Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAsSKAv.png",AL | Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWGMnzW.jpg",AL | News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHlCDVH.png",AL | TV Boin
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VaGEoBo.png",AL | AlbMUSIC
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRvEH4v.png",AL | AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gay0737.jpg",MT | TVM 2
 https://live.23video.com/live/amlst:ddo6m0063ahpv1i8bps0v6n3bb:16973314-1185a91eaad15f019b1b.mp4/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
@@ -813,6 +851,8 @@ https://a.jsrdn.com/rtmp/22690/index.m3u8
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGK9VSf.jpg",AM | ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vQVwUV.jpg",AM | Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKVkDVo.png",AM | H1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdJeT34.jpg",AM | TBN Armenia
@@ -821,6 +861,8 @@ http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/llEDEfK.png",AM | Yerkir Media
 http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw909y.png",AM | SONG TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LjirvEO.png",AZ | Turan TV
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GbJb8HL.png",AZ | Play One
