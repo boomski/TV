@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>4 | SPORT | OLYMPIC CHANNEL</title>
+<title>004 | OLYMPIC CHANNEL</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/olympicchannel/index</externallink>
 <thumbnail>https://i.imgur.com/Qp1V9JJ.jpg</thumbnail>
 </item>  
   
 <item>
-<title>2 | BE | CYFO SPORTS</title>
+<title>002 | CYFO SPORTS</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/cyfosports/index</externallink>
 <thumbnail>https://i.imgur.com/LQ4JyVs.jpg</thumbnail>
 </item>
   
 <item>
-<title>3 | SPORT | TIZ Cycling</title> 
+<title>003 | TIZ Cycling</title> 
 <thumbnail>https://i.imgur.com/OkMkWue.png</thumbnail>
 <link>https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8</link> 
 </item> 
 
 <item>
-<title>1 | SPORT | GCN Racing</title>
+<title>001 | GCN Racing</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -33,7 +33,7 @@
 </item> 
   
 <item>
-<title>10 | SPORT | GCN Racing | ON DEMAND</title>
+<title>010 | GCN Racing | ON DEMAND</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCu7phdCr-raU7OaJfEpHZww/</jsonrpc>
 <thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
@@ -41,7 +41,7 @@
 </item> 
   
 <item>
-<title>11 | SPORT | GCN | ON DEMAND</title>
+<title>011 | GCN | ON DEMAND</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/UCuTaETsuCOkJ0H_GAztWt0Q/</jsonrpc>
 <thumbnail>https://i.imgur.com/KCj6hgb.png</thumbnail> 
@@ -49,7 +49,7 @@
 </item>   
 
 <item>
-<title>6 | SPORT | InCycle</title>
+<title>006 | InCycle</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -61,7 +61,7 @@
 </item> 
   
 <item>
-<title>7 | SPORT | UCI</title>
+<title>007 | UCI</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -73,7 +73,7 @@
 </item>  
   
 <item>
-<title>8 | SPORT | British Cycling</title>
+<title>008 | British Cycling</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -85,14 +85,14 @@
 </item>  
   
 <item>
-<title>9 | SPORT | Sport en France</title>
+<title>009 | Sport en France</title>
 <dmlive>x797sy0</dmlive>
 <fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
 <thumbnail>https://i.imgur.com/DeuVEMk.jpg</thumbnail>
 </item>  
   
 <item>
-<title>5 | SPORT | PMG Sport</title>
+<title>005 | PMG Sport</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -104,7 +104,7 @@
 </item> 
   
 <item>
-<title>12 | SPORT | FIBA</title>
+<title>012 | FIBA</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -116,7 +116,7 @@
 </item>  
   
 <item>
-<title>13 | SPORT | FIBA 3x3</title>
+<title>013 | FIBA 3x3</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -128,7 +128,7 @@
 </item>  
   
 <item>
-<title>14 | SPORT | Lombardia TV Sports</title>  
+<title>099 | Lombardia TV Sports</title>  
 <thumbnail>https://i.imgur.com/MxHT1dx.png</thumbnail>  
 <fanart>https://i.imgur.com/O3haScH.jpg</fanart>  
 <link>$doregex[get-Clean-M3U8]$doregex[get-Clean-token]</link><regex>
@@ -154,7 +154,7 @@
 </item>   
   
 <item>
-<title>15 | SPORT | HD Streams Club</title>
+<title>015 | HD Streams Club</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -189,7 +189,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>  
   
 <item>
-<title>16 | SPORT | Vegol1.live | Channels</title>
+<title>016 | Vegol1.live | Channels</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -222,7 +222,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>
 
 <item>
-<title>17 | SPORT | M4 Sport</title>
+<title>014 | M4 Sport</title>
 <thumbnail>https://i.imgur.com/aDTAZGD.jpg</thumbnail>   
 <link>$doregex[getUrl]</link>
 <regex>
@@ -239,7 +239,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>  
  
 <item>
-<title>100 | SPORT | 60FPS.LIVE</title>
+<title>100 | 60FPS.LIVE</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/60fps</externallink>
 <thumbnail>https://i.imgur.com/ZWdrGYj.png</thumbnail> 	
@@ -247,27 +247,27 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item> 
  
 <item>
-<title>18 | SPORT | SPORTACENTRS</title>
+<title>017 | SPORTACENTRS</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/sportacentrs/index</externallink>
 <thumbnail>https://i.imgur.com/5vqS646.png</thumbnail>
 </item>  
 <item>
-<title>19 | SPORT | SPORTZONLINE</title>
+<title>018 | SPORTZONLINE</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/sportzonline/index</externallink>
 <thumbnail>https://i.imgur.com/gwH2mzX.jpg</thumbnail>
 </item>
  
  <item>
-<title>20 | SPORT | LIVE SPORTS</title>
+<title>020 | LIVE SPORTS</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/livesports/index</externallink>
 <thumbnail>https://i.imgur.com/99gUA0f.png</thumbnail>
 <fanart>https://i.imgur.com/eRgwqhO.png</fanart>  
 </item>
 <item>
-<title>SPORT | Daily Sport</title>
+<title>019 | Daily Sport</title>
 <thumbnail>https://i.imgur.com/13Sc9ha.jpg</thumbnail> 
 <link>$doregex[makelist]</link>
 <regex>
@@ -291,7 +291,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item> 
 
 <item>
-<title>21 | SPORT | CRACKSTREAMS</title>
+<title>021 | CRACKSTREAMS</title>
 <thumbnail>https://i.imgur.com/GOwepky.jpg</thumbnail>  
 <link>$doregex[makelist]</link>
 <regex>
@@ -337,7 +337,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 <item>
-<title>22 | SPORT | YOURSPORTS</title>
+<title>022 | YOURSPORTS</title>
 <thumbnail>https://i.imgur.com/lSwnhLz.png</thumbnail>   
 <link>$doregex[makelist]</link>
 <regex>
@@ -371,7 +371,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item> 
   
 <item>
-<title>23 | SPORT | La Casa Del Tiki Taka</title>
+<title>023 | La Casa Del Tiki Taka</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -465,7 +465,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 </item>     
  
 <item>
-<title>99 | BG | Sportal.bg</title>
+<title>098 | Sportal.bg</title>
 <thumbnail>https://i.imgur.com/ZN8BcWT.png</thumbnail>
 <fanart>https://i.imgur.com/nqHUQqe.jpg</fanart>   
 <link>$doregex[GetPageUrl]</link>
