@@ -811,6 +811,16 @@ https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGK9VSf.jpg",AM | ARTN TV
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKVkDVo.png",AM | H1
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdJeT34.jpg",AM | TBN Armenia
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NopzOwA.jpg",AM | US Armenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llEDEfK.png",AM | Yerkir Media
+http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LjirvEO.png",AZ | Turan TV
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GbJb8HL.png",AZ | Play One
@@ -915,6 +925,8 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist.m3u8
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GrB3ao.png",RADIO | Klara
 http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zYO4KjA.jpg",RADIO | Radio Van 103.0 FM Yerevan
+http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXlNxG3.jpg",RADIO | VIBE TV
 http://41.223.30.250:8080/vibe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQy60ZC.jpg",RADIO | LOGOS Channel
