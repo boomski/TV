@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6lt2P1.jpg",BE | Een
+plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BE | Canvas
+plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gu8tWn6.png",SPORT | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",SPORT | Red Bull TV
@@ -129,10 +133,6 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1e6M2L.png",SPORT | Varzesh TV Farsi 4
 http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6lt2P1.jpg",BE | Een
-plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BE | Canvas
-plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png",BE | ROB TV
@@ -503,6 +503,100 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYG7LuP.png",AR | Encuentro
 https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VuvGm3s.png",AR | 13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6miysb8.png",AR | 24/7 Canal de Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wCQJuaU.jpg",AR | 5RTV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kujnLsO.png",AR | 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTcqIvm.png",AR | 8 Digital
+http://stream02.shockmedia.com.ar:1935/canal2tunuyan/_definst_/canal2tunuyan/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WdcZeNF.jpg",AR | Aire de Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7p7yZ.png",AR | Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S8V8Pes.png",AR | Canal Local Olavarría
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKaVoN9.png",AR | Canal 10 Cordoba
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PE2Gi3N.png",AR | Canal 10 General Roca
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3DOx6I.png",AR | Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QX4vqEG.png",AR | Canal 17 Milenium Salta
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1aoKku.png",AR | Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hyOtap9.png",AR | Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/chunklist_w621402693.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqBkmlU.jpg",AR | Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xmK4QpL.png",AR | Canal 79 Mar del Plata
+https://streamconex.com:1936/mardelplata/mardelplata/chunklist_w56484596.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg",AR | Canal 9 Comodoro Rivadavia
+https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f9nuZ2i.png",AR | Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTyIxNK.jpg",AR | Canal Acequia
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Ct4Ehg.png",AR | CANAL PROVINCIAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZlUGBf.jpg",AR | Chacra TV
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JbxMs5i.png",AR | Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1504807357.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg",AR | Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LZXT5f.jpg",AR | CL3
+http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFnOQEF.png",AR | CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HG4nQzM.png",AR | Conexion Abierta
+http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VsebbGy.png",AR | CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7osLgHP.png",CL | DESIERTO TV
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OgVCgbw.jpg",AR | El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4tpwonh.png",AR | EL TV10 Salta
+https://59c5c86e10038.streamlock.net/8098/8098/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPePvHo.jpg",AR | Fenix
+https://v3.ciclano.io:1443/fenixlarioja/_definst_/fenixlarioja/chunklist_w1713688974.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XhjIqS.png",AR | Frecuencia Musical TV
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cd0hP5e.png",AR | Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pRbp0eZ.png",AR | LA 90 FM
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kF29z8z.jpg",AR | Locomotion TV
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHtd9oT.png",AR | Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dKpLbh6.png",AR | Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7stpmb.png",AR | Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wwq64s.jpg",AR | Radio del Aire 89.5 FM La Plata
+http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/daMqavf.jpg",AR | RTN Neuquén
+http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eu7rHtj.jpg",AR | T5 Satelital
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byxXHzq.png",AR | TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FscV0as.png",AR | Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",AR | TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fV6ki6B.jpg",AR | TV Máná Cordoba
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOqWxTD.png",AR | Télam 4
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png",GR | Epirus TV 1
