@@ -27,6 +27,18 @@
 <thumbnail>https://i.imgur.com/VS0JbNj.png</thumbnail> 
 <fanart>https://i.imgur.com/ZWMxnPa.jpg</fanart>
 <link>http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8</link>
+</item> 
+  
+<item>
+<title>BR | Brasil Rural TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC2jwyWTeYPTnqCrXtWu5qnA</page>
+</regex>
+<thumbnail>https://i.imgur.com/pMtNNBf.jpg</thumbnail> 
+<fanart>https://i.imgur.com/ZWMxnPa.jpg</fanart>  
 </item>   
   
 </items> 
