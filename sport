@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
+<title>200 | Belarus Premier League</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCzZTOa7CVWGYjUh1G4if2AQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
+<fanart>https://i.imgur.com/FMQOsjH.jpg</fanart>   
+</item> 
+  
+<item>
 <title>004 | OLYMPIC CHANNEL</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/olympicchannel/index</externallink>
