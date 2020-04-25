@@ -751,6 +751,10 @@ http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRvEH4v.png",AL | AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AD3Ak7T.png",BA | Hema Televizija
+http://77.238.209.50:8080/hema1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fdd1oQP.png",BA | B1 TV
+http://wowza.bihnet.net:88/hls/b1-live.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gay0737.jpg",MT | TVM 2
 https://live.23video.com/live/amlst:ddo6m0063ahpv1i8bps0v6n3bb:16973314-1185a91eaad15f019b1b.mp4/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
