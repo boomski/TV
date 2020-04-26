@@ -1,167 +1,135 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kybLGE6.png",VN | AnGiangTV
-http://vietcago.net/vstv/angiangtv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VwujcG.png",VN | ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VwujcG.png",VN | ANTV
-http://vietcago.net/vstv/antv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kybLGE6.png",VN | AnGiangTV
-http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kybLGE6.png",VN | AnGiangTV
-http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uwqh9ih.png",VN | TBHT
-http://vietcago.net/vstv/bentretv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FFJhQk1.png",VN | BinhPhuocTV1
-http://vietcago.net/vstv/binhphuoctv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7q6JPl.jpg",VN | BinhPhuocTV2
-http://vietcago.net/vstv/binhphuoctv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FFJhQk1.png",VN | BinhPhuocTV1
-http://118.69.197.145/hls/bptv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7q6JPl.jpg",VN | BinhPhuocTV2
-http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TskPjvH.png",VN | BRT
-http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oLvGIyd.png",VN | BTV
-http://202.43.109.142:1935/thbttv/bttv/chunklist_w1829470998.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uwqh9ih.png",VN | TBHT
-http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ENvLdTj.png",VN | Cong Giao TV (VN)
-http://saigontvtv.saigon.ns01.us:1935/conggiao/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gWc8xVD.jpg",VN | Cà Mau TV
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-logo="http://danangtv.vn/images/drt1.png",VN | Da Nang TV1
-http://vietcago.net/vstv/danangtv1.m3u8
-#EXTINF:-1 tvg-logo="http://danangtv.vn/images/drt1.png",VN | Da Nang TV1 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9I4gX5Y.png",VN | Da Nang TV2
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="",VN | DakLakTV
-http://vietcago.net/vstv/daklaktv.m3u8
-#EXTINF:-1 tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/bang-gia-quang-cao-truyen-hinh-daklak.png",VN | DRT
-http://118.69.161.10:8134/liveevent.m3u8
-#EXTINF:-1 tvg-logo="",VN | GiaLaiTV
-http://vietcago.net/vstv/gialaitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3OkfjW5.jpg",VN | HaTinhTV
-http://171.244.141.125:8080/hls/hatinhtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BnFWgS7.png",VN | HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://hanamtv.vn/template/default/images/logo.png",VN | Hà Nam
-http://113.160.198.111/Medias/HaNam/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FEffTjz.jpg",VN | Hưng Yên
-http://live.hungyentv.vn:1935/live/HYTV/chunklist_w769520286.m3u8
-#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_222501.jpg",VN | Hưng Yên
-http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s23.postimg.org/q8pgw4wgb/IBC.jpg",VN | IBC TV 57.8
-http://liveplay3.malimarcdn.com/ibcnews/ibcnews.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="",VN | KhanhHoaTV
-http://vietcago.net/vstv/khanhhoatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png",VN | KienGiangTV
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HqYi1Dw.png",VN | KienGiangTV
-http://vietcago.net/vstv/kiengiangtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png",VN | KienGiangTV1
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vzaqu80.png",VN | KienGiangTV1
-http://vietcago.net/vstv/kiengiangtv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vd4Tgb.jpg",VN | KonTumTV
-http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vd4Tgb.jpg",VN | KonTumTV
-http://www.vietcago.net/vstv/kontumtv.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/DNboVb",VN | LA34 - Long An
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 tvg-logo="",VN | LongAnTV
-http://vietcago.net/vstv/longantv.m3u8
-#EXTINF:-1 tvg-logo="",VN | MienTay
-http://vietcago.net/vstv/mientay.m3u8
-#EXTINF:-1 tvg-logo="",VN | NCM
-http://vietcago.net/vstv/ncm.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QnGoFWZ.png",VN | Nghệ An
-http://113.160.173.47:8080/live/na1_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-08-26/8397951-logo-nhan-dan.png",VN | NHAN DAN
-https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="",VN | NhanDanTV
-http://vietcago.net/vstv/thnd.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png",VN | Nhân Dân
-https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1106175008_b1544100_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png",VN | Nhân dân HD
-http://27.118.16.98:1935/live/truyenhinhnhandan720/chunklist_w2006762604.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/606995-Nhandan.png",VN | Nhân dân s2
-https://5952e4052a2e8.streamlock.net/live/truyenhinhnhandan720/chunklist_w1220145704.m3u8
-#EXTINF:-1 tvg-logo="",VN | Phimhay
-http://vietcago.net/vstv/phimhay.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RmeGxb0.png",VN | PhuThoTV
-http://vietcago.net/vstv/phuthotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mi1106U.png",VN | PhuYenTV
-http://vietcago.net/vstv/phuyentv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mi1106U.png",VN | PhuYenTV
-http://113.161.4.48:8080/phuyen/tv.m3u8
-#EXTINF:-1 tvg-logo="",VN | QPVN
-http://vietcago.net/vstv/qpvn.m3u8
-#EXTINF:-1 tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_191516.jpg",VN | QRT
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="",VN | QuangNamTV
-http://vietcago.net/vstv/quangnamtv.m3u8
-#EXTINF:-1 tvg-logo="",VN | QuangNgaiTV
-http://vietcago.net/vstv/quangngaitv.m3u8
-#EXTINF:-1 tvg-logo="",VN | QuangTriTV
-http://vietcago.net/vstv/quangtritv.m3u8
-#EXTINF:-1 tvg-logo="http://www.quochoitv.vn/images/logo-qhtv.png",VN | Quốc Hội
-http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="",VN | Sam
-http://vietcago.net/vstv/sam.m3u8
-#EXTINF:-1 tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png",VN | SBTN
-http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
-#EXTINF:-1 tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png",VN | SET TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
-#EXTINF:-1 tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png",VN | SET TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-3/settv574-3.m3u8
-#EXTINF:-1 tvg-logo="",VN | SocTrangTV1
-http://vietcago.net/vstv/soctrangtv1.m3u8
-#EXTINF:-1 tvg-logo="",VN | SocTrangTV2
-http://vietcago.net/vstv/soctrangtv2.m3u8
-#EXTINF:-1 tvg-logo="",VN | SonLaTV
-http://vietcago.net/vstv/sonlatv.m3u8
-#EXTINF:-1 tvg-logo="",VN | ThaiNguyenTV1
-http://vietcago.net/vstv/thainguyentv.m3u8
-#EXTINF:-1 tvg-logo="",VN | ThanhHoaTV
-http://vietcago.net/vstv/thanhhoatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dZRYPq.png",VN | THGL
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MDYJNBi.png",VN | THHN
-http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gTyi5Fv.png",VN | THLC
-http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Atf46p.png",VN | ThuanViet
-http://vietcago.net/vstv/thuanviet.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HG9HoUL.png",VN | Tien Giang
-http://thtg.vn:8001/thtg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQZ2uXE.jpg",VN | TraVinhTV
-http://vietcago.net/vstv/travinhtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oAQi3Ie.jpg",VN | TTXVN
-http://live.vnanet.vn/VnewsLive_Android.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oAQi3Ie.jpg",VN | TTXVN
-http://vietcago.net/vstv/ttxvn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oAQi3Ie.jpg",VN | TTXVN HD
-http://live.vnanet.vn/720P/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bgwJwNC.png",VN | VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bgwJwNC.png",VN | VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bgwJwNC.png",VN | VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tHer5Qg.png",VN | VITV
-http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kcvGmKM.jpg",VN | Việt Mỹ TV
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nTjq2S1.jpg",VN | Việt News TV
-http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KRhehJe.png",VN | VNA TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KRhehJe.png",VN | VNA TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bgwJwNC.png",VN | VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w189527979_b1228800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7XWTBsv.png",VN | VTVcab11
-https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UCXnYgF.png",VN | YenBaiTV
-http://vietcago.net/vstv/yenbaitv.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>
+<title>VN | VIETLIVE.TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCI8U_NB23FbKPly8gIEdLmA</page>
+</regex>
+<thumbnail>https://i.imgur.com/N83uYnV.png</thumbnail>  
+<fanart>https://i.imgur.com/YeSNQke.jpg</fanart> 
+</item>  
+  
+<item>
+<title>VN | VTV 1</title>
+<fanart>https://i.imgur.com/YeSNQke.jpg</fanart> 
+<thumbnail>https://i.imgur.com/fILdTuQ.png</thumbnail>    
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+ inf=re.findall('(?s)var.id.+?(\d).+?var.url.+?"(.*?)"."([^"]+).+?var.time.+?(\d+).+?var.token.+?[\'"]([^\'"]+)',re.findall('id="player-live-streaming">(?s)(.*?)<ul',page_data)[0])[0]
+ source=requests.post(inf[1]+inf[2],headers={'user-agent':'Mozilla/5.0','referer':'https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html','host':'vtvgo.vn','x-requested-with':'XMLHttpRequest','accept-encoding':'gzip,deflate,br','accept':'*/*','content-type':'application/x-www-form-urlencoded; charset=UTF-8'},cookies=Cookie_Jar,data={'type_id':'1','id':inf[0],'time':inf[3],'token':inf[4]}).content
+ return re.findall('stream_url".+?"([^"]+)',source)[0].replace('\\','')+'|user-agent=ipad&referer=https://vtvgo.vn/trang-chu.html'
+]]></expres>
+<page>https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html</page>
+<referer>https://vtvgo.vn/trang-chu.html</referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+  
+<item>
+<title>VN | VTV 2</title>
+<fanart>https://i.imgur.com/YeSNQke.jpg</fanart> 
+<thumbnail>https://i.imgur.com/fILdTuQ.png</thumbnail>   
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+ inf=re.findall('(?s)var.id.+?(\d).+?var.url.+?"(.*?)"."([^"]+).+?var.time.+?(\d+).+?var.token.+?[\'"]([^\'"]+)',re.findall('id="player-live-streaming">(?s)(.*?)<ul',page_data)[0])[0]
+ source=requests.post(inf[1]+inf[2],headers={'user-agent':'Mozilla/5.0','referer':'https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html','host':'vtvgo.vn','x-requested-with':'XMLHttpRequest','accept-encoding':'gzip,deflate,br','accept':'*/*','content-type':'application/x-www-form-urlencoded; charset=UTF-8'},cookies=Cookie_Jar,data={'type_id':'1','id':inf[0],'time':inf[3],'token':inf[4]}).content
+ return re.findall('stream_url".+?"([^"]+)',source)[0].replace('\\','')+'|user-agent=ipad&referer=https://vtvgo.vn/trang-chu.html'
+]]></expres>
+<page>https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html</page>
+<referer>https://vtvgo.vn/trang-chu.html</referer>
+<cookieJar></cookieJar>
+</regex>
+</item> 
+  
+<item>
+<title>VN | VTV 3</title>
+<thumbnail>https://i.imgur.com/fILdTuQ.png</thumbnail> 
+<fanart>https://i.imgur.com/YeSNQke.jpg</fanart> 
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+ inf=re.findall('(?s)var.id.+?(\d).+?var.url.+?"(.*?)"."([^"]+).+?var.time.+?(\d+).+?var.token.+?[\'"]([^\'"]+)',re.findall('id="player-live-streaming">(?s)(.*?)<ul',page_data)[0])[0]
+ source=requests.post(inf[1]+inf[2],headers={'user-agent':'Mozilla/5.0','referer':'https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html','host':'vtvgo.vn','x-requested-with':'XMLHttpRequest','accept-encoding':'gzip,deflate,br','accept':'*/*','content-type':'application/x-www-form-urlencoded; charset=UTF-8'},cookies=Cookie_Jar,data={'type_id':'1','id':inf[0],'time':inf[3],'token':inf[4]}).content
+ return re.findall('stream_url".+?"([^"]+)',source)[0].replace('\\','')+'|user-agent=ipad&referer=https://vtvgo.vn/trang-chu.html'
+]]></expres>
+<page>https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html</page>
+<referer>https://vtvgo.vn/trang-chu.html</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>   
+ 
+<item>
+<title>VN | VTV 4</title>
+<thumbnail>https://i.imgur.com/fILdTuQ.png</thumbnail> 
+<fanart>https://i.imgur.com/YeSNQke.jpg</fanart> 
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+ inf=re.findall('(?s)var.id.+?(\d).+?var.url.+?"(.*?)"."([^"]+).+?var.time.+?(\d+).+?var.token.+?[\'"]([^\'"]+)',re.findall('id="player-live-streaming">(?s)(.*?)<ul',page_data)[0])[0]
+ source=requests.post(inf[1]+inf[2],headers={'user-agent':'Mozilla/5.0','referer':'https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html','host':'vtvgo.vn','x-requested-with':'XMLHttpRequest','accept-encoding':'gzip,deflate,br','accept':'*/*','content-type':'application/x-www-form-urlencoded; charset=UTF-8'},cookies=Cookie_Jar,data={'type_id':'1','id':inf[0],'time':inf[3],'token':inf[4]}).content
+ return re.findall('stream_url".+?"([^"]+)',source)[0].replace('\\','')+'|user-agent=ipad&referer=https://vtvgo.vn/trang-chu.html'
+]]></expres>
+<page>https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html</page>
+<referer>https://vtvgo.vn/trang-chu.html</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>VN | VTV 5</title>
+<thumbnail>https://i.imgur.com/fILdTuQ.png</thumbnail>  
+<fanart>https://i.imgur.com/YeSNQke.jpg</fanart> 
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+ inf=re.findall('(?s)var.id.+?(\d).+?var.url.+?"(.*?)"."([^"]+).+?var.time.+?(\d+).+?var.token.+?[\'"]([^\'"]+)',re.findall('id="player-live-streaming">(?s)(.*?)<ul',page_data)[0])[0]
+ source=requests.post(inf[1]+inf[2],headers={'user-agent':'Mozilla/5.0','referer':'https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html','host':'vtvgo.vn','x-requested-with':'XMLHttpRequest','accept-encoding':'gzip,deflate,br','accept':'*/*','content-type':'application/x-www-form-urlencoded; charset=UTF-8'},cookies=Cookie_Jar,data={'type_id':'1','id':inf[0],'time':inf[3],'token':inf[4]}).content
+ return re.findall('stream_url".+?"([^"]+)',source)[0].replace('\\','')+'|user-agent=ipad&referer=https://vtvgo.vn/trang-chu.html'
+]]></expres>
+<page>https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html</page>
+<referer>https://vtvgo.vn/trang-chu.html</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>VN | VTV 6</title>
+<thumbnail>https://i.imgur.com/fILdTuQ.png</thumbnail> 
+<fanart>https://i.imgur.com/YeSNQke.jpg</fanart> 
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+ inf=re.findall('(?s)var.id.+?(\d).+?var.url.+?"(.*?)"."([^"]+).+?var.time.+?(\d+).+?var.token.+?[\'"]([^\'"]+)',re.findall('id="player-live-streaming">(?s)(.*?)<ul',page_data)[0])[0]
+ source=requests.post(inf[1]+inf[2],headers={'user-agent':'Mozilla/5.0','referer':'https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html','host':'vtvgo.vn','x-requested-with':'XMLHttpRequest','accept-encoding':'gzip,deflate,br','accept':'*/*','content-type':'application/x-www-form-urlencoded; charset=UTF-8'},cookies=Cookie_Jar,data={'type_id':'1','id':inf[0],'time':inf[3],'token':inf[4]}).content
+ return re.findall('stream_url".+?"([^"]+)',source)[0].replace('\\','')+'|user-agent=ipad&referer=https://vtvgo.vn/trang-chu.html'
+]]></expres>
+<page>https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html</page>
+<referer>https://vtvgo.vn/trang-chu.html</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>  
+</items>
