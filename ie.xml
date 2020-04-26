@@ -2,7 +2,7 @@
 <items>
 <item>
 <title>IE | RTE News Now</title>         
-<f4m>https://www.rte.ie/manifests/newsnow.f4m</f4m>     
+<inputstream>https://live.rte.ie/live/a/channel3/channel3.isml/.mpd</inputstream>     
 <thumbnail>https://i.imgur.com/YLfqmJB.png</thumbnail>
 <fanart>https://i.imgur.com/nsamr3i.jpg</fanart> 
 </item>     
