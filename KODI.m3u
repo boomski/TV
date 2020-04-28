@@ -445,6 +445,8 @@ https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/labfvYI.png",CA | ICI TV
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/59f8cf257de98a7e0db5ea592e9e081b/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ky0Dbzt.png",CA | ICI RDI 
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png",AT | RTL Austria
 http://188.35.9.5:10020/stolen/502r/hot.dll
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRHJDxr.png",AT | oe24.TV
@@ -799,6 +801,8 @@ https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u
 http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png",CA | EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRqcIcR.png",CA | EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c34WFZw.png",CA | Hamdard TV
 http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEKsf20.jpg",CA | Prime Canada TV
