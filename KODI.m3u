@@ -353,6 +353,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png",US | History 2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMw6pRy.png",US | Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1qIwTY.jpg",US | Stirr
 https://playoutengine.sinclairstoryline.com/playout/cc31c22a-adb9-4a2e-bc54-2e7e7d68617c/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg",US | Documentaries 4U
