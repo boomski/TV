@@ -2,10 +2,17 @@
 <items>
 <item>
 <title>IE | RTE News Now</title>         
-<inputstream>https://live.rte.ie/live/a/channel3/channel3.isml/.mpd</inputstream>     
+<inputstream>https://live.rte.ie/live/a/channel3/news.isml/news.m3u8</inputstream>     
 <thumbnail>https://i.imgur.com/YLfqmJB.png</thumbnail>
 <fanart>https://i.imgur.com/nsamr3i.jpg</fanart> 
-</item>     
+</item>  
+   
+<item>
+<title>IE | RTE 1</title>         
+<inputstream>https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8</inputstream>     
+<thumbnail>https://i.imgur.com/YLfqmJB.png</thumbnail>
+<fanart>https://i.imgur.com/nsamr3i.jpg</fanart> 
+</item>   
    
     
 <item>
@@ -57,7 +64,7 @@
 <fanart>https://i.imgur.com/nsamr3i.jpg</fanart> 
 </item>  
 </items>
-https://live.rte.ie/live/a/channel1/channel1.isml/.mpd
+
 https://live.rte.ie/live/a/channel2/channel2.isml/.mpd
 
 
