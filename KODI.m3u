@@ -333,6 +333,20 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuZyiqg.jpg",US | CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubsNr5F.jpg",US | CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yra7MgV.jpg",US | CBSN Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxwGweD.jpg",US | CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BjO1ABv.jpg",US | CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXzSiUg.jpg",US | CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PNrkhuf.jpg",US | CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LUhiYfG.jpg",US | NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aA5JEO.jpg",US | Newsmax
@@ -355,18 +369,36 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMw6pRy.png",US | Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1qIwTY.jpg",US | Stirr
-https://playoutengine.sinclairstoryline.com/playout/cc31c22a-adb9-4a2e-bc54-2e7e7d68617c/g.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg",US | Documentaries 4U
-https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/naYszow.jpg",US | Unidentified
-https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tTmLQwo.png",US | Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aU9F2ng.jpg",US | Buzzr 
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pg0ymHX.png",US | Charge! 
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDFBkyf.jpg",US | Comet TV 
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0QGkuL4.jpg",US | Dove Channel 
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUcxeFI.jpg",US | Dust (Sci-Fi)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2sRbHI.png",US | Futurism 
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2bI1vXO.png",US | The Asylum 
+https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XO5Vqi6.jpg",US | Shout Factory TV 
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg",US | The Film Detective 
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NBbXmH3.png",US | American Classics
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg",US | The Film Detective 
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg",US | The Film Detective
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W5yDzNn.jpg",US | Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naYszow.jpg",US | Unidentified
+https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tTmLQwo.png",US | Chive TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSpOD29.jpg",US | Monarch
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSAfKXY.jpg",US | People TV
@@ -409,6 +441,8 @@ https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
 https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png",US | Real Vision
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg",US | Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lq3XHKj.png",US | Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rls0156.jpg",US | Filmrise Movies
@@ -1013,43 +1047,45 @@ http://85.132.81.184:8080/arbkepez/live/index.m3u8
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title="",KH | Fresh News TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png",IN | NDTV 
+https://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6p0TK7e.png",KH | Fresh News TV
 http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/enPwRCx.jpg" group-title="",KH | Apsara TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/enPwRCx.jpg",KH | Apsara TV
 https://1470210323.rsc.cdn77.org/LS-50041-SIN-13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1TgC7mx.jpg" group-title="News",KH | Bayon TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1TgC7mx.jpg",KH | Bayon TV
 https://1523926405.rsc.cdn77.org/LS-50041-SIN-8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1aONdH2.jpg" group-title="News",KH | Bayon TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aONdH2.jpg",KH | Bayon TV
 https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/4aynaVo.jpg" group-title="News",KH | CNC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aynaVo.jpg",KH | CNC News
 https://1061752280.rsc.cdn77.org/LS-50041-SIN-7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/UmgpRsj.jpg" group-title="",KH | CTN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmgpRsj.jpg",KH | CTN
 https://1004597868.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/KWjeTlX.jpg" group-title="",KH | CTV 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWjeTlX.jpg",KH | CTV 8
 https://1909041562.rsc.cdn77.org/LS-50041-SIN-15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/DcR6zEw.jpg" group-title="Music",KH | D Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcR6zEw.jpg",KH | D Music
 https://1765965335.rsc.cdn77.org/LS-50041-SIN-18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/cNKHpWf.jpg" group-title="",KH | ETV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cNKHpWf.jpg",KH | ETV
 https://1054166422.rsc.cdn77.org/LS-50041-SIN-9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/PtkwT8t.png" group-title="",KH | Hang MeasTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PtkwT8t.png",KH | Hang MeasTV
 https://1145067750.rsc.cdn77.org/LS-50041-SIN-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/pkL7DWY.jpg" group-title="",KH | MYTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkL7DWY.jpg",KH | MYTV
 https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/tJir5IG.jpg" group-title="",KH | Nice TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tJir5IG.jpg",KH | Nice TV
 https://1546733910.rsc.cdn77.org/LS-50041-SIN-14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" group-title="",KH | PNN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xZmAvQ.jpg",KH | PNN
 https://1345225764.rsc.cdn77.org/LS-50041-SIN-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/tlXkSGL.jpg" group-title="",KH | Reaksmey News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlXkSGL.jpg",KH | Reaksmey News
 https://1363455353.rsc.cdn77.org/LS-50041-SIN-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/NOYXAu2.jpg" group-title="",KH | Town TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOYXAu2.jpg",KH | Town TV
 https://1661779960.rsc.cdn77.org/LS-50041-SIN-16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/hCt0pIy.jpg" group-title="",TKH | V3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hCt0pIy.jpg",TKH | V3 HD
 https://1454048121.rsc.cdn77.org/LS-50041-SIN-17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/dztT90I.jpg" group-title="",KH | TV5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dztT90I.jpg",KH | TV5
 https://1612097999.rsc.cdn77.org/LS-50041-SIN-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/KGbDcg1.jpg" group-title="",KH | TV9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KGbDcg1.jpg",KH | TV9
 https://1014844237.rsc.cdn77.org/LS-50041-SIN-12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/GD4n70u.png" group-title="",KH | TVK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GD4n70u.png",KH | TVK
 https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKUvjkM.png",VIDEO | Fireplace Lounge
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
