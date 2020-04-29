@@ -1179,5 +1179,7 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
 http://radio3ilivetv.vedge.infomaniak.com/livecast/radio3ilivetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQzG2lg.png",RADIO | Radio Pilatus TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png",RADIO | Ritsa TV
+http://195.9.195.3:8080/hls/122431.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06A1Xte.png",TEST | VTM
 plugin://plugin.video.vtm.go/channels/vtm
