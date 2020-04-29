@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+ 
+<item>
+<title>BE | ÉÉN</title>
+<thumbnail>https://i.imgur.com/hWfo6az.png</thumbnail> 
+<fanart>https://i.imgur.com/bwlpVPS.jpg</fanart>
+<link>https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8</link>
+</item>  
+ 
 <item>
 <title>BE SPORT | Motomediateam</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
@@ -12,13 +20,6 @@
 <fanart>https://i.imgur.com/bwlpVPS.jpg</fanart>  
 </item> 
  
-<item>
-<title>BE | HLN LIVE</title>
-<thumbnail>https://i.imgur.com/P2KQ22O.png</thumbnail> 
-<fanart>https://i.imgur.com/bwlpVPS.jpg</fanart>
-<link>http://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive_720p.m3u8</link>
-</item>   
-
 <item>
 <title>BE | Dobbit TV | YOUTUBE</title>
 <link>ignorme</link>
@@ -38,7 +39,7 @@
 <item>
 <title>BE | NRJ Hits</title>
 <thumbnail>https://i.imgur.com/Xw1hal7.png</thumbnail>
-<urlsolve>https://ok.ru/videoembed/359958453815</urlsolve>
+<link>https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8</link>
 <fanart>https://i.imgur.com/bwlpVPS.jpg</fanart>  
 </item>   
   
