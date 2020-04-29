@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="http://epgportal.us.to/epg/EU_guide.xml.gz"
 #EXTINF:-1 tvg-id="één HD BE" tvg-name="één HD BE" tvg-logo="https://i.imgur.com/I8Yr1mC.jpg",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-id="Canvas HD BE" tvg-name="Canvas HD BE" tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BE | Canvas
+#EXTINF:-1 tvg-id="Canvas HD BE" tvg-name="Canvas HD BE" tvg-logo="https://i.imgur.com/La66zhI.jpg",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gu8tWn6.png",SPORT | Sporza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXqH5gj.png",SPORT | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",SPORT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
