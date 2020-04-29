@@ -1,10 +1,8 @@
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zr9m2g1.jpg",BE | Een
+#EXTM3U x-tvg-url="http://epgportal.us.to/epg/EU_guide.xml.gz"
+#EXTINF:-1 tvg-id="één HD BE" tvg-name="één HD BE" tvg-logo="https://i.imgur.com/zr9m2g1.jpg",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BE | Canvas
+#EXTINF:-1 tvg-id="Canvas HD BE" tvg-name="Canvas HD BE" tvg-logo="https://i.imgur.com/Pr0Xq6C.jpg",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/06A1Xte.png",BE | VTM
-plugin://plugin.video.vtm.go/channels/vtm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gu8tWn6.png",SPORT | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",SPORT | Red Bull TV
@@ -467,13 +465,13 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png,UK | Sky News
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-logo="https://i.imgur.com/WvNd8yg.png,UK | Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSIx6la.png",UK | Mafa Shortfilm
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XStfgbe.png",UK | Only Motors
 https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s67amyk.png",UK | Horse & Country TV
+#EXTINF:-1 tvg-id="Horse &amp; Country TV UK" tvg-name="Horse &amp; Country TV UK" tvg-logo="https://i.imgur.com/s67amyk.png",UK | Horse & Country TV
 https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGjCGml.jpg",UK | FashionTV L'Original 
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
@@ -911,8 +909,6 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://77.238.209.50:8080/hema1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fdd1oQP.png",BA | B1 TV
 http://wowza.bihnet.net:88/hls/b1-live.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gay0737.jpg",MT | TVM 2
-https://live.23video.com/live/amlst:ddo6m0063ahpv1i8bps0v6n3bb:16973314-1185a91eaad15f019b1b.mp4/chunklist_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
@@ -1005,7 +1001,7 @@ http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plao8Ml.jpg",BD | NTV
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
+#EXTINF:-1 tvg-id="Venus TV UK" tvg-name="Venus TV UK" tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
@@ -1189,3 +1185,5 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
 http://radio3ilivetv.vedge.infomaniak.com/livecast/radio3ilivetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQzG2lg.png",RADIO | Radio Pilatus TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06A1Xte.png",TEST | VTM
+plugin://plugin.video.vtm.go/channels/vtm
