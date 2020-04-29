@@ -9,14 +9,12 @@ plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png",SPORT | TIZ Cycling
 https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png",SPORT | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png",SPORT | Free Sports
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT | MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 2
@@ -27,6 +25,52 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png",BE | ROB TV
+http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg",BE | TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png",BE | TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png",BE | WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png",BE | Focus
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg",BE | Bruzz
+http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png",BE | BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg",BE | TV Lux
+https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png",BE | TVCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg",BE | Antenne Centre
+http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png",BE | Telesambre
+https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7xUgDm.png",BE | Télé MB
+http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uoSMNnr.png",BE | Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png",BE | RTC Télé Liège
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png",BE | Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png",BE-NL | BVN
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png",LU | RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png",LU | 2.RTL
+https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT | MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",SPORT | Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV France
@@ -139,50 +183,6 @@ http://51.15.236.137/hls/stream.m3u8
 http://163.172.138.186/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
-http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png",BE | ROB TV
-http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg",BE | TVL
-http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png",BE | TV Oost
-http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png",BE | WTV
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png",BE | Focus
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg",BE | Bruzz
-http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png",BE | BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
-https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
-http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg",BE | TV Lux
-https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png",BE | TVCom
-https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg",BE | Antenne Centre
-http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png",BE | Telesambre
-https://prp.l3.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7xUgDm.png",BE | Télé MB
-http://tvl-live.l3.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uoSMNnr.png",BE | Canal Zoom
-http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png",BE | RTC Télé Liège
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png",BE | Notele
-https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png",BE-NL | BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png",LU | RTL
-https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png",LU | 2.RTL
-https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YldMnap.jpg",LU | Chamber TV
 https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png",LU | TV MCJ
@@ -207,6 +207,12 @@ http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowz
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png",NL | RTV Noord Extra
 http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png",CW | DCTV
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kbx9ade.png",CW | Nos Païs
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJxD8Vc.png",CW | TV Direct 13
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png",AU | 10 Peach
@@ -229,12 +235,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 http://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GLVVCvE.jpg",AU | Australia News Channel
 https://nimble.dashstreams.net/onestudio/australianewschannel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png",CW | DCTV
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kbx9ade.png",CW | Nos Païs
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pJxD8Vc.png",CW | TV Direct 13
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Vt9dtg.png",DE | WDR
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitJsZU.png",DE | EOTV
@@ -593,12 +593,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://digicom.hls.iptvdc.com/tvplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkgPL8L.jpg",SE | SVT2
 http://185.19.191.12:8090/SVT2/mpegts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eaLBGqn.png",ES | RTVE 1
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qZWMOaV.png",ES | RTVE 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png",ES | RTVE 24 Horas
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09qP7mv.png",ES | Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8TMYWI0.png",ES | Telecinco
