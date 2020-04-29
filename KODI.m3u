@@ -1113,6 +1113,8 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 http://live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png",RADIO | MNM
 http://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSlIOrh.png",RADIO | Studio Brussel
+plugin://plugin.video.vrt.nu/play/id/vualto_stubru
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMjFeGE.png",RADIO | Radio PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png",RADIO | City Music TV
