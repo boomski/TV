@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="één HD BE" tvg-name="één HD BE" tvg-logo="https://i.imgur.com/I8Yr1mC.jpg",BE | Een
+#EXTINF:-1 tvg-id="C23.api.telerama.fr" tvg-logo="",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-id="Canvas HD BE" tvg-name="Canvas HD BE" tvg-logo="https://i.imgur.com/La66zhI.jpg",BE | Canvas
+#EXTINF:-1 tvg-id="Canvas HD BE" tvg-logo="https://i.imgur.com/OvWaMqS.jpg",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yXqH5gj.png",SPORT | Sporza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png",SPORT | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",SPORT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png",SPORT | TIZ Cycling
 https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=lequipe&item_module=resources.lib.channels.fr.lequipe&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png",SPORT | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
@@ -1115,6 +1117,8 @@ http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ntor8S.png",RADIO | Eldoradio TV
 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b2168000_slltz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Rj0uts.jpg",RADIO | Fun Radio
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=fun_radio&item_module=resources.lib.channels.fr.6play&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owjXT3r.png",RADIO | Rathergood Radio
 https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOF6Z6K.png",RADIO | Vintage Music TV
@@ -1181,5 +1185,4 @@ http://radio3ilivetv.vedge.infomaniak.com/livecast/radio3ilivetv/playlist.m3u8
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/06A1Xte.png",TEST | VTM
-plugin://plugin.video.vtm.go/channels/vtm
+
