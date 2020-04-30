@@ -41,6 +41,12 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg",BE | Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="C164.api.telerama.fr" tvg-logo="https://i.imgur.com/VvykYlU.png",BE | La Une
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=laune&item_module=resources.lib.channels.be.rtbf&item_dict={}
+#EXTINF:-1 tvg-id="C187.api.telerama.fr" tvg-logo="https://i.imgur.com/E3htoMD.png",BE | La Deux
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ladeux&item_module=resources.lib.channels.be.rtbf&item_dict={}
+#EXTINF:-1 tvg-id="C892.api.telerama.fr" tvg-logo="https://i.imgur.com/StttnYz.png",BE | La Trois
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=latrois&item_module=resources.lib.channels.be.rtbf&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png",BE | AB3
@@ -79,6 +85,8 @@ https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",SPORT | Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3n96ew.jpg",SPORT | EDGE Sport
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=edgesport&item_module=resources.lib.channels.uk.stv&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV France
 http://51.15.254.60/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV Arabia
@@ -253,6 +261,16 @@ https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/c
 https://wowzaprod222-i.akamaihd.net/hls/live/1005450/e10659bc/e10659bc_1_3500000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCfIubj.png",DE | TV Rus
 https://bemtv.parom.tv/hls/stream274/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 Español
+https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vgZYkYo.png",FR | La 1ère Guadeloupe
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=la_1ere&item_module=resources.lib.channels.fr.la_1ere&item_dict={"language":"Guadeloupe"}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8TuhyF.png",FR | Alsace 20
@@ -283,14 +301,6 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YlN5Y5b.jpg",FR | Ere TV
 http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 Español
-https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvrvwtm.png",FR | Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEA3az8.png",FR | Grand Lille TV
