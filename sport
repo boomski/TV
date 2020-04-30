@@ -460,7 +460,19 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://mobile.sportal.bg/live_tv_v
 </item>   
 
 <item>
-<title>200 | Belarus Premier League</title>
+<title>200 | Russian Premier League</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
+</regex>
+<thumbnail>https://i.imgur.com/GYiFQuw.jpg</thumbnail> 
+<fanart>https://i.imgur.com/MslAEzw.png</fanart>   
+</item> 
+ 
+<item>
+<title>201 | Belarus Premier League</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -469,6 +481,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='https://mobile.sportal.bg/live_tv_v
 </regex>
 <thumbnail>https://i.imgur.com/yI2OPud.jpg</thumbnail> 
 <fanart>https://i.imgur.com/FMQOsjH.jpg</fanart>   
-</item>   
+</item>  
 </items>
 
