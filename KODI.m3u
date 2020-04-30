@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="C23.api.telerama.fr" tvg-logo="",BE | Een
+#EXTINF:-1 tvg-id="C23.api.telerama.fr" tvg-logo="https://i.imgur.com/hWfo6az.png",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
 #EXTINF:-1 tvg-id="Canvas HD BE" tvg-logo="https://i.imgur.com/OvWaMqS.jpg",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
@@ -43,6 +43,10 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png",BE | AB3
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ab3&item_module=resources.lib.channels.be.abbe&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png",BE | ABXPLORE
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=abxplore&item_module=resources.lib.channels.be.abbe&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
@@ -183,8 +187,6 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1e6M2L.png",SPORT | Varzesh TV Farsi 4
 http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
-https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YldMnap.jpg",LU | Chamber TV
 https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png",LU | TV MCJ
@@ -467,13 +469,13 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-logo="https://i.imgur.com/WvNd8yg.png,UK | Sky News
+#EXTINF:-1 tvg-id="257.tvguide.co.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png,UK | Sky News Americas
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSIx6la.png",UK | Mafa Shortfilm
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XStfgbe.png",UK | Only Motors
 https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Horse &amp; Country TV UK" tvg-name="Horse &amp; Country TV UK" tvg-logo="https://i.imgur.com/s67amyk.png",UK | Horse & Country TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s67amyk.png",UK | Horse & Country TV
 https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGjCGml.jpg",UK | FashionTV L'Original 
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
@@ -755,6 +757,8 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c59VWgF.jpg",PL | 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
+https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiGrf6k.png",CI | NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qnGxpM8.png",CI | RTI 1
@@ -997,7 +1001,7 @@ http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plao8Ml.jpg",BD | NTV
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
-#EXTINF:-1 tvg-id="Venus TV UK" tvg-name="Venus TV UK" tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
