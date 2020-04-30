@@ -249,8 +249,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 http://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GLVVCvE.jpg",AU | Australia News Channel
 https://nimble.dashstreams.net/onestudio/australianewschannel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jr9XS3A.png",DE | ZDF
-http://stream-7b694ce7e.nmbs.top/m3u/Germany/05bcd8c334.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Vt9dtg.png",DE | WDR
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitJsZU.png",DE | EOTV
@@ -909,8 +907,6 @@ https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chu
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWpevBp.jpg",CA | VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0PD3Sqm.png",UA | Думская TV HD
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6fL4vc.png",AL | RTSH 1 HD
 https://edge06eu.ekranet.com/rtshhd_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWigxIX.png",AL | RTSH 2 HD
@@ -1231,74 +1227,3 @@ http://radio3ilivetv.vedge.infomaniak.com/livecast/radio3ilivetv/playlist.m3u8
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
-
-#EXTINF:-1 tvg-id="tv.101406050655" tvg-logo="http://i.mjh.nz/au/images/tv.101406050655.png",TEN
-http://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101406050658" tvg-logo="http://i.mjh.nz/au/images/tv.101406050658.png",10 Peach
-http://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101406050651" tvg-logo="http://i.mjh.nz/au/images/tv.101406050651.png",10 Bold
-http://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/au/images/tv.7openshop.png",openshop
-http://i.mjh.nz/au/Adelaide/tv.7openshop.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/au/images/tv.7ausbiz.png",ausbiz TV
-http://i.mjh.nz/au/Adelaide/tv.7ausbiz.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101305050550" tvg-logo="http://i.mjh.nz/au/images/tv.101305050550.png",Seven
-http://i.mjh.nz/au/Adelaide/tv.101305050550.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="http://i.mjh.nz/au/images/tv.101305020528.png",RACING.COM
-http://i.mjh.nz/au/Adelaide/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/au/images/tv.7pac12.png",PAC-12
-http://i.mjh.nz/au/Adelaide/tv.7pac12.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/au/images/tv.7outdoor.png",Outdoor Channel
-http://i.mjh.nz/au/Adelaide/tv.7outdoor.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/au/images/tv.7olympics.png",Olympics Channel
-http://i.mjh.nz/au/Adelaide/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/au/images/tv.7fueltv.png",Fuel TV
-http://i.mjh.nz/au/Adelaide/tv.7fueltv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101305050553" tvg-logo="http://i.mjh.nz/au/images/tv.101305050553.png",7mate
-http://i.mjh.nz/au/Adelaide/tv.101305050553.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101305050555" tvg-logo="http://i.mjh.nz/au/images/tv.101305050555.png",7flix
-http://i.mjh.nz/au/Adelaide/tv.101305050555.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101305050552" tvg-logo="http://i.mjh.nz/au/images/tv.101305050552.png",7TWO
-http://i.mjh.nz/au/Adelaide/tv.101305050552.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="http://i.mjh.nz/au/images/tv.320203000307.png",SBS World Movies Sydney
-http://i.mjh.nz/au/Adelaide/tv.320203000307.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.320203400347" tvg-logo="http://i.mjh.nz/au/images/tv.320203400347.png",SBS World Movies Adelaide
-http://i.mjh.nz/au/Adelaide/tv.320203400347.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="http://i.mjh.nz/au/images/tv.320203000303.png",SBS VICELAND HD
-http://i.mjh.nz/au/Adelaide/tv.320203000303.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="http://i.mjh.nz/au/images/tv.320203000304.png",SBS Food
-http://i.mjh.nz/au/Adelaide/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="http://i.mjh.nz/au/images/tv.320203000301.png",SBS
-http://i.mjh.nz/au/Adelaide/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="http://i.mjh.nz/au/images/tv.320203000305.png",NITV
-http://i.mjh.nz/au/Adelaide/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101204500451" tvg-logo="http://i.mjh.nz/au/images/tv.101204500451.png",Channel 9
-http://i.mjh.nz/au/Adelaide/tv.101204500451.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101204500459" tvg-logo="http://i.mjh.nz/au/images/tv.101204500459.png",9Rush Adelaide
-http://i.mjh.nz/au/Adelaide/tv.101204500459.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101204500454" tvg-logo="http://i.mjh.nz/au/images/tv.101204500454.png",9Life
-http://i.mjh.nz/au/Adelaide/tv.101204500454.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101204500458" tvg-logo="http://i.mjh.nz/au/images/tv.101204500458.png",9Go!
-http://i.mjh.nz/au/Adelaide/tv.101204500458.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101204500457" tvg-logo="http://i.mjh.nz/au/images/tv.101204500457.png",9Gem
-http://i.mjh.nz/au/Adelaide/tv.101204500457.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="http://i.mjh.nz/au/images/tv.101002210220.png",ABC NEWS
-http://i.mjh.nz/au/Adelaide/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="http://i.mjh.nz/au/images/tv.101002210224.png",ABC ME
-http://i.mjh.nz/au/Adelaide/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="http://i.mjh.nz/au/images/tv.abckids.png",ABC KIDS
-http://i.mjh.nz/au/Adelaide/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.abc2" tvg-logo="http://i.mjh.nz/au/images/tv.abc2.png",ABC Comedy
-http://i.mjh.nz/au/Adelaide/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.101002510251" tvg-logo="http://i.mjh.nz/au/images/tv.101002510251.png",ABC
-http://i.mjh.nz/au/Adelaide/tv.101002510251.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/au/images/tv.redbull.tv.png",Redbull TV
-http://i.mjh.nz/au/Adelaide/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-logo="http://i.mjh.nz/au/images/tv.fox.sports.news.png",Fox Sports News
-http://i.mjh.nz/au/Adelaide/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/nz/images/tv.46.png",Al Jazeera
-http://i.mjh.nz/au/Adelaide/tv.46.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/au/images/tv.acctv.png",ACCTV
-http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-id="France" tvg-name="1net" tvg-logo="https://img.bfmtv.com/c/709/360/c1d/6563bed295ce02d829725b9899b31.png" group-title="France",1net (DM)
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=x7pctg0
