@@ -1,5 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
 <item>
-<title>005 | PMG Sport</title>
+<title>IT | PMG Sport</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -9,3 +12,5 @@
 <thumbnail>https://i.imgur.com/nRziQoM.png</thumbnail>  
 <fanart>https://i.imgur.com/WbUYeMO.jpg</fanart>   
 </item> 
+
+</items>   
