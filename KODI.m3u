@@ -271,6 +271,10 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vgZYkYo.png",FR | La 1ère Guadeloupe
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=la_1ere&item_module=resources.lib.channels.fr.la_1ere&item_dict={"language":"Guadeloupe"}
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-logo="https://i.imgur.com/yJ5JRAK.png",FR | TFX
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tfx&item_module=resources.lib.channels.fr.mytf1&item_dict={}
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-logo="https://i.imgur.com/qFLq6lE.png",FR | TF1 Séries Films
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tf1-series-films&item_module=resources.lib.channels.fr.mytf1&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8TuhyF.png",FR | Alsace 20
