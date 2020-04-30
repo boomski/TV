@@ -479,6 +479,8 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-id="257.tvguide.co.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png,UK | Sky News
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=skynews&item_module=resources.lib.channels.uk.sky&item_dict={}
 #EXTINF:-1 tvg-id="257.tvguide.co.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png,UK | Sky News Americas
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSIx6la.png",UK | Mafa Shortfilm
