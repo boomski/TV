@@ -1359,3 +1359,5 @@ http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
+#EXTINF:-1 tvg-logo="",TEST | FFT
+http://37.98.152.116:8081/fft/fft/chunks.m3u8|X-Forwarded-For=217.8.42.105&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
