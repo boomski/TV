@@ -965,6 +965,18 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://77.238.209.50:8080/hema1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fdd1oQP.png",BA | B1 TV
 http://wowza.bihnet.net:88/hls/b1-live.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkgYixn.jpg",RS | RTV Puls
+http://stream.rtvpuls.com/broadcasting
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1p4U6TP.png",RS | Studio B
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GdYHpXO.png",RS | Telegraf TV
+http://now.tf.rs/2016/11/3/RETROSPEKTIVA_0211/RETROSPEKTIVA_0211.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GkqifMa.jpg",RS | Televizija Leskovac
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RcNFXt.jpg",RS | TV Duga Plus
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Msxeu2S.png",RS | TV Hram
+http://178.253.194.75:1935/live/hram.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
@@ -1331,6 +1343,8 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSS
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lp23ChL.jpg",RADIO | Radio 3i
 http://radio3ilivetv.vedge.infomaniak.com/livecast/radio3ilivetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLxTA0Z.png",RADIO | Radio S1
+http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQzG2lg.png",RADIO | Radio Pilatus TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png",RADIO | Ritsa TV
