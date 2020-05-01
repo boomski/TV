@@ -635,6 +635,8 @@ http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvLkbh3.jpg",DK | TV Storbyen
 https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srXY7yg.png",FO | KVF
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWNNpB6.png",NO | Kanal 10 Norge
 http://cdn-kanal10.crossnet.net:1935/kanal10no/mp4:live1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iviMrbO.jpg",NO | MTV Norge
