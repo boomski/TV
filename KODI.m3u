@@ -784,9 +784,11 @@ https://livestreamcdn.net:444/TVSURCANAL14/TVSURCANAL14/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
-https://plbl.m9.lfstrm.tv/rossia1/normal/1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png",RU | Россия 24
-https://plbl.m9.lfstrm.tv/rossia24/normal/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJAoLIq.png",PL | EZO TV
+http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png",GR | Epirus TV 1
 https://server.tvdj.info:8222/radioepirus/radioepirus/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3t60yS0.png",SI | TV SLOVENIJA 1
