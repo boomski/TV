@@ -1,22 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="C23.api.telerama.fr" tvg-logo="https://i.imgur.com/hWfo6az.png",BE | Een
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hWfo6az.png",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-id="Canvas HD BE" tvg-logo="https://i.imgur.com/OvWaMqS.jpg",BE | Canvas
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OvWaMqS.jpg",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png",SPORT | Sporza
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X3BtaQw.png",BE | Ketnet
+plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IfXF6r1.jpg",BE | Ketnet Junior
+plugin://plugin.video.vrt.nu/play/id/ketnet_jr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/esIVk4V.png",BE | VTM
+plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg",BE | VTM Kids
+plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png",BE | Q2
+plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png",BE | Vitaya
+plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXEq8tx.png",BE | CAZ
+plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd542d7ceb?.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60PHcN1.png",BE | CAZ 2
+plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85dda47458?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",SPORT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png",SPORT | TIZ Cycling
-https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8
-#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=lequipe&item_module=resources.lib.channels.fr.lequipe&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png",SPORT | Sport en France
-https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png",SPORT | Free Sports
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png",SPORT | TIZ Cycling
+https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 2
@@ -27,6 +39,10 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=lequipe&item_module=resources.lib.channels.fr.lequipe&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png",SPORT | Sport en France
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png",BE | ROB TV
@@ -55,8 +71,6 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=a
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=abxplore&item_module=resources.lib.channels.be.abbe&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
-https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png",BE | Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg",BE | TV Lux
@@ -955,8 +969,6 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://77.238.209.50:8080/hema1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fdd1oQP.png",BA | B1 TV
 http://wowza.bihnet.net:88/hls/b1-live.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eDYaphB.png",BE | Ketnet Junior
-http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
@@ -1196,11 +1208,15 @@ http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png",XXX | Threesome
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png",RADIO | Radio 1
-http://live-vrt.akamaized.net/groupb/live/e5f92274-8c13-46b9-872e-ac81ba6cfe7c/live.isml/.m3u8
+plugin://plugin.video.vrt.nu/play/id/vualto_events3_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png",RADIO | MNM
-http://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+plugin://plugin.video.vrt.nu/play/id/vualto_mnm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSlIOrh.png",RADIO | Studio Brussel
 plugin://plugin.video.vrt.nu/play/id/vualto_stubru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mKq6Kv.jpg",RADIO | VRT NWS
+plugin://plugin.video.vrt.nu/play/id/vualto_nieuws
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0d2oII.png",RADIO | Q Music
+plugin://plugin.video.vtm.go/play/catalog/channels/57940c42-a225-44be-8691-46d5175e2d01?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMjFeGE.png",RADIO | Radio PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png",RADIO | City Music TV
