@@ -527,6 +527,8 @@ https://kapang000.broadcastcdn.net/kapanglivetv-playout-onlymotors/tracks-v1a1/m
 https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nGjCGml.jpg",UK | FashionTV L'Original 
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9Tb3B.jpg",UK | Cruise 1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wlv9PeF.jpg",UK | Canaf 54
 https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuje8uN.png",CA | H2
@@ -1157,6 +1159,8 @@ http://streams2.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SI78uPi.png",AZ | Muz TV
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png",TJ | Xuzur TV
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png",IN | NDTV 
@@ -1203,6 +1207,10 @@ https://1749089154.rsc.cdn77.org/LS-50041-SIN-3/tracks-v1a1/mono.m3u8
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EhISpCd.png",US | PTL TV Network
 http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D08YE04.jpg",UK | British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62IpVDn.png",UK | Akaal TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKUvjkM.png",VIDEO | Fireplace Lounge
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLA5idh.png",VIDEO | Fish Tank
