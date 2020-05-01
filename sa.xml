@@ -1,1 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 
+<item>
+<title>SPORT SA| 24 SPORT</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCZCSFoMNz1U7fSiE7bGUVTw</page>
+</regex>
+<thumbnail>https://i.imgur.com/ByAQaQj.jpg</thumbnail>  
+<fanart>https://i.imgur.com/8QYcgFX.jpg</fanart>  
+</item>   
+  
+</items> 
