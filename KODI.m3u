@@ -137,6 +137,24 @@ https://cdn.jp.jpnettv.live/jptv/jsports2/chunklist_w1010892267.m3u8
 https://cdn.jp.jpnettv.live/jptv/jsports3/chunklist_w1897420437.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZfq881.jpg",SPORT | Jsports 4
 https://cdn.jp.jpnettv.live/jptv/jsports4/chunklist_w1773357951.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
+https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7xHwxd.png",SPORT | SuperSport 1
+http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67VfW5z.png",SPORT | SuperSport 2
+http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rk7DOzh.png",SPORT | SuperSport 3
+http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdN6jLe.png",SPORT | SuperSport 4
+http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvjY7ue.png",SPORT | SuperSport 5
+http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmo5C7Y.png",SPORT | SuperSport 6
+http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VRoowjg.png",SPORT | SuperSport 7
+http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",SPORT | Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",SPORT | Abu Dhabi Sports 2
@@ -159,24 +177,8 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Plcqlr7.jpg",SPORT | Jordan Sport TV
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
-https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q7xHwxd.png",SPORT | SuperSport 1
-http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/67VfW5z.png",SPORT | SuperSport 2
-http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rk7DOzh.png",SPORT | SuperSport 3
-http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tdN6jLe.png",SPORT | SuperSport 4
-http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nvjY7ue.png",SPORT | SuperSport 5
-http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmo5C7Y.png",SPORT | SuperSport 6
-http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VRoowjg.png",SPORT | SuperSport 7
-http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSDKD5a.jpg",SPORT | KSA Sport
+https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg",SPORT | LSN
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png",SPORT | MMA Junkie
@@ -535,6 +537,8 @@ https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wlv9PeF.jpg",UK | Canaf 54
 https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fuje8uN.png",CA | H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppMNSKT.png",CA | Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wMIvk8o.jpg",CA | Global Edmonton
@@ -1051,6 +1055,52 @@ http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ibUfEGr.png",AE | Peace TV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SMk1hAy.png",SA | Saudi TV 1
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zmVCXIK.png",SA | Al Quran Al Kareem
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5X9Fzk.jpg",SA | Al Sunnah
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wp5Db3g.png",SA | Rotana Aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMXEFd1.png",SA | Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHz4QYC.png",SA | Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOrO9PO.jpg",SA | Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/niDVfYR.png",SA | Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a23fI0c.png",SA | Rotana Khalijia
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4AyK2U.png",SA | Rotana Music
+http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdqK9NG.png",SA | Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXZiNBh.png",SA | Al Resalah HD
+https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7aD1yan.jpg",SA | Beity
+http://82.212.74.99:8000/live/8164.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5cc4g5.png",SA | 22 TV
+http://82.212.74.99:8000/live/hls/8117.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2qHUKF.png",SA | Kaif TV
+http://82.212.74.2:8000/live/hls/7311.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5p2yUBb.png",SA | Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lckbSZB.png",SA | Ahl-Alquran TV
+https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeHFhdh.png",SA | Al Tanasuh TV
+http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3xhyrx.png",SA | Al Wesal TV
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B725yZA.png",SA | Almajd TV
+http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bug9dU.png",SA | Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bug9dU.png",SA | Iqraa Europe Africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1LW4jB.png",SA | Ayaat
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CCrojy8.jpg",UK | MATV
 https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
