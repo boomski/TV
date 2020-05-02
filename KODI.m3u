@@ -521,9 +521,11 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1 tvg-id="257.tvguide.co.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png,UK | Sky News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3pRD6Fx.png",UK | BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png",UK | Sky News
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=skynews&item_module=resources.lib.channels.uk.sky&item_dict={}
-#EXTINF:-1 tvg-id="257.tvguide.co.uk" tvg-logo="https://i.imgur.com/WvNd8yg.png,UK | Sky News Americas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png",UK | Sky News Americas
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSIx6la.png",UK | Mafa Shortfilm
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
@@ -1216,6 +1218,16 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gheyoBN.png",ID | MATRIX TV
+https://stream.suryaiptv.net/streams/70_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fjJpmDO.png",ID | Indosiar
+https://stream.suryaiptv.net/streams/113_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNL5kNj.png",ID | Fox Life
+https://stream.suryaiptv.net/streams/109_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/inqvItV.png",ID | Fox HD
+https://stream.suryaiptv.net/streams/107_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ0xB57.png",ID | Nabawi TV
+https://stream.suryaiptv.net/streams/44_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0PQspLn.jpg",ID | K-Drama
 https://stream.suryaiptv.net/streams/40_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAxSVCv.png",ID | Sinema Indonesia
