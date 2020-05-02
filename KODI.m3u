@@ -377,6 +377,16 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png",FR | Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvNu4Rm.png",FR | Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6owIqv.png",FR | Fashion TV PG13
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuZyiqg.jpg",US | CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubsNr5F.jpg",US | CBSN New York
@@ -569,6 +579,8 @@ https://5a32c05065c79.streamlock.net/live/stream/chunklist.m3u8
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2Hdysr.jpg",AT | Ländle TV
 https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OyOPRtq.png",AT | K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png",CH | RSI LA 1
 http://188.35.9.5:10007/stolen/236r/parasite.install
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png",CH | RSI LA 2
@@ -986,18 +998,88 @@ http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nett
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Msxeu2S.png",RS | TV Hram
 http://178.253.194.75:1935/live/hram.stream/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png",FR | Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvNu4Rm.png",FR | Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n6owIqv.png",FR | Fashion TV PG13
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OyOPRtq.png",AT | K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH1 
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH2 
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH3 
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH5
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH6 
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH7 
+http://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH8 
+http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH9 
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH10
+http://live.streamingfast.net/osmflivech10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH12
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH13 
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH14 
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH15
+http://live.streamingfast.net/osmflivech15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH16 
+http://live.streamingfast.net/osmflivech16.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH17 
+http://live.streamingfast.net/osmflivech17.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH18 
+http://live.streamingfast.net/osmflivech18.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH19 
+http://live.streamingfast.net/osmflivech19.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH20 
+http://live.streamingfast.net/osmflivech20.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH21 
+http://live.streamingfast.net/osmflivech21.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH22 
+http://live.streamingfast.net/osmflivech22.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH23 
+http://live.streamingfast.net/osmflivech23.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH24 
+http://live.streamingfast.net/osmflivech24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH25
+http://live.streamingfast.net/osmflivech25.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH26
+http://live.streamingfast.net/osmflivech26.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH27
+http://live.streamingfast.net/osmflivech27.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH28
+http://live.streamingfast.net/osmflivech28.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH29
+http://live.streamingfast.net/osmflivech29.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH30
+http://live.streamingfast.net/osmflivech30.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH31
+http://live.streamingfast.net/osmflivech31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH32
+http://live.streamingfast.net/osmflivech32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH33
+http://live.streamingfast.net/osmflivech33.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH36 
+http://live.streamingfast.net/osmflivech36.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH37 
+http://live.streamingfast.net/osmflivech37.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH38 
+http://live.streamingfast.net/osmflivech38.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH40 
+http://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH41 
+http://live.streamingfast.net/osmflivech41.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH44 
+http://live.streamingfast.net/osmflivech44.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH45 
+http://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH47 
+http://live.streamingfast.net/osmflivech47.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH49 
+http://live.streamingfast.net/osmflivech49.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH50 
+http://live.streamingfast.net/osmflivech50.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
