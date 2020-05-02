@@ -231,12 +231,6 @@ http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowz
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png",NL | RTV Noord Extra
 http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png",CW | DCTV
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kbx9ade.png",CW | Nos Païs
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pJxD8Vc.png",CW | TV Direct 13
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png",AU | 10 Peach
@@ -781,14 +775,21 @@ http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0hXtmn.jpg",CR | TV Sur Canal 14
 https://livestreamcdn.net:444/TVSURCANAL14/TVSURCANAL14/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png",CW | DCTV
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kbx9ade.png",CW | Nos Païs
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJxD8Vc.png",CW | TV Direct 13
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
+https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png",RU | Россия 24
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hJAoLIq.png",PL | EZO TV
-http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png",GR | Epirus TV 1
 https://server.tvdj.info:8222/radioepirus/radioepirus/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3t60yS0.png",SI | TV SLOVENIJA 1
@@ -819,6 +820,8 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c59VWgF.jpg",PL | 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hJAoLIq.png",PL | EZO TV
+http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiGrf6k.png",CI | NTV Afrique
@@ -1121,8 +1124,22 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
-https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0PQspLn.jpg",ID | K-Drama
+https://stream.suryaiptv.net/streams/40_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GAxSVCv.png",ID | Sinema Indonesia
+https://stream.suryaiptv.net/streams/124_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r82MOg4.jpg",ID | Sinema X Indonesia 
+https://stream.suryaiptv.net/streams/114_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ex360bQ.png",ID | TVP 
+https://stream.suryaiptv.net/streams/133_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PgyTCMJ.png",ID | FTV 
+https://stream.suryaiptv.net/streams/134_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FotS6Kz.png",ID | Drakor Plus
+https://stream.suryaiptv.net/streams/132_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGa66P.png",ID | M Cine
+https://stream.suryaiptv.net/streams/135_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2MVgo1.png",ID | Lejel Shopping TV
+https://stream.suryaiptv.net/streams/125_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGK9VSf.jpg",AM | ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vQVwUV.jpg",AM | Amga
@@ -1166,7 +1183,7 @@ http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png",IN | NDTV 
-https://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p0TK7e.png",KH | Fresh News TV
 http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/enPwRCx.jpg",KH | Apsara TV
