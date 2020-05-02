@@ -129,6 +129,12 @@ https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbpEDnM.jpg",SPORT | All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVgXmS2.jpg",SPORT | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIzAmT0.png",SPORT | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png",SPORT | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
@@ -187,14 +193,10 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2msWdzQ.jpg",SPORT | Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hraxh1.jpg",SPORT | Weilai Sports
+http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4FGVDqV.jpg",SPORT | Turkmenistan Sport
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xVgXmS2.jpg",SPORT | Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIzAmT0.png",SPORT | Rugby Men's Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png",SPORT | Rugby Women's Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AR3Snsb.png",SPORT | Varzesh TV Farsi
 http://51.158.66.44/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDY4Aiq.png",SPORT | Varzesh TV Farsi 2
@@ -231,6 +233,8 @@ http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowz
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png",NL | RTV Noord Extra
 http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png",NL | RTV Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png",AU | 10 Peach
@@ -419,8 +423,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTlQAIX.jpg",US | ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIpsgye.png",US | History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMw6pRy.png",US | Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aU9F2ng.jpg",US | Buzzr 
@@ -535,6 +537,8 @@ https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wlv9PeF.jpg",UK | Canaf 54
 https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CCrojy8.jpg",UK | MATV
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuje8uN.png",CA | H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppMNSKT.png",CA | Global Calgary
@@ -547,6 +551,10 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/59f8cf257de98a7e0db5e
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png",CA | TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HshlGj.png",NZ | Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7A1Vrb.png",NZ | Maori Television
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png",AT | RTL Austria
 http://188.35.9.5:10020/stolen/502r/hot.dll
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRHJDxr.png",AT | oe24.TV
@@ -675,6 +683,8 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwsmMWu.png",ES | Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VbxfLY5.png",ES | El Sembrador TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9xoZOr.png",AR | PAKA PAKA
 https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYG7LuP.png",AR | Encuentro
@@ -836,6 +846,8 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
+http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiGrf6k.png",CI | NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qnGxpM8.png",CI | RTI 1
@@ -1148,6 +1160,8 @@ http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ibUfEGr.png",AE | Peace TV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhlZOq5.png",SA | Al Arabiya
+https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SMk1hAy.png",SA | Saudi TV 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmVCXIK.png",SA | Al Quran Al Kareem
@@ -1194,10 +1208,8 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X1LW4jB.png",SA | Ayaat
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CCrojy8.jpg",UK | MATV
-https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
-http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMOWiuG.png",MY | Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxK09kO.jpg",BD | Channel-S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plao8Ml.jpg",BD | NTV
