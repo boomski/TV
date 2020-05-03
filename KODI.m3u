@@ -175,8 +175,12 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Plcqlr7.jpg",SPORT | Jordan Sport TV
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSDKD5a.jpg",SPORT | KSA Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTW82bB.png",SPORT | KSA Sport
 https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTW82bB.png",SPORT | KSA Sport
+http://95.170.215.107:80/hls/KSA-Sport1-Bakup-M.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bSmOFdM.png",SPORT | KSA Sport 2
+http://95.170.215.107:80/hls/m3u8/KSA-Sport2-Bakup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg",SPORT | LSN
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png",SPORT | MMA Junkie
