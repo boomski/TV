@@ -241,6 +241,10 @@ https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UVd0Zn5.png",NL | RTV Utrecht
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcQDJRG.png",NL | MTV Music 24
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cNgwmz3.jpg",NL | Tommy Teleshopping
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png",AU | 10 Peach
@@ -1542,5 +1546,5 @@ http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
-#EXTINF:-1 tvg-logo="",TEST | Kantipur TV
-https://ktvhdnp24.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8|X-Forwarded-For=103.94.252.108&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="",TEST | NPO 1
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/npo1.m3u8|X-Forwarded-For=176.67.84.70&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
