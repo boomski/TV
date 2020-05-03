@@ -1254,6 +1254,12 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X1LW4jB.png",SA | Ayaat
 http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ab6VfQI.jpg",EG | PNC Food
+http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndrc6Oc.png",EG | Alhayat Mosalsalat
+http://95.170.215.107/hls/m3u8/Alhayat-M-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJQMC0b.png",EG | Cima
+http://95.170.215.107:80/hls/m3u8/Cima-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMOWiuG.png",MY | Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxK09kO.jpg",BD | Channel-S
@@ -1330,6 +1336,12 @@ http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJDixfq.png",IQ | Al Iraqia
+http://95.170.215.107/hls/m3u8/Iraqia-Backup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jgFFKUS.png",IQ | Al Iraqia Kurd
+http://95.170.215.107/hls/m3u8/Iraqia-Kurd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wriMpub.png",IQ | Baghdad TV
+http://95.170.215.107:80/hls/BaghdadTV-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png",IN | NDTV 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p0TK7e.png",KH | Fresh News TV
