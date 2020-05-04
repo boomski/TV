@@ -1,3 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+
+<item>
+<title>KZ | Gakku TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC9xj5GKA0-Dr_filKO9YbnA</page>
+</regex>
+<thumbnail>https://i.imgur.com/pXpVJql.jpg</thumbnail>  
+<fanart>https://i.imgur.com/HQYMVDV.jpg</fanart>  
+</item> 
+  
+<item>
+<title>KZ | Toi Duman</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCIJu9E5p0aKxyx1_hlVEcnQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/YHR8PIz.jpg</thumbnail>  
+<fanart>https://i.imgur.com/HQYMVDV.jpg</fanart>  
+</item> 
+  
+<item>
+<title>KZ | Alau TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC6Ex8Xun7pImF6V7U1tARig</page>
+</regex>
+<thumbnail>https://i.imgur.com/5KuCLcm.jpg</thumbnail>  
+<fanart>https://i.imgur.com/HQYMVDV.jpg</fanart>  
+</item>   
+
+<item>
+<title>KZ | KTK</title>
+<link>http://195.49.213.56/ktklive/live.hq/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/BGy7EMr.png</thumbnail>  
+<fanart>https://i.imgur.com/HQYMVDV.jpg</fanart>
+</item> 
+
+<item>
+<title>KZ | KTK</title>
+<link>http://89.218.30.37/ktklive/live.hq/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/BGy7EMr.png</thumbnail>  
+<fanart>https://i.imgur.com/HQYMVDV.jpg</fanart>
+</item>  
+  
+<item>
+<title>KZ | Novoe Telekanal</title>
+<link>http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/HLiv5Hq.jpg</thumbnail>  
+<fanart>https://i.imgur.com/HQYMVDV.jpg</fanart> 
+</item> 
+  
+<item>
+<title>KZ | Khabar24</title>
+<link>http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/ENNhTOp.png</thumbnail>  
+<fanart>https://i.imgur.com/HQYMVDV.jpg</fanart>
+</item> 
+  
+<item>
+<title>KZ | Khabar24</title>
+<link>http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/ENNhTOp.png</thumbnail>  
+<fanart>https://i.imgur.com/HQYMVDV.jpg</fanart> 
+</item>   
+  
 </items>  
