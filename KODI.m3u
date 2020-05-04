@@ -97,6 +97,8 @@ https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png",LU | 2.RTL
 https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hOiqyw.png",SPORT | Eurosport 1 Portugal
+http://51.15.0.141:88/eurosport_1/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",SPORT | Stadium
@@ -117,6 +119,12 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djdariX.jpg",SPORT | Super Tennis
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/szFw7MG.png",SPORT | Esport3
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yu69NyF.jpg",SPORT | Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6tcf2i.jpg",SPORT | FC Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crqX8iA.png",SPORT | Viasat Sport
 https://plbl.m9.lfstrm.tv/viasat_sport/normal/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5khL0fh.png",SPORT | Nova Sport 1
@@ -815,6 +823,16 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gD5eYVs.jpg",ES | Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4HjQT6E.png",ES | FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCKNWMJ.jpg",ES | TV3 
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QCKNWMJ.jpg",ES | TV3 Catalunya
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnIVW9o.jpg",ES | 324 
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPHwlhx.png",ES | Super 3
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pY8zxN3.png",ES | Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KeBXBJE.png",ES | ETB 1
@@ -843,6 +861,26 @@ http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 http://common01.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AFT43kx.png",ES | Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j73rLdT.png",ES | RTPA Asturias
+https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQJzR4x.png",ES | RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YAnSTc6.jpg",ES | TVG América
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png",ES | TVG Infantil
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png",ES | TVG Cultural
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png",ES | TVG Musigal
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png",ES | TVG Evento 1
+http://events1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png",ES | TVG Evento 2
+http://events2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QkhxAuY.png",ES | TVG Momento
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w83wr1S.png",ES | Urola Telebista
+https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbxfLY5.png",ES | El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9xoZOr.png",AR | PAKA PAKA
@@ -937,6 +975,12 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b18
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOqWxTD.png",AR | Télam 4
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IbHr9Zq.png",PT | TVI
+http://51.15.0.141:88/tvi/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSxzgPb.jpg",PT | Porto Canal
+http://51.15.0.141:88/porto_canal/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynCZbOj.png",PT | CMTV
+http://51.15.0.141:88/cmtv/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CVgMwVq.png",BR | CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrOYyU1.png",CR | Anexion TV
@@ -1001,6 +1045,14 @@ http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png",RU | Россия 24
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W9RtBZN.jpg",LV | Chau TV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png",LV | TVNET
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6szQkm.png",LV | ReTV
+http://edge-telia2.tiesraides.lv/live/retv.lv.1_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mdDEd5F.png",LV | Sportacentrs
+https://izm2120.cloudycdn.services/slive/_definst_/izm_2_kanals__sp_s5t_42710_default_803_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV
 http://kazakhtvru.ultraiptv.com/live_kz/playlist1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV English
@@ -1745,6 +1797,10 @@ https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/index_2500_av-b.m3u8
 http://radio3ilivetv.vedge.infomaniak.com/livecast/radio3ilivetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NLxTA0Z.png",RADIO | Radio S1
 http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1EsHTU.png",RADIO | Latvijas Radio 1 106.1 FM Latgale
+http://5a44e5b800a41.streamlock.net:1935/liveVLR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4npOpPj.png",RADIO | Latvijas Radio 3 Klasika
+http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pRbp0eZ.png",RADIO | LA 90 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQzG2lg.png",RADIO | Radio Pilatus TV
