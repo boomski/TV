@@ -189,6 +189,8 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SxxV8uA.png",SPORT | Box Nation
 http://62.112.9.63:88/box_nation/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8Z3OIf.png",SPORT | New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT | Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT | Bek Sports West
@@ -1057,6 +1059,34 @@ http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nett
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Msxeu2S.png",RS | TV Hram
 http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWKCBIz.png",JP | NHK Kishou-Saigai NHK Kishou-Saigai
+https://nhknewsreal5-i.akamaihd.net/hls/live/267603/nhknewsreal5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg",JP | NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4yRulEZ.png",JP | NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s6f0LgS.jpg",JP | BBC News Japan
+https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",JP | NTV News24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HiXLWA.png",JP | Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLMHWQH.png",JP | Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5p4fPC.png",JP | Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hX98cxJ.png",JP | Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yK6mvNw.png",JP | TBS News
+https://tbs1.media.ylive.jp/d6d710ed2c204b4cb9ffea55a16a5f40/ap-northeast-1/5690807595001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9u9TaMA.png",JP | QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3K36JEA.jpg",JP | Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8AM9fC8.jpg",JP | GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gob5LhJ.png",JP | Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH1 
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH2 
@@ -1336,11 +1366,11 @@ http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png",TJ | Xuzur TV
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png",AF | Ariana TV
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png",AF | Ariana TV US
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8mlbJM.jpg",AF | Ariana News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IMsDFu9.png",AF | Kabul TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XpR1VvZ.png",AF | Kayhan TV
