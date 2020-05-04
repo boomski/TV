@@ -135,6 +135,10 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png",SPORT | Rugby Women's Sevens
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3Pt9UL.png",SPORT | Qazsport
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mixRJCe.jpg",SPORT | Setanta Кazakhstan
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
@@ -921,10 +925,6 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png",RU | Россия 24
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png",GR | Epirus TV 1
 https://server.tvdj.info:8222/radioepirus/radioepirus/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3t60yS0.png",SI | TV SLOVENIJA 1
@@ -957,6 +957,92 @@ http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJAoLIq.png",PL | EZO TV
 http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Россия 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png",RU | Россия 24
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV
+http://kazakhtvru.ultraiptv.com/live_kz/playlist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV English
+http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV Russia
+http://kazakhtvru.ultraiptv.com/live_ru/playlist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV Kyrgyzstan
+http://kazakhtvru.ultraiptv.com/live_kg/playlist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV Kazakhstan
+https://sc.id-tv.kz/KazakhTV_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJIkebD.png",KZ | 1 Kanal Evraziya
+https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBEW2rG.jpg",KZ | СТВ Каzakhstan
+https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXhUto.png",KZ | Мir 3
+https://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yqXhUto.png",KZ | Мir +3
+https://sc.id-tv.kz/Mir_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRiS7VP.png",KZ | 7 Kanal
+https://sc.id-tv.kz/7_kanal_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5OooXc.png",KZ | 31 Кanal
+https://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8x9ZyQ.png",KZ | ТDК 42
+https://sc.id-tv.kz/TDK-42_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXlYCXz.jpg",KZ | Almaty TV
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBgMwNS.jpg",KZ | Astana TV
+https://sc.id-tv.kz/Astana_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eff3RKj.jpg",KZ | Asyl Arna
+https://sc.id-tv.kz/AsylArna_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SkBZBS7.jpg",KZ | Dombyra TV
+https://sc.id-tv.kz/Dombyra_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4P7oOL7.png",KZ | Еl Аrna
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AomcxcZ.jpg",KZ | Halyq Arna
+https://sc.id-tv.kz/HalykArna_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p3i6m1n.png",KZ | Altai
+https://onrez.kaztrk.kz/regional/oskementv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIkCiCo.png",KZ | Aqjaiyq
+https://onrez.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gOOYoA4.png",KZ | Atyraý
+https://onrez.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8tZcR5.png",KZ | Ertis
+http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jMABlRs.png",KZ | Jambyl
+http://onrez.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7fs2NP.png",KZ | Kókshe
+https://onrez.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFdgBVW.png",KZ | Mangystaý
+https://onrez.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sd154F9.png",KZ | Ontústik
+https://onrez.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrWtURp.png",KZ | Qostanai
+http://onrez.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hPV09Hw.png",KZ | Qyzyljar
+https://onrez.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFrzT8i.png",KZ | Qyzylorda
+https://onrez.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/slNBDaC.png",KZ | Semei
+http://onrez.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ey9zbER.png",KZ | Saryarqa
+https://onrez.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMJR6gg.png",KZ | Aqtóbe
+http://onrez.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8WNPXQc.jpg",KZ | Тvое ТV 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",KZ | Novoe Telekanal
+https://sc.id-tv.kz/New_Television_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZ8e20L.jpg",KZ | Tamasha
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DaYMzz8.jpg",KZ | Atameken Business
+https://sc.id-tv.kz/Atameken_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENNhTOp.png",KZ | Khabar24
+https://sc.id-tv.kz/Khabar_24_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RBZnNTX.jpg",KZ | Маgiya Кuhni ТV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGcVRmo.png",KZ | КТК 
+https://sc.id-tv.kz/KTK_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLP2npr.jpg",KZ | ID Fashion
+https://sc.id-tv.kz/IDFashion_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMyRwDk.png",KZ | MTRK
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
