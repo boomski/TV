@@ -1345,7 +1345,7 @@ http://95.170.215.107/hls/m3u8/Iraqia-Kurd.m3u8
 http://95.170.215.107:80/hls/BaghdadTV-Backup-M.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NlF6zgM.png",YE | Al Mahrah
 http://82.212.74.99:8000/live/hls/8173.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cqvNLWs.png",7 Stars
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqvNLWs.png",YE | 7 Stars
 rtmp://82.212.74.3/live/7406
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJTEVbf.png",YE | Aden TV
 https://master.starmena-cloud.com/hls/aden.m3u8
@@ -1355,11 +1355,13 @@ https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XV8m7sm.png",YE | Alghad Almushreq
 http://82.212.74.3:8000/live/7512.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53g9WRj.png",YE | Alerth TV
+http://82.212.74.2:8000/live/hls/7307.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4faSB45.jpg",YE | Suhail TV
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6s4DqYj.png",YE | Yemen Shabab
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azGNY6n.jpg",Yemen TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/azGNY6n.jpg",YE | Yemen TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png",IN | NDTV 
 
