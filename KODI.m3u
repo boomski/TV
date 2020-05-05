@@ -245,6 +245,8 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png",LU | TV MCJ
 https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnQMXRm.jpg",NL | DocuBox HD
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8bqkwkG.png",NL | L1mburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLYsKKC.png",NL | Omroep Brabant
@@ -307,6 +309,10 @@ https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PNrkhuf.jpg",US | CBSN Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S7ZbPTz.png",US | Cheddar
+https://live.chdrstatic.com/cheddar/primary/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EhK4XWv.jpg",US | Cheddar News
+https://live.chdrstatic.com/cbn/primary/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LUhiYfG.jpg",US | NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aA5JEO.jpg",US | Newsmax
@@ -453,6 +459,8 @@ https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpIjjJo.png",IE | RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news-video=1099968-audio_128k=128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUCeMKb.png",UK | BBC1 HD
 http://62.112.9.63:88/BBC1_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uizrWHu.png",UK | BBC2 HD
@@ -1385,10 +1393,18 @@ https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
 http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1GdM9Oy.jpg",PH | GMA Pinoy TV
 http://164.40.161.43:10011
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5G9fpD.jpg",PH | Inquirer 990 Television
-http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gscTB2D.png",PH | MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykr3M5O.jpg",PH | Sonshine Media Network International
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcQBMOy.jpg",PH | TV Shop Philippines
+http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1VGr5S.jpg",PH | Pilipinas HD
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1LzGTJ6.jpg",PH | Life TV
+http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5G9fpD.jpg",PH | Inquirer 990 Television
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
