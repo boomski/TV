@@ -323,8 +323,14 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOFEg4F.png",US | National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iwd9Jxb.png",US | Plant-Based Network HD
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTlQAIX.jpg",US | ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7jcKNLF.png",US | PBS WPSU
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f07nRRi.png",US | PBS Kids
+https://live-cdn.pbskids.org/out/u/aim/wpsu_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMw6pRy.png",US | Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aU9F2ng.jpg",US | Buzzr 
@@ -415,6 +421,8 @@ https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLqTUXD.png",US | WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUAQcj0.jpg",US | Weather World
+https://ssc4.wpsu.psu.edu/vodorig/mp4:WEATHER.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XzUcPXQ.jpg",US | Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PnBXXw4.png",US | The Outdoor Cooking Channel
