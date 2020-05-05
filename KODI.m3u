@@ -165,6 +165,8 @@ http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
 http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRoowjg.png",SPORT | SuperSport 7
 http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png",SPORT | BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",SPORT | Abu Dhabi Sports
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png",SPORT | Abu Dhabi Sports 2
@@ -327,6 +329,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTlQAIX.jpg",US | ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ocMGZM6.png",US | PBS KET
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jcKNLF.png",US | PBS WPSU
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f07nRRi.png",US | PBS Kids
@@ -1357,6 +1361,18 @@ http://live.streamingfast.net/osmflivech47.m3u8
 http://live.streamingfast.net/osmflivech49.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH50 
 http://live.streamingfast.net/osmflivech50.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBlXaz7.jpg",PH | CNN Philippines
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xba0xd.png",PH | ABS-CBN News Channel
+https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVY1ETs.png",PH | 5 Network
+http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1GdM9Oy.jpg",PH | GMA Pinoy TV
+http://164.40.161.43:10011
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5G9fpD.jpg",PH | Inquirer 990 Television
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gscTB2D.png",PH | MyTV Cebu
+http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
