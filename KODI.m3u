@@ -405,6 +405,20 @@ https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
 https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png",US | Real Vision
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png",US | Chef Champion
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn9bRD1.jpg",US | Chef Roc Show
+https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K36sd0M.png",US | Prime Time Drama 
+https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBEqPZP.png",US | Mythos
+https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MhLQjOB.png",US | iShe TV
+https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tC4AePW.png",US | Classic Cinema
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kAYiaJS.png",US | Golden TV
+https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg",US | Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C0NoakZ.jpg",US | Court TV
@@ -449,6 +463,8 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6bL5MJ.png",US | 3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/K4H2zNk.jpg",US | Atlanta United Fan TV
+https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/bwxoXVc.jpg",US | TVS Television Network
 https://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/gDTpg4B.jpg",US | TVS Select Network
@@ -467,6 +483,30 @@ https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQdBjyx.jpg",US | TVS Women Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLWDHGs.png",US | TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RhKSIGQ.jpg",US | TVS Drive In Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6pSh1y.jpg",US | TVS Hollywood History
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uNQeGHw.jpg",US | TVS Horror Network
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ygj2DL.jpg",US | TVS Nostalgia Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UsgbmfF.png",US | TVS Western Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHvWCyV.jpg",US | TVS Comedy Network
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0ly2m8.jpg",US | TVS Tally Ho
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bgqy4fL.jpg",US | TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuQyJ7f.jpg",US | TVS Family Channel
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogvLLji.png",US | Sent TV Global Network
+https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SGJCBI.png",US | Black Artist
+https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpIjjJo.png",IE | RTE News Now
@@ -1821,6 +1861,8 @@ https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/tracks-v4a1/mono.m3u8
 https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdH8s1I.jpg",RADIO | BritAsia Live
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0100/hi/c.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/olijpoB.png",RADIO | Auto Play TV
+https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJTSIe8.png",RADIO | Trace Kitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SUhmboG.png",RADIO | Trace Africa
@@ -1863,6 +1905,8 @@ http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffc
 http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXlNxG3.jpg",RADIO | VIBE TV
 http://41.223.30.250:8080/vibe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IxJdliP.png",RADIO | Billy C Boxing
+https://nrpus.bozztv.com/36bay2/gusa-billycboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQy60ZC.jpg",RADIO | LOGOS Channel
 http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w750668821.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pIe8Xp.jpg",RADIO | Play TV
