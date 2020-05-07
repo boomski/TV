@@ -344,9 +344,9 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocMGZM6.png",US | PBS KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jcKNLF.png",US | PBS WPSU
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8|X-Forwarded-For=216.92.199.196
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f07nRRi.png",US | PBS Kids
-https://live-cdn.pbskids.org/out/u/aim/wpsu_3.m3u8
+https://live-cdn.pbskids.org/out/u/aim/wpsu_3.m3u8|X-Forwarded-For=157.245.15.86
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMw6pRy.png",US | Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FzxuNhl.png",US | KVVB-TV 33
