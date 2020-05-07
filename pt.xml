@@ -2,7 +2,7 @@
 <items>
  
 <item>
-  <title>TVI24</title>
+  <title>PT | TVI24</title>
   <inputstream>$doregex[getUrl]?wmsAuthSign=$doregex[auth]|User-Agent=iPad</inputstream>
   <thumbnail>https://i.imgur.com/vwgHAqM.png</thumbnail>
   <fanart>https://i.imgur.com/eQT2tKJ.jpg</fanart>
