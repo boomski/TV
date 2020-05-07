@@ -126,7 +126,9 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b6tcf2i.jpg",SPORT | FC Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crqX8iA.png",SPORT | Viasat Sport
-https://plbl.m9.lfstrm.tv/viasat_sport/normal/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/638xHmX.png",SPORT | Astrakhan Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5khL0fh.png",SPORT | Nova Sport 1
 https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdtVhYM.png",SPORT | Nova Sport 2
