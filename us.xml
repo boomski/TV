@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+
+<item>
+<title>US SPORT| PAC 12 Network</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCx0IoH70qVp11Qkv1pa0phQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/0ctWSCA.png</thumbnail>  
+<fanart>https://i.imgur.com/sv730VB.jpg</fanart>  
+</item>
+  
+<item>
+<title>US SPORT| USA Cycling</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCfkKltnHzMs7U8QCl3BWfrg</page>
+</regex>
+<thumbnail>https://i.imgur.com/NiMrd4U.png</thumbnail>  
+<fanart>https://i.imgur.com/sv730VB.jpg</fanart> 
+</item> 
+  
+<item>
+<title>US SPORT| MASL TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCVQ_DsLv2r9sPQfpQRQCR7g</page>
+</regex>
+<thumbnail>https://i.imgur.com/Qquxkio.png</thumbnail>  
+<fanart>https://i.imgur.com/sv730VB.jpg</fanart> 
+</item>  
+  
+<item>
+<title>US | WB Kids</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg</page>
+</regex>
+<thumbnail>https://i.imgur.com/DRCIlTT.jpg</thumbnail>  
+<fanart>https://i.imgur.com/sv730VB.jpg</fanart> 
+</item>  
+  
+<item>
+<title>US | Newsmax TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCx6h-dWzJ5NpAlja1YsApdg</page>
+</regex>
+<thumbnail>https://i.imgur.com/0CnNbwz.png</thumbnail>  
+<fanart>https://i.imgur.com/sv730VB.jpg</fanart> 
+</item>     
   
 <item>
 <title>US VPN | NBC Golf</title>
@@ -8,5 +68,47 @@
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8</link>
 </item> 
   
+<item>
+<title>US VPN | PBS Kids</title>
+<thumbnail>https://i.imgur.com/f07nRRi.png</thumbnail> 
+<fanart>https://i.imgur.com/sv730VB.jpg</fanart>
+<link>https://live-cdn.pbskids.org/out/u/aim/wpsu_3.m3u8</link>
+</item>  
   
+<item>
+<title>US SPORT | Disc Golf Pro Tour</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCw0WzNn6m2Na6ZW7rKqWI3g</page>
+</regex>
+<thumbnail>https://i.imgur.com/KdBRGDQ.png</thumbnail>  
+<fanart>https://i.imgur.com/sv730VB.jpg</fanart> 
+</item>
+
+<item>
+<title>US SPORT| BIG EAST Conference</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCAcXdiimhsuivSn2PxtsRFw</page>
+</regex>
+<thumbnail>https://i.imgur.com/NpO8gxk.png</thumbnail>  
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item>  
+  
+<item>
+<title>US SPORT| BMXLive.TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCpZWA4p0dFQgomdP_eqUNHw</page>
+</regex>
+<thumbnail>https://i.imgur.com/heNqEn4.png</thumbnail>  
+<fanart>https://i.imgur.com/Vse5cgb.jpg</fanart>  
+</item>   
+ 
 </items>  
