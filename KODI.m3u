@@ -1149,6 +1149,12 @@ https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGLbJIi.jpg",RU | Brodilo TV
 http://brodilo.tv/channel.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aIng1c1.png",EE | ETV
+https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4ucy2l.png",EE | ETV 2
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XETf3vx.png",EE | ETV +
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9RtBZN.jpg",LV | Chau TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png",LV | TVNET
