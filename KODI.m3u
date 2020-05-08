@@ -98,7 +98,7 @@ https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png",LU | 2.RTL
 https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hOiqyw.png",SPORT | Eurosport 1 Portugal
-http://51.15.0.141:88/eurosport_1/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",SPORT | Stadium
@@ -671,7 +671,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJMjE8y.png",FR | M6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuxrH1e.png",FR | AB1
-http://62.112.9.63:88/AB1/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQvs8y.png",FR | Alpe d’Huez TV
