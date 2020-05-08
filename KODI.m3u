@@ -512,6 +512,8 @@ https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2gXSIbO.png",US | Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FT3b6Vr.png",US | Filmon 360
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TT9kAEp.png",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpIjjJo.png",IE | RTE News Now
@@ -664,6 +666,8 @@ http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 Español
 https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png",FR | ARTE
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png",FR | TFX
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tfx&item_module=resources.lib.channels.fr.mytf1&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFLq6lE.png",FR | TF1 Séries Films
