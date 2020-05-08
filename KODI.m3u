@@ -217,7 +217,7 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/387jXC7.jpg",SPORT | KOK Fights
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SxxV8uA.png",SPORT | Box Nation
-http://62.112.9.63:88/box_nation/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8Z3OIf.png",SPORT | New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png",SPORT | Bek Sports East
@@ -517,11 +517,11 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpIjjJo.png",IE | RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news-video=1099968-audio_128k=128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUCeMKb.png",UK | BBC1 HD
-http://62.112.9.63:88/BBC1_HD/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uizrWHu.png",UK | BBC2 HD
-http://62.112.9.63:88/BBC2_HD/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afChnws.png",UK | BBC3 HD
-http://62.112.9.63:88/BBC3_HD/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pRD6Fx.png",UK | BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png",UK | Sky News
@@ -1069,11 +1069,11 @@ http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EOqWxTD.png",AR | Télam 4
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IbHr9Zq.png",PT | TVI
-http://51.15.0.141:88/tvi/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSxzgPb.jpg",PT | Porto Canal
-http://51.15.0.141:88/porto_canal/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynCZbOj.png",PT | CMTV
-http://51.15.0.141:88/cmtv/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CVgMwVq.png",BR | CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrOYyU1.png",CR | Anexion TV
