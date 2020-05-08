@@ -157,19 +157,19 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
 https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7xHwxd.png",SPORT | SuperSport 1
-http://84.22.33.210/ss1.ott/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/67VfW5z.png",SPORT | SuperSport 2
-http://84.22.33.210/ss2.ott/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rk7DOzh.png",SPORT | SuperSport 3
-http://84.22.33.210/ss3.ott/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tdN6jLe.png",SPORT | SuperSport 4
-http://84.22.33.210/ss4.ott/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvjY7ue.png",SPORT | SuperSport 5
-http://84.22.33.210/ss5.ott/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmo5C7Y.png",SPORT | SuperSport 6
-http://84.22.33.210/ss6.ott/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRoowjg.png",SPORT | SuperSport 7
-http://84.22.33.210/ss7.ott/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png",SPORT | BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png",SPORT | Abu Dhabi Sports
@@ -349,9 +349,9 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocMGZM6.png",US | PBS KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jcKNLF.png",US | PBS WPSU
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8|X-Forwarded-For=209.239.112.104
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f07nRRi.png",US | PBS Kids
-https://live-cdn.pbskids.org/out/u/aim/wpsu_3.m3u8|X-Forwarded-For=209.239.112.104
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMw6pRy.png",US | Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FzxuNhl.png",US | KVVB-TV 33
@@ -434,8 +434,6 @@ https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLqTUXD.png",US | WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NUAQcj0.jpg",US | Weather World
-https://ssc4.wpsu.psu.edu/vodorig/mp4:WEATHER.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png",US | Infowars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nOWeBGz.png",US | Youtoo America HD
@@ -531,25 +529,25 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png",UK | Sky News Americas
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmEWiHU.jpg",UK | Sky One
-http://62.112.9.63:88/sky_one/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os69758.png",UK | ITV 1
-http://62.112.9.63:88/ITV1_HD/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xzVF5WZ.png",UK | ITV 2
-http://62.112.9.63:88/itv2/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEUPgub.png",UK | ITV 3
-http://62.112.9.63:88/itv_3/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8p7Jrix.png",UK | ITV 4
-http://62.112.9.63:88/itv4/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lDaSs6h.png",UK | ITV Be
-http://62.112.9.63:88/itvbe/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXMRRV5.png",UK | 5 HD
-http://62.112.9.63:88/Channel_5/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBYaTHt.png",UK | 5 Star
-http://62.112.9.63:88/5_star/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BylevGX.png",UK | 5 USA
-http://62.112.9.63:88/5_USA/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jn5knh.png",UK | FOX UK HD
-http://62.112.9.63:88/FOX_UK/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSIx6la.png",UK | Mafa Shortfilm
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XStfgbe.png",UK | Only Motors
@@ -649,15 +647,15 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWpevBp.jpg",CA | VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg1VRRE.png",FR | France 2
-http://51.15.3.161:8080/france2/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxwUHhv.png",FR | France 3
-http://51.15.3.161:8080/france3/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLaq3fo.png",FR | France 4
-http://51.15.3.161:8080/france4/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRQAsS5.png",FR | France 5
-http://51.15.3.161:8080/france5/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQR2nGg.jpg",FR | France Ô
-http://51.15.3.161:8080/france0/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png",FR | France 24 Arabic
@@ -671,7 +669,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFLq6lE.png",FR | TF1 Séries Films
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=tf1-series-films&item_module=resources.lib.channels.fr.mytf1&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJMjE8y.png",FR | M6
-http://51.15.3.161:8080/M6/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuxrH1e.png",FR | AB1
 http://62.112.9.63:88/AB1/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
@@ -689,7 +687,7 @@ http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EkeQcb.png",FR | Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MN73rOu.png",FR | Boing 
-http://51.15.3.161:8080/boing/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FR | Gulli
 https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FR | Gulli
