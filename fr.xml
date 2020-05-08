@@ -204,6 +204,13 @@
 </item> 
  
 <item>
+<title>FR VPN | France 3 Bretagne</title>         
+<link>http://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8</link>      
+<thumbnail>https://i.imgur.com/Shsvo3B.png</thumbnail>
+<fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>   
+</item>  
+ 
+<item>
 <title>FR | France 24</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
