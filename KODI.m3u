@@ -1151,11 +1151,11 @@ http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGLbJIi.jpg",RU | Brodilo TV
 http://brodilo.tv/channel.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aIng1c1.png",EE | ETV
-https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8
+https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4ucy2l.png",EE | ETV 2
-https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval0/index.m3u8
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XETf3vx.png",EE | ETV +
-https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval0/index.m3u8
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9RtBZN.jpg",LV | Chau TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png",LV | TVNET
@@ -1638,6 +1638,10 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GIGcX5K.png",ID | Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPWMzkS.png",ID | Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gheyoBN.png",ID | MATRIX TV
 https://stream.suryaiptv.net/streams/70_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjJpmDO.png",ID | Indosiar
@@ -1682,6 +1686,8 @@ https://stream.suryaiptv.net/streams/132_.m3u8
 https://stream.suryaiptv.net/streams/135_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2MVgo1.png",ID | Lejel Shopping TV
 https://stream.suryaiptv.net/streams/125_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ5vEQu.jpg",ID | Bungo TV
+http://103.229.72.178/mobile/bungotv.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGK9VSf.jpg",AM | ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vQVwUV.jpg",AM | Amga
