@@ -1256,13 +1256,29 @@ https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wJ1F3ob.png",GE | Pirveli
 http://tv.cdn.xsg.ge/pirvelitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wvNSQ6v.png",GE | Abkhaz
+http://tv.cdn.xsg.ge/abkhaz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YDNBw1S.png",GE | Artarea
+http://tv.cdn.xsg.ge/artarea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ns534rl.png",GE | Rioni
+http://tv.cdn.xsg.ge/rioni/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ns534rl.png",GE | Rioni 2
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sI6Grvu.png",GE | Formula
 http://tv.cdn.xsg.ge/formula/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1HdWiv.png",GE | POS TV
 https://tv.cdn.xsg.ge/c4315/PosTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dR9q4HP.png",GE | Dro TV
 http://tv.cdn.xsg.ge/drotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLlKbp9.jpg",GE | Obieqtivi TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NJ2kdx.png",GE | TV MAX
+http://tv.cdn.xsg.ge/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4ZfXqB.png",GE | Caucasia
+http://tv.cdn.xsg.ge/caucasia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cuGSbgu.png",GE | Ertsulovneba
+http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eZ90ovC.png",GE | Obieqtivi TV 
+http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eZ90ovC.png",GE | Obieqtivi TV 
 http://api.new.livestream.com/accounts/2064453/events/1886556/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg",GR | EPT 1
 https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
@@ -2192,5 +2208,8 @@ https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1,TEST | France 3 Bretagne
 http://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8|X-Forwarded-For=45.152.181.220
-#EXTINF:-1,TEST | France 3 Bretagne 2
-https://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/index_304_av-p.m3u8?sd=10&rebase=on|X-Forwarded-For=45.152.181.220
+#EXTINF:-1,TEST | Mega TV
+http://nue01-edge01.itdc.ge/megatv/index.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=http%3a%2F%2Fwww.myvideo.ge%2Ftv%2Fmegatv
+#EXTINF:-1,NASA TV
+#EXTVLCOPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/index.html
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8 T
