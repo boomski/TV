@@ -1000,6 +1000,8 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbxfLY5.png",ES | El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZB7Bfbu.jpg",MX | Multimedios Monterrey 
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9xoZOr.png",AR | PAKA PAKA
 https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYG7LuP.png",AR | Encuentro
@@ -1110,10 +1112,18 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://livestreamcdn.net:444/TVSURCANAL14/TVSURCANAL14/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7wW5sqW.png",CR | Enlace
 https://d31c1svk0i6vkc.cloudfront.net/enlace/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqLT2CC.png",PA | OYE CANAL 7
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z1YqTFZ.png",CL | TV Chile
 https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7osLgHP.png",CL | DESIERTO TV
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8zVnOFG.jpg",PY | GEN
+https://gruponacion.castr.io/edge/live_9ff9073080be11e9b616571fef7afaa2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tShrvsb.png",PY | Trece
+http://174.138.118.252/live/canal13stream_src.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBEwEaO.png",PY | Unicanal
+http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png",CW | DCTV
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kbx9ade.png",CW | Nos Païs
@@ -1848,6 +1858,9 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkLlmcf.jpg",AF | Shamshad TV
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdDNiAo.jpg",IR | GEM USA
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJDixfq.png",IQ | Al Iraqia
@@ -1880,8 +1893,18 @@ https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpSNMMI.png",IN | India Ahead
 http://p-indiaahead.planetcast.in/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png",IN | NDTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png",IN | NDTV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djArI03.png",IN | DD Punjabi
+http://playhls.media.nic.in/live/ddpunjabi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEhepQa.jpg",IN | UGC-CEC Vyas
+http://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cMJVuIr.jpg",IN | Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t1O83T7.jpg",IN | Shemaroo Punjabi TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDjEJD9.jpg",IN | Chardikla Time Tv North America
+http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p0TK7e.png",KH | Fresh News TV
 http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/enPwRCx.jpg",KH | Apsara TV
