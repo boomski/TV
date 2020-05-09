@@ -1586,6 +1586,20 @@ http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5G9fpD.jpg",PH | Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMOWiuG.png",MY | Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52JsuOB.png",MY | Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52JsuOB.png",MY | Astro Go Shop Malay
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNRNZnG.png",MY | Astro Gaaya
+http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52JsuOB.png",MY | Astro Go Shop 新奇贩卖
+https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJ9sZJy.png",MY | Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQeufLt.jpg",MY | Hello HD
+https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
@@ -1724,8 +1738,6 @@ http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
 http://95.170.215.107/hls/m3u8/Alhayat-M-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJQMC0b.png",EG | Cima
 http://95.170.215.107:80/hls/m3u8/Cima-Backup.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WMOWiuG.png",MY | Astro Awani
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxK09kO.jpg",BD | Channel-S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plao8Ml.jpg",BD | NTV
