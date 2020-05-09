@@ -1250,10 +1250,18 @@ https://sc.id-tv.kz/KTK_38_39.m3u8
 https://sc.id-tv.kz/IDFashion_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMyRwDk.png",KZ | MTRK
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jZvggdE.png",GE | 1 TV Ganatleba
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0LJRlFz.png",GE | 1 TV 
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zepoWaF.png",GE | 1 TV Ganatleba
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJ1F3ob.png",GE | Pirveli
+http://tv.cdn.xsg.ge/pirvelitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sI6Grvu.png",GE | Formula
+http://tv.cdn.xsg.ge/formula/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1HdWiv.png",GE | POS TV
 https://tv.cdn.xsg.ge/c4315/PosTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dR9q4HP.png",GE | Dro TV
+http://tv.cdn.xsg.ge/drotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLlKbp9.jpg",GE | Obieqtivi TV 
 http://api.new.livestream.com/accounts/2064453/events/1886556/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg",GR | EPT 1
