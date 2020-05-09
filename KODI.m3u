@@ -145,6 +145,8 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png",SPORT | Rugby Women's Sevens
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85D9kPy.png",SPORT | Rugby TV
+http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png",SPORT | NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
@@ -1250,6 +1252,10 @@ https://sc.id-tv.kz/KTK_38_39.m3u8
 https://sc.id-tv.kz/IDFashion_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMyRwDk.png",KZ | MTRK
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xukQN2K.png",GE | Discover Georgia HD
+http://tv.cdn.xsg.ge/discovergeorgia/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bl2tLe4.png",GE | O2
+http://tv.cdn.xsg.ge/o2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0LJRlFz.png",GE | 1 TV 
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zepoWaF.png",GE | 1 TV Ganatleba
@@ -1308,6 +1314,8 @@ http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
 http://tv.cdn.xsg.ge/diatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wAenxoe.png",GE | Agro tv
 http://tv.cdn.xsg.ge/agrotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R367t6c.png",GE | BBB
+http://tv.cdn.xsg.ge/bbb/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZ90ovC.png",GE | Obieqtivi TV 
 http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9QVZGow.png",GE | Palitra News
