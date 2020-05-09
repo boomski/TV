@@ -1254,10 +1254,32 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zepoWaF.png",GE | 1 TV Ganatleba
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUjbwlX.png",GE | Rustavi 2
+http://tv.cdn.xsg.ge/rustavi2hqnew/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zo9mGO2.png",GE | TV 24
+http://tv.cdn.xsg.ge/tv24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0s8ThqI.png",GE | TV 25
+http://tv.cdn.xsg.ge/tv25/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UadE0xZ.png",GE | Universe HD Channel
+http://tv.cdn.xsg.ge/universehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wJ1F3ob.png",GE | Pirveli
 http://tv.cdn.xsg.ge/pirvelitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0w6wIE7.png",GE | Imedi HD
+https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6SfF9xB.png",GE | GDS TV
+http://tv.cdn.xsg.ge/gdstv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mjsztRK.png",GE | Comedy
+http://tv.cdn.xsg.ge/comedy/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XAwZAH4.png",GE | Mtavari
+http://tv.cdn.xsg.ge/mtavari/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6BKiBJ4.png",GE | Maestro
+http://tv.cdn.xsg.ge/maestro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5x7MOzF.png",GE | PKTV
+http://tv.cdn.xsg.ge/pktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wvNSQ6v.png",GE | Abkhaz
 http://tv.cdn.xsg.ge/abkhaz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2gH4apJ.png",GE | Batumi TV
+http://tv.cdn.xsg.ge/batumitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YDNBw1S.png",GE | Artarea
 http://tv.cdn.xsg.ge/artarea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ns534rl.png",GE | Rioni
@@ -1266,20 +1288,32 @@ http://tv.cdn.xsg.ge/rioni/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sI6Grvu.png",GE | Formula
 http://tv.cdn.xsg.ge/formula/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jW2cdVt.png",GE | Shonitv
+http://tv.cdn.xsg.ge/shonitv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8rrOmC.png",GE | Food TV
+http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1HdWiv.png",GE | POS TV
 https://tv.cdn.xsg.ge/c4315/PosTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dR9q4HP.png",GE | Dro TV
 http://tv.cdn.xsg.ge/drotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PqZe2ej.png",GE | Guria tv
+http://tv.cdn.xsg.ge/guriatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NJ2kdx.png",GE | TV MAX
 http://tv.cdn.xsg.ge/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4ZfXqB.png",GE | Caucasia
 http://tv.cdn.xsg.ge/caucasia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cuGSbgu.png",GE | Ertsulovneba
 http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvH1Hll.png",GE | Dia TV
+http://tv.cdn.xsg.ge/diatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAenxoe.png",GE | Agro tv
+http://tv.cdn.xsg.ge/agrotv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZ90ovC.png",GE | Obieqtivi TV 
 http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eZ90ovC.png",GE | Obieqtivi TV 
-http://api.new.livestream.com/accounts/2064453/events/1886556/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QVZGow.png",GE | Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VUHpDJH.png",GE | Mall TV
+http://tv.cdn.xsg.ge/malltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg",GR | EPT 1
 https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXWk2Dy.jpg",GR | EPT 2
