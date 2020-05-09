@@ -906,6 +906,8 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOK
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TYfGTX9.png",IT | MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XPOIutD.png",DK | DR1
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eOMhPi.jpg",DK | Dplay
 http://188.35.9.5:10007/stolen/244w/parasite.install
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEGJ3NX.jpg",DK | TV 2 Lorry
@@ -2355,7 +2357,5 @@ https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
 https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5FEw0k.png",STIRR | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1,TEST | DR1
-https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-id="ServusTV" group-title="Germany - גרמניה" tvg-logo="http://www.presseportal.de/bild/79385-logo-servustv.jpg",ServusTV
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8|X-Forwarded-For=91.197.29.78
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
