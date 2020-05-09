@@ -208,8 +208,6 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master570.m3u8
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTW82bB.png",SPORT | KSA Sport
 https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eTW82bB.png",SPORT | KSA Sport
-http://95.170.215.107:80/hls/KSA-Sport1-Bakup-M.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSmOFdM.png",SPORT | KSA Sport 2
 http://95.170.215.107:80/hls/m3u8/KSA-Sport2-Bakup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg",SPORT | LSN
@@ -908,6 +906,12 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://digicom.hls.iptvdc.com/tvplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkgPL8L.jpg",SE | SVT2
 http://185.19.191.12:8090/SVT2/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mtMIIT0.png",IS | RUV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gsDz02g.png",IS | RUV 2
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nyq4Wl7.png",IS | N4
+http://tv.vodafoneplay.is/n4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png",ES | 24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09qP7mv.png",ES | Cuatro
@@ -1002,12 +1006,6 @@ https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kF29z8z.jpg",AR | Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hyOtap9.png",AR | Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hyOtap9.png",AR | Canal 4 Jujuy 2
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hyOtap9.png",AR | Canal 4 Jujuy 4
-https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqBkmlU.jpg",AR | Canal 4 San Juan
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FwOF1wB.gif",AR | Canal 5 TELECREATIVA
@@ -2249,9 +2247,6 @@ https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5FEw0k.png",STIRR | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1,TEST | DR1
-http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1,NASA TV
-#EXTVLCOPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/index.html
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8 
-#EXTINF:0,PAC-12 WASHINGTON HD
-http://xrxs.net/video/live-p12wash-4728.m3u8|X-Forwarded-For=209.239.112.104
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-id="ServusTV" group-title="Germany - גרמניה" tvg-logo="http://www.presseportal.de/bild/79385-logo-servustv.jpg",ServusTV
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8|X-Forwarded-For=91.197.29.78
