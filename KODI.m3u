@@ -1428,8 +1428,6 @@ https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklis
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GjJu9Rm.jpg",BB | CBC TV 8
 https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N8IaQMJ.png",CN | CCTV 1
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6fL4vc.png",AL | RTSH 1 HD
 https://edge06eu.ekranet.com/rtshhd_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWigxIX.png",AL | RTSH 2 HD
@@ -1486,6 +1484,12 @@ http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nett
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Msxeu2S.png",RS | TV Hram
 http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8IaQMJ.png",CN | CCTV 1
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Qj9O5w.jpg",CN | CCTV 4
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CchQPK7.png",CN | CCTV 17
+http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWKCBIz.png",JP | NHK Kishou-Saigai NHK Kishou-Saigai
 https://nhknewsreal5-i.akamaihd.net/hls/live/267603/nhknewsreal5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg",JP | NHK World Japan
@@ -1616,6 +1620,18 @@ http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5G9fpD.jpg",PH | Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9uPPgo.jpg",MY | RTM 1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AGPdE5U.jpg",MY | RTM 2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iv2a6FD.png",MY | Berita RTM 
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n5Y04TL.png",MY | RTM Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdH5Tx9.png",MY | 8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7ZhCPn.png",MY | TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WMOWiuG.png",MY | Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/52JsuOB.png",MY | Astro Go Shop
