@@ -2206,10 +2206,10 @@ https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
 https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5FEw0k.png",STIRR | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1,TEST | France 3 Bretagne
-http://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8|X-Forwarded-For=45.152.181.220
-#EXTINF:-1,TEST | Mega TV
-http://nue01-edge01.itdc.ge/megatv/index.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=http%3a%2F%2Fwww.myvideo.ge%2Ftv%2Fmegatv
+#EXTINF:-1,TEST | DR1
+http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1,NASA TV
 #EXTVLCOPT:http-referrer=https://www.nasa.gov/multimedia/nasatv/index.html
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8 T
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8 
+#EXTINF:0,PAC-12 WASHINGTON HD
+http://xrxs.net/video/live-p12wash-4728.m3u8|X-Forwarded-For=209.239.112.104
