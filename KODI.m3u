@@ -1114,10 +1114,20 @@ https://livestreamcdn.net:444/TVSURCANAL14/TVSURCANAL14/chunklist.m3u8
 https://d31c1svk0i6vkc.cloudfront.net/enlace/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IqLT2CC.png",PA | OYE CANAL 7
 https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HDwJe7E.png",SV | Canal 11 tutv
+https://5d07d2ec59d7c.streamlock.net/Canal11/Canal11/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OxalSYT.png",SV | TRV
+https://5d4a00b8a0738.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iNmceyy.png",SV | Wow 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AonXAXu.png",SV | Elim TV
+http://live-15.viewer.dacast.com:80/i/dclive_1@397642/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z1YqTFZ.png",CL | TV Chile
 https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7osLgHP.png",CL | DESIERTO TV
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/572aYzz.jpg",PY | Paraguay TV
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zVnOFG.jpg",PY | GEN
 https://gruponacion.castr.io/edge/live_9ff9073080be11e9b616571fef7afaa2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tShrvsb.png",PY | Trece
