@@ -434,6 +434,16 @@ https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvY0iSk.jpg",US | Law & Crime 2
 https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OIUSuI4.jpg",US | CubaPlay+
+http://d31c1svk0i6vkc.cloudfront.net/cubaplay/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nN80Wbj.jpg",US | Sorpresa
+http://d31c1svk0i6vkc.cloudfront.net/sorpresa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PXwXL0F.jpg",US | Gran Cine
+https://d31c1svk0i6vkc.cloudfront.net/grancine/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6PEOHS.png",US | Ultra Familia
+https://d31c1svk0i6vkc.cloudfront.net/ultrafamilia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyK8LNO.png",US | Tele N
+https://d31c1svk0i6vkc.cloudfront.net/telen/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLqTUXD.png",US | WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png",US | Infowars
@@ -1098,6 +1108,10 @@ http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0hXtmn.jpg",CR | TV Sur Canal 14
 https://livestreamcdn.net:444/TVSURCANAL14/TVSURCANAL14/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7wW5sqW.png",CR | Enlace
+https://d31c1svk0i6vkc.cloudfront.net/enlace/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1YqTFZ.png",CL | TV Chile
+https://d31c1svk0i6vkc.cloudfront.net/tvchile/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7osLgHP.png",CL | DESIERTO TV
 http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png",CW | DCTV
