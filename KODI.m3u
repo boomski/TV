@@ -624,6 +624,8 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cVxGC0h.png",NZ | Ankhila Punjab
 http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3usuh4.png",NZ | Firstlight UK
+http://rokutna.tulix.tv/live/firstlight-uk.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuje8uN.png",CA | H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppMNSKT.png",CA | Global Calgary
@@ -1222,10 +1224,56 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aT1BoNk.png",AN | Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GjJu9Rm.jpg",BB | CBC TV 8
+https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g56zYDr.png",DO | ITV Inmaculada TV
+http://rokutna.tulix.tv/live/inmaculadatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg",GR | EPT 1
+https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXWk2Dy.jpg",GR | EPT 2
+https://ert-live.siliconweb.com/media/ert_2/ert_2medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLxDtIh.jpg",GR | EPT 3
+https://ert-live.siliconweb.com/media/ert_3/ert_3medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcLqlcO.jpg",GR | EPT Play 1
+https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozWM3NM.jpg",GR | EPT Play 2
+https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8w5mR9.jpg",GR | EPT Play 3
+https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryehye1.jpg",GR | EPT Play 4
+https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png",GR | Epirus TV 1
 https://server.tvdj.info:8222/radioepirus/radioepirus/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GocquE.png",CY | BRT 1 HD
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjuOfNf.png",CY | BRT 2
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3ibIye.png",CY | BRT 3
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8op3Wh.jpg",CY | Ada TV
+https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqFaOkX.png",CY | Kanal T Kibris
+https://59cba4d34b678.streamlock.net/canlitv/kibriskanalt/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YAn5BJZ.png",CY | RIK Sat
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbHRUkk.jpg",CY | Sigma TV
+http://81.21.47.74/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NM0QWA0.png",CY | Sat 7 Kids
+https://unirtmp.tulix.tv/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xvJw3qt.png",CY | Sat 7 Arabic
+https://unirtmp.tulix.tv/sat7arabic/satarabiclive-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrOg8vL.png",CY | Sat 7 Pars
+https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png",TR | TV264
+https://5e6ab1e5b06a6.streamlock.net/tokus_live/tv264canli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3t60yS0.png",SI | TV SLOVENIJA 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QweABvP.png",SI | TV SLOVENIJA 2
@@ -1302,6 +1350,26 @@ https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrkMIoP.png",RU | Mama Telekanal
 http://188.93.95.34:80/mama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jGJOdls.png",BY | Belarus 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wj7RZUI.png",BY | Belarus 24
+https://stream.hoster.by/belarus24hd/livehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmWMwdg.jpg",BY | 8 Kanal
+http://91.215.176.238:8000/8channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvVixFX.png",BY | CTB
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Emss0Lk.png",BY | Belros
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dudCKKP.jpg",BY | Nashe TV
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jN2qwWz.jpg",BY | First Music Channel Belarus
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jN2qwWz.jpg",BY | First Music Channel Belarus HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jN2qwWz.jpg",BY | First Music Channel Russia
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jN2qwWz.jpg",BY | First Music Channel Russia HD
+http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aIng1c1.png",EE | ETV
 https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4ucy2l.png",EE | ETV 2
@@ -1490,68 +1558,6 @@ http://streams2.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SI78uPi.png",AZ | Muz TV
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg",GR | EPT 1
-https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXWk2Dy.jpg",GR | EPT 2
-https://ert-live.siliconweb.com/media/ert_2/ert_2medium.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TLxDtIh.jpg",GR | EPT 3
-https://ert-live.siliconweb.com/media/ert_3/ert_3medium.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XcLqlcO.jpg",GR | EPT Play 1
-https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1high.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ozWM3NM.jpg",GR | EPT Play 2
-https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2high.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v8w5mR9.jpg",GR | EPT Play 3
-https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3high.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ryehye1.jpg",GR | EPT Play 4
-https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4high.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
-https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png",TR | TV264
-https://5e6ab1e5b06a6.streamlock.net/tokus_live/tv264canli/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
-http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiGrf6k.png",CI | NTV Afrique
-https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnGxpM8.png",CI | RTI 1
-https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3MHcyD0.png",CI | RTI 2
-https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg",RW | KC2
-https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png",RW | RTV
-https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KiyYqPK.jpg",CD | Congo Planet Television
-https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KiyYqPK.jpg",CD | Congo Planet Television 2
-https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FekWmTu.jpg",CM | Vision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BmqJmql.png",CM | Afrique Média TV
-https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QeGnyEI.jpg",CM | MyTV Channel
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VaqSmZv.png",CM | Top Movies
-http://41.223.30.250:8080/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ec931Yf.jpg",CM | Mango TV
-http://connectiktv.ddns.net:5000/mangotv/mangotv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5yIAoh7.jpg",CM | Dream Channel
-http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist_w1977685799.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/REJJHir.jpg",CM | Emergence TV
-http://connectiktv.ddns.net:5000/emergencetv/emergencetv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V6FiGak.jpg",CM | Golden House TV
-http://connectiktv.ddns.net:5000/goldentv/goldentv/chunklist_w1093844285.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BMB9xq3.png",CM | Conso TV Afrique
-http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FXHvEvJ.png",CM | Exel Discovery
-http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
-http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GjJu9Rm.jpg",BB | CBC TV 8
-https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6fL4vc.png",AL | RTSH 1 HD
 https://edge06eu.ekranet.com/rtshhd_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWigxIX.png",AL | RTSH 2 HD
@@ -1604,12 +1610,48 @@ http://stream.rtvpuls.com/broadcasting
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GdYHpXO.png",RS | Telegraf TV
 http://now.tf.rs/2016/11/3/RETROSPEKTIVA_0211/RETROSPEKTIVA_0211.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GkqifMa.jpg",RS | Televizija Leskovac
-http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RcNFXt.jpg",RS | TV Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Msxeu2S.png",RS | TV Hram
 http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
+https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
+http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qiGrf6k.png",CI | NTV Afrique
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnGxpM8.png",CI | RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3MHcyD0.png",CI | RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg",RW | KC2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png",RW | RTV
+https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiyYqPK.jpg",CD | Congo Planet Television
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiyYqPK.jpg",CD | Congo Planet Television 2
+https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FekWmTu.jpg",CM | Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmqJmql.png",CM | Afrique Média TV
+https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QeGnyEI.jpg",CM | MyTV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VaqSmZv.png",CM | Top Movies
+http://41.223.30.250:8080/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ec931Yf.jpg",CM | Mango TV
+http://connectiktv.ddns.net:5000/mangotv/mangotv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yIAoh7.jpg",CM | Dream Channel
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist_w1977685799.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/REJJHir.jpg",CM | Emergence TV
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6FiGak.jpg",CM | Golden House TV
+http://connectiktv.ddns.net:5000/goldentv/goldentv/chunklist_w1093844285.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BMB9xq3.png",CM | Conso TV Afrique
+http://connectiktv.ddns.net:5000/consotv/consotv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FXHvEvJ.png",CM | Exel Discovery
+http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8IaQMJ.png",CN | CCTV 1
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Qj9O5w.jpg",CN | CCTV 4
@@ -2249,6 +2291,8 @@ http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQzG2lg.png",RADIO | Radio Pilatus TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2FfrGX.png",RADIO | Radio HIT Orsk
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XG99tGp.png",STIRR | STIRR CITY
@@ -2441,5 +2485,4 @@ https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8|X-Forwarded-For=87.92.1.250	
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SHLh731.png",FI | Yle TV2
 http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8|X-Forwarded-For=87.92.1.250	
-#EXTINF:-1 tvg-name="Das Erste" group-title="IPTV-DE",Das Erste
-http://irtdashreference-i.akamaihd.net/dash/live/901161/bfs/manifestARD.mpd
+
