@@ -2417,3 +2417,27 @@ https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCGjx9D.png",TEST | TVNZ 1
 http://livestreams.e-cast.co.nz/tv1.m3u8|X-Forwarded-For=202.89.4.222 
+#EXTINF:0,YLE TV1
+http://yletv-lh.akamaihd.net/i/yletv1hls_1@103188/master.m3u8|X-Forwarded-For=87.92.1.250
+#EXTINF:0,YLE TV2
+http://yletv-lh.akamaihd.net/i/yletv2hls_1@103189/master.m3u8|X-Forwarded-For=87.92.1.250
+#EXTINF:0,YLE TV FEM
+http://yletv-lh.akamaihd.net/i/ylefemfihls_1@103185/master.m3u8|X-Forwarded-For=87.92.1.250
+#EXTINF:0,YLE TV TEEMA
+http://yletv-lh.akamaihd.net/i/yleteemahls_1@103187/master.m3u8|X-Forwarded-For=87.92.1.250
+#EXTINF:0,SVT 1 HD
+https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8|X-Forwarded-For=194.15.212.134
+#EXTINF:0,NRK 1
+https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:0,NRK 2
+https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:0,NRK 3
+https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:0,NRK SUPER
+https://nrksuper-lh.akamaihd.net/i/nrksupertvus_0@108447/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:0,SVT 2 HD
+https://svt12-lh.akamaihd.net/i/svt12_0@77507/master.m3u8|X-Forwarded-For=194.15.212.134
+#EXTINF:0,SVT BARNKANALEN/SVT 24  HD
+https://svt13-lh.akamaihd.net/i/svt13_0@77508/master.m3u8|X-Forwarded-For=194.15.212.134
+#EXTINF:0,SVT KUNSKAPSKANALEN HD
+https://svt11-lh.akamaihd.net/i/svt11_0@77506/master.m3u8|X-Forwarded-For=194.15.212.134
