@@ -126,9 +126,11 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b6tcf2i.jpg",SPORT | FC Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crqX8iA.png",SPORT | Viasat Sport
-
+http://188.93.95.34:80/viasatsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/638xHmX.png",SPORT | Astrakhan Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mdDEd5F.png",SPORT | Sportacentrs
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5khL0fh.png",SPORT | Nova Sport 1
 https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdtVhYM.png",SPORT | Nova Sport 2
@@ -272,6 +274,10 @@ https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcYY7kH.jpg",NL | FilmBox Arthouse
 http://188.93.95.34:80/filmboxarthouse/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2nHx4Z.jpg",NL | FightBox
+http://188.93.95.34:80/fightboxhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U816T4f.png",NL | FashionBox
+http://188.93.95.34:80/fashionbox/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8bqkwkG.png",NL | L1mburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLYsKKC.png",NL | Omroep Brabant
@@ -1238,12 +1244,34 @@ https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zdTA0ha.png",RU | RT UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvhT8JO.png",RU | TV3
+http://188.93.95.34:80/tv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDfWEeC.jpg",RU | Amedia Premium
+http://188.93.95.34:80/amediapremium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVjRJ5U.png",RU | Amedia Hit
+http://188.93.95.34:80/amediahit/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wd0UKTn.png",RU | Кino Svidanie
+http://188.93.95.34:80/kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKy5wNW.png",RU | Аuto Plus
+http://188.93.95.34:80/autoplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfr7TBn.jpg",RU | Аuto 24
+http://188.93.95.34:80/auto24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvytBym.jpg",RU | Doktor
+http://188.93.95.34:80/doctor/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGNvRAr.png",RU | HD Life HD
+http://188.93.95.34:80/hdlife/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D5M4Gjr.png",RU | RBK
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGLbJIi.jpg",RU | Brodilo TV
 http://brodilo.tv/channel.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png",RU | TV BRICS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png",RU | TV BRICS Russia
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png",RU | TV BRICS English
+https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png",RU | TV BRICS China
+https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NrkMIoP.png",RU | Mama Telekanal
+http://188.93.95.34:80/mama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aIng1c1.png",EE | ETV
 https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4ucy2l.png",EE | ETV 2
@@ -1256,8 +1284,6 @@ http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6szQkm.png",LV | ReTV
 http://edge-telia2.tiesraides.lv/live/retv.lv.1_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdDEd5F.png",LV | Sportacentrs
-https://izm2120.cloudycdn.services/slive/_definst_/izm_2_kanals__sp_s5t_42710_default_803_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV
 http://kazakhtvru.ultraiptv.com/live_kz/playlist1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png",KZ | Kazakh TV English
@@ -1408,6 +1434,32 @@ http://tv.cdn.xsg.ge/obiektivi/playlist.m3u8
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VUHpDJH.png",GE | Mall TV
 http://tv.cdn.xsg.ge/malltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GI0ENgq.jpg",AZ | Idman TV
+http://188.93.95.34:80/idman/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LjirvEO.png",AZ | Turan TV
+http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GbJb8HL.png",AZ | Play One
+http://51.158.103.244/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0MFkKAr.jpg",AZ | ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiIJMek.jpg",AZ | ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4VAiAnb.jpg",AZ | CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1352949174.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/glJmSlO.png",AZ | Dalga
+http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geyLqiw.jpg",AZ | Ictimai TV
+http://streams2.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6i8byT.png",AZ | Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SI78uPi.png",AZ | Muz TV
+http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg",GR | EPT 1
 https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXWk2Dy.jpg",GR | EPT 2
@@ -1898,30 +1950,6 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiw909y.png",AM | SONG TV Armenia
 http://songtvam.ru:8060/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LjirvEO.png",AZ | Turan TV
-http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GbJb8HL.png",AZ | Play One
-http://51.158.103.244/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0MFkKAr.jpg",AZ | ARB
-http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wiIJMek.jpg",AZ | ARB 24
-http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 1
-http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 2
-http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rDYSoRL.png",AZ | ATV 4
-http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VAiAnb.jpg",AZ | CBC
-http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1352949174.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/glJmSlO.png",AZ | Dalga
-http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/geyLqiw.jpg",AZ | Ictimai TV
-http://streams2.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b6i8byT.png",AZ | Kəpəz TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SI78uPi.png",AZ | Muz TV
-http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png",TJ | Xuzur TV
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png",AF | Ariana TV
