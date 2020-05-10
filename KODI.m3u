@@ -41,6 +41,10 @@ https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=lequipe&item_module=resources.lib.channels.fr.lequipe&item_dict={}
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/LEQUIPE.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe 2
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/LEQUIPE-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png",SPORT | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
@@ -1252,6 +1256,8 @@ http://188.93.95.34:80/amediapremium/index.m3u8
 http://188.93.95.34:80/amediahit/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wd0UKTn.png",RU | Кino Svidanie
 http://188.93.95.34:80/kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nTq0eca.png",RU | Indiyskoe Kino
+http://188.93.95.34:80/indiyskoekino/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKy5wNW.png",RU | Аuto Plus
 http://188.93.95.34:80/autoplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zfr7TBn.jpg",RU | Аuto 24
@@ -1260,6 +1266,8 @@ http://188.93.95.34:80/auto24/index.m3u8
 http://188.93.95.34:80/doctor/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGNvRAr.png",RU | HD Life HD
 http://188.93.95.34:80/hdlife/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFEW9I3.jpg",RU | Friday International
+http://188.93.95.34:80/friday/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D5M4Gjr.png",RU | RBK
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGLbJIi.jpg",RU | Brodilo TV
