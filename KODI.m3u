@@ -160,6 +160,8 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-
 http://188.93.95.34:80/setanta_georgia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d17kd8G.jpg",SPORT | Setanta Georgia 2
 http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jBYptPj.png",SPORT | Silk Universal
+http://188.93.95.34:80/silk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
@@ -268,6 +270,8 @@ https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnQMXRm.jpg",NL | DocuBox HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcYY7kH.jpg",NL | FilmBox Arthouse
+http://188.93.95.34:80/filmboxarthouse/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8bqkwkG.png",NL | L1mburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLYsKKC.png",NL | Omroep Brabant
@@ -1223,7 +1227,9 @@ http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png",RU | Russia 24
-
+http://188.93.95.34:80/russia24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0BF84Ub.png",RU | Russia K
+http://188.93.95.34:80/russiaculture/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Du5rsc8.png",RU | RT News
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJGki3v.png",RU | RT Documentary
