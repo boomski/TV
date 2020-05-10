@@ -156,6 +156,10 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mixRJCe.jpg",SPORT | Setanta Кazakhstan
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d17kd8G.jpg",SPORT | Setanta Georgia 1
+http://188.93.95.34:80/setanta_georgia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d17kd8G.jpg",SPORT | Setanta Georgia 2
+http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png",SPORT | RTSH Sport
@@ -906,10 +910,20 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOK
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TYfGTX9.png",IT | MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XPOIutD.png",DK | DR1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png",DK | DR 1
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png",DK | DR 2
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkgWOxp.png",DK | DR 3
+https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FdnMM6X.png",DK | DR K
+https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYmulOw.png",DK | DR Ramasjang
+https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fNZ6Zid.jpg",DK | DR Ultra 
+https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/index_3000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eOMhPi.jpg",DK | Dplay
-http://188.35.9.5:10007/stolen/244w/parasite.install
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEGJ3NX.jpg",DK | TV 2 Lorry
 https://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/1_grusx1zd/sd/6000/t/SBqf2reMLuRFOX3tQQv_Iw/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wamEY0w.png",DK | TV 2 Fyn
