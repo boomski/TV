@@ -824,6 +824,8 @@ https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/
 https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XbXSpy1.png",DE | Welt der Wunder
 http://wowza-1.vidoo.de:1935/live/weltderwunder/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADCiOHX.png",DE | ServusTV
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tph4j1N.png",DE | RheinMain TV
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1H7y8YK.png",DE | Niederbayern TV
@@ -919,9 +921,9 @@ https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/index_3000_av-p.m3u8|X-Forward
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FdnMM6X.png",DK | DR K
 https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYmulOw.png",DK | DR Ramasjang
-https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8
+https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fNZ6Zid.jpg",DK | DR Ultra 
-https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/index_3000_av-p.m3u8
+https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eOMhPi.jpg",DK | Dplay
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEGJ3NX.jpg",DK | TV 2 Lorry
@@ -2371,5 +2373,3 @@ https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
 https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5FEw0k.png",STIRR | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 tvg-id="ServusTV" group-title="Germany - גרמניה" tvg-logo="http://www.presseportal.de/bild/79385-logo-servustv.jpg",ServusTV
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
