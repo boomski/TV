@@ -138,7 +138,7 @@ rtmp://xiaoyu.speedws.com/sat/tv741
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png",SPORT | Africa Sports TV
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szFw7MG.png",SPORT | Esport3
-http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yu69NyF.jpg",SPORT | Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b6tcf2i.jpg",SPORT | FC Bayern Munchen TV
@@ -1082,13 +1082,13 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4HjQT6E.png",ES | FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCKNWMJ.jpg",ES | TV3 
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist.m3u8
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCKNWMJ.jpg",ES | TV3 Catalunya
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CnIVW9o.jpg",ES | 324 
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPHwlhx.png",ES | Super 3
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist.m3u8
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pY8zxN3.png",ES | Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KeBXBJE.png",ES | ETB 1
@@ -2755,9 +2755,23 @@ http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8|X-Forwarded-For=91
 
 #EXTINF:-1 tvg-id="arte" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/arte.png",arte
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]SVT 1[/B][/COLOR]
+https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8|X-Forwarded-For=194.15.212.134
 #EXTINF:-1 tvg-id="MDR" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/mdr.png",MDR
 http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8?bkup=off|X-Forwarded-For=91.197.29.78
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8|User-agent=iPhone
+#EXTINF:-1 tvg-id="Neox.es" group-title="Spain" tvg-logo="tv.png",[COLOR orangered]Neox[/COLOR] 
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="Nova.es" group-title="Spain" tvg-logo="tv.png",[COLOR orangered]Nova[/COLOR] 
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8|X-Forwarded-For=81.17.18.50
+#EXTINF:-1 tvg-id="Mega.es" group-title="Spain" tvg-logo="tv.png",[COLOR orangered]Mega[/COLOR] 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-id="0097" group-title="Deutsch" tvg-logo="0097.png",[COLOR gold]ORF Sport+[/COLOR]
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]SBS FOOD[/B][/COLOR]
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
+http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-usa/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Kwese Sports | USA[/B][/COLOR]
+http://kweseadhoc-i.akamaihd.net/hls/live/272791/index/index.m3u8|X-Forwarded-For=41.218.217.69&Origin=http://video.kwesesports.com&Host=kweseadhoc-i.akamaihd.net&Referer=http://video.kwesesports.com/live-tv/channel/lfctv&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
