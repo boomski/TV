@@ -266,6 +266,8 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1e6M2L.png",SPORT | Varzesh TV Farsi 4
 http://163.172.138.186/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zjh63nC.jpg",SPORT | TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png",SPORT | Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png",SPORT | Dubai Racing
@@ -1962,6 +1964,14 @@ https://a.jsrdn.com/rtmp/22690/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPWMzkS.png",ID | Berita Satu HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/bD2odoR.png",ID | TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/RIwYxS9.png",ID | TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/VH7TANA.png",ID | TVRI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/tPvtrgk.png",ID | TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gheyoBN.png",ID | MATRIX TV
 https://stream.suryaiptv.net/streams/70_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjJpmDO.png",ID | Indosiar
