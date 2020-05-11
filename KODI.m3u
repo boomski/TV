@@ -243,6 +243,10 @@ http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSmOFdM.png",SPORT | KSA Sport 2
 http://95.170.215.107:80/hls/m3u8/KSA-Sport2-Bakup.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJeRr5j.jpg",SPORT | KTV Sport
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1KB7KA1.jpg",SPORT | KTV Sport Plus
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg",SPORT | LSN
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png",SPORT | MMA Junkie
@@ -1319,6 +1323,8 @@ https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogq22B7.png",SI | MMC
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKF1jD9.jpg",SK | Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yKVLoHq.jpg",HU | Bonum TV
 https://stream.y5.hu/stream/stream_bonum/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iTUoC1v.png",HU | TV7 Bekescsaba
@@ -1397,6 +1403,8 @@ https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrkMIoP.png",RU | Mama Telekanal
 http://188.93.95.34:80/mama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg",RU | Vechernyaya Moskva
+http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGJOdls.png",BY | Belarus 4
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wj7RZUI.png",BY | Belarus 24
@@ -1605,6 +1613,22 @@ http://streams2.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SI78uPi.png",AZ | Muz TV
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png",TJ | Xuzur TV
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGK9VSf.jpg",AM | ARTN TV
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vQVwUV.jpg",AM | Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKVkDVo.png",AM | H1
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zdJeT34.jpg",AM | TBN Armenia
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NopzOwA.jpg",AM | US Armenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llEDEfK.png",AM | Yerkir Media
+http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw909y.png",AM | SONG TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6fL4vc.png",AL | RTSH 1 HD
 https://edge06eu.ekranet.com/rtshhd_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWigxIX.png",AL | RTSH 2 HD
@@ -1861,6 +1885,66 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oQeufLt.jpg",MY | Hello HD
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GIGcX5K.png",ID | Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPWMzkS.png",ID | Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/bD2odoR.png",ID | TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/RIwYxS9.png",ID | TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/VH7TANA.png",ID | TVRI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/tPvtrgk.png",ID | TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gheyoBN.png",ID | MATRIX TV
+https://stream.suryaiptv.net/streams/70_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fjJpmDO.png",ID | Indosiar
+https://stream.suryaiptv.net/streams/113_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNL5kNj.png",ID | Fox Life
+https://stream.suryaiptv.net/streams/109_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/inqvItV.png",ID | Fox HD
+https://stream.suryaiptv.net/streams/107_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ0xB57.png",ID | Nabawi TV
+https://stream.suryaiptv.net/streams/44_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/asFb3Ax.png",ID | TRANS 7
+https://stream.suryaiptv.net/streams/1_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tQKAt9o.png",ID | TRANS TV
+https://stream.suryaiptv.net/streams/4_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0bAG1v.png",ID | antv
+https://stream.suryaiptv.net/streams/5_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjlH5Br.png",ID | SCTV
+https://stream.suryaiptv.net/streams/6_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ai5HcJG.png",ID | GTV
+https://stream.suryaiptv.net/streams/10_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQdG7Zf.png",ID | NET 
+https://stream.suryaiptv.net/streams/16_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlkGnFQ.png",ID | TV ONE
+https://stream.suryaiptv.net/streams/22_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8rujEu.png",ID | Metro TV
+https://stream.suryaiptv.net/streams/23_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWexe7B.jpg",ID | Etam Channel
+https://stream.suryaiptv.net/streams/2_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0PQspLn.jpg",ID | K-Drama
+https://stream.suryaiptv.net/streams/40_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GAxSVCv.png",ID | Sinema Indonesia
+https://stream.suryaiptv.net/streams/124_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r82MOg4.jpg",ID | Sinema X Indonesia 
+https://stream.suryaiptv.net/streams/114_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ex360bQ.png",ID | TVP 
+https://stream.suryaiptv.net/streams/133_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PgyTCMJ.png",ID | FTV 
+https://stream.suryaiptv.net/streams/134_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FotS6Kz.png",ID | Drakor Plus
+https://stream.suryaiptv.net/streams/132_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGa66P.png",ID | M Cine
+https://stream.suryaiptv.net/streams/135_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2MVgo1.png",ID | Lejel Shopping TV
+https://stream.suryaiptv.net/streams/125_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ5vEQu.jpg",ID | Bungo TV
+http://103.229.72.178/mobile/bungotv.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpX5DeZ.png",AE | National Geographic Abu Dhabi HD
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oExmYqk.jpg",AE | Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Bx66K7.jpg",AE | Abu Dhabi Drama
@@ -1969,7 +2053,7 @@ https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
 http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V3xhyrx.png",SA | Al Wesal TV
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B725yZA.png",SA | Almajd TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B725yZA.png",SA | Al Majd TV
 http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bug9dU.png",SA | Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
@@ -1999,86 +2083,8 @@ http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
 http://95.170.215.107/hls/m3u8/Alhayat-M-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJQMC0b.png",EG | Cima
 http://95.170.215.107:80/hls/m3u8/Cima-Backup.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxK09kO.jpg",BD | Channel-S
-https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/plao8Ml.jpg",BD | NTV
-https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
-https://a.jsrdn.com/rtmp/22690/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GIGcX5K.png",ID | Berita Satu World
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LPWMzkS.png",ID | Berita Satu HD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/bD2odoR.png",ID | TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/RIwYxS9.png",ID | TVRI Kanal 3
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/VH7TANA.png",ID | TVRI Jakarta
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/tPvtrgk.png",ID | TVRI Jawa Barat
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gheyoBN.png",ID | MATRIX TV
-https://stream.suryaiptv.net/streams/70_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fjJpmDO.png",ID | Indosiar
-https://stream.suryaiptv.net/streams/113_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eNL5kNj.png",ID | Fox Life
-https://stream.suryaiptv.net/streams/109_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/inqvItV.png",ID | Fox HD
-https://stream.suryaiptv.net/streams/107_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XQ0xB57.png",ID | Nabawi TV
-https://stream.suryaiptv.net/streams/44_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/asFb3Ax.png",ID | TRANS 7
-https://stream.suryaiptv.net/streams/1_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tQKAt9o.png",ID | TRANS TV
-https://stream.suryaiptv.net/streams/4_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0bAG1v.png",ID | antv
-https://stream.suryaiptv.net/streams/5_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rjlH5Br.png",ID | SCTV
-https://stream.suryaiptv.net/streams/6_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ai5HcJG.png",ID | GTV
-https://stream.suryaiptv.net/streams/10_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQdG7Zf.png",ID | NET 
-https://stream.suryaiptv.net/streams/16_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tlkGnFQ.png",ID | TV ONE
-https://stream.suryaiptv.net/streams/22_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R8rujEu.png",ID | Metro TV
-https://stream.suryaiptv.net/streams/23_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWexe7B.jpg",ID | Etam Channel
-https://stream.suryaiptv.net/streams/2_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0PQspLn.jpg",ID | K-Drama
-https://stream.suryaiptv.net/streams/40_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GAxSVCv.png",ID | Sinema Indonesia
-https://stream.suryaiptv.net/streams/124_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r82MOg4.jpg",ID | Sinema X Indonesia 
-https://stream.suryaiptv.net/streams/114_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ex360bQ.png",ID | TVP 
-https://stream.suryaiptv.net/streams/133_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PgyTCMJ.png",ID | FTV 
-https://stream.suryaiptv.net/streams/134_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FotS6Kz.png",ID | Drakor Plus
-https://stream.suryaiptv.net/streams/132_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGa66P.png",ID | M Cine
-https://stream.suryaiptv.net/streams/135_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2MVgo1.png",ID | Lejel Shopping TV
-https://stream.suryaiptv.net/streams/125_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ5vEQu.jpg",ID | Bungo TV
-http://103.229.72.178/mobile/bungotv.stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGK9VSf.jpg",AM | ARTN TV
-http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3vQVwUV.jpg",AM | Amga
-https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MKVkDVo.png",AM | H1
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zdJeT34.jpg",AM | TBN Armenia
-http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NopzOwA.jpg",AM | US Armenia TV
-http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/llEDEfK.png",AM | Yerkir Media
-http://fr.cdn.edem.tv/iptv/AILIO9MOXEEJOHBAHPAI3OHSH/608/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw909y.png",AM | SONG TV Armenia
-http://songtvam.ru:8060/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png",TJ | Xuzur TV
-http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8bPQfOO.png",EG | Al Kahera Wal Nas
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png",AF | Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png",AF | Ariana TV US
@@ -2093,17 +2099,38 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XkLlmcf.jpg",AF | Shamshad TV
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdDNiAo.jpg",IR | GEM USA
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeG9K1y.png",IQ | Ch4Teen
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJDixfq.png",IQ | Al Iraqia
 http://95.170.215.107/hls/m3u8/Iraqia-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgFFKUS.png",IQ | Al Iraqia Kurd
 http://95.170.215.107/hls/m3u8/Iraqia-Kurd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wriMpub.png",IQ | Baghdad TV
 http://95.170.215.107:80/hls/BaghdadTV-Backup-M.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kEfV5Gj.png",KW | KTV 1
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rHMMcP.jpg",KW | KTV 2
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uuwgEdb.jpg",KW | KTV Al Majlis
+https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MY8ZZqo.jpg",KW | KTV Al Qurain
+https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vokMJGs.jpg",KW | KTV Arabe
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mvBOFkj.jpg",KW | KTV Ethraa
+https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yxM11Ug.jpg",KW | KTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZWbRa6.jpg",KW | Al Maaref
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eqCEXk6.png",KW | Alrai TV
+https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3pGT5G.png",KW | Funoon TV
+http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NlF6zgM.png",YE | Al Mahrah
 http://82.212.74.99:8000/live/hls/8173.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqvNLWs.png",YE | 7 Stars
@@ -2124,8 +2151,16 @@ http://82.212.74.98:8000/live/hls/7726.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azGNY6n.jpg",YE | Yemen TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KuE4OAU.png",SD | Blue Nile
+http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nqAvA6W.png",LK | Sooriyan TV
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxK09kO.jpg",BD | Channel-S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plao8Ml.jpg",BD | NTV
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLqcGZM.jpg",BD | Venus TV
+https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UpSNMMI.png",IN | India Ahead
 http://p-indiaahead.planetcast.in/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png",IN | NDTV
@@ -2138,6 +2173,8 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t1O83T7.jpg",IN | Shemaroo Punjabi TV
 https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SRqXxHl.png",IN | Colors Rishtey
+http://livecdnh3.tvanywhere.ae/hls/rishtey/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qDjEJD9.jpg",IN | Chardikla Time Tv North America
 http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p0TK7e.png",KH | Fresh News TV
