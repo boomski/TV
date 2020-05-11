@@ -103,16 +103,14 @@ https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",SPORT | Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P3n96ew.jpg",SPORT | EDGE Sport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV France
-http://51.15.254.60/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV Arabia
-http://51.15.193.127/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png",SPORT | Africa Sports TV
-https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oDOpMph.png",SPORT | MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83dag4T.png",SPORT | NBA TV
+https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWNdatJ.png",SPORT | NFL Network
+https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png",SPORT | NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",SPORT | Tennis Plus 1
@@ -121,6 +119,20 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djdariX.jpg",SPORT | Super Tennis
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png",SPORT | Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P3n96ew.jpg",SPORT | EDGE Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNfUlHr.png",SPORT | Sky Sports News
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmZVTdE.png",SPORT | Sky Sports Action
+https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUMnYwX.png",SPORT | Sky Sports Arena
+https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q29swzC.png",SPORT | Sky Sports F1
+https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png",SPORT | Africa Sports TV
+https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szFw7MG.png",SPORT | Esport3
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yu69NyF.jpg",SPORT | Real Madrid TV
@@ -155,9 +167,6 @@ https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85D9kPy.png",SPORT | Rugby TV
 http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png",SPORT | NBC GOLF
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3Pt9UL.png",SPORT | Qazsport
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mixRJCe.jpg",SPORT | Setanta Кazakhstan
@@ -268,6 +277,10 @@ http://51.15.236.137/hls/stream.m3u8
 http://163.172.138.186/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zjh63nC.jpg",SPORT | TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV France
+http://51.15.254.60/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png",SPORT | Poker TV Arabia
+http://51.15.193.127/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png",SPORT | Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png",SPORT | Dubai Racing
@@ -388,6 +401,8 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FzxuNhl.png",US | KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPfpoF8.png",US | Sportsgrid Network
+https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0QGkuL4.jpg",US | Dove Channel 
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bfXUwaa.png",US | ElectricNOW
@@ -578,6 +593,8 @@ https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=skynews&item_module=resources.lib.channels.uk.sky&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png",UK | Sky News Americas
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye3X9p0.png",UK | Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmEWiHU.jpg",UK | Sky One
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Os69758.png",UK | ITV 1
@@ -608,6 +625,18 @@ https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live
 https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9Tb3B.jpg",UK | Cruise 1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fv8VYo.png",UK | 4 Music
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqVdlpz.png",UK | Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn2VfkP.png",UK | Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXfKkwj.png",UK | Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ast3XOM.png",UK | The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKUX0C5.png",UK | Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wlv9PeF.jpg",UK | Canaf 54
 https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CCrojy8.jpg",UK | MATV
@@ -623,9 +652,11 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7A1Vrb.png",NZ | Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cVxGC0h.png",NZ | Ankhila Punjab
-http://wpc.c175.taucdn.net/24C175/ankhilapunjabz/rbstreamrb.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3usuh4.png",NZ | Firstlight UK
 http://rokutna.tulix.tv/live/firstlight-uk.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z4AuQtX.png",FJ | Fiji TV
+https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuje8uN.png",CA | H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppMNSKT.png",CA | Global Calgary
@@ -1288,6 +1319,10 @@ https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogq22B7.png",SI | MMC
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yKVLoHq.jpg",HU | Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTUoC1v.png",HU | TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeEAXXS.jpg",PL | Hope Channel Poland
 http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tgLWe9o.jpg",PL | Telewizja Kujawy
@@ -1350,6 +1385,14 @@ https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png",RU | TV BRICS China
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ySedtZl.png",RU | Tamir TV
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rxwTjuT.jpg",RU | BST TV Bashkirskoe Sputnikovoe TV
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AxgNvdp.png",RU | Kurai TV
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/thfF7IJ.jpg",RU | Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrkMIoP.png",RU | Mama Telekanal
 http://188.93.95.34:80/mama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGJOdls.png",BY | Belarus 4
