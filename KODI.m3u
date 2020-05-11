@@ -2699,3 +2699,65 @@ https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
 https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5FEw0k.png",STIRR | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+
+#EXTINF:-1,BBC Two HD
+https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_two_hd/bbc_two_hd.isml/hls/bbc_two_hd.m3u8|X-Forwarded-For=185.28.89.86
+#EXTINF:-1,BBC Four HD
+https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_four_hd/bbc_four_hd.isml/hls/bbc_four_hd.m3u8|X-Forwarded-For=185.28.89.86
+#EXTINF:-1,CBBC HD
+https://vs-hls-uk-live.akamaized.net/pool_902/live/cbbc_hd/cbbc_hd.isml/hls/cbbc_hd.m3u8|X-Forwarded-For=185.28.89.86
+#EXTINF:-1,CBeebies HD
+https://vs-hls-uk-live.akamaized.net/pool_902/live/cbeebies_hd/cbeebies_hd.isml/hls/cbeebies_hd.m3u8|X-Forwarded-For=185.28.89.86
+#EXTINF:-1,BBC News Channel HD
+https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/hls/bbc_news_channel_hd.m3u8|X-Forwarded-For=185.28.89.86
+#EXTINF:-1,BBC Parliament
+https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_parliament/bbc_parliament.isml/hls/bbc_parliament.m3u8|X-Forwarded-For=185.28.89.86
+#EXTINF:-1,BBC Alba
+https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_alba/bbc_alba.isml/hls/bbc_alba.m3u8|X-Forwarded-For=185.28.89.86
+#EXTINF:-1,BBC S4CPBS
+https://vs-hls-uk-live.akamaized.net/pool_902/live/s4cpbs/s4cpbs.isml/hls/s4cpbs.m3u8|X-Forwarded-For=185.28.89.86
+#EXTINF:-1,NPO 1 Netherlands
+http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/tvlive/npo1/npo1.isml/npo1.m3u8|X-Forwarded-For=145.58.28.175
+#EXTINF:-1,NPO 2
+http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/tvlive/npo2/npo2.isml/npo2.m3u8|X-Forwarded-For=145.58.28.175
+#EXTINF:-1,NPO 3
+http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/tvlive/npo3/npo3.isml/npo3.m3u8|X-Forwarded-For=145.58.28.175
+#EXTINF:-1,NPO Zapp Xtra/NPO Best
+http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24.m3u8|X-Forwarded-For=145.58.28.175
+#EXTINF:-1,NPO Cultura
+http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/cultura24/cultura24.isml/cultura24.m3u8|X-Forwarded-For=145.58.28.175
+#EXTINF:-1,NPO 101
+http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/101tv/101tv.isml/101tv.m3u8|X-Forwarded-For=145.58.28.175
+
+#EXTINF:-1 tvg-id="Sky Sport News HD" group-title="Germany - גרמניה" tvg-logo="",Sky Sport News HD
+http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDF HD" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/2759/extra_big_logo.png",ZDF HD
+https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/360/extra_big_logo.png",ZDFneo
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="zdf kultur" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/359/extra_big_logo.png",zdf kultur
+http://zdf1112-lh.akamaihd.net/i/de11_v1@392881/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="ZDF INFOKANAL" group-title="Germany - גרמניה" tvg-logo="",ZDF INFOKANAL
+http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="ZDF KiKa" group-title="Germany - גרמניה" tvg-logo="",ZDF KiKa
+http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="Phoenix" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/424/extra_big_logo.png",Phoenix
+https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="3SAT" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/3sat.png",3SAT
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="arte" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/arte.png",arte
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="MDR" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/mdr.png",MDR
+http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8?bkup=off|X-Forwarded-For=91.197.29.78
+
+#EXTINF:-1 tvg-id="0097" group-title="Deutsch" tvg-logo="0097.png",[COLOR gold]ORF Sport+[/COLOR]
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8|X-Forwarded-For=84.114.88.26
