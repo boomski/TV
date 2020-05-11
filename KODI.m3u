@@ -2775,3 +2775,5 @@ http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.
 http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-usa/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Kwese Sports | USA[/B][/COLOR]
 http://kweseadhoc-i.akamaihd.net/hls/live/272791/index/index.m3u8|X-Forwarded-For=41.218.217.69&Origin=http://video.kwesesports.com&Host=kweseadhoc-i.akamaihd.net&Referer=http://video.kwesesports.com/live-tv/channel/lfctv&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png",NBCSN
+http://54.177.79.231/server/play/nbcsnxctg/master.m3u8|X-Forwarded-For=54.183.196.251
