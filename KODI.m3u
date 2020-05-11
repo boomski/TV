@@ -2491,15 +2491,4 @@ https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
 https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5FEw0k.png",STIRR | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MTZM0k5.png",FI | Yle TV1
-https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8|X-Forwarded-For=87.92.1.250
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SHLh731.png",FI | Yle TV2
-https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8|X-Forwarded-For=87.92.1.250	
-#EXTINF:0003 tvg-id="zdf.de" group-title="DE Hauptsender" tvg-logo="520869.png", [COLOR orangered]ZDF HD[/COLOR]
-http://hls.tv.iptv.ink/zdfde@520869.m3u8|X-Forwarded-For=81.17.18.55
-#EXTINF:-1,AU | C44 Adelaide
-https://bdz47wk-lh.akamaihd.net/i/bdz47wkxwmnlsh_1@54040/master.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1,France 3 Bretagne
-http://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8|X-Forwarded-For=213.251.128.136
-#EXTINF:-1,France 3 Bretagne
-http://ftvenregions-lh.akamaihd.net/i/F3_Bretagne@107869/master.m3u8|X-Forwarded-For=146.159.95.38
+
