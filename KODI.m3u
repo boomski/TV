@@ -1619,6 +1619,10 @@ http://85.132.81.184:8080/arbkepez/live/index.m3u8
 http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png",TJ | Xuzur TV
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6LpJQt.png",UZ | Ozbekiston
+https://stream3.itv.uz/1001-1500k/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yKYcOKj.png",UZ | UZTV Kinoteatr
+https://stream4.itv.uz/1080-1500k/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dDNdse1.png",UZ | Azon TV
 http://tv2.azon.uz/high/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gX0v7mT.png",UZ | Milliy
