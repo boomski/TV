@@ -1347,6 +1347,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 http://188.93.95.34:80/russia24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0BF84Ub.png",RU | Russia K
 http://188.93.95.34:80/russiaculture/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOry400.png",RU | Мoscow 24
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Du5rsc8.png",RU | RT News
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJGki3v.png",RU | RT Documentary
@@ -2344,6 +2346,8 @@ http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQzG2lg.png",RADIO | Radio Pilatus TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yMLnaHk.png",RADIO | Radio Vesti FM
+https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A2FfrGX.png",RADIO | Radio HIT Orsk
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png",RADIO | Ritsa TV
