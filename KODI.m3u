@@ -423,6 +423,10 @@ https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPfpoF8.png",US | Sportsgrid Network
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2sQ81W1.jpg",US | CON TV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ytc2qZW.jpg",US | Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0QGkuL4.jpg",US | Dove Channel 
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bfXUwaa.png",US | ElectricNOW
