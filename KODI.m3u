@@ -1509,6 +1509,14 @@ http://188.93.95.34:80/tv3/index.m3u8
 http://russia.livetv.az/russia/5kanal/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A7umQkq.jpg",RU | Mir
 http://russia.livetv.az/russia/mir/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aMOLqMW.png",RU | Мir 24
+https://sc.id-tv.kz/Mir24_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJ8xpD4.png",RU | Ren ТV International
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F6j6xWc.jpg",RU | SТS International
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RhbrLM.jpg",RU | SТS
+https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png",RU | National Geo Wild [ RUSSIA ]
 http://russia.livetv.az/russia/nat_geo_wild_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFAUpTN.png",RU | Outdoor Channel
@@ -1539,6 +1547,8 @@ http://russia.livetv.az/russia/kuhnyatv/chunks.m3u8
 http://188.93.95.34:80/amediapremium/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVjRJ5U.png",RU | Amedia Hit
 http://188.93.95.34:80/amediahit/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXJNiPz.png",RU | A2
+https://sc.id-tv.kz/A2_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wd0UKTn.png",RU | Кino Svidanie
 http://188.93.95.34:80/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nTq0eca.png",RU | Indiyskoe Kino
