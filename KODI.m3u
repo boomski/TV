@@ -135,6 +135,8 @@ https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
 rtmp://xiaoyu.speedws.com/sat/tv731
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sOnZtrz.png",SPORT | Fox Sports 2 Asia
 rtmp://xiaoyu.speedws.com/sat/tv741
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VWtnEYq.png",SPORT | ELTA 1 SPORTS
+rtmp://xiaoyu.speedws.com/sat/md041
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png",SPORT | Africa Sports TV
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szFw7MG.png",SPORT | Esport3
@@ -347,6 +349,8 @@ https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&
 https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCbgD85.png",AU | ABC
 https://i.mjh.nz/au/Adelaide/tv.101002510251.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29Referer=%20
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIempPX.png",AU | SBS FOOD
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mdNV8tQ.jpg",AU | Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg",AU | Fox Sports News
@@ -792,8 +796,6 @@ https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8TuhyF.png",FR | Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5elXFA.png",FR | C8
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=c8&item_module=resources.lib.channels.fr.mycanal&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A5elXFA.png",FR | C8
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/C8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k6bnmCc.jpg",FR | Gong
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
@@ -889,6 +891,8 @@ https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/
 https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XbXSpy1.png",DE | Welt der Wunder
 http://wowza-1.vidoo.de:1935/live/weltderwunder/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png",DE | ARTE
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADCiOHX.png",DE | ServusTV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tph4j1N.png",DE | RheinMain TV
@@ -1881,6 +1885,8 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gob5LhJ.png",JP | Japanet Channel DX
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hObPElR.jpg",TW | Momo TV
+rtmp://xiaoyu.speedws.com/sat/tv761
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH1 
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfaAaTy.jpg",TW | GOOD TV CH2 
@@ -2700,80 +2706,34 @@ https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5FEw0k.png",STIRR | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 
-#EXTINF:-1,BBC Two HD
-https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_two_hd/bbc_two_hd.isml/hls/bbc_two_hd.m3u8|X-Forwarded-For=185.28.89.86
-#EXTINF:-1,BBC Four HD
-https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_four_hd/bbc_four_hd.isml/hls/bbc_four_hd.m3u8|X-Forwarded-For=185.28.89.86
-#EXTINF:-1,CBBC HD
-https://vs-hls-uk-live.akamaized.net/pool_902/live/cbbc_hd/cbbc_hd.isml/hls/cbbc_hd.m3u8|X-Forwarded-For=185.28.89.86
-#EXTINF:-1,CBeebies HD
-https://vs-hls-uk-live.akamaized.net/pool_902/live/cbeebies_hd/cbeebies_hd.isml/hls/cbeebies_hd.m3u8|X-Forwarded-For=185.28.89.86
-#EXTINF:-1,BBC News Channel HD
-https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/hls/bbc_news_channel_hd.m3u8|X-Forwarded-For=185.28.89.86
-#EXTINF:-1,BBC Parliament
-https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_parliament/bbc_parliament.isml/hls/bbc_parliament.m3u8|X-Forwarded-For=185.28.89.86
-#EXTINF:-1,BBC Alba
-https://vs-hls-uk-live.akamaized.net/pool_902/live/bbc_alba/bbc_alba.isml/hls/bbc_alba.m3u8|X-Forwarded-For=185.28.89.86
-#EXTINF:-1,BBC S4CPBS
-https://vs-hls-uk-live.akamaized.net/pool_902/live/s4cpbs/s4cpbs.isml/hls/s4cpbs.m3u8|X-Forwarded-For=185.28.89.86
-#EXTINF:-1,NPO 1 Netherlands
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/tvlive/npo1/npo1.isml/npo1.m3u8|X-Forwarded-For=145.58.28.175
-#EXTINF:-1,NPO 2
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/tvlive/npo2/npo2.isml/npo2.m3u8|X-Forwarded-For=145.58.28.175
-#EXTINF:-1,NPO 3
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/tvlive/npo3/npo3.isml/npo3.m3u8|X-Forwarded-For=145.58.28.175
-#EXTINF:-1,NPO Zapp Xtra/NPO Best
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/zappelin24/zappelin24.isml/zappelin24.m3u8|X-Forwarded-For=145.58.28.175
-#EXTINF:-1,NPO Cultura
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/cultura24/cultura24.isml/cultura24.m3u8|X-Forwarded-For=145.58.28.175
-#EXTINF:-1,NPO 101
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/101tv/101tv.isml/101tv.m3u8|X-Forwarded-For=145.58.28.175
-
-#EXTINF:-1 tvg-id="Sky Sport News HD" group-title="Germany - גרמניה" tvg-logo="",Sky Sport News HD
-http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8
-
-#EXTINF:-1 tvg-id="ZDF HD" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/2759/extra_big_logo.png",ZDF HD
-https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8|X-Forwarded-For=91.197.29.78
-
-#EXTINF:-1 tvg-id="ZDFneo" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/360/extra_big_logo.png",ZDFneo
-http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
-
-#EXTINF:-1 tvg-id="zdf kultur" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/359/extra_big_logo.png",zdf kultur
-http://zdf1112-lh.akamaihd.net/i/de11_v1@392881/master.m3u8|X-Forwarded-For=91.197.29.78
-
-#EXTINF:-1 tvg-id="ZDF INFOKANAL" group-title="Germany - גרמניה" tvg-logo="",ZDF INFOKANAL
-http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
-
-#EXTINF:-1 tvg-id="ZDF KiKa" group-title="Germany - גרמניה" tvg-logo="",ZDF KiKa
-http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8|X-Forwarded-For=91.197.29.78
-
-#EXTINF:-1 tvg-id="Phoenix" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/424/extra_big_logo.png",Phoenix
-https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8|X-Forwarded-For=91.197.29.78
-
-#EXTINF:-1 tvg-id="3SAT" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/3sat.png",3SAT
-http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8|X-Forwarded-For=91.197.29.78
-
-#EXTINF:-1 tvg-id="arte" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/arte.png",arte
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]SVT 1[/B][/COLOR]
-https://svt10-lh.akamaihd.net/i/svt10_0@77505/master.m3u8|X-Forwarded-For=194.15.212.134
-#EXTINF:-1 tvg-id="MDR" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/mdr.png",MDR
-http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8?bkup=off|X-Forwarded-For=91.197.29.78
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oh4NTLa.png", [B]TV +[/B]
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8|User-agent=iPhone
-#EXTINF:-1 tvg-id="Neox.es" group-title="Spain" tvg-logo="tv.png",[COLOR orangered]Neox[/COLOR] 
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="Nova.es" group-title="Spain" tvg-logo="tv.png",[COLOR orangered]Nova[/COLOR] 
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="Mega.es" group-title="Spain" tvg-logo="tv.png",[COLOR orangered]Mega[/COLOR] 
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0097" group-title="Deutsch" tvg-logo="0097.png",[COLOR gold]ORF Sport+[/COLOR]
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8|X-Forwarded-For=84.114.88.26
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="", [COLOR gold][B]SBS FOOD[/B][/COLOR]
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
-http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-usa/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Kwese Sports | USA[/B][/COLOR]
-http://kweseadhoc-i.akamaihd.net/hls/live/272791/index/index.m3u8|X-Forwarded-For=41.218.217.69&Origin=http://video.kwesesports.com&Host=kweseadhoc-i.akamaihd.net&Referer=http://video.kwesesports.com/live-tv/channel/lfctv&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png",NBCSN
-http://54.177.79.231/server/play/nbcsnxctg/master.m3u8|X-Forwarded-For=54.183.196.251
+#EXTINF:-1 tvg-logo="",SKY RACING 1
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8|X-Forwarded-For=101.100.88.88
+#EXTINF:-1 tvg-logo="",SKY RACING 2
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8|X-Forwarded-For=101.100.88.88
+#EXTINF:-1 tvg-logo="",SBS
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="",9
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="",9 GEM
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="",9 GO
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="",9 LIFE
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="",NITV
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KzqSLtq.png",7 (official)
+https://live-sevennetwork.akamaized.net/hls/live/573745/SYD1/master.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KzqSLtq.png",7 (yospace)
+http://csm-e.cds1.yospace.com/csm/extlive/sevenprd01,SEVENSYD1.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KzqSLtq.png",7 (huisman)
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:-1 tvg-logo="0132.png",[COLOR orange]ORF Sport+[/COLOR]
+http://hls.tv.iptv.ink/orfsportplusat@722628.m3u8|X-Forwarded-For=93.82.18.55 
+#EXTINF:-1 tvg-logo="",9 NOW
+https://9nowgolivehls-i.akamaihd.net/hls/live/250977/melbourne/master.m3u8|X-Forwarded-For=101.175.18.124
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
