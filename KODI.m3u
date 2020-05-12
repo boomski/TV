@@ -275,6 +275,8 @@ https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/387jXC7.jpg",SPORT | KOK Fights
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUBX4sv.jpg",SPORT | M1
+http://russia.livetv.az/russia/m1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SxxV8uA.png",SPORT | Box Nation
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8Z3OIf.png",SPORT | New Japan Pro Wrestling World
@@ -1503,8 +1505,34 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvhT8JO.png",RU | TV3
 http://188.93.95.34:80/tv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qswopzO.png",RU | 5 Kanal
+http://russia.livetv.az/russia/5kanal/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7umQkq.jpg",RU | Mir
+http://russia.livetv.az/russia/mir/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png",RU | National Geo Wild [ RUSSIA ]
 http://russia.livetv.az/russia/nat_geo_wild_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFAUpTN.png",RU | Outdoor Channel
+http://russia.livetv.az/russia/outdoor_channel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16X14yK.png",RU | Vremya
+http://russia.livetv.az/russia/vremya/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i2cL9dE.png",RU | OTR
+http://russia.livetv.az/russia/otr/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o4Julue.jpg",RU | Izvestiya
+http://russia.livetv.az/russia/izvestiya/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElOS1Kw.png",RU | Kinosat
+http://russia.livetv.az/russia/kinosat/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/boJLBuV.png",RU | KVN
+http://russia.livetv.az/russia/kvn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O92NfMQ.png",RU | Spike [ RUSSIA ]
+http://russia.livetv.az/russia/spike/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLt9EMU.png",RU | Shot TV 
+http://russia.livetv.az/russia/shottv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/94gvcA4.jpg",RU | Muzyka Pervogo
+http://russia.livetv.az/russia/muzyka_pervogo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2yv24j.png",RU | CGTN
+http://russia.livetv.az/russia/cgtn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7UGYYa.png",RU | Russkaya Komediya
+http://russia.livetv.az/russia/russkaya_komediya/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jeq188d.png",RU | Kuhnya TV
 http://russia.livetv.az/russia/kuhnyatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDfWEeC.jpg",RU | Amedia Premium
@@ -1537,6 +1565,8 @@ https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png",RU | TV BRICS China
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zCA2hg4.png",RU | Smilik TV
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ySedtZl.png",RU | Tamir TV
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rxwTjuT.jpg",RU | BST TV Bashkirskoe Sputnikovoe TV
