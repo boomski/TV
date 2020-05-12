@@ -1,6 +1,14 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zCA2hg4.png",RU | Smilik TV
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8 
+
+
+
+
+
+#EXTINF:-1,amedia_hit
+http://russia.livetv.az/russia/amedia_hit/chunks.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q5XxFQi.png",RU | Russia К
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q5XxFQi.png",RU | Russia К
