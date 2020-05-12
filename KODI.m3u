@@ -1729,7 +1729,7 @@ http://streams2.livetv.az/azerbaijan/atv_sd_stream2/playlist.m3u8
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg",AZ | ATV [-4h]
 http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VAiAnb.jpg",AZ | CBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iv3CZjg.jpg",AZ | CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wg7A7Q8.jpg",AZ | AZ TV
 http://streams2.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8
@@ -1739,21 +1739,30 @@ https://streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
 https://streams.livetv.az/azerbaijan/idman2_stream_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3oYM2ol.jpg",AZ | Xəzər
 https://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2KxJDD.jpg",AZ | Qafqaz TV
+https://streams.livetv.az/azerbaijan/qafqaztv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TUh1d4q.jpg",AZ | Lider
+https://streams.livetv.az/azerbaijan/lider_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7k1yFZv.jpg",AZ | ARB
+https://streams.livetv.az/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wiIJMek.jpg",AZ | ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6i8byT.png",AZ | ARB Kəpəz TV
+https://streams.livetv.az/arbkepez/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENeqbGa.png",AZ | Space
+https://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q14FIxN.jpg",AZ | Dalğa
+http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvOz1Ww.png",AZ | Dünya TV
+https://streams.livetv.az/azerbaijan/dunya/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9x9Sqq.jpg",AZ | Muz TV
+http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh7ieQm.png",AZ | Mədəniyyət
+https://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LjirvEO.png",AZ | Turan TV
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GbJb8HL.png",AZ | Play One
 http://51.158.103.244/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0MFkKAr.jpg",AZ | ARB
-http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wiIJMek.jpg",AZ | ARB 24
-http://85.132.81.184:8080/arb24/live1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/glJmSlO.png",AZ | Dalga
-http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b6i8byT.png",AZ | Kəpəz TV
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SI78uPi.png",AZ | Muz TV
-http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVpfyaE.png",KG | КТRК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1yOV6jw.png",KG | КТRК Мusic
