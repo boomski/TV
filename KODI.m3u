@@ -101,6 +101,8 @@ https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hOiqyw.png",SPORT | Eurosport 1 Portugal
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hOiqyw.png",SPORT | Eurosport 1 Russia
+http://russia.livetv.az/russia/eurosport1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png",SPORT | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oDOpMph.png",SPORT | MLB Network
@@ -1501,6 +1503,10 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvhT8JO.png",RU | TV3
 http://188.93.95.34:80/tv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png",RU | National Geo Wild [ RUSSIA ]
+http://russia.livetv.az/russia/nat_geo_wild_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jeq188d.png",RU | Kuhnya TV
+http://russia.livetv.az/russia/kuhnyatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDfWEeC.jpg",RU | Amedia Premium
 http://188.93.95.34:80/amediapremium/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVjRJ5U.png",RU | Amedia Hit
