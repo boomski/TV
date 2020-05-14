@@ -1923,6 +1923,8 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lBbbPI4.jpg",IL | Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzjftEl.png",IL | Hala TV 
+https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKi97Pg.png",IL | Hidabroot
 http://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JH43wB.jpg",IL | Yeshua Chai TV
