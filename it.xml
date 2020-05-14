@@ -13,6 +13,42 @@
 <fanart>https://i.imgur.com/WbUYeMO.jpg</fanart>   
 </item> 
 
+<item>
+<title>SPORT | PMG Sport</title>         
+<link>https://pulsemediav4-apple-live.secure.footprint.net/egress/bhandler/pulsemediav4/channel01rtmp/index.m3u8</link>      
+<thumbnail>https://i.imgur.com/5tFmAzz.png</thumbnail>
+<fanart>https://i.imgur.com/O3haScH.jpg</fanart> 
+</item> 
+
+ 
+  
+<item>
+<title>IT | Telecostasmeralda</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC4hrVUC9k0yUjQhKZmyGzdw</page>
+</regex>
+<thumbnail>https://i.imgur.com/CxAvBd6.png</thumbnail>  
+<fanart>https://i.imgur.com/WbUYeMO.jpg</fanart>   
+</item> 
+  
+<item>
+<title>IT | Radio Saiuz TV</title>
+<thumbnail>https://i.imgur.com/6k8reZ4.png</thumbnail>
+<link>ignore</link>
+<fanart>https://i.imgur.com/O3haScH.jpg</fanart>  
+<externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/RadioSaiuz</externallink>
+</item>  
+  
+<item>
+<title>IT | Tele Color</title>
+<thumbnail>https://i.imgur.com/aNsBqYv.jpg</thumbnail>
+<link>ignore</link>
+<fanart>https://i.imgur.com/O3haScH.jpg</fanart>  
+<externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/telecolorlive</externallink>
+</item>   
 </items>   
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wXRDdYm.jpg",IT SPORT | Rai Sport 1
 http://185.18.56.72:5555/udp/239.100.10.179:5000
