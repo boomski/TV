@@ -1,4 +1,92 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>
+<title>KE SPORT| Kenyan Premier League</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCSk_nh-LpsSbUtzoMrm4VlQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/uPnlcpj.png</thumbnail>  
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart>   
+</item> 
+  
+<item>
+<title>KE | KTN News</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCKVsdeoHExltrWMuK0hOWmg</page>
+</regex>
+<thumbnail>https://i.imgur.com/TCmrgFO.jpg</thumbnail>  
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart>   
+</item>  
+  
+<item>
+<title>KE | TV47</title>
+<dmlive>x70vhnr</dmlive>
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart> 
+<thumbnail>https://i.imgur.com/yqvta63.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>KE | Kameme TV</title>
+<dmlive>x6ol8sj</dmlive>
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart> 
+<thumbnail>https://i.imgur.com/qES61RK.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>KE | K24 TV</title>
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart>
+<dmlive>x6lvncs</dmlive>
+<thumbnail>https://i.imgur.com/oTlJNmp.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>KE | EbruTV</title>
+<dmlive>x67n3k1</dmlive>
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart> 
+<thumbnail>https://i.imgur.com/fCZnSy4.png</thumbnail>
+</item> 
+ 
+<item>
+<title>KE | KBC Channel 1</title>
+<dmlive>x74211t</dmlive>
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart> 
+<thumbnail>https://i.imgur.com/AeHcycu.png</thumbnail>
+</item> 
+  
+<item> 
+<title>KE | PPP TV</title>
+<thumbnail>https://i.imgur.com/maQAqZj.jpg</thumbnail>  
+<fanart>https://i.imgur.com/qES61RK.jpg</fanart>  
+<link>$doregex[get-Clean-M3U8]$doregex[get-Clean-token]</link><regex>
+<name>get-Clean-token</name>
+<expres>$pyFunction:'$doregex[get-token]'.replace('\/','/')</expres>
+<page>https://iframe.dacast.com/b/131260/c/501550</page>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://services.dacast.com/token/i/b/131260/c/501550</page>
+<referer>http://iframe.dacast.com/</referer>
+</regex><regex>
+<name>get-Clean-M3U8</name>
+<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+<page>https://iframe.dacast.com/b/131260/c/501550</page>
+</regex><regex>
+<name>get-M3U8</name>
+<expres>"hls":"(.*?)"</expres>
+<page>http://json.dacast.com/b/131260/c/501550</page>
+<referer>http://iframe.dacast.com/</referer>
+</regex>
+</item>   
+  
+</items>
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9nTX0F.png",KE | Aviation TV
 http://streamer01.nbo1.angani.co:1935/live/_definst_/1935/live/ext/chunklist_w1467862095.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uT71Hbu.png",KE | Citizen TV
