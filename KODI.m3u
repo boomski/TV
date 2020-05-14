@@ -811,22 +811,32 @@ https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pw9fRdW.png",FR | TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9YIcXX2.png",FR | LCP
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LPlQ1oY.jpg",FR | Wéo
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/weo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJMjE8y.png",FR | M6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuxrH1e.png",FR | AB1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5P5UJd.png",FR | Canal +
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/CANALPLUS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A5elXFA.png",FR | C8
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/C8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9YIcXX2.png",FR | LCP
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPlQ1oY.jpg",FR | Wéo
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/weo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1a3uLT.png",FR | Wéo Picardie
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/weopicard.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HKj1V6l.jpg",FR | AZUR TV
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZUR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OQeNlUD.png",FR | VAR AZUR TV
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZURvar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1A47vL.png",FR | Provence AZUR TV
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZURprovence.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQvs8y.png",FR | Alpe d’Huez TV
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8TuhyF.png",FR | Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A5elXFA.png",FR | C8
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/C8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k6bnmCc.jpg",FR | Gong
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EkeQcb.png",FR | Gong Max
