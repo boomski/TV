@@ -1,4 +1,15 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>
+<title>EG | Sha3beyat</title>
+<dmlive>x6x6qp2</dmlive>
+<fanart>https://i.imgur.com/UgfMePs.jpg</fanart>   
+<thumbnail>https://i.imgur.com/rNxm99f.jpg</thumbnail>
+</item>   
+  
+</items>
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9aSEX.png",EG | Huda TV
 http://41.33.67.146:1935/live/1mystream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h36wuCx.jpg",EG | Aghapy TV
