@@ -787,6 +787,8 @@ https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFLq6lE.png",FR | TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s9BIeQ8.png",FR | TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg1VRRE.png",FR | France 2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxwUHhv.png",FR | France 3
@@ -821,6 +823,30 @@ https://raw.githubusercontent.com/boomski/TV/master/worldiptv/CANALPLUS.m3u8
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/C8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9YIcXX2.png",FR | LCP
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k6bnmCc.jpg",FR | Gong
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2EkeQcb.png",FR | Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FR | Gulli
+https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QjjVd1M.jpg",FR | MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtHaTAy.png",FR | TéléToon+
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Iw1YRL.png",FR | TZiK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MN73rOu.png",FR | Boing 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mihujKt.jpg",FR | BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRP03WJ.jpg",FR | TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png",FR | TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6ZDQAw.jpg",FR | TV5Monde Maghreb-Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiUPdvp.png",FR | TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPlQ1oY.jpg",FR | Wéo
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/weo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1a3uLT.png",FR | Wéo Picardie
@@ -831,30 +857,32 @@ https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZUR.m3u8
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZURvar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1A47vL.png",FR | Provence AZUR TV
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZURprovence.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEwrmqa.jpg",FR | Télévision Locale du Choletais
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/TLCfrance.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEA3az8.png",FR | Grand Lille TV
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQvs8y.png",FR | Alpe d’Huez TV
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S8TuhyF.png",FR | Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k6bnmCc.jpg",FR | Gong
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2EkeQcb.png",FR | Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MN73rOu.png",FR | Boing 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png",FR | Gulli
-https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QjjVd1M.jpg",FR | MDL
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtHaTAy.png",FR | TéléToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Iw1YRL.png",FR | TZiK
-https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mihujKt.jpg",FR | BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YFEqBS7.png",FR | BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDLwsbY.png",FR | La Chaine Normande TV
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05RMwlR.png",FR | TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuFISFk.png",FR | TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RT3pz5L.png",FR | TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMp9M5A.jpg",FR | TVR
+https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
+https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGhCEmJ.jpg",FR | ILTV
+http://str81.creacast.com:80/iltv/high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cThInij.png",FR | D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9yLdYZ.png",FR | Dici TV
@@ -863,16 +891,10 @@ http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lvrvwtm.png",FR | Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZEA3az8.png",FR | Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzurFum.png",FR | Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gGhCEmJ.jpg",FR | ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvbXFUy.jpg",FR | KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xDLwsbY.png",FR | La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgSC2QT.jpg",FR | MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X9U6AqK.png",FR | Persiana 1
@@ -889,26 +911,6 @@ http://163.172.174.60/hls/stream.m3u8
 http://163.172.147.113/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABKVZ3B.png",FR | Salamat Tube TV
 http://51.158.116.146/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s9BIeQ8.png",FR | TMC
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/05RMwlR.png",FR | TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FRP03WJ.jpg",FR | TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png",FR | TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6ZDQAw.jpg",FR | TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiUPdvp.png",FR | TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuFISFk.png",FR | TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RT3pz5L.png",FR | TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GMp9M5A.jpg",FR | TVR
-https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nIZHww.png",FR | viàMATÉLÉ
-https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg",FR | Fashion TV L'Original
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png",FR | Fashion TV Midnite Secrets
