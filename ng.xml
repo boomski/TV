@@ -12,5 +12,17 @@
 <thumbnail>https://i.imgur.com/px6AM7h.jpg</thumbnail>  
 <fanart>https://i.imgur.com/Gg4oYQu.jpg</fanart>  
 </item> 
+
+<item>
+<title>NG | Channels Television</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCEXGDNclvmg6RW0vipJYsTQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/75rX2NM.png</thumbnail>  
+<fanart>https://i.imgur.com/y13Lrqn.jpg</fanart>  
+</item>   
   
 </items>
