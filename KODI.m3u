@@ -1480,9 +1480,7 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJAoLIq.png",PL | EZO TV
 http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zBNUXF9.png",UA | Film TV
-http://195.9.195.3:8080/manifest/165462_master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBNUXF9.png",UA | STR TV
-http://195.9.195.3:8080/hls/130048_prem.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z0ivs4.png",RU | Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png",RU | Russia 24
@@ -1776,7 +1774,7 @@ https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VUHpDJH.png",GE | Mall TV
 http://tv.cdn.xsg.ge/malltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg",AZ | ATV
-http://streams2.livetv.az/azerbaijan/atv_sd_stream2/playlist.m3u8
+https://streams.livetv.az/azerbaijan/atv_sd_stream4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg",AZ | ATV [-2h]
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg",AZ | ATV [-4h]
@@ -1784,7 +1782,7 @@ http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iv3CZjg.jpg",AZ | CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wg7A7Q8.jpg",AZ | AZ TV
-http://streams2.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8
+https://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4HwCjp.jpg",AZ | Ictimai TV
 https://streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K459mVl.png",AZ | Idman TV
@@ -1917,6 +1915,20 @@ http://now.tf.rs/2016/11/3/RETROSPEKTIVA_0211/RETROSPEKTIVA_0211.m3u8
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Msxeu2S.png",RS | TV Hram
 http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg",IL | Channel 2 News
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRvjdEz.png",IL | Knesset 10
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HdbYl34.jpg",IL | Reshet 13  
+https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lBbbPI4.jpg",IL | Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKi97Pg.png",IL | Hidabroot
+http://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7JH43wB.jpg",IL | Yeshua Chai TV
+https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M2yrRca.png",IL | Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg",IL | BLOCKTV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg",AO | TPA 1
@@ -2665,6 +2677,8 @@ http://stream.radiovan.fm/stream/index.m3u8
 http://41.223.30.250:8080/vibe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IxJdliP.png",RADIO | Billy C Boxing
 https://nrpus.bozztv.com/36bay2/gusa-billycboxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZERa6V.png",RADIO | Sport 5 Israel 
+https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQy60ZC.jpg",RADIO | LOGOS Channel
 http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w750668821.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pIe8Xp.jpg",RADIO | Play TV
