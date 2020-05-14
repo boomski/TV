@@ -1,4 +1,17 @@
-#EXTM3U 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+<item>
+<title>IL | Keshet 12</title>
+<inputstream>http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?$doregex[token]|User-Agent=ipad</inputstream>
+<regex>
+<name>token</name>
+<expres>ticket":"([^"]+)</expres>
+<page>http://mass.mako.co.il/ClicksStatistics/entitlementsServicesV2.jsp?et=gt&amp;lp=http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?&amp;rv=AKAMAI</page>
+<thumbnail>https://i.imgur.com/C10B4fE.png</thumbnail>
+<fanart>https://i.imgur.com/dTfwOl6.png</fanart> 
+</regex>
+</item>  
+</items>
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg",IL | Channel 2 News
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg",IL | Channel 2 News
