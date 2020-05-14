@@ -1,4 +1,19 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>
+<title>LK | TV Derana</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCRDDfbYPHX_GUJ4lcQYTc8A</page>
+</regex>
+<thumbnail>https://i.imgur.com/oCYVMku.png</thumbnail>  
+<fanart>https://i.imgur.com/o98tpwv.jpg</fanart>  
+</item>
+  
+</items>
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E653EU6.jpg",LK | Aarya TV
 http://150.242.21.2/aaryaa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dnyVIAc.png",LK | Boss TV
