@@ -1,4 +1,16 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>
+<title>EC | Exa FM</title>
+<dmlive>x6u7pb7</dmlive>
+<fanart>https://i.imgur.com/6CGinfy.jpg</fanart>  
+<thumbnail>https://i.imgur.com/i3YgAGF.png</thumbnail>
+</item>  
+  
+</items>
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8D1LrKO.png",EC | Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LckvbDi.png",EC | Ecotel TV
