@@ -1,4 +1,43 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>
+<title>KR | KSPO</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCmECojbGEIBckSAnWl5h2LQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/UwrmoR0.png</thumbnail> 
+<fanart>https://i.imgur.com/lSTL8vj.jpg</fanart> 
+</item>
+  
+<item>
+<title>KR SPORT| JTBC GOLF</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UChJ1aZwVkgWAUZqYGYDOWgg</page>
+</regex>
+<thumbnail>https://i.imgur.com/hZLHByU.png</thumbnail> 
+<fanart>https://i.imgur.com/lSTL8vj.jpg</fanart> 
+</item>  
+  
+<item>
+<title>KR SPORT| JTBC3 FOX Sports</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCTdZyOFVzontd9MZOJDg8Qw</page>
+</regex>
+<thumbnail>https://i.imgur.com/VUqlusx.png</thumbnail> 
+<fanart>https://i.imgur.com/lSTL8vj.jpg</fanart> 
+</item>   
+  
+</items>
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftg9DbR.png",KR XXX | Midnight TV
 http://112.148.183.161:9981/stream/channelid/96001658
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vf53u4.png",KR XXX | Korean Adult TV
