@@ -1,4 +1,26 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>
+<title>PK | SuchTV</title>
+<dmlive>x25cwls</dmlive>  
+<fanart>https://i.imgur.com/e6nyA6w.jpg</fanart>  
+<thumbnail>https://i.imgur.com/xnIlWJM.png</thumbnail>
+</item>  
+
+<item>
+<title>PK | Samaa TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q</page>
+</regex>
+<thumbnail>https://i.imgur.com/mUo5Vrq.png</thumbnail>  
+<fanart>https://i.imgur.com/4ktz6Ip.jpg</fanart>  
+</item> 
+  
+</items>  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wY41F5k.png",PK | Express TV
 https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OifwcrE.png",PK | 92 News
