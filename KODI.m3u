@@ -1887,6 +1887,10 @@ https://edge06eu.ekranet.com/rtshshqip1/index.m3u8
 https://edge01eu.ekranet.com/tvkorca/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAqeWM0.png",AL | RTSH Kuvend
 https://edge06eu.ekranet.com/rtshkuvendweb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GAx0LDU.png",AL | Ora 
+https://tv.oranews.tv/live/ora/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GAx0LDU.png",AL | Ora News
+https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9WqPLZ.png",AL | TV7
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UValLp1.png",AL | Zjarr TV
@@ -1951,6 +1955,8 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3MHcyD0.png",CI | RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ox4PeIp.jpg",CI | Christ Live
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/Cliv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg",RW | KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png",RW | RTV
