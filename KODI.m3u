@@ -40,8 +40,6 @@ https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=lequipe&item_module=resources.lib.channels.fr.lequipe&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/LEQUIPE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png",SPORT | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
@@ -815,6 +813,8 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9YIcXX2.png",FR | LCP
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPlQ1oY.jpg",FR | Wéo
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/weo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJMjE8y.png",FR | M6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuxrH1e.png",FR | AB1
