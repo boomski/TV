@@ -28,7 +28,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png",SPORT | TIZ Cycling
 https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg",SPORT | Swiss Sport TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 2
