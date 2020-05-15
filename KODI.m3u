@@ -3,15 +3,15 @@
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvWaMqS.jpg" tvg-chno="2",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3BtaQw.png" tvg-chno="",BE | Ketnet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3BtaQw.png" tvg-chno="10",BE | Ketnet
 plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg" tvg-chno="",BE | Ketnet Junior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg" tvg-chno="11",BE | Ketnet Junior
 plugin://plugin.video.vrt.nu/play/id/ketnet_jr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" tvg-chno="4",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/esIVk4V.png" tvg-chno="3",BE | VTM
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" tvg-chno="",BE | VTM Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" tvg-chno="9",BE | VTM Kids
 plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png" tvg-chno="5",BE | Q2
 plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
@@ -39,9 +39,9 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",SPORT | L'Équipe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/21.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="",SPORT | Sport en France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="",FR | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg" tvg-chno="",BE | ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
@@ -91,7 +91,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=r
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" tvg-chno="",BE | Vedia
 https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" tvg-chno="",BE-NL | BVN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" tvg-chno="",BE | BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" tvg-chno="",LU | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
