@@ -3,32 +3,90 @@
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvWaMqS.jpg" tvg-chno="2",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3BtaQw.png" tvg-chno="10",BE | Ketnet
-plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg" tvg-chno="11",BE | Ketnet Junior
-plugin://plugin.video.vrt.nu/play/id/ketnet_jr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" tvg-chno="4",BE | Sporza
-plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/esIVk4V.png" tvg-chno="3",BE | VTM
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" tvg-chno="9",BE | VTM Kids
-plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" tvg-chno="4",BE | Sporza
+plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png" tvg-chno="5",BE | Q2
 plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png" tvg-chno="8",BE | Vitaya
-plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXEq8tx.png" tvg-chno="6",BE | CAZ
 plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd542d7ceb?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60PHcN1.png" tvg-chno="7",BE | CAZ 2
 plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85dda47458?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-chno="20",AT | Red Bull TV
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/20.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" tvg-chno="",UK | Free Sports
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png" tvg-chno="",SPORT | TIZ Cycling
-https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" tvg-chno="",CH | Swiss Sport TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png" tvg-chno="8",BE | Vitaya
+plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" tvg-chno="9",BE | VTM Kids
+plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3BtaQw.png" tvg-chno="10",BE | Ketnet
+plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg" tvg-chno="11",BE | Ketnet Junior
+plugin://plugin.video.vrt.nu/play/id/ketnet_jr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-chno="12",AT | Red Bull TV
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/12.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VvykYlU.png" tvg-chno="13",BE | La Une
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=laune&item_module=resources.lib.channels.be.rtbf&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3htoMD.png" tvg-chno="14",BE | La Deux
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ladeux&item_module=resources.lib.channels.be.rtbf&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/StttnYz.png" tvg-chno="15",BE | La Trois
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=latrois&item_module=resources.lib.channels.be.rtbf&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png" tvg-chno="16",BE | LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png" tvg-chno="17",BE | AB3
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ab3&item_module=resources.lib.channels.be.abbe&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png" tvg-chno="18",BE | ABXPLORE
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=abxplore&item_module=resources.lib.channels.be.abbe&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" tvg-chno="19",LU | RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png" tvg-chno="20",LU | 2.RTL
+https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/21.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="22",FR | Sport en France
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" tvg-chno="23",CH | Swiss Sport TV
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" tvg-chno="24",UK | Free Sports
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png" tvg-chno="25",SPORT | TIZ Cycling
+https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg" tvg-chno="200",BE | ATV
+http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" tvg-chno="201",BE | ROB TV
+http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg" tvg-chno="202",BE | TVL
+http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png" tvg-chno="203",BE | TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" tvg-chno="204",BE | WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" tvg-chno="205",BE | Focus
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" tvg-chno="206",BE | Bruzz
+http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" tvg-chno="207",BE | BVN
+https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-chno="208",BE | BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-chno="209",BE | Canal C
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-chno="210",BE | TV Lux
+https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png" tvg-chno="211",BE | TVCom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-chno="212",BE | Antenne Centre
+http://tvl-live.fl.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-chno="213",BE | Telesambre
+https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-chno="214",BE | Télé MB
+http://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-chno="215",BE | Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png" tvg-chno="216",BE | RTC Télé Liège
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-chno="217",BE | Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" tvg-chno="218",BE | Vedia
+https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="",SPORT | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="",SPORT | Olympic Channel 2
@@ -39,64 +97,7 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/21.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="",FR | Sport en France
-https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg" tvg-chno="",BE | ATV
-http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" tvg-chno="",BE | ROB TV
-http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg" tvg-chno="",BE | TVL
-http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png" tvg-chno="",BE | TV Oost
-http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" tvg-chno="",BE | WTV
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" tvg-chno="",BE | Focus
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" tvg-chno="",BE | Bruzz
-http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VvykYlU.png" tvg-chno="",BE | La Une
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=laune&item_module=resources.lib.channels.be.rtbf&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3htoMD.png" tvg-chno="",BE | La Deux
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ladeux&item_module=resources.lib.channels.be.rtbf&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/StttnYz.png" tvg-chno="",BE | La Trois
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=latrois&item_module=resources.lib.channels.be.rtbf&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png" tvg-chno="",BE | LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png" tvg-chno="",BE | AB3
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ab3&item_module=resources.lib.channels.be.abbe&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png" tvg-chno="",BE | ABXPLORE
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=abxplore&item_module=resources.lib.channels.be.abbe&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-chno="",BE | BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-chno="",BE | Canal C
-http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-chno="",BE | TV Lux
-https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png" tvg-chno="",BE | TVCom
-https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-chno="",BE | Antenne Centre
-http://tvl-live.fl.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-chno="",BE | Telesambre
-https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-chno="",BE | Télé MB
-http://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-chno="",BE | Canal Zoom
-http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png" tvg-chno="",BE | RTC Télé Liège
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-chno="",BE | Notele
-https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" tvg-chno="",BE | Vedia
-https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" tvg-chno="",BE | BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" tvg-chno="",LU | RTL
-https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png" tvg-chno="",LU | 2.RTL
-https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hOiqyw.png" tvg-chno="",SPORT | Eurosport 1 Portugal
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hOiqyw.png" tvg-chno="",SPORT | Eurosport 1 Russia
@@ -3009,5 +3010,4 @@ https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="",TEST | GCN Racing
-plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.youtube%2Fplay%2F%3Fvideo_id%3D%24doregex%5Bid%5D&amp;mode=17&amp;regexs=%7Bu%27id%27%3A%20%7B%27expres%27%3A%20u%27data-context-item-id%3D%22%28%5B%5E%22%5D%2B%29%27%2C%20%27name%27%3A%20u%27id%27%2C%20%27page%27%3A%20u%27https%3A//www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww%27%7D%7D&amp;iconimage=https%3A%2F%2Fi.imgur.com%2F7F2DZKl.png
+
