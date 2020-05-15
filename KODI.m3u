@@ -3009,3 +3009,5 @@ https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="",TEST | GCN Racing
+plugin://plugin.video.live.streamspro/?url=plugin%3A%2F%2Fplugin.video.youtube%2Fplay%2F%3Fvideo_id%3D%24doregex%5Bid%5D&amp;mode=17&amp;regexs=%7Bu%27id%27%3A%20%7B%27expres%27%3A%20u%27data-context-item-id%3D%22%28%5B%5E%22%5D%2B%29%27%2C%20%27name%27%3A%20u%27id%27%2C%20%27page%27%3A%20u%27https%3A//www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww%27%7D%7D&amp;iconimage=https%3A%2F%2Fi.imgur.com%2F7F2DZKl.png
