@@ -40,7 +40,7 @@ https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/LEQUIPE.m3u8
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/21.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png",SPORT | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
@@ -1195,6 +1195,8 @@ http://events1-crtvg.flumotion.com/playlist.m3u8
 http://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkhxAuY.png",ES | TVG Momento
 http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHnN2Gh.jpg",ES | Libertad Digital
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/Libertaddigital.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w83wr1S.png",ES | Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbxfLY5.png",ES | El Sembrador TV
