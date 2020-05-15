@@ -267,6 +267,12 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OxkTwpR.png",SPORT | D Sport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5sc5k.png",SPORT | Sony Six HD
+http://cdn.banglatv.xyz/beeiptv-stb/sonysix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v74Gkjx.jpg",SPORT | Sony Ten 1 HD
+http://cdn.banglatv.xyz/beeiptv-stb/ten1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZs5YFh.png",SPORT | Sony Ten 2 HD
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg",SPORT | LSN
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png",SPORT | MMA Junkie
@@ -693,6 +699,8 @@ https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62IpVDn.png",UK | Akaal TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxf9gQd.jpg",UK | Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCGjx9D.png",NZ | TVNZ 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1HshlGj.png",NZ | Te Reo
@@ -941,6 +949,8 @@ https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1H7y8YK.png",DE | Niederbayern TV
 https://wowzaprod222-i.akamaihd.net/hls/live/1005450/e10659bc/e10659bc_1_3500000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kybSwK3.png",DE | Kiel TV
+https://live.oksh.de:8888/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCfIubj.png",DE | TV Rus
 https://bemtv.parom.tv/hls/stream274/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png",AT | RTL Austria
@@ -1393,10 +1403,6 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png",AW | Tele Aruba
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GjJu9Rm.jpg",BB | CBC TV 8
 https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g56zYDr.png",DO | ITV Inmaculada TV
