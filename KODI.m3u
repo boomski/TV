@@ -1979,8 +1979,8 @@ https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.
 https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FekWmTu.jpg",CM | Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BmqJmql.png",CM | Afrique Média TV
-https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVhC78L.jpg",CM | Afrique Média TV
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeGnyEI.jpg",CM | MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaqSmZv.png",CM | Top Movies
@@ -2005,6 +2005,28 @@ https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8pX3GO.jpg",CN | iPanda
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C8BZ0Ja.png",HK | TVB Xing He
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d45LP0W.jpg",HK | TVB Jade
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DO1Sk3V.jpg",HK | TVB J2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRpOEtW.png",HK | TVB J5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/je1nByp.jpg",HK | TVB Pearl
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEklrUc.png",HK | TVB News
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ua43f1t.png",HK | Now News
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/drNBwGk.png",HK | VIU TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vX7TV92.jpg",HK | VIU TV 6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RlWno4F.png",HK | i-Cable News
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/boaGpAv.jpg",HK | i-Cable Finance
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWKCBIz.png",JP | NHK Kishou-Saigai NHK Kishou-Saigai
 https://nhknewsreal5-i.akamaihd.net/hls/live/267603/nhknewsreal5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg",JP | NHK World Japan
@@ -2389,6 +2411,8 @@ https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdDNiAo.jpg",IR | GEM USA
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCmSo9i.png" group-title="Movies",iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JeG9K1y.png",IQ | Ch4Teen
