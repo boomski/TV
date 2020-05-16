@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="één HD-BL" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-chno="1",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-id="Canvas"tvg-logo="https://i.imgur.com/OvWaMqS.jpg" tvg-chno="2",BE | Canvas
+#EXTINF:-1 tvg-id="Canvas" tvg-logo="https://i.imgur.com/OvWaMqS.jpg" tvg-chno="2",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-id="vtm"tvg-logo="https://i.imgur.com/esIVk4V.png" tvg-chno="3",BE | VTM
+#EXTINF:-1 tvg-id="vtm" tvg-logo="https://i.imgur.com/esIVk4V.png" tvg-chno="3",BE | VTM
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" tvg-chno="4",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
-#EXTINF:-1 tvg-id="Q2"tvg-logo="https://i.imgur.com/3N6h89L.png" tvg-chno="5",BE | Q2
+#EXTINF:-1 tvg-id="Q2" tvg-logo="https://i.imgur.com/3N6h89L.png" tvg-chno="5",BE | Q2
 plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXEq8tx.png" tvg-chno="6",BE | CAZ
 plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd542d7ceb?.pvr
@@ -17,7 +17,7 @@ plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85d
 plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" tvg-chno="9",BE | VTM Kids
 plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
-#EXTINF:-1 tvg-id="Ketnet-BL"tvg-logo="https://i.imgur.com/X3BtaQw.png" tvg-chno="10",BE | Ketnet
+#EXTINF:-1 tvg-id="Ketnet-BL" tvg-logo="https://i.imgur.com/X3BtaQw.png" tvg-chno="10",BE | Ketnet
 plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg" tvg-chno="11",BE | Ketnet Junior
 plugin://plugin.video.vrt.nu/play/id/ketnet_jr
@@ -221,7 +221,7 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" tvg-chno="207",BE | BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BX1"tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-chno="208",BE | BX1
+#EXTINF:-1 tvg-id="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-chno="208",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-chno="209",BE | Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
