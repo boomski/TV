@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="één HD-BL" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-chno="1",BE | Een
+#EXTINF:-1 tvg-id="één HD-BL" tvg-name="Een" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-chno="1",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
 #EXTINF:-1 tvg-id="Canvas" tvg-logo="https://i.imgur.com/OvWaMqS.jpg" tvg-chno="2",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
