@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="C23.api.telerama.fr" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-chno="1",BE | Een
+#EXTINF:-1 tvg-id="één" tvg-logo="https://i.imgur.com/hWfo6az.png" tvg-chno="1",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
 #EXTINF:-1 tvg-id="Canvas" tvg-logo="https://i.imgur.com/OvWaMqS.jpg" tvg-chno="2",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-id="vtm" tvg-logo="https://i.imgur.com/esIVk4V.png" tvg-chno="3",BE | VTM
+#EXTINF:-1 tvg-id="VTM" tvg-logo="https://i.imgur.com/esIVk4V.png" tvg-chno="3",BE | VTM
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" tvg-chno="4",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-id="Q2" tvg-logo="https://i.imgur.com/3N6h89L.png" tvg-chno="5",BE | Q2
 plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXEq8tx.png" tvg-chno="6",BE | CAZ
+#EXTINF:-1 tvg-id="CAZ" tvg-logo="https://i.imgur.com/KXEq8tx.png" tvg-chno="6",BE | CAZ
 plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd542d7ceb?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60PHcN1.png" tvg-chno="7",BE | CAZ 2
 plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85dda47458?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png" tvg-chno="8",BE | Vitaya
+#EXTINF:-1 tvg-id="Vitaya" tvg-logo="https://i.imgur.com/hs49TFl.png" tvg-chno="8",BE | Vitaya
 plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" tvg-chno="9",BE | VTM Kids
 plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
@@ -33,7 +33,7 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=l
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png" tvg-chno="17",BE | AB3
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ab3&item_module=resources.lib.channels.be.abbe&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png" tvg-chno="18",BE | ABXPLORE
+#EXTINF:-1 tvg-id="ABXPLORE" tvg-logo="https://i.imgur.com/lNnVizU.png" tvg-chno="18",BE | ABXPLORE
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=abxplore&item_module=resources.lib.channels.be.abbe&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" tvg-chno="19",LU | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
