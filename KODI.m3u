@@ -35,9 +35,9 @@ https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ab3&item_module=resources.lib.channels.be.abbe&item_dict={}
 #EXTINF:-1 tvg-id="ABXPLORE" tvg-logo="https://i.imgur.com/lNnVizU.png" tvg-chno="18",BE | ABXPLORE
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=abxplore&item_module=resources.lib.channels.be.abbe&item_dict={}
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bJrUjIC.png" tvg-chno="19",LU | RTL
+#EXTINF:-1 tvg-id="RTL" tvg-logo="https://i.imgur.com/bJrUjIC.png" tvg-chno="19",LU | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7KZuFEG.png" tvg-chno="20",LU | 2.RTL
+#EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://i.imgur.com/7KZuFEG.png" tvg-chno="20",LU | 2.RTL
 https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/21.m3u8
@@ -251,15 +251,15 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=r
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Vedia" tvg-logo="https://i.imgur.com/FMQorMy.png" tvg-chno="218",BE | Vedia
 https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8bqkwkG.png" tvg-chno="220",NL | L1mburg
+#EXTINF:-1 tvg-id="L1 TV" tvg-logo="https://i.imgur.com/8bqkwkG.png" tvg-chno="220",NL | L1mburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="Omroep Brabant" tvg-logo="https://i.imgur.com/KLYsKKC.png" tvg-chno="221",NL | Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2LZJo7k.png" tvg-chno="222",NL | Omroep Gelderland
+#EXTINF:-1 tvg-id="Omroep Gelderland" tvg-logo="https://i.imgur.com/2LZJo7k.png" tvg-chno="222",NL | Omroep Gelderland
 http://web.omroepgelderland.nl/live/livetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b6eHPxa.jpg" tvg-chno="223",NL | Omroep Flevoland
+#EXTINF:-1 tvg-id="Omroep Flevoland" tvg-logo="https://i.imgur.com/b6eHPxa.jpg" tvg-chno="223",NL | Omroep Flevoland
 http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DsD7Tsu.png" tvg-chno="224",NL | RTV Drenthe
+#EXTINF:-1 tvg-id="RTV Drenthe" tvg-logo="https://i.imgur.com/DsD7Tsu.png" tvg-chno="224",NL | RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" tvg-chno="225",NL | Podium.TV
 http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&type=live&service=wowza&output=playlist.m3u8
@@ -267,11 +267,11 @@ http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&type=live&service=wowz
 http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&type=live&service=wowza&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" tvg-chno="227",NL | Podium.TV 3
 http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowza&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yZEsfsv.png" tvg-chno="230",NL | RTV Noord
+#EXTINF:-1 tvg-id="RTV Noord" tvg-logo="https://i.imgur.com/yZEsfsv.png" tvg-chno="230",NL | RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yZEsfsv.png" tvg-chno="231",NL | RTV Noord Extra
 http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UVd0Zn5.png" tvg-chno="232",NL | RTV Utrecht
+#EXTINF:-1 tvg-id="RTV Utrecht" tvg-logo="https://i.imgur.com/UVd0Zn5.png" tvg-chno="232",NL | RTV Utrecht
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="400",SPORT | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
