@@ -2099,6 +2099,8 @@ https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hObPElR.jpg" tvg-chno="",TW | Momo TV
 rtmp://xiaoyu.speedws.com/sat/tv761
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1PmloYC.jpg" tvg-chno="",TW | Jingyang Theater
+http://61.58.60.230:9319/live/203.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IfaAaTy.jpg" tvg-chno="",TW | GOOD TV CH1 
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IfaAaTy.jpg" tvg-chno="",TW | GOOD TV CH2 
@@ -2900,57 +2902,57 @@ https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KewA0YD.png" tvg-chno="",STIRR | Hallypop
 https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YWZTLKC.png" tvg-chno="",STIRR | Stingray Today's Latin Pop
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YWZTLKC.png" tvg-chno="8996",STIRR | Stingray Today's Latin Pop
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m1y6wNn.png" tvg-chno="",STIRR | Qello Concerts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m1y6wNn.png" tvg-chno="8997",STIRR | Qello Concerts
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rKqfFbK.png" tvg-chno="",STIRR | Stingray Karaoke
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rKqfFbK.png" tvg-chno="8998",STIRR | Stingray Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tM2IjFl.png" tvg-chno="",STIRR | Stingray Naturescape
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tM2IjFl.png" tvg-chno="8999",STIRR | Stingray Naturescape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGwTQGB.png" tvg-chno="",RADIO | Radio 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGwTQGB.png" tvg-chno="9000",RADIO | Radio 1
 plugin://plugin.video.vrt.nu/play/id/vualto_events3_geo
-#EXTINF:-1 tvg-id="MNM" tvg-logo="https://i.imgur.com/kvZwuRg.png" tvg-chno="",RADIO | MNM
+#EXTINF:-1 tvg-id="MNM" tvg-logo="https://i.imgur.com/kvZwuRg.png" tvg-chno="9001",RADIO | MNM
 plugin://plugin.video.vrt.nu/play/id/vualto_mnm
-#EXTINF:-1 tvg-id="StuBru" tvg-logo="https://i.imgur.com/vSlIOrh.png" tvg-chno="",RADIO | Studio Brussel
+#EXTINF:-1 tvg-id="StuBru" tvg-logo="https://i.imgur.com/vSlIOrh.png" tvg-chno="9002",RADIO | Studio Brussel
 plugin://plugin.video.vrt.nu/play/id/vualto_stubru
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mKq6Kv.jpg" tvg-chno="",RADIO | VRT NWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mKq6Kv.jpg" tvg-chno="9003",RADIO | VRT NWS
 plugin://plugin.video.vrt.nu/play/id/vualto_nieuws
-#EXTINF:-1 tvg-id="Q-music" tvg-logo="https://i.imgur.com/Z0d2oII.png" tvg-chno="",RADIO | Q Music
+#EXTINF:-1 tvg-id="Q-music" tvg-logo="https://i.imgur.com/Z0d2oII.png" tvg-chno="9004",RADIO | Q Music
 plugin://plugin.video.vtm.go/play/catalog/channels/57940c42-a225-44be-8691-46d5175e2d01?.pvr
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RMjFeGE.png" tvg-chno="",RADIO | Radio PROS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RMjFeGE.png" tvg-chno="9005",RADIO | Radio PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-chno="",RADIO | City Music TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-chno="9006",RADIO | City Music TV
 http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-chno="",RADIO | NRJ Hits TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-chno="9904",RADIO | NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4ntor8S.png" tvg-chno="",RADIO | Eldoradio TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4ntor8S.png" tvg-chno="9905",RADIO | Eldoradio TV
 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b2168000_slltz.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Rj0uts.jpg" tvg-chno="",RADIO | Fun Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Rj0uts.jpg" tvg-chno="9906",RADIO | Fun Radio
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=fun_radio&item_module=resources.lib.channels.fr.6play&item_dict={}
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/owjXT3r.png" tvg-chno="",RADIO | Rathergood Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/owjXT3r.png" tvg-chno="9907",RADIO | Rathergood Radio
 https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OOF6Z6K.png" tvg-chno="",RADIO | Vintage Music TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OOF6Z6K.png" tvg-chno="9908",RADIO | Vintage Music TV
 https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdH8s1I.jpg" tvg-chno="",RADIO | BritAsia Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EdH8s1I.jpg" tvg-chno="9909",RADIO | BritAsia Live
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0100/hi/c.m3u8
-#EXTINF:-1,tvg-logo="https://i.imgur.com/olijpoB.png" tvg-chno="",RADIO | Auto Play TV
+#EXTINF:-1,tvg-logo="https://i.imgur.com/olijpoB.png" tvg-chno="9910",RADIO | Auto Play TV
 https://nrpus.bozztv.com/36bay2/gusa-autoplay/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hJTSIe8.png" tvg-chno="",RADIO | Trace Kitoko
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hJTSIe8.png" tvg-chno="9962",RADIO | Trace Kitoko
 http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SUhmboG.png" tvg-chno="",RADIO | Trace Africa
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SUhmboG.png" tvg-chno="9963",RADIO | Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UOG2hKQ.png" tvg-chno="",RADIO | Trace Mziki
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UOG2hKQ.png" tvg-chno="9964",RADIO | Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BUQA8VB.png" tvg-chno="",RADIO | Trace Naija
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BUQA8VB.png" tvg-chno="9965",RADIO | Trace Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vJZIrJ0.png" tvg-chno="",RADIO | Trace Toca
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vJZIrJ0.png" tvg-chno="9966",RADIO | Trace Toca
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MoqoYvL.png" tvg-chno="",RADIO | Trace Tropical
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MoqoYvL.png" tvg-chno="9967",RADIO | Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qMYXsMH.png" tvg-chno="",RADIO | Trace Urban
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qMYXsMH.png" tvg-chno="9968",RADIO | Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ekRMtra.png" tvg-chno="",RADIO | Radio Contact
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ekRMtra.png" tvg-chno="9969",RADIO | Radio Contact
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" tvg-chno="9970",RADIO | RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
