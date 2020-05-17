@@ -127,6 +127,14 @@ https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8|X-Forwarded-For=5.24
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gsDz02g.png" tvg-chno="90",IS | RUV 2
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
+#EXTINF:-1 tvg-id="Russia Today" tvg-logo="https://i.imgur.com/Du5rsc8.png" tvg-chno="91",RU | RT News
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-chno="92",RU | RT Documentary
+https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tyXIHlj.png" tvg-chno="93",RU | RT America
+https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdTA0ha.png" tvg-chno="94",RU | RT UK
+https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qoseE0Y.png" tvg-chno="100",AU | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwHhldH.png" tvg-chno="101",AU | 10 Peach
@@ -217,13 +225,13 @@ http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Focus" tvg-logo="https://i.imgur.com/aGORIN8.png" tvg-chno="205",BE | Focus
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" tvg-chno="206",BE | Bruzz
+#EXTINF:-1 tvg-id="BRUZZ" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" tvg-chno="206",BE | Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2OJjojo.png" tvg-chno="207",BE | BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-chno="208",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-chno="209",BE | Canal C
+#EXTINF:-1 tvg-id="Canal C" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-chno="209",BE | Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-chno="210",BE | TV Lux
 https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
@@ -231,7 +239,7 @@ https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
 https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-chno="212",BE | Antenne Centre
 http://tvl-live.fl.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-chno="213",BE | Telesambre
+#EXTINF:-1 tvg-id="Télésambre" tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-chno="213",BE | Telesambre
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-chno="214",BE | Télé MB
 http://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
@@ -239,13 +247,13 @@ http://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_track=128000-video=16
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O3j232B.png" tvg-chno="216",BE | RTC Télé Liège
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-chno="217",BE | Notele
+#EXTINF:-1 tvg-id="notélé" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-chno="217",BE | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FMQorMy.png" tvg-chno="218",BE | Vedia
 https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8bqkwkG.png" tvg-chno="220",NL | L1mburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLYsKKC.png" tvg-chno="221",NL | Omroep Brabant
+#EXTINF:-1 tvg-id="Omroep Brabant" tvg-logo="https://i.imgur.com/KLYsKKC.png" tvg-chno="221",NL | Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2LZJo7k.png" tvg-chno="222",NL | Omroep Gelderland
 http://web.omroepgelderland.nl/live/livetv.m3u8
@@ -1550,14 +1558,7 @@ http://188.93.95.34:80/russiaculture/index.m3u8
 http://188.93.95.34:80/ort/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BOry400.png" tvg-chno="",RU | Мoscow 24
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Du5rsc8.png" tvg-chno="",RU | RT News
-https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-chno="",RU | RT Documentary
-https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tyXIHlj.png" tvg-chno="",RU | RT America
-https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zdTA0ha.png" tvg-chno="",RU | RT UK
-https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zvhT8JO.png" tvg-chno="",RU | TV3
 http://188.93.95.34:80/tv3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qswopzO.png" tvg-chno="",RU | 5 Kanal
@@ -2374,7 +2375,7 @@ http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
 http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wp5Db3g.png" tvg-chno="",SA | Rotana Aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-chno="",SA | Rotana Cinema
+#EXTINF:-1 tvg-id="Rotana Cinéma" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-chno="",SA | Rotana Cinema
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-chno="",SA | Rotana Classic
 http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
@@ -2909,13 +2910,13 @@ https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGwTQGB.png" tvg-chno="",RADIO | Radio 1
 plugin://plugin.video.vrt.nu/play/id/vualto_events3_geo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kvZwuRg.png" tvg-chno="",RADIO | MNM
+#EXTINF:-1 tvg-id="MNM" tvg-logo="https://i.imgur.com/kvZwuRg.png" tvg-chno="",RADIO | MNM
 plugin://plugin.video.vrt.nu/play/id/vualto_mnm
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSlIOrh.png" tvg-chno="",RADIO | Studio Brussel
+#EXTINF:-1 tvg-id="StuBru" tvg-logo="https://i.imgur.com/vSlIOrh.png" tvg-chno="",RADIO | Studio Brussel
 plugin://plugin.video.vrt.nu/play/id/vualto_stubru
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mKq6Kv.jpg" tvg-chno="",RADIO | VRT NWS
 plugin://plugin.video.vrt.nu/play/id/vualto_nieuws
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z0d2oII.png" tvg-chno="",RADIO | Q Music
+#EXTINF:-1 tvg-id="Q-music" tvg-logo="https://i.imgur.com/Z0d2oII.png" tvg-chno="",RADIO | Q Music
 plugin://plugin.video.vtm.go/play/catalog/channels/57940c42-a225-44be-8691-46d5175e2d01?.pvr
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RMjFeGE.png" tvg-chno="",RADIO | Radio PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
@@ -2971,7 +2972,7 @@ https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
 https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJie1k5.png" tvg-chno="9979",RADIO | Teins TV
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5GrB3ao.png" tvg-chno="9980",RADIO | Klara
+#EXTINF:-1 tvg-id="Klara" tvg-logo="https://i.imgur.com/5GrB3ao.png" tvg-chno="9980",RADIO | Klara
 http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYO4KjA.jpg" tvg-chno="9981",RADIO | Radio Van 103.0 FM Yerevan
 http://stream.radiovan.fm/stream/index.m3u8
