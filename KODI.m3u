@@ -233,23 +233,23 @@ https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal C" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-chno="209",BE | Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-chno="210",BE | TV Lux
+#EXTINF:-1 tvg-id="TV Lux" tvg-logo="https://i.imgur.com/p2eKv46.jpg" tvg-chno="210",BE | TV Lux
 https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cRTCPo1.png" tvg-chno="211",BE | TVCom
+#EXTINF:-1 tvg-id="TV COM" tvg-logo="https://i.imgur.com/cRTCPo1.png" tvg-chno="211",BE | TVCom
 https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-chno="212",BE | Antenne Centre
+#EXTINF:-1 tvg-id="ACTV" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" tvg-chno="212",BE | Antenne Centre
 http://tvl-live.fl.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 tvg-id="Télésambre" tvg-logo="https://i.imgur.com/hMdMaEx.png" tvg-chno="213",BE | Telesambre
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-chno="214",BE | Télé MB
+#EXTINF:-1 tvg-id="Télé MB" tvg-logo="https://i.imgur.com/e7xUgDm.png" tvg-chno="214",BE | Télé MB
 http://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-chno="215",BE | Canal Zoom
+#EXTINF:-1 tvg-id="Canal Zoom" tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-chno="215",BE | Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O3j232B.png" tvg-chno="216",BE | RTC Télé Liège
+#EXTINF:-1 tvg-id="RTC Télé Liège" tvg-logo="https://i.imgur.com/O3j232B.png" tvg-chno="216",BE | RTC Télé Liège
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
 #EXTINF:-1 tvg-id="notélé" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-chno="217",BE | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FMQorMy.png" tvg-chno="218",BE | Vedia
+#EXTINF:-1 tvg-id="Vedia" tvg-logo="https://i.imgur.com/FMQorMy.png" tvg-chno="218",BE | Vedia
 https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8bqkwkG.png" tvg-chno="220",NL | L1mburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
