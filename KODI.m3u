@@ -482,6 +482,8 @@ https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/85D9kPy.png" tvg-chno="610",GE | Rugby TV
 http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" tvg-chno="649",UK | EDGE Sport
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s5NcNef.png" tvg-chno="650",US | MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/387jXC7.jpg" tvg-chno="651",LT | KOK Fights
@@ -2890,17 +2892,16 @@ https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gPSdjp6.png" tvg-chno="",STIRR | Waypoint
 https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CtIYPB2.png" tvg-chno="",STIRR | EDGE Sport
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xvJkXGq.png" tvg-chno="",STIRR | Mobcrush
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xvJkXGq.png" tvg-chno="8991",STIRR | Mobcrush
 https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/htHQx9C.png" tvg-chno="",STIRR | STIRR Music
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/htHQx9C.png" tvg-chno="8992",STIRR | STIRR Music
 https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FQuEFcu.png" tvg-chno="",STIRR | Live Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FQuEFcu.png" tvg-chno="8993",STIRR | Live Live
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g41MjPb.png" tvg-chno="",STIRR | Music Baeble
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g41MjPb.png" tvg-chno="8994",STIRR | Music Baeble
 https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KewA0YD.png" tvg-chno="",STIRR | Hallypop
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KewA0YD.png" tvg-chno="8995",STIRR | Hallypop
 https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YWZTLKC.png" tvg-chno="8996",STIRR | Stingray Today's Latin Pop
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
