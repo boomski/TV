@@ -40,6 +40,8 @@ https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://i.imgur.com/7KZuFEG.png" tvg-chno="20",LU | 2.RTL
 https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
+plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=lequipe&item_module=resources.lib.channels.fr.lequipe&item_dict={}
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="22",FR | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
@@ -971,17 +973,17 @@ http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AiUPdvp.png" tvg-chno="",FR | TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" tvg-chno="",FR | Wéo
-plugin://plugin.video.dailymotion_com/?url=%x13x1q2%&mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H1a3uLT.png" tvg-chno="",FR | Wéo Picardie
-plugin://plugin.video.dailymotion_com/?url=x13x1q2&mode=playLiveVideo
+plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKj1V6l.jpg" tvg-chno="",FR | AZUR TV
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZUR.m3u8
+plugin://plugin.video.dailymotion_com/?url=x13x1q2&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OQeNlUD.png" tvg-chno="",FR | VAR AZUR TV
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZURvar.m3u8
+plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z1A47vL.png" tvg-chno="",FR | Provence AZUR TV
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZURprovence.m3u8
+plugin://plugin.video.dailymotion_com/?url=x630sku&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yEwrmqa.jpg" tvg-chno="",FR | Télévision Locale du Choletais
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/TLCfrance.m3u8
+plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aHvW8pK.png" tvg-chno="",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZEA3az8.png" tvg-chno="",FR | Grand Lille TV
