@@ -2008,7 +2008,7 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3MHcyD0.png" tvg-chno="",CI | RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ox4PeIp.jpg" tvg-chno="",CI | Christ Live
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/Cliv.m3u8
+plugin://plugin.video.dailymotion_com/?url=x7liq2i&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/13N8UX5.jpg" tvg-chno="",RW | KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d8HEFx7.png" tvg-chno="",RW | RTV
@@ -2186,7 +2186,7 @@ http://live.streamingfast.net/osmflivech49.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IfaAaTy.jpg" tvg-chno="",TW | GOOD TV CH50 
 http://live.streamingfast.net/osmflivech50.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yerAaRN.jpg" tvg-chno="",TH | NationTV 22
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/N22.m3u8
+plugin://plugin.video.dailymotion_com/?url=x6eoldf&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WBlXaz7.jpg" tvg-chno="",PH | CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1xba0xd.png" tvg-chno="",PH | ABS-CBN News Channel
