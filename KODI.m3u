@@ -39,9 +39,9 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=a
 https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://i.imgur.com/7KZuFEG.png" tvg-chno="20",LU | 2.RTL
 https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
+#EXTINF:-1 tvg-id="L Equipe" tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="22",FR | Sport en France
+#EXTINF:-1 tvg-id="Sport en France" tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="22",FR | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" tvg-chno="23",CH | Swiss Sport TV
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
@@ -57,7 +57,7 @@ https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
 https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
 #EXTINF:-1 tvg-id="TF1 HD" tvg-logo="https://i.imgur.com/Y2C6vP7.png" tvg-chno="29",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yJ5JRAK.png" tvg-chno="30",FR | TFX
+#EXTINF:-1 tvg-id="TFX" tvg-logo="https://i.imgur.com/yJ5JRAK.png" tvg-chno="30",FR | TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TF1 Séries Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" tvg-chno="31",FR | TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
@@ -65,7 +65,7 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" tvg-chno="33",FR | LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xXRYZd6.png" tvg-chno="34",FR | ARTE
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://i.imgur.com/xXRYZd6.png" tvg-chno="34",FR | ARTE
 https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xXRYZd6.png" tvg-chno="35",DE | ARTE
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
