@@ -40,7 +40,7 @@ https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-id="RTL 2" tvg-logo="https://i.imgur.com/7KZuFEG.png" tvg-chno="20",LU | 2.RTL
 https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/21.m3u8
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=lequipe&item_module=resources.lib.channels.fr.lequipe&item_dict={}
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="22",FR | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" tvg-chno="23",CH | Swiss Sport TV
@@ -90,7 +90,7 @@ https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h5P5UJd.png" tvg-chno="45",FR | Canal +
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/CANALPLUS.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A5elXFA.png" tvg-chno="46",FR | C8
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/C8.m3u8
+plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=c8&item_module=resources.lib.channels.fr.mycanal&item_dict={}
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9YIcXX2.png" tvg-chno="47",FR | LCP
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" tvg-chno="48",FR | Gong
