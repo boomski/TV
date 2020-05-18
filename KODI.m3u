@@ -41,8 +41,6 @@ https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWrnNTI.jpg" tvg-chno="21",FR | L'Équipe
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=lequipe&item_module=resources.lib.channels.fr.lequipe&item_dict={}
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S9yLfWx.png" tvg-chno="22",FR | Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" tvg-chno="23",CH | Swiss Sport TV
@@ -90,28 +88,28 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-chno="44",FR | France 24 Español
 https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h5P5UJd.png" tvg-chno="45",FR | Canal +
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=canalplus&item_module=resources.lib.channels.fr.mycanal&item_dict={}
+plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A5elXFA.png" tvg-chno="46",FR | C8
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=c8&item_module=resources.lib.channels.fr.mycanal&item_dict={}
+plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9YIcXX2.png" tvg-chno="47",FR | LCP
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/LCP.m3u8
+plugin://plugin.video.dailymotion_com/?url=xgepjr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" tvg-chno="48",FR | Gong
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2EkeQcb.png" tvg-chno="49",FR | Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 #EXTINF:-1 tvg-id="Gulli" tvg-logo="https://i.imgur.com/mMWq0Kn.png" tvg-chno="50",FR | Gulli
 https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ADCiOHX.png" tvg-chno="51",DE | ServusTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ADCiOHX.png" tvg-chno="65",DE | ServusTV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B6QWXt3.jpg" tvg-chno="52",AT | Servus TV Österreich
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B6QWXt3.jpg" tvg-chno="66",AT | Servus TV Österreich
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0Vt9dtg.png" tvg-chno="53",DE | WDR
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0Vt9dtg.png" tvg-chno="67",DE | WDR
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oitJsZU.png" tvg-chno="54",DE | EOTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oitJsZU.png" tvg-chno="68",DE | EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SXkIqPG.png" tvg-chno="55",DE | RiC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SXkIqPG.png" tvg-chno="69",DE | RiC
 https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XbXSpy1.png" tvg-chno="56",DE | Welt der Wunder
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XbXSpy1.png" tvg-chno="70",DE | Welt der Wunder
 http://wowza-1.vidoo.de:1935/live/weltderwunder/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JALM2Ts.png" tvg-chno="80",DK | DR 1
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
@@ -1245,7 +1243,7 @@ http://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QkhxAuY.png" tvg-chno="",ES | TVG Momento
 http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zHnN2Gh.jpg" tvg-chno="",ES | Libertad Digital
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/Libertaddigital.m3u8
+plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w83wr1S.png" tvg-chno="",ES | Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VbxfLY5.png" tvg-chno="",ES | El Sembrador TV
@@ -2022,7 +2020,7 @@ https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playli
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FekWmTu.jpg" tvg-chno="",CM | Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OVhC78L.jpg" tvg-chno="",CM | Afrique Média TV
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/500.m3u8
+plugin://plugin.video.dailymotion_com/?url=x5dk3kj&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QeGnyEI.jpg" tvg-chno="",CM | MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VaqSmZv.png" tvg-chno="",CM | Top Movies
@@ -2050,7 +2048,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CchQPK7.png" tvg-chno="",CN | CCTV 17
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W8pX3GO.jpg" tvg-chno="",CN | iPanda
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/800.m3u8
+plugin://plugin.video.dailymotion_com/?url=x6zv6nc&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C8BZ0Ja.png" tvg-chno="",HK | TVB Xing He
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d45LP0W.jpg" tvg-chno="",HK | TVB Jade
@@ -2218,11 +2216,11 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n5Y04TL.png" tvg-chno="",MY | RTM Okey
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AdH5Tx9.png" tvg-chno="",MY | 8TV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+plugin://plugin.video.dailymotion_com/?url=x7a7ru1&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o7ZhCPn.png" tvg-chno="",MY | TV9
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+plugin://plugin.video.dailymotion_com/?url=x7a7rf7&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHdFNyP.jpg" tvg-chno="",MY | Drama Sangat
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+plugin://plugin.video.dailymotion_com/?url=x6zvnex&mode=playLiveVideo 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WMOWiuG.png" tvg-chno="",MY | Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/52JsuOB.png" tvg-chno="",MY | Astro Go Shop
