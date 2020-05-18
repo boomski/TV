@@ -971,9 +971,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AiUPdvp.png" tvg-chno="",FR | TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" tvg-chno="",FR | Wéo
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/weo.m3u8
+plugin://plugin.video.dailymotion_com/?url=%x13x1q2%&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H1a3uLT.png" tvg-chno="",FR | Wéo Picardie
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/weopicard.m3u8
+plugin://plugin.video.dailymotion_com/?url=x13x1q2&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKj1V6l.jpg" tvg-chno="",FR | AZUR TV
 https://raw.githubusercontent.com/boomski/TV/master/worldiptv/AZUR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OQeNlUD.png" tvg-chno="",FR | VAR AZUR TV
