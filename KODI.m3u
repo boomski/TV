@@ -612,6 +612,8 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VxMBNzA.jpg" tvg-chno="881",US | MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ULF3iOE.png" tvg-chno="886",US | Positiv TV
+http://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/26S06iK.png" tvg-chno="887",US | Film Hub
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2sQ81W1.jpg" tvg-chno="888",US | CON TV
@@ -2772,6 +2774,14 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KwN9Ujp.png" tvg-chno="8163",US | Mobcrush
 https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rMfE22R.jpg" tvg-chno="8164",US | Better Life TV
+https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rMfE22R.jpg" tvg-chno="8165",US | Better Health TV
+https://uni10rtmp.tulix.tv/betterhealth/betterhealth.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rMfE22R.jpg" tvg-chno="8166",US | Better Life’s Nature Channel
+https://uni10rtmp.tulix.tv/betternature/betternature.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rMfE22R.jpg" tvg-chno="8167",US | Vida Mejor TV
+https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/chunklist_w1994095521.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K07fQUV.jpg" tvg-chno="8980",US | Hunter
 https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j8s0xjM.jpg" tvg-chno="8981",US | The Commish
