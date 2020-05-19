@@ -356,7 +356,7 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hOiqyw.png" tvg-chno="421",RU | Eurosport 1 Russia
 http://russia.livetv.az/russia/eurosport1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6t7x61s.png" tvg-chno="450",US | MLS
+#EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png" tvg-chno="450",US | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oDOpMph.png" tvg-chno="451",US | MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
@@ -392,22 +392,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 rtmp://xiaoyu.speedws.com/sat/tv731
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sOnZtrz.png" tvg-chno="469",US | Fox Sports 2 Asia
 rtmp://xiaoyu.speedws.com/sat/tv741
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VWtnEYq.png" tvg-chno="470",TW | ELTA 1 SPORTS
-rtmp://xiaoyu.speedws.com/sat/md041
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-chno="471",AE | Abu Dhabi Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-chno="470",AE | Abu Dhabi Sports
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-chno="472",AE | Abu Dhabi Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-chno="471",AE | Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-chno="473",AE | Abu Dhabi Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-chno="472",AE | Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-chno="474",AE | Abu Dhabi Sports 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-chno="473",AE | Abu Dhabi Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7snS5Ki.png" tvg-chno="475",AE | Abu Dhabi Sports 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7snS5Ki.png" tvg-chno="474",AE | Abu Dhabi Sports 5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/icskFzD.png" tvg-chno="476",AE | Abu Dhabi Sports 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/icskFzD.png" tvg-chno="475",AE | Abu Dhabi Sports 6
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iYgHR5D.png" tvg-chno="477",AE | Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jo3XekR.png" tvg-chno="476",AE | Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KDHJryj.png" tvg-chno="477",AE | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-chno="478",AE | Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-chno="479",BH | Bahrain Sports 1
@@ -466,6 +466,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PA3tDVr.png" tvg-chno="506",BO | Bolivia TV Deportes 7.2
 http://btvboliviatv.srfms.com:6568/live/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VWtnEYq.png" tvg-chno="507",TW | ELTA 1 SPORTS
+rtmp://xiaoyu.speedws.com/sat/md041
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yQCzUi4.png" tvg-chno="510",AL | RTSH Sport
 https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q7xHwxd.png" tvg-chno="511",AL | SuperSport 1
