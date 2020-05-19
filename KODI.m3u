@@ -87,9 +87,9 @@ http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-chno="44",FR | France 24 Español
 https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h5P5UJd.png" tvg-chno="45",FR | Canal +
+#EXTINF:-1 tvg-id="Canal+" tvg-logo="https://i.imgur.com/h5P5UJd.png" tvg-chno="45",FR | Canal +
 plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A5elXFA.png" tvg-chno="46",FR | C8
+#EXTINF:-1 tvg-id="C8" tvg-logo="https://i.imgur.com/A5elXFA.png" tvg-chno="46",FR | C8
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9YIcXX2.png" tvg-chno="47",FR | LCP
 plugin://plugin.video.dailymotion_com/?url=xgepjr&mode=playLiveVideo
@@ -923,25 +923,25 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JgRDyaB.png" tvg-chno="1520",CA | TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IJMjE8y.png" tvg-chno="1550",FR | M6
+#EXTINF:-1 tvg-id="M6" tvg-logo="https://i.imgur.com/IJMjE8y.png" tvg-chno="1550",FR | M6
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JuxrH1e.png" tvg-chno="1551",FR | AB1
+#EXTINF:-1 tvg-id="AB 1" tvg-logo="https://i.imgur.com/JuxrH1e.png" tvg-chno="1551",FR | AB1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" tvg-chno="1552",FR | MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dtHaTAy.png" tvg-chno="1553",FR | TéléToon+
+#EXTINF:-1 tvg-id="TéléToon+" tvg-logo="https://i.imgur.com/dtHaTAy.png" tvg-chno="1553",FR | TéléToon+
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6Iw1YRL.png" tvg-chno="1554",FR | TZiK
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MN73rOu.png" tvg-chno="1555",FR | Boing 
+#EXTINF:-1 tvg-id="Boing" tvg-logo="https://i.imgur.com/MN73rOu.png" tvg-chno="1555",FR | Boing 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mihujKt.jpg" tvg-chno="1556",FR | BFM Business
+#EXTINF:-1 tvg-id="BFM Business" tvg-logo="https://i.imgur.com/mihujKt.jpg" tvg-chno="1556",FR | BFM Business
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" tvg-chno="1565",FR | Wéo
+#EXTINF:-1 tvg-id="Wéo" tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" tvg-chno="1565",FR | Wéo
 plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H1a3uLT.png" tvg-chno="1566",FR | Wéo Picardie
 plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HKj1V6l.jpg" tvg-chno="1567",FR | AZUR TV
+#EXTINF:-1 tvg-id="Azur TV" tvg-logo="https://i.imgur.com/HKj1V6l.jpg" tvg-chno="1567",FR | AZUR TV
 plugin://plugin.video.dailymotion_com/?url=x13x1q2&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OQeNlUD.png" tvg-chno="1568",FR | VAR AZUR TV
 plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
@@ -965,7 +965,7 @@ https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YFEqBS7.png" tvg-chno="1578",FR | BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZEA3az8.png" tvg-chno="1579",FR | Grand Lille TV
+#EXTINF:-1 tvg-id="Grand Lille TV" tvg-logo="https://i.imgur.com/ZEA3az8.png" tvg-chno="1579",FR | Grand Lille TV
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xDLwsbY.png" tvg-chno="1580",FR | La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
@@ -975,9 +975,9 @@ https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RT3pz5L.png" tvg-chno="1583",FR | TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" tvg-chno="1584",FR | TVR
+#EXTINF:-1 tvg-id="TVR Rennes 35 Bretagne" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" tvg-chno="1584",FR | TVR
 https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9nIZHww.png" tvg-chno="1585",FR | viàMATÉLÉ
+#EXTINF:-1 tvg-id="MAtélé" tvg-logo="https://i.imgur.com/9nIZHww.png" tvg-chno="1585",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" tvg-chno="1586",FR | ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
@@ -985,7 +985,7 @@ http://str81.creacast.com:80/iltv/high/playlist.m3u8
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A9yLdYZ.png" tvg-chno="1588",FR | Dici TV
 http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" tvg-chno="1589",FR | KTO
+#EXTINF:-1 tvg-id="KTO" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" tvg-chno="1589",FR | KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" tvg-chno="1590",FR | MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
@@ -2781,7 +2781,7 @@ https://uni10rtmp.tulix.tv/betterhealth/betterhealth.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rMfE22R.jpg" tvg-chno="8166",US | Better Life’s Nature Channel
 https://uni10rtmp.tulix.tv/betternature/betternature.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rMfE22R.jpg" tvg-chno="8167",US | Vida Mejor TV
-https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/chunklist_w1994095521.m3u8
+https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K07fQUV.jpg" tvg-chno="8980",US | Hunter
 https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j8s0xjM.jpg" tvg-chno="8981",US | The Commish
