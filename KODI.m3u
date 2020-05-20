@@ -763,10 +763,12 @@ https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8|X-Fo
 https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yuPFx4K.jpg" tvg-chno="1513",CA | CBC Fredericton
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yuPFx4K.jpg" tvg-chno="1513",CA | CBC Yellowknife
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yuPFx4K.jpg" tvg-chno="1514",CA | CBC Yellowknife
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AhQgx1M.png" tvg-chno="1513",CA | TVA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AhQgx1M.png" tvg-chno="1515",CA | TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bm9qmSR.png" tvg-chno="1516",CA | ICI Tele Acadie
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://i.imgur.com/fuje8uN.png" tvg-chno="",CA | H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ppMNSKT.png" tvg-chno="",CA | Global Calgary
