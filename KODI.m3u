@@ -376,7 +376,7 @@ https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e647
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n38w3FD.png" tvg-chno="461",US | Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/P3n96ew.jpg" tvg-chno="462",UK | EDGE Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" tvg-chno="462",UK | EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZNfUlHr.png" tvg-chno="463",UK | Sky Sports News
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
@@ -558,8 +558,6 @@ https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/85D9kPy.png" tvg-chno="612",GE | Rugby TV
 http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" tvg-chno="649",UK | EDGE Sport
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s5NcNef.png" tvg-chno="650",US | MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/387jXC7.jpg" tvg-chno="651",LT | KOK Fights
@@ -1217,6 +1215,10 @@ https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kF29z8z.jpg" tvg-chno="",AR | Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B2lKSvo.png" tvg-chno="",AR | Canal 2 Telpin
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SsRbDfp.png" tvg-chno="",AR | Canal 3 Pinamar
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sqBkmlU.jpg" tvg-chno="",AR | Canal 4 San Juan
 http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FwOF1wB.gif" tvg-chno="",AR | Canal 5 TELECREATIVA
