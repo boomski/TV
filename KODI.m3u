@@ -1358,6 +1358,8 @@ http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
 #EXTINF:-1 tvg-id="N4" tvg-logo="https://i.imgur.com/nyq4Wl7.png" tvg-chno="",IS | N4
 http://tv.vodafoneplay.is/n4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YUs9dBq.jpg" tvg-chno="",SE | SVT1
+http://185.19.191.12:8090/SVT1/mpegts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bkgPL8L.jpg" tvg-chno="",SE | SVT2
 http://185.19.191.12:8090/SVT2/mpegts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LsAz0UW.jpg" tvg-chno="",SE | Aftonbladet TV
