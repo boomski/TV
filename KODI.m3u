@@ -1709,7 +1709,7 @@ http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="UA-112 Украина HD" tvg-logo="https://i.imgur.com/5uHpYr1.jpg" tvg-chno="",UA | 112 Ukraine
 http://bemtv.parom.tv/hls/stream248/stream0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zBNUXF9.png" tvg-chno="",UA | Film TV
-
+http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1 tvg-id="Russia Today" tvg-logo="https://i.imgur.com/Du5rsc8.png" tvg-chno="",RU | RT News
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-chno="",RU | RT Documentary
