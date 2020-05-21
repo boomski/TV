@@ -795,10 +795,14 @@ https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8|X-Forwa
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ky0Dbzt.png" tvg-chno="1529",CA | ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mh4X0IM.png" tvg-chno="",CA | LCN
+https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/high_1080p/high_1080p.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/26nKUbR.png" tvg-chno="",CA | Yoopa
+https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J9EMPjf.png" tvg-chno="",CA | NTV
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bNOUl9V.jpg" tvg-chno="",CA | CTV News
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/CTVNews.strm
+https://raw.githubusercontent.com/boomski/TV/master/worldiptv/CTVNews.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://i.imgur.com/fuje8uN.png" tvg-chno="",CA | H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ppMNSKT.png" tvg-chno="",CA | Global Calgary
