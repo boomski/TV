@@ -1581,18 +1581,6 @@ http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6d2fOjq.png" tvg-chno="",CO | Suram
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IbHr9Zq.png" tvg-chno="",PT | TVI
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CSxzgPb.jpg" tvg-chno="",PT | Porto Canal
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynCZbOj.png" tvg-chno="",PT | CMTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CVgMwVq.png" tvg-chno="",BR | CNN Brasil
-https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nNzRUAP.png" tvg-chno="",BR | Zoom
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W6THaIw.png" tvg-chno="",BR | Jovem Pan News
-http://ja-streamlink.mooo.com/jp/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrOYyU1.png" tvg-chno="",CR | Anexion TV
 https://rtmp.info/anexiontv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E9AuhOU.png" tvg-chno="",CR | Extrema TV
@@ -1663,6 +1651,26 @@ https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
 http://rokutna.tulix.tv/live/inmaculadatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-chno="",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IbHr9Zq.png" tvg-chno="",PT | TVI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CSxzgPb.jpg" tvg-chno="",PT | Porto Canal
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ynCZbOj.png" tvg-chno="",PT | CMTV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gxKLUnr.png" tvg-chno="",PT | Cacavision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-chno="",PT | Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aNVzKYJ.png" tvg-chno="",PT | Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" tvg-chno="",PT | Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CVgMwVq.png" tvg-chno="",BR | CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nNzRUAP.png" tvg-chno="",BR | Zoom
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W6THaIw.png" tvg-chno="",BR | Jovem Pan News
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uqe9N5r.jpg" tvg-chno="",GR | EPT 1
 https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pXWk2Dy.jpg" tvg-chno="",GR | EPT 2
