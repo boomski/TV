@@ -3054,8 +3054,5 @@ https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="9999",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
-#EXTINF:0 tvg-id="430" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" tvg-chno="",Jio Cricket English HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://127.0.0.1:48996/play/Jio_Cricket/master.m3u8?hls=packagerx_mpd1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/784137001633132545/e-Muo-mT.jpg" group-title="USA/Canada",Pac-12 Plus
+https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded-For=209.239.112.104
