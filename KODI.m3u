@@ -369,6 +369,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F1RmiNq.jpg" tvg-chno="",SPORT | YAS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" tvg-chno="",SPORT | ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-id="SA - Adelaide - TEN" tvg-logo="https://i.imgur.com/qoseE0Y.png" tvg-chno="700",AU | Adelaide | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="SA - Adelaide - 10 Peach" tvg-logo="https://i.imgur.com/SwHhldH.png" tvg-chno="701",AU | Adelaide | 10 Peach
@@ -1373,6 +1375,10 @@ http://185.19.191.12:8090/SVT1/mpegts
 http://185.19.191.12:8090/SVT2/mpegts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LsAz0UW.jpg" tvg-chno="",SE | Aftonbladet TV
 http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i1sajpe.png" tvg-chno="",SE | Dagens Industri TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/50B8mhG.png" tvg-chno="",SE | Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SvUWRQm.png" tvg-chno="",ES | 24 Horas
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/09qP7mv.png" tvg-chno="",ES | Cuatro
