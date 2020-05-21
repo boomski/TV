@@ -534,8 +534,12 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e0NFOPT.jpg" tvg-chno="",US | Tulsa | FOX 23 KOKI NEWS
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1R15Rpp.png" tvg-chno="",US | Boston | FOX 25 WFXT
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KzOoCQr.png" tvg-chno="",US | South Mississippi | FOX 25 WXXVT
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XOqJ7nO.png" tvg-chno="",US | Savannah | FOX 28 WTGS
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" tvg-chno="",US | Victorville | KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ocMGZM6.png" tvg-chno="",US | Kentucky | PBS KET
