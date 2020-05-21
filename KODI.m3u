@@ -847,7 +847,7 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bNOUl9V.jpg" tvg-chno="",CA | CTV News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-plugin://plugin.program.iptv.merge/?_=play_channel&channel_id=10000
+http://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0KOPxmV.jpg" tvg-chno="",CA | V Télé
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://i.imgur.com/fuje8uN.png" tvg-chno="",CA | H2
