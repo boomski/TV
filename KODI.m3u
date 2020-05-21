@@ -1137,8 +1137,16 @@ http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 #EXTINF:-1 tvg-id="TVR Rennes 35 Bretagne" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" tvg-chno="",FR | TVR
 https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-id="MAtélé" tvg-logo="https://i.imgur.com/9nIZHww.png" tvg-chno="",FR | viàMATÉLÉ
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QmZP1em.png" tvg-chno="",FR | viaATV
+https://streamer03.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
+#EXTINF:-1 tvg-id="MAtélé" tvg-logo="https://i.imgur.com/kmna9PU.png" tvg-chno="",FR | viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YXUMEbi.png" tvg-chno="",FR | viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qDDbxzw.jpg" tvg-chno="",FR | viaOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xo3Gkqi.jpg" tvg-chno="",FR | viaVosges
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" tvg-chno="",FR | ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cThInij.png" tvg-chno="",FR | D5 TV
