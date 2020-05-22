@@ -1197,8 +1197,11 @@ https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="ServusTV Deutschland" tvg-logo="https://i.imgur.com/ADCiOHX.png" tvg-chno="",DE | ServusTV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle Deutsch
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle Deutsch +
+https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+
 #EXTINF:-1 tvg-id="eoTV" tvg-logo="https://i.imgur.com/oitJsZU.png" tvg-chno="",DE | EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
 #EXTINF:-1 tvg-id="RiC" tvg-logo="https://i.imgur.com/SXkIqPG.png" tvg-chno="",DE | RiC
