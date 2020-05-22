@@ -2622,9 +2622,9 @@ https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" tvg-chno="",AE | Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L42Ouau.png" tvg-chno="",AE | Spacetoon
-
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mT3mCCK.png" tvg-chno="",AE | Cartoon Network كرتون
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nsxrqta.jpg" tvg-chno="",AE | Toheed TV
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-chno="",AE | Wanasah
@@ -2652,15 +2652,19 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wp5Db3g.png" tvg-chno="",SA | Rotana Aflam
 
 #EXTINF:-1 tvg-id="Rotana Cinéma" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-chno="",SA | Rotana Cinema
-
+https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-chno="",SA | Rotana Classic
-
+https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" tvg-chno="",SA | Rotana Clip
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zPuMMeV.png" tvg-chno="",SA | Rotana Comedy HD
+https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/niDVfYR.png" tvg-chno="",SA | Rotana Drama
-
+https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a23fI0c.png" tvg-chno="",SA | Rotana Khalijia
-
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YLcmYCR.png" tvg-chno="",SA | LBC
+https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N4AyK2U.png" tvg-chno="",SA | Rotana Music
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BdqK9NG.png" tvg-chno="",SA | Rotana Kids
