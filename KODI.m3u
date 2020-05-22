@@ -1191,18 +1191,20 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hLRf32o.png" tvg-chno="",PF | Tahiti Nui TV
 https://dcunilive17-lh.akamaihd.net/i/dclive_1@181400/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-id="ServusTV Deutschland" tvg-logo="https://i.imgur.com/ADCiOHX.png" tvg-chno="",DE | ServusTV
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="WDR" tvg-logo="https://i.imgur.com/0Vt9dtg.png" tvg-chno="",DE | WDR
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
+#EXTINF:-1 tvg-id="Arte Deutschland" tvg-logo="https://i.imgur.com/xXRYZd6.png" tvg-chno="",DE | ARTE
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="ServusTV Deutschland" tvg-logo="https://i.imgur.com/ADCiOHX.png" tvg-chno="",DE | ServusTV
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="eoTV" tvg-logo="https://i.imgur.com/oitJsZU.png" tvg-chno="",DE | EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
 #EXTINF:-1 tvg-id="RiC" tvg-logo="https://i.imgur.com/SXkIqPG.png" tvg-chno="",DE | RiC
 https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Welt der Wunder" tvg-logo="https://i.imgur.com/XbXSpy1.png" tvg-chno="",DE | Welt der Wunder
 http://wowza-1.vidoo.de:1935/live/weltderwunder/chunklist.m3u8
-#EXTINF:-1 tvg-id="Arte Deutschland" tvg-logo="https://i.imgur.com/xXRYZd6.png" tvg-chno="",DE | ARTE
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tph4j1N.png" tvg-chno="",DE | RheinMain TV
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1H7y8YK.png" tvg-chno="",DE | Niederbayern TV
@@ -2817,6 +2819,8 @@ https://a.jsrdn.com/rtmp/22690/index.m3u8
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5wARsrs.png" tvg-chno="",BD | Colors Bangla
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OEXKl0v.png" tvg-chno="",IN | CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UpSNMMI.png" tvg-chno="",IN | India Ahead
 http://p-indiaahead.planetcast.in/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CNPQDqa.png" tvg-chno="",IN | NDTV
