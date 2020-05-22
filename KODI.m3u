@@ -245,31 +245,33 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-chno="330",SPORT | Varzesh TV Farsi 4
 http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yQCzUi4.png" tvg-chno="331",SPORT | RTSH Sport
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yaWTUE6.png" tvg-chno="331",SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yQCzUi4.png" tvg-chno="",SPORT | RTSH Sport
 https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q7xHwxd.png" tvg-chno="332",SPORT | SuperSport 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q7xHwxd.png" tvg-chno="",SPORT | SuperSport 1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/67VfW5z.png" tvg-chno="333",SPORT | SuperSport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/67VfW5z.png" tvg-chno="",SPORT | SuperSport 2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rk7DOzh.png" tvg-chno="334",SPORT | SuperSport 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rk7DOzh.png" tvg-chno="",SPORT | SuperSport 3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tdN6jLe.png" tvg-chno="335",SPORT | SuperSport 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tdN6jLe.png" tvg-chno="",SPORT | SuperSport 4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nvjY7ue.png" tvg-chno="336",SPORT | SuperSport 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nvjY7ue.png" tvg-chno="",SPORT | SuperSport 5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qmo5C7Y.png" tvg-chno="337",SPORT | SuperSport 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qmo5C7Y.png" tvg-chno="",SPORT | SuperSport 6
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VRoowjg.png" tvg-chno="338",SPORT | SuperSport 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VRoowjg.png" tvg-chno="",SPORT | SuperSport 7
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IQGjhj6.png" tvg-chno="339",SPORT | Art Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IQGjhj6.png" tvg-chno="",SPORT | Art Sports 1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IjX5rdB.png" tvg-chno="340",SPORT | Art Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IjX5rdB.png" tvg-chno="",SPORT | Art Sports 2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qiNdQeN.png" tvg-chno="341",SPORT | Art Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qiNdQeN.png" tvg-chno="",SPORT | Art Sports 3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sOnZtrz.png" tvg-chno="360",SPORT | Fox Sports 1 Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sOnZtrz.png" tvg-chno="",SPORT | Fox Sports 1 Asia
 rtmp://xiaoyu.speedws.com/sat/tv731
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sOnZtrz.png" tvg-chno="361",SPORT | Fox Sports 2 Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sOnZtrz.png" tvg-chno="",SPORT | Fox Sports 2 Asia
 rtmp://xiaoyu.speedws.com/sat/tv741
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nus9e8M.jpg" tvg-chno="400",SPORT | World Poker Tour
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
