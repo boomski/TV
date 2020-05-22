@@ -2550,15 +2550,15 @@ https://stream.suryaiptv.net/streams/125_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eQ5vEQu.jpg" tvg-chno="",ID | Bungo TV
 http://103.229.72.178/mobile/bungotv.stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xpX5DeZ.png" tvg-chno="",AE | National Geographic Abu Dhabi HD
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-chno="",AE | Nat Geo Wild [ UAE ]
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" tvg-chno="",AE | Nat Geo People [ UAE ]
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-chno="",AE | National Geographic [ UAE ]
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-chno="",AE | Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" tvg-chno="",AE | Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FAp0RtO.png" tvg-chno="",AE | Sharjah TV
@@ -2572,13 +2572,15 @@ https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F5U9qpf.png" tvg-chno="",AE | Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5S2ci8p.png" tvg-chno="",AE | Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FP2yHkl.png" tvg-chno="",AE | Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" tvg-chno="",AE | Sama Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9c316dr.png" tvg-chno="",AE | Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DQ1RfUa.png" tvg-chno="",AE | Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-chno="",AE | Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FpKvYT1.png" tvg-chno="",AE | Al Wousta TV
@@ -2586,47 +2588,49 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/laJ40ds.png" tvg-chno="",AE | 3eesh Al Aan TV
 http://52.31.121.58/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6FT7yx.jpg" tvg-chno="",AE | Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDhD6kT.png" tvg-chno="",AE | Al Aan TV
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-chno="",AE | MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-chno="",AE | MBC 2 HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-chno="",AE | MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-chno="",AE | MBC 4
-http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bLIbbnK.png" tvg-chno="",AE | MBC 5
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-chno="",AE | MBC Max HD
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-chno="",AE | MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8 
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-chno="",AE | MBC Bollywood
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-chno="",AE | MBC Drama
-http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-chno="",AE | MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lNhSZ9N.png" tvg-chno="",AE | Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6lTEvrU.jpg" tvg-chno="",AE | Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L42Ouau.png" tvg-chno="",AE | Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mT3mCCK.png" tvg-chno="",AE | Cartoon Network كرتون
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nsxrqta.jpg" tvg-chno="",AE | Toheed TV
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-chno="",AE | Wanasah
-http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6Er1lh6.png" tvg-chno="",AE | Sharqiya from Kalba TV
 http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FP2yHkl.png" tvg-chno="",AE | Noor Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IvIdaGB.png" tvg-chno="",AE | B4U Aflam
-http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KnpCnyh.png" tvg-chno="",AE | B4U Plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9Bun2IX.png" tvg-chno="",AE | Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ibUfEGr.png" tvg-chno="",AE | Peace TV
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xhlZOq5.png" tvg-chno="",SA | Al Arabiya
@@ -2634,23 +2638,23 @@ https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SMk1hAy.png" tvg-chno="",SA | Saudi TV 1
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-chno="",SA | Al Quran Al Kareem
-http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b5X9Fzk.jpg" tvg-chno="",SA | Al Sunnah
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wp5Db3g.png" tvg-chno="",SA | Rotana Aflam
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+
 #EXTINF:-1 tvg-id="Rotana Cinéma" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-chno="",SA | Rotana Cinema
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-chno="",SA | Rotana Classic
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" tvg-chno="",SA | Rotana Clip
-http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/niDVfYR.png" tvg-chno="",SA | Rotana Drama
-http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a23fI0c.png" tvg-chno="",SA | Rotana Khalijia
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N4AyK2U.png" tvg-chno="",SA | Rotana Music
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BdqK9NG.png" tvg-chno="",SA | Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iXZiNBh.png" tvg-chno="",SA | Al Resalah HD
@@ -2670,7 +2674,7 @@ http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V3xhyrx.png" tvg-chno="",SA | Al Wesal TV
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B725yZA.png" tvg-chno="",SA | Al Majd TV
-http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-chno="",SA | Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-chno="",SA | Iqraa Europe Africa
@@ -2700,7 +2704,7 @@ http://95.170.215.107/hls/m3u8/Alhayat-M-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sJQMC0b.png" tvg-chno="",EG | Cima
 http://95.170.215.107:80/hls/m3u8/Cima-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8bPQfOO.png" tvg-chno="",EG | Al Kahera Wal Nas
-http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8VbuI9n.png" tvg-chno="",AF | Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8VbuI9n.png" tvg-chno="",AF | Ariana TV US
@@ -2748,7 +2752,7 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eqCEXk6.png" tvg-chno="",KW | Alrai TV
 https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b3pGT5G.png" tvg-chno="",KW | Funoon TV
-http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rpyXHku.png" tvg-chno="",SY | Sama TV
 https://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NlF6zgM.png" tvg-chno="",YE | Al Mahrah
@@ -2772,7 +2776,7 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/azGNY6n.jpg" tvg-chno="",YE | Yemen TV
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KuE4OAU.png" tvg-chno="",SD | Blue Nile
-http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nqAvA6W.png" tvg-chno="",LK | Sooriyan TV
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dZRypdl.jpg" tvg-chno="",BD | Jamuna TV
@@ -2866,7 +2870,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t1O83T7.jpg" tvg-chno="",IN | Shemaroo Punjabi TV
 https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SRqXxHl.png" tvg-chno="",IN | Colors Rishtey
-http://livecdnh3.tvanywhere.ae/hls/rishtey/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qDjEJD9.jpg" tvg-chno="",IN | Chardikla Time Tv North America
 http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6p0TK7e.png" tvg-chno="",KH | Fresh News TV
