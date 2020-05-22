@@ -1765,8 +1765,42 @@ https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ogq22B7.png" tvg-chno="",SI | MMC
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/minly9V.png" tvg-chno="",SK | Jednotka
+https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/49uWKOP.png" tvg-chno="",SK | Dvojka
+https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wKJpGke.jpg" tvg-chno="",SK | JOJ
+http://nn1.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-chno="",SK | JOJ Family
+http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1hKwMpt.png" tvg-chno="",SK | JOJ Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nRDWpNs.jpg" tvg-chno="",SK | Wau TV
+https://nn.geo.joj.sk/live/wau-index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" tvg-chno="",SK | Košice:dnes
+http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KKF1jD9.jpg" tvg-chno="",SK | Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JeiED2h.jpg" tvg-chno="",SK | Televízia OSEM
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QQK4sJs.jpg" tvg-chno="",SK | TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zaemQoz.png" tvg-chno="",SK | LocAll
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" tvg-chno="",SK | Life.tv
+http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3w4SA3V.jpg" tvg-chno="",SK | Senzi TV
+http://109.74.144.130/live/senzitest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k4IK5OS.png" tvg-chno="",SK | TV Nové Zámky
+http://s1.media-planet.sk:80/live/novezamky/lihattv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UY09Qb1.png" tvg-chno="",SK | Oravia
+http://ottst05.flexitv.sk/822-tv-pc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GKBwOFF.jpg" tvg-chno="",SK | Raj TV
+http://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wmkg1FG.png" tvg-chno="",SK | TV Ružinov
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hrhfs9p.png" tvg-chno="",SK | FashionTV Czech & Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yKVLoHq.jpg" tvg-chno="",HU | Bonum TV
 https://stream.y5.hu/stream/stream_bonum/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iTUoC1v.png" tvg-chno="",HU | TV7 Bekescsaba
