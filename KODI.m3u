@@ -889,7 +889,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cNXvGxT.jpg" tvg-chno="",CA | History
 
 #EXTINF:-1 tvg-id="H2" tvg-logo="https://i.imgur.com/fuje8uN.png" tvg-chno="",CA | H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mhhVQE6.png" tvg-chno="",CA | Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bcHP3Vg.png" tvg-chno="",CA | Global British Columbia
@@ -911,7 +911,7 @@ http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4gL9GEa.png" tvg-chno="",CA | Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/venPneF.png" tvg-chno="",CA | Nac TV
-rtmp://pivotalelements.com:1935/live/NACTV
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oRigj9q.jpg" tvg-chno="",CA | Télé Culturelle Médias
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dSvUExH.png" tvg-chno="",CA | Canal Savoir 
@@ -2629,6 +2629,8 @@ http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GmgibYW.jpg" tvg-chno="",AE | Wanasah
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rVYdkth.jpg" tvg-chno="",AE | Hawas TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6Er1lh6.png" tvg-chno="",AE | Sharqiya from Kalba TV
 http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IvIdaGB.png" tvg-chno="",AE | B4U Aflam
@@ -2761,6 +2763,8 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rpyXHku.png" tvg-chno="",SY | Sama TV
 https://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Blt2o5A.jpg" tvg-chno="",SY | Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NlF6zgM.png" tvg-chno="",YE | Al Mahrah
 http://82.212.74.99:8000/live/hls/8173.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cqvNLWs.png" tvg-chno="",YE | 7 Stars
@@ -3123,5 +3127,4 @@ https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="9999",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/venPneF.png" tvg-chno="",CA | Nac TV
-https://raw.githubusercontent.com/boomski/TV/master/worldiptv/NACTV.xspf
+
