@@ -2560,13 +2560,15 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-chno="",AE | Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" tvg-chno="",AE | Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FAp0RtO.png" tvg-chno="",AE | Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" tvg-chno="",AE | Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WjJ8MHC.png" tvg-chno="",AE | Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QKXDeMQ.png" tvg-chno="",AE | Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F5U9qpf.png" tvg-chno="",AE | Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5S2ci8p.png" tvg-chno="",AE | Emarat TV
@@ -2581,10 +2583,12 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FpKvYT1.png" tvg-chno="",AE | Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/laJ40ds.png" tvg-chno="",AE | 3eesh Al Aan TV
+http://52.31.121.58/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6FT7yx.jpg" tvg-chno="",AE | Ajman TV
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDhD6kT.png" tvg-chno="",AE | Al Aan TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-chno="",AE | MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-chno="",AE | MBC 2 HD
@@ -2745,6 +2749,8 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
 https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b3pGT5G.png" tvg-chno="",KW | Funoon TV
 http://livecdnh3.tvanywhere.ae/hls/funoon/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rpyXHku.png" tvg-chno="",SY | Sama TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NlF6zgM.png" tvg-chno="",YE | Al Mahrah
 http://82.212.74.99:8000/live/hls/8173.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cqvNLWs.png" tvg-chno="",YE | 7 Stars
