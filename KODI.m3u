@@ -367,6 +367,10 @@ http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-chno="",SPORT | Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-chno="",SPORT | Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png" tvg-chno="",SPORT | Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F1RmiNq.jpg" tvg-chno="",SPORT | YAS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" tvg-chno="",SPORT | ATG TV
