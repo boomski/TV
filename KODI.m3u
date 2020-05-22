@@ -1200,8 +1200,13 @@ https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle Deutsch
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle Deutsch +
-https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-chno="",DE | Deutsche Welle Arabic
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="eoTV" tvg-logo="https://i.imgur.com/oitJsZU.png" tvg-chno="",DE | EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
 #EXTINF:-1 tvg-id="RiC" tvg-logo="https://i.imgur.com/SXkIqPG.png" tvg-chno="",DE | RiC
