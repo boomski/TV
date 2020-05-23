@@ -2289,10 +2289,18 @@ http://178.253.194.75:1935/live/hram.stream/.m3u8
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HRvjdEz.png" tvg-chno="",IL | Knesset 10
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xAb2ngk.png" tvg-chno="",IL | Kan 11
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GVm2ZqS.png" tvg-chno="",IL | Kan Hinuchit
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SbBgKCZ.png" tvg-chno="",IL | Keshet 12
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8|X-Forwarded-For=5.29.212.20
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HdbYl34.jpg" tvg-chno="",IL | Reshet 13  
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lBbbPI4.jpg" tvg-chno="",IL | Music 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VSNdItO.png" tvg-chno="",IL | Makan 33
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-chno="",IL | Hala TV 
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wKi97Pg.png" tvg-chno="",IL | Hidabroot
