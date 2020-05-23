@@ -167,7 +167,7 @@ https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q29swzC.png" tvg-chno="229",SPORT | Sky Sports F1
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
-#EXTINF:-1 tvg-id="OLYHD Olympic Channel" tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="250",SPORT | Olympic Channel 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="250",SPORT | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="251",SPORT | Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
@@ -247,7 +247,11 @@ http://51.158.176.190/hls/stream.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-chno="330",SPORT | Varzesh TV Farsi 4
 http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yaWTUE6.png" tvg-chno="331",SPORT | Oman Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vVAGOv5.png" tvg-chno="331",SPORT | IRIB Varzesh
+https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EDR7wNK.png" tvg-chno="332",SPORT | Iraqiya Sports
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yaWTUE6.png" tvg-chno="333",SPORT | Oman Sports
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yQCzUi4.png" tvg-chno="",SPORT | RTSH Sport
 https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
@@ -397,11 +401,11 @@ https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="QLD - Brisbane - ABC COMEDY/ABC KIDS NSW" tvg-logo="https://i.imgur.com/pvcSKCg.png" tvg-chno="707",AU | Brisbane | ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="CatchAll - ABC NEWS" tvg-logo="https://i.imgur.com/sGyPkJg.png" tvg-chno="708",AU | ABC Australia
+#EXTINF:-1 tvg-id="Australia Plus TV" tvg-logo="https://i.imgur.com/sGyPkJg.png" tvg-chno="708",AU | ABC Australia
 http://103.205.133.42:1935/local/australia_plus_720/index.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-chno="709",AU | Fox Sports News
+#EXTINF:-1 tvg-id="ACT-Canberra  Fox Sports News HD" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-chno="709",AU | Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="CatchAll - SBS" tvg-logo="https://i.imgur.com/C4CDFdT.png" tvg-chno="710",AU | SBS 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C4CDFdT.png" tvg-chno="710",AU | SBS 
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j4FpOou.png" tvg-chno="711",AU | SBS Viceland 
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
@@ -421,13 +425,13 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" tvg-chno="",AU | Snowy Mountains TV
 http://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u43e7yq.png" tvg-chno="",AU | ACC TV
+#EXTINF:-1 tvg-id="ACT-Canberra  ACC" tvg-logo="https://i.imgur.com/u43e7yq.png" tvg-chno="",AU | ACC TV
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mCGjx9D.png" tvg-chno="",NZ | TVNZ 1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1HshlGj.png" tvg-chno="",NZ | Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z7A1Vrb.png" tvg-chno="",NZ | Maori Television
+#EXTINF:-1 tvg-id="Maori Television" tvg-logo="https://i.imgur.com/Z7A1Vrb.png" tvg-chno="",NZ | Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cVxGC0h.png" tvg-chno="",NZ | Ankhila Punjab
 
@@ -2749,7 +2753,12 @@ http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500330.m3u8
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mVwHGbc.png" tvg-chno="",QA | Al Rayyan Al Qadeem
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WUvqhAZ.png" tvg-chno="",BH | Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sudfo3q.png" tvg-chno="",BH | Bahrain International
+http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OYGfDSq.jpg" tvg-chno="",BH | Bahrain Quran
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C7kfubs.png" tvg-chno="",OM | Oman TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/stADjXC.png" tvg-chno="",OM | Oman TV Mubashir
@@ -2778,6 +2787,10 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
 http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" tvg-chno="",AF | Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uwDKxde.png" tvg-chno="",AF | RTA News
+http://51.15.253.148/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uru4F7A.jpg" tvg-chno="",AF | Asr TV
+http://51.15.120.81/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMsDFu9.png" tvg-chno="",AF | Kabul TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XpR1VvZ.png" tvg-chno="",AF | Kayhan TV
@@ -2786,10 +2799,30 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" tvg-chno="",AF | Shamshad TV
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hZjj9kH.png" tvg-chno="",IR | IRIB 1
+https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DbHF472.png" tvg-chno="",IR | IRIB 2
+https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EpgHNXs.png" tvg-chno="",IR | IRIB 3 
+https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1ZDRDAf.png" tvg-chno="",IR | IRIB 4
+https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/12x2Z1r.png" tvg-chno="",IR | IRIB 5
+https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/05pSCOI.png" tvg-chno="",IR | IRIB Ofogh
+https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Q1p97zM.png" tvg-chno="",IR | IRIB Amoozesh
+https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZJ9UsLT.png" tvg-chno="",IR | IRIB Nasim
+https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PdDNiAo.jpg" tvg-chno="",IR | GEM USA
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VCmSo9i.png" tvg-chno="",IR | iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/El4Ymh6.png" tvg-chno="",IR | iFILM
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ThcqLbU.png" tvg-chno="",IR | iFILM 2
+http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" tvg-chno="",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JeG9K1y.png" tvg-chno="",IQ | Ch4Teen
