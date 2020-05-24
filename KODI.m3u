@@ -497,6 +497,8 @@ http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=2800000.m3u8
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LUhiYfG.jpg" tvg-chno="",US | NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/47wqLpY.png" tvg-chno="",US | CNBC Europe
+https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4aA5JEO.jpg" tvg-chno="",US | Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O2TooM3.png" tvg-chno="",US | BNC
@@ -3338,6 +3340,8 @@ http://streaming1.stream.delivery/simonefm/live/playlist.m3u8
 http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L955hWC.jpg" tvg-chno="9538",RADIO | 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gESSZUd.png" tvg-chno="9902",RADIO | Filmon.tv Radio
+https://edge-1192-ch-gv.filmon.com/live/4151.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHkETp2.png" tvg-chno="9903",RADIO | Radio Iglesias Visual Radio
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGD5z2b.png" tvg-chno="9904",RADIO | Radio Sanborja
