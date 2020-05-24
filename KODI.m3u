@@ -934,7 +934,7 @@ https://pe-ak-lp02a-9c9media.akamaized.net/live/News4Digi/p/dash/00000001/4b36d0
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cNXvGxT.jpg" tvg-chno="",CA | History
 
-#EXTINF:-1 tvg-id="H2" tvg-logo="https://i.imgur.com/fuje8uN.png" tvg-chno="",CA | H2
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="https://i.imgur.com/fuje8uN.png" tvg-chno="",CA | H2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mhhVQE6.png" tvg-chno="",CA | Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
@@ -1018,11 +1018,13 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" tvg-chno="",CA | VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kUCeMKb.png" tvg-chno="",UK | BBC1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kUCeMKb.png" tvg-chno="",UK | BBC 1 HD
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uizrWHu.png" tvg-chno="",UK | BBC2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" tvg-chno="",UK | BBC 1 Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uizrWHu.png" tvg-chno="",UK | BBC 2 HD
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/afChnws.png" tvg-chno="",UK | BBC3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/afChnws.png" tvg-chno="",UK | BBC 3 HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3pRD6Fx.png" tvg-chno="",UK | BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
@@ -1052,6 +1054,10 @@ https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6jn5knh.png" tvg-chno="",UK | FOX UK HD
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yY70OOE.png" tvg-chno="",UK | Really
+https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O8Mbaii.jpg" tvg-chno="",UK | Forces TV
+https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kmHryT4.png" tvg-chno="",UK | Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BVJWUpc.png" tvg-chno="",UK | Hala London
@@ -1114,7 +1120,7 @@ https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="France 5" tvg-logo="https://i.imgur.com/eRQAsS5.png" tvg-chno="",FR | France 5
 
 #EXTINF:-1 tvg-id="France O" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" tvg-chno="",FR | France Ô
-
+https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-chno="",FR | France 24 
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="France 24 Arabian" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-chno="",FR | France 24 Arabic
@@ -1123,6 +1129,8 @@ http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-chno="",FR | France 24 Español
 https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" tvg-chno="",FR | France Info
+https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal+" tvg-logo="https://i.imgur.com/h5P5UJd.png" tvg-chno="",FR | Canal +
 plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
 #EXTINF:-1 tvg-id="C8" tvg-logo="https://i.imgur.com/A5elXFA.png" tvg-chno="",FR | C8
@@ -1149,6 +1157,10 @@ https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="BFM Business" tvg-logo="https://i.imgur.com/mihujKt.jpg" tvg-chno="",FR | BFM Business
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:-1 tvg-id="France 3" tvg-logo="https://i.imgur.com/t1ynZ3x.png" tvg-chno="",FR | France 3 Rhône-Alpes
+https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="France 3" tvg-logo="https://i.imgur.com/2F8l6eE.jpg" tvg-chno="",FR | France 3 Alpes
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Wéo" tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" tvg-chno="",FR | Wéo
 plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H1a3uLT.png" tvg-chno="",FR | Wéo Picardie
@@ -1961,13 +1973,15 @@ https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-id="RU-Россия 1" tvg-logo="https://i.imgur.com/9Z0ivs4.png" tvg-chno="",RU | Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="RU-Россия 24" tvg-logo="https://i.imgur.com/tb3Os7l.png" tvg-chno="",RU | Russia 24
-http://188.93.95.34:80/russia24/index.m3u8
+https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kGB9fZe.png" tvg-chno="",RU | Planeta RTR
-http://188.93.95.34:80/rtr/index.m3u8
+https://edge-1192-ch-gv.filmon.com/live/1738.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0BF84Ub.png" tvg-chno="",RU | Russia K
 http://188.93.95.34:80/russiaculture/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UYpJFJ9.png" tvg-chno="",RU | Pervyj Kanal
 http://188.93.95.34:80/ort/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UYpJFJ9.png" tvg-chno="",RU | Pervyj Kanal Europa
+https://edge-1192-ch-gv.filmon.com/live/1735.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BOry400.png" tvg-chno="",RU | Мoscow 24
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zvhT8JO.png" tvg-chno="",RU | TV3
@@ -2458,6 +2472,8 @@ http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8
 https://edge2.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RDokpwD.png" tvg-chno="",BF | Impac TV
 https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cigPTAg.png" tvg-chno="",ER | ERi-TV
+https://edge-1192-ch-gv.filmon.com/live/1793.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" tvg-chno="",CN | CCTV 1
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rb0mjkC.jpg" tvg-chno="",CN | CCTV 2
@@ -2486,7 +2502,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5s9FgOJ.jpg" tvg-chno="",CN | CCTV 15
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8mYzQft.jpg" tvg-chno="",CN | CCTV 17
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cr8OF2D.jpg" tvg-chno="",CN | CCTV 17
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W8pX3GO.jpg" tvg-chno="",CN | iPanda
 plugin://plugin.video.dailymotion_com/?url=x6zv6nc&mode=playLiveVideo
@@ -3112,6 +3128,8 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UpSNMMI.png" tvg-chno="",IN | India Ahead
 http://p-indiaahead.planetcast.in/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ymVf9aC.jpg" tvg-chno="",IN | India Today
+https://edge-1192-ch-gv.filmon.com/live/3482.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CNPQDqa.png" tvg-chno="",IN | NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/71xhF2J.jpg" tvg-chno="",IN | Discovery Hindi 
