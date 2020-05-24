@@ -2470,6 +2470,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pIOBbqT.png" tvg-chno="",KR | Fishing TV
 http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" tvg-chno="",KR | CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hObPElR.jpg" tvg-chno="",TW | Momo TV
 rtmp://xiaoyu.speedws.com/sat/tv761
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1PmloYC.jpg" tvg-chno="",TW | Jingyang Theater
@@ -3204,6 +3206,14 @@ plugin://plugin.video.vtm.go/play/catalog/channels/57940c42-a225-44be-8691-46d51
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" tvg-chno="9006",RADIO | City Music TV
 http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ekRMtra.png" tvg-chno="9007",RADIO | Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Klara" tvg-logo="https://i.imgur.com/5GrB3ao.png" tvg-chno="9008",RADIO | Klara
+http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLYsKKC.png" tvg-chno="9100",RADIO | Omroep Brabant Radio
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L955hWC.jpg" tvg-chno="9538",RADIO | 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-chno="9904",RADIO | NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4ntor8S.png" tvg-chno="9905",RADIO | Eldoradio TV
@@ -3232,16 +3242,12 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qMYXsMH.png" tvg-chno="9968",RADIO | Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ekRMtra.png" tvg-chno="9969",RADIO | Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" tvg-chno="9970",RADIO | RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/86vloE3.jpg" tvg-chno="9971",RADIO | Unserding
 https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/96FfLIj.jpg" tvg-chno="9972",RADIO | Lèeekô TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L955hWC.jpg" tvg-chno="9973",RADIO | 538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XNiWKvL.png" tvg-chno="9974",RADIO | Brandnite TV
 https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pb4Iqno.png" tvg-chno="9975",RADIO | Hitradio Ö3
@@ -3254,8 +3260,6 @@ https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
 https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJie1k5.png" tvg-chno="9979",RADIO | Teins TV
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="Klara" tvg-logo="https://i.imgur.com/5GrB3ao.png" tvg-chno="9980",RADIO | Klara
-http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zYO4KjA.jpg" tvg-chno="9981",RADIO | Radio Van 103.0 FM Yerevan
 http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bXlNxG3.jpg" tvg-chno="9982",RADIO | VIBE TV
