@@ -363,6 +363,12 @@ http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/knM3pJm.png" tvg-chno="",SPORT | JTBC Golf
 http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ER9wyhX.png" tvg-chno="",SPORT | CCTV 5
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j1KtJYZ.png" tvg-chno="",SPORT | CCTV 5+ 
+http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6VWliTG.jpg" tvg-chno="",SPORT | NewTV Super Sports
+http://112.50.243.8/PLTV/88888888/224/3221225803/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yu69NyF.jpg" tvg-chno="",SPORT | Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-id="FC BAYERN" tvg-logo="https://i.imgur.com/b6tcf2i.jpg" tvg-chno="",SPORT | FC Bayern Munchen TV
@@ -2454,16 +2460,42 @@ https://edge2.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N8IaQMJ.png" tvg-chno="",CN | CCTV 1
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SpbSZuK.png" tvg-chno="",CN | CCTV 2
+http://112.50.243.8/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Qj9O5w.jpg" tvg-chno="",CN | CCTV 4
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ER9wyhX.png" tvg-chno="",CN | CCTV 5
-http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j1KtJYZ.png" tvg-chno="",CN | CCTV 5+ 
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nBVqsQm.png" tvg-chno="",CN | CCTV 7
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VnIsuF4.png" tvg-chno="",CN | CCTV 9
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/koN1uDJ.jpg" tvg-chno="",CN | CCTV 10
+http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hdBSEJd.jpg" tvg-chno="",CN | CCTV 11
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qGiwuIu.jpg" tvg-chno="",CN | CCTV 12
+http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mQ9LdVx.jpg" tvg-chno="",CN | CCTV 13
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IrNSd08.jpg" tvg-chno="",CN | CCTV 14
+http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iS6bcgU.png" tvg-chno="",CN | CCTV 15
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CchQPK7.png" tvg-chno="",CN | CCTV 17
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W8pX3GO.jpg" tvg-chno="",CN | iPanda
 plugin://plugin.video.dailymotion_com/?url=x6zv6nc&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dvjH5RE.png" tvg-chno="",CN | NewTV Super Variety
+http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XDnKX3H.png" tvg-chno="",CN | NewTV Super Movie
+http://112.50.243.8/PLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/60vaOLj.jpg" tvg-chno="",CN | NewTV Super TV Series
+http://112.50.243.8/PLTV/88888888/224/3221225806/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ul2q9zz.png" tvg-chno="",CN | CGTN 
+http://112.50.243.8/PLTV/88888888/224/3221225822/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/njeNLUG.jpg" tvg-chno="",CN | CGTN Documentary
+http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L72bZvF.jpg" tvg-chno="",CN | Guangdong Satellite TV HD
+http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C8BZ0Ja.png" tvg-chno="",HK | TVB Xing He
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d45LP0W.jpg" tvg-chno="",HK | TVB Jade
