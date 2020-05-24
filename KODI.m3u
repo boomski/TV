@@ -99,8 +99,8 @@ http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 tvg-id="RTV Noord" tvg-logo="https://i.imgur.com/yZEsfsv.png" tvg-chno="68",NL | RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yZEsfsv.png" tvg-chno="69",NL | RTV Noord Extra
-http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3c3QUSn.png" tvg-chno="69",NL | Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 #EXTINF:-1 tvg-id="RTV Utrecht" tvg-logo="https://i.imgur.com/UVd0Zn5.png" tvg-chno="70",NL | RTV Utrecht
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" tvg-chno="71",NL | Podium.TV
@@ -109,6 +109,22 @@ http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&type=live&service=wowz
 http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&type=live&service=wowza&output=playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" tvg-chno="73",NL | Podium.TV 3
 http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowza&output=playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" tvg-chno="74",NL | Omrop Fryslan
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xC9hOVK.png" tvg-chno="75",NL | RTV Noordoost Friesland
+http://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PvR4U88.jpg" tvg-chno="76",NL | RTV Oost
+http://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TYsLlr0.png" tvg-chno="77",NL | RTV Rijnmond
+https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3omdaMe.jpg" tvg-chno="100",NL | Breda Nu
+https://media.streamone.net/hlslive/account=H6AAMOMZSU0W/livestream=nJQBqssIRB82/live-audio101_dut=128000-video=2200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UuVwFHP.png" tvg-chno="101",NL | 1Twente
+http://ms7.mx-cd.net/tv/198-989148/1Twente_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4kURvuH.png" tvg-chno="111",NL | TV Ellef
+http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpqkkX7.jpg" tvg-chno="112",NL | TV Valkenburg
+http://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 #EXTINF:-1 tvg-id="DocuBox HD" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" tvg-chno="",NL | DocuBox HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sx1yiF9.png" tvg-chno="",NL | Filmbox Extra
@@ -1687,6 +1703,28 @@ http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YdiF5k6.png" tvg-chno="",BO | TVU
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Oa9vhjS.png" tvg-chno="",PE | TVPerú HD
+https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hP4nps.png" tvg-chno="",PE | BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FI1Hd4E.png" tvg-chno="",PE | IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uQhEDES.png" tvg-chno="",PE | Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cLItW9C.png" tvg-chno="",PE | CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B89KuHO.png" tvg-chno="",PE | Pax TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nmAlmX4.png" tvg-chno="",PE | TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7I13BUc.png" tvg-chno="",PE | Antares TV SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ki7ZvDD.png" tvg-chno="",PE | Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jzAqHsz.jpg" tvg-chno="",PE | Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PFu5tT7.png" tvg-chno="",PE | Top Latino TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oZkDq0G.png" tvg-chno="",CW | DCTV
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Kbx9ade.png" tvg-chno="",CW | Nos Païs
@@ -3200,7 +3238,7 @@ plugin://plugin.video.vrt.nu/play/id/vualto_mnm
 plugin://plugin.video.vrt.nu/play/id/vualto_stubru
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mKq6Kv.jpg" tvg-chno="9003",RADIO | VRT NWS
 plugin://plugin.video.vrt.nu/play/id/vualto_nieuws
-#EXTINF:-1 tvg-id="Q-music" tvg-logo="https://i.imgur.com/Z0d2oII.png" tvg-chno="9004",RADIO | Q Music
+#EXTINF:-1 tvg-id="Q-music" tvg-logo="https://i.imgur.com/Z0d2oII.png" tvg-chno="9004",RADIO | Q Music België
 plugin://plugin.video.vtm.go/play/catalog/channels/57940c42-a225-44be-8691-46d5175e2d01?.pvr
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RMjFeGE.png" tvg-chno="9005",RADIO | Radio PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
@@ -3210,12 +3248,28 @@ http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Klara" tvg-logo="https://i.imgur.com/5GrB3ao.png" tvg-chno="9008",RADIO | Klara
 http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-chno="9009",RADIO | NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KLYsKKC.png" tvg-chno="9100",RADIO | Omroep Brabant Radio
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/P8cVMle.jpg" tvg-chno="9101",RADIO | Qmusic Nederland
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OTyX1vp.png" tvg-chno="9102",RADIO | Radio Veronica
+http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QV73Guo.jpg" tvg-chno="9103",RADIO | Klipkar TV
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yZEsfsv.png" tvg-chno="9104",RADIO | RTV Noord Extra
+http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" tvg-chno="9105",RADIO | BNR Nieuwsradio
+http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w60x1M7.jpg" tvg-chno="9106",RADIO | Simone FM
+http://streaming1.stream.delivery/simonefm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wDB4Gd2.png" tvg-chno="9110",RADIO | Radio 10
+http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L955hWC.jpg" tvg-chno="9538",RADIO | 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" tvg-chno="9904",RADIO | NRJ Hits TV
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QGD5z2b.png" tvg-chno="9904",RADIO | Radio Sanborja
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4ntor8S.png" tvg-chno="9905",RADIO | Eldoradio TV
 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b2168000_slltz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Rj0uts.jpg" tvg-chno="9906",RADIO | Fun Radio
