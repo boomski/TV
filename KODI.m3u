@@ -1031,7 +1031,7 @@ https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/afChnws.png" tvg-chno="",UK | BBC 3 HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3pRD6Fx.png" tvg-chno="",UK | BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-chno="",UK | Sky News
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=skynews&item_module=resources.lib.channels.uk.sky&item_dict={}
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-chno="",UK | Sky News Americas
@@ -1295,6 +1295,12 @@ http://bemtv.parom.tv/hls/stream329/stream0.m3u8
 https://bemtv.parom.tv/hls/stream274/stream0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MH1woDV.png" tvg-chno="",DE | KaufBei.TV
 http://bemtv.parom.tv/hls/stream328/stream0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G1mgVMD.png" tvg-chno="",DE | Sophia TV
+https://edge-1192-ch-gv.filmon.com/live/4721.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fnW0Pk8.jpg" tvg-chno="",DE | HSE 24
+https://edge-1192-ch-gv.filmon.com/live/4727.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W3bzWe2.jpg" tvg-chno="",DE | HSE 24 Extra
+https://edge-1192-ch-gv.filmon.com/live/4730.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Servus TV" tvg-logo="https://i.imgur.com/B6QWXt3.jpg" tvg-chno="",AT | Servus TV Österreich
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mw9GNmh.png" tvg-chno="",AT | RTL Austria
