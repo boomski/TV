@@ -167,6 +167,8 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FgyiahB.png" tvg-chno="214",SPORT | BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GJApWEn.png" tvg-chno="215",SPORT | Sport 1 Deutschland
+https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel (TENNIS)" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" tvg-chno="220",SPORT | Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" tvg-chno="221",SPORT | Tennis Plus 1
@@ -193,29 +195,29 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" tvg-chno="254",SPORT | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szFw7MG.png" tvg-chno="271",SPORT | Esport3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szFw7MG.png" tvg-chno="",SPORT | Esport3
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J1VuYAB.png" tvg-chno="280",SPORT | Football 1 Ukraine
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J1VuYAB.png" tvg-chno="",SPORT | Football 1 Ukraine
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e7E9Of9.jpg" tvg-chno="281",SPORT | Football 2 Ikraine
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e7E9Of9.jpg" tvg-chno="",SPORT | Football 2 Ikraine
 https://95-213-224-183.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wBJI5Jw.png" tvg-chno="282",SPORT | Sport 1 Ukraine
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wBJI5Jw.png" tvg-chno="",SPORT | Sport 1 Ukraine
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GFyUz2D.jpg" tvg-chno="297",SPORT | LSN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GFyUz2D.jpg" tvg-chno="",SPORT | LSN
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oMxx8ts.png" tvg-chno="298",SPORT | Adventure Sports Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oMxx8ts.png" tvg-chno="",SPORT | Adventure Sports Network
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-chno="299",SPORT | World Of Free Sports TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-chno="",SPORT | World Of Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2msWdzQ.jpg" tvg-chno="300",SPORT | Horizon Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2msWdzQ.jpg" tvg-chno="",SPORT | Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 1" tvg-logo="https://i.imgur.com/5khL0fh.png" tvg-chno="301",SPORT | Nova Sport 1
+#EXTINF:-1 tvg-id="Nova Sport 1" tvg-logo="https://i.imgur.com/5khL0fh.png" tvg-chno="",SPORT | Nova Sport 1
 https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
-#EXTINF:-1 tvg-id="Nova Sport 2" tvg-logo="https://i.imgur.com/JdtVhYM.png" tvg-chno="302",SPORT | Nova Sport 2
+#EXTINF:-1 tvg-id="Nova Sport 2" tvg-logo="https://i.imgur.com/JdtVhYM.png" tvg-chno="",SPORT | Nova Sport 2
 https://h1-s5.c.markiza.sk/hls/novasport2-hd-master.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mdDEd5F.png" tvg-chno="303",SPORT | Sportacentrs
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mdDEd5F.png" tvg-chno="",SPORT | Sportacentrs
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WctAqnI.png" tvg-chno="304",SPORT | Africa Sports TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WctAqnI.png" tvg-chno="",SPORT | Africa Sports TV
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-chno="305",SPORT | Abu Dhabi Sports
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
