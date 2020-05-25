@@ -377,6 +377,8 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1,tvg-id="" tvg-logo="https://i.imgur.com/K4H2zNk.jpg" tvg-chno="",SPORT | Atlanta United Fan TV
 https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c5s5l3n.png" tvg-chno="",SPORT | RTV Sport
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hOiqyw.png" tvg-chno="",SPORT | Eurosport 1 Portugal
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7hOiqyw.png" tvg-chno="",SPORT | Eurosport 1 Russia
@@ -421,43 +423,43 @@ https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playli
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" tvg-chno="",SPORT | ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-id="SA - Adelaide - TEN" tvg-logo="https://i.imgur.com/qoseE0Y.png" tvg-chno="700",AU | Adelaide | 10
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qoseE0Y.png" tvg-chno="700",AU | Adelaide | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="SA - Adelaide - 10 Peach" tvg-logo="https://i.imgur.com/SwHhldH.png" tvg-chno="701",AU | Adelaide | 10 Peach
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwHhldH.png" tvg-chno="",AU | Adelaide | 10 Peach
 https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="SA - Adelaide - 10 Bold" tvg-logo="https://i.imgur.com/ILLDCjf.png" tvg-chno="702",AU | Adelaide | 10 Bold
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ILLDCjf.png" tvg-chno="",AU | Adelaide | 10 Bold
 https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="QLD - Brisbane - ABC" tvg-logo="https://i.imgur.com/vCbgD85.png" tvg-chno="703",AU | Brisbane | ABC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vCbgD85.png" tvg-chno="",AU | Brisbane | ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="CatchAll - ABC NEWS" tvg-logo="https://i.imgur.com/2Ptv1pR.png" tvg-chno="704",AU | ABC News 24
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="QLD - Brisbane - ABC COMEDY/ABC KIDS NSW" tvg-logo="https://i.imgur.com/Ko73hoG.png" tvg-chno="705",AU | Brisbane | ABC Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ko73hoG.png" tvg-chno="",AU | Brisbane | ABC Comedy
 https://i.mjh.nz/au/Brisbane/tv.abc2.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="QLD - Brisbane - ABC ME" tvg-logo="https://i.imgur.com/erAnTns.png" tvg-chno="706",AU | Brisbane | ABC ME
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/erAnTns.png" tvg-chno="",AU | Brisbane | ABC ME
 https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="QLD - Brisbane - ABC COMEDY/ABC KIDS NSW" tvg-logo="https://i.imgur.com/pvcSKCg.png" tvg-chno="707",AU | Brisbane | ABC Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pvcSKCg.png" tvg-chno="",AU | Brisbane | ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="Australia Plus TV" tvg-logo="https://i.imgur.com/sGyPkJg.png" tvg-chno="708",AU | ABC Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sGyPkJg.png" tvg-chno="",AU | ABC Australia
 http://103.205.133.42:1935/local/australia_plus_720/index.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="ACT-Canberra  Fox Sports News HD" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-chno="709",AU | Fox Sports News
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Ptv1pR.png" tvg-chno="",AU | ABC News 24
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-chno="",AU | Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C4CDFdT.png" tvg-chno="710",AU | SBS 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C4CDFdT.png" tvg-chno="",AU | SBS 
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j4FpOou.png" tvg-chno="711",AU | SBS Viceland 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j4FpOou.png" tvg-chno="",AU | SBS Viceland 
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M3ZGxCO.png" tvg-chno="712",AU | SBS World Movies 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M3ZGxCO.png" tvg-chno="",AU | SBS World Movies 
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZIempPX.png" tvg-chno="713",AU | SBS FOOD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZIempPX.png" tvg-chno="",AU | SBS FOOD
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pm9it9z.png" tvg-chno="714",AU | NITV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pm9it9z.png" tvg-chno="",AU | NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" tvg-chno="715",AU | Australia Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" tvg-chno="",AU | Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-chno="716",AU | Sky News Extra 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-chno="",AU | Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-chno="717",AU | Sky News Extra 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-chno="",AU | Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-chno="718",AU | Sky News Extra 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-chno="",AU | Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" tvg-chno="",AU | Snowy Mountains TV
 http://c.mjh.nz/snowy-mountains/
@@ -1401,10 +1403,36 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BPTJKJP.png" tvg-chno="",IT | Rai Italia
 http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wbxjxXr.jpg" tvg-chno="",IT | TV2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8|X-Forwarded-For=77.238.31.240
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uh4R5Ih.png" tvg-chno="",IT | Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZcKCoBB.png" tvg-chno="",IT | Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r5kZOiP.jpg" tvg-chno="",IT | Canale 8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/635wP48.png" tvg-chno="",IT | Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j2jsyuL.png" tvg-chno="",IT | Canale 21 Campania
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j2jsyuL.png" tvg-chno="",IT | Canale 21 Lazio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mDqz5VB.jpg" tvg-chno="",IT | Canale 85 Puglia
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FBvCm5S.png" tvg-chno="",IT | AB Channel
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rpr1SHd.jpg" tvg-chno="",IT | Alto Adige TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2kNV88y.png" tvg-chno="",IT | Antenna Sud
+http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y1Yq3iV.png" tvg-chno="",IT | Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ZDx6qb.png" tvg-chno="",IT | Azzurra TV
+https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UprfgwE.png" tvg-chno="",IT | Cafè TV 24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TYfGTX9.png" tvg-chno="",IT | MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wbxjxXr.jpg" tvg-chno="",IT | TV2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8|X-Forwarded-For=77.238.31.240
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f7RTt0R.jpg" tvg-chno="",IT | TV Luna
 http://live.sloode.com:1935/teleluna/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="DR1" tvg-logo="https://i.imgur.com/JALM2Ts.png" tvg-chno="",DK | DR 1
@@ -3348,6 +3376,8 @@ http://streaming1.stream.delivery/simonefm/live/playlist.m3u8
 http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L955hWC.jpg" tvg-chno="9538",RADIO | 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5r0fymd.jpg" tvg-chno="9901",RADIO | Radio Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gESSZUd.png" tvg-chno="9902",RADIO | Filmon.tv Radio
 https://edge-1192-ch-gv.filmon.com/live/4151.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHkETp2.png" tvg-chno="9903",RADIO | Radio Iglesias Visual Radio
@@ -3437,3 +3467,23 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="9999",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
 
+#EXTINF:-1 tvg-id="tv.101406020625" tvg-logo="http://i.mjh.nz/au/images/tv.101406020625.png",TEN
+http://i.mjh.nz/au/Canberra/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101406020628" tvg-logo="http://i.mjh.nz/au/images/tv.101406020628.png",10 Peach
+http://i.mjh.nz/au/Canberra/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.101406020621" tvg-logo="http://i.mjh.nz/au/images/tv.101406020621.png",10 Bold
+http://i.mjh.nz/au/Canberra/tv.101406020621.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/au/images/tv.7openshop.png",openshop
+http://i.mjh.nz/au/Canberra/tv.7openshop.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.7iwonder" tvg-logo="http://i.mjh.nz/au/images/tv.7iwonder.png",iwonder
+http://i.mjh.nz/au/Canberra/tv.7iwonder.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/au/images/tv.7ausbiz.png",ausbiz TV
+http://i.mjh.nz/au/Canberra/tv.7ausbiz.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/au/images/tv.7pac12.png",PAC-12
+http://i.mjh.nz/au/Canberra/tv.7pac12.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
