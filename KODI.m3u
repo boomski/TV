@@ -279,6 +279,8 @@ https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
 https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yaWTUE6.png" tvg-chno="333",SPORT | Oman Sports
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pXxx1e3.png" tvg-chno="334",SPORT | PTV Sports
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yQCzUi4.png" tvg-chno="",SPORT | RTSH Sport
 https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q7xHwxd.png" tvg-chno="",SPORT | SuperSport 1
@@ -3034,8 +3036,6 @@ http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" tvg-chno="",AF | Shamshad TV
 https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W2s0lGP.png" tvg-chno="",PK | BOL News
-http://playlive.goonj.pk/bolweb_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOIqvce.jpg" tvg-chno="",PK | BOL Entertainment
 http://playlive.goonj.pk/bolentweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iqbsKgG.png" tvg-chno="",PK | BOL News
@@ -3084,6 +3084,10 @@ http://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8
 http://playlive.goonj.pk/8xmweb_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Hw94SaM.jpg" tvg-chno="",PK | Kay 2
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-chno="",PK | Nazrana TV
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RtHeRwp.png" tvg-chno="",PK | Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hZjj9kH.png" tvg-chno="",IR | IRIB 1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DbHF472.png" tvg-chno="",IR | IRIB 2
