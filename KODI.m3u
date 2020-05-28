@@ -3487,3 +3487,15 @@ http://195.9.195.3:8080/hls/122431.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/SkySportNews.de.png" group-title="Deutschland",Sky Sports News Deutsch
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/7TWO.au.png" group-title="Oceania",7Two(Aus VPN)
+https://csm-e.tls1.yospace.com/csm/extlive/sevenprd01,BRI2.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/7Mate.au.png" group-title="Oceania",7Mate(Aus VPN)
+https://csm-e.tls1.yospace.com/csm/extlive/sevenprd01,BRI3.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/Channel9.au.png" group-title="Oceania",Channel 9(Aus VPN)
+https://9now-live.akamaized.net/hls/live/708951-b/ch9-syd/master.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Gem.au.png" group-title="Oceania",9 Gem(Aus VPN)
+https://9now-live.akamaized.net/hls/live/704980/gem-syd/master.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Go.au.png" group-title="Oceania",9 Go!(Aus VPN)
+https://9now-live.akamaized.net/hls/live/708938/go-syd/master.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/9Life.au.png" group-title="Oceania",9 Life(Aus VPN)
+https://9now-live.akamaized.net/hls/live/708945/life-syd/master.m3u8|X-Forwarded-For=52.62.247.239
