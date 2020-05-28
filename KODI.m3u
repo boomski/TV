@@ -427,10 +427,16 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qoseE0Y.png" tvg-chno="700",AU | Adelaide | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qoseE0Y.png" tvg-chno="",AU | Canberra | 10
+http://i.mjh.nz/au/Canberra/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwHhldH.png" tvg-chno="",AU | Adelaide | 10 Peach
 https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SwHhldH.png" tvg-chno="",AU | Canberra | 10 Peach
+http://i.mjh.nz/au/Canberra/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ILLDCjf.png" tvg-chno="",AU | Adelaide | 10 Bold
 https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ILLDCjf.png" tvg-chno="",AU | Canberra | 10 Bold
+http://i.mjh.nz/au/Canberra/tv.101406020621.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vCbgD85.png" tvg-chno="",AU | Brisbane | ABC
 https://i.mjh.nz/au/Brisbane/tv.101002410241.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ko73hoG.png" tvg-chno="",AU | Brisbane | ABC Comedy
@@ -465,6 +471,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" tvg-chno="",AU | Snowy Mountains TV
 http://c.mjh.nz/snowy-mountains/
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.mjh.nz/au/images/tv.7ausbiz.png"  tvg-chno="",AU | ausbiz TV
+http://i.mjh.nz/au/Canberra/tv.7ausbiz.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="ACT-Canberra  ACC" tvg-logo="https://i.imgur.com/u43e7yq.png" tvg-chno="",AU | ACC TV
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8|X-Forwarded-For=52.62.247.239
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mCGjx9D.png" tvg-chno="",NZ | TVNZ 1
@@ -3477,23 +3485,5 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="9999",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
 
-#EXTINF:-1 tvg-id="tv.101406020625" tvg-logo="http://i.mjh.nz/au/images/tv.101406020625.png",TEN
-http://i.mjh.nz/au/Canberra/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.101406020628" tvg-logo="http://i.mjh.nz/au/images/tv.101406020628.png",10 Peach
-http://i.mjh.nz/au/Canberra/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.101406020621" tvg-logo="http://i.mjh.nz/au/images/tv.101406020621.png",10 Bold
-http://i.mjh.nz/au/Canberra/tv.101406020621.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/au/images/tv.7openshop.png",openshop
-http://i.mjh.nz/au/Canberra/tv.7openshop.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.7iwonder" tvg-logo="http://i.mjh.nz/au/images/tv.7iwonder.png",iwonder
-http://i.mjh.nz/au/Canberra/tv.7iwonder.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/au/images/tv.7ausbiz.png",ausbiz TV
-http://i.mjh.nz/au/Canberra/tv.7ausbiz.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-
-#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/au/images/tv.7pac12.png",PAC-12
-http://i.mjh.nz/au/Canberra/tv.7pac12.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/SkySportNews.de.png" group-title="Deutschland",Sky Sports News Deutsch
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8|X-Forwarded-For=91.197.29.78
