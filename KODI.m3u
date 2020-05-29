@@ -3454,6 +3454,34 @@ http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 http://streaming1.stream.delivery/simonefm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wDB4Gd2.png" tvg-chno="9110",RADIO | Radio 10
 http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | DJing",Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | DJing",Djing TV HD
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Hits
+https://www.djing.com/tv/i-28634-04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Underground HD
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Summer Vibes HD
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Wild EDM HD
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Animation HD
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Classic HD
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Electro Rock HD
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing French touch HD
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | DJing",Djing Karaoke HD 2
+http://www.djing.com/tv/karaoke.m3u8?version=2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L955hWC.jpg" tvg-chno="9538",RADIO | 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5r0fymd.jpg" tvg-chno="9901",RADIO | Radio Carina TV
