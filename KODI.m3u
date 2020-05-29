@@ -3597,4 +3597,17 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="9999",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | K2
+https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | DMax
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
