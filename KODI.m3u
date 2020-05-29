@@ -2492,6 +2492,10 @@ https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8?sd=10&r
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bQOOgh6.jpg" tvg-chno="",IL | BLOCKTV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HwRaOKi.png" tvg-chno="",TN | Sahel TV
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cZM2t0P.png" tvg-chno="",TN | Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PbLE9S2.jpg" tvg-chno="",AO | TPA 1
 http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qiGrf6k.png" tvg-chno="",CI | NTV Afrique
