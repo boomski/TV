@@ -1423,20 +1423,32 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BPTJKJP.png" tvg-chno="",IT | Rai Italia
 http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KrBSHdg.jpg" tvg-chno="",IT | HGTV
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uh4R5Ih.png" tvg-chno="",IT | Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZcKCoBB.png" tvg-chno="",IT | Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r5kZOiP.jpg" tvg-chno="",IT | Canale 8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y8XnGSE.jpg" tvg-chno="",IT | Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/635wP48.png" tvg-chno="",IT | Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j2jsyuL.png" tvg-chno="",IT | Canale 21 Campania
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j2jsyuL.png" tvg-chno="",IT | Canale 21 Lazio
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ggRRoj8.jpg" tvg-chno="",IT | Real Time
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1mDr7Kt.jpg" tvg-chno="",IT | Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvpxGjz.png" tvg-chno="",IT | Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uuPfSKW.png" tvg-chno="",IT | DMax
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KrBSHdg.jpg" tvg-chno="",IT | HGTV
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xd7JVc0.jpg" tvg-chno="",IT | MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mDqz5VB.jpg" tvg-chno="",IT | Canale 85 Puglia
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FBvCm5S.png" tvg-chno="",IT | AB Channel
@@ -3456,9 +3468,9 @@ http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 http://streaming1.stream.delivery/simonefm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wDB4Gd2.png" tvg-chno="9110",RADIO | Radio 10
 http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | DJing",Djing TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing TV
 https://www.djing.com/tv/28638-04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | DJing",Djing TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing TV HD
 http://www.djing.com/tv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Hits
 https://www.djing.com/tv/i-28634-04.m3u8
@@ -3482,7 +3494,7 @@ http://www.djing.com/tv/dancefloor.m3u8
 https://www.djing.com/tv/s-28634-05-hedonist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Karaoke HD
 http://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | DJing",Djing Karaoke HD 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meIL2zY.png" tvg-chno="",RADIO | Djing Karaoke HD 2
 http://www.djing.com/tv/karaoke.m3u8?version=2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f9cedp0.png" tvg-chno="",RADIO | Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
@@ -3597,17 +3609,4 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="9999",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | MotorTrend
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | K2
-https://sbshdlu2-lh.akamaihd.net/i/sbshdl_21@443297/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Real Time
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | DMax
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DPlay_225x225.png?raw=true" group-title="Italy | dplay",Italy | Food Network
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+
