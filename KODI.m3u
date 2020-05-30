@@ -581,7 +581,7 @@ https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C0NoakZ.jpg" tvg-chno="",US | Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n1Zrw82.png" tvg-chno="",US | NASA
-https://live1-slivertv.akamaized.net/hls/live/2015785/hls_streamer_us_west_0093/usr0q0bb3niujpasufr_source/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FLqTUXD.png" tvg-chno="999",US | WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4Mbe9eU.png" tvg-chno="",US | Baton Rouge | ABC 2 WBRZ 
@@ -590,6 +590,8 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JExsI09.png" tvg-chno="",US | Denver | ABC 7 KMGH 
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dfnY67p.jpg" tvg-chno="",US | Chattanooga | ABC 9 WTVC
+https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XgF6S22.png" tvg-chno="",US | Omaha | CBS 3 KMTV 
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ByPFQGp.png" tvg-chno="",US | Albany | CBS 6 WRGB
