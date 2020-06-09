@@ -1,34 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+ 
 <item>
-<title>HDTV.DE</title>
-<thumbnail>https://i.imgur.com/IyY6Xp8.jpg</thumbnail>  
-<fanart>https://i.imgur.com/IyY6Xp8.jpg</fanart>   
-<link>$doregex[makelist]</link>
+<title>DE | German Football</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param3]</title>
-  <link>$doregex[getUrl]</link>
-  <thumbnail>[makelist.param1]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[(?s)"moviefilm".+?src="([^"]+).+?href="(.*?)">([^<]+)]]></expres>
-<page>https://www.hdtvde.com/category/deutsche-tv-sender/</page>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC7am34-1rGU_ky1vWYnoOJQ</page>
 </regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):
-  link=re.findall('"filmicerik"[\w\W]*?src="([^"]+)',page_data)[0]
-  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param2]'}).content
-  return re.findall('id=.tvplayer[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)',source)[0]+'|user-agent=ipad&referer='+link
-]]></expres>
-<page>[makelist.param2]</page>
-<referer>https://www.hdtvde.com/category/deutsche-tv-sender/</referer>
-</regex>
-</item>  
-
+<thumbnail>https://i.imgur.com/1AJcSqR.jpg</thumbnail>  
+</item> 
+  
+  
 <item>
 <title>DE | DW News</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
@@ -37,18 +21,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg</page>
 </regex>
-<thumbnail>https://i.imgur.com/bWqMBSJ.png</thumbnail>  
-<fanart>https://i.imgur.com/IyY6Xp8.jpg</fanart>  
+<thumbnail>https://i.imgur.com/nrVxTa3.jpg</thumbnail>   
 </item> 
   
-<item>
-<title>DE | Astro TV</title>
-<thumbnail>https://i.imgur.com/e3p4DxR.png</thumbnail>
-<link>ignore</link>  
-<fanart>https://i.imgur.com/lqjnQRE.jpg</fanart>  
-<externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/astrotvoriginal</externallink>
-</item>  
-
 </items>
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1aKGRi.png",DE | DW
