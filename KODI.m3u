@@ -3753,5 +3753,6 @@ https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="9999",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pdZ7aSw.png" tvg-chno="",LT | LRT Lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica
 
