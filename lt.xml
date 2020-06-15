@@ -33,6 +33,24 @@
 <fanart>https://i.imgur.com/bqexBuU.jpg</fanart>       
 </item>    
   
+<item>
+<title>LRT **lnk.lt/video/info-tv-hd-kanalas-internetu/96749**</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re, requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  m3u8=re.findall('videoUrl":"(.*?)"',page_data)[0]
+  tok=re.findall('"secureTokenParams":"(.*?)"',page_data)[0]
+  #source=requests.get(url,headers={'user-agent':'Mozilla/5.0','referer':'page_data'}).content
+  return m3u8+tok+'|user-agent=iPad'
+]]></expres>
+<page>https://lnk.lt/api/main/video-page/info-tv-hd-kanalas-internetu/96749/false</page>
+<referer>https://lnk.lt/video/info-tv-hd-kanalas-internetu/96749</referer>
+</regex>
+</item>  
+  
 </items>
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgZQTPy.png",LT | LNK
 http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
