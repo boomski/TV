@@ -2,10 +2,28 @@
 <items>
   
 <item>
+<title>EG | Maspero</title>
+<inputstream>$doregex[getUrl]|referer=https://www.maspero.eg/wps/portal</inputstream>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  clink,cname=re.findall('livestream-header[\w\W]*?iframe\s*src="(.+player.+?=(.*?)&[^"]+)',page_data)[0]
+  source=requests.get('https://www.maspero.eg/player/LivePlayer/Channel-main-amp.js',headers={'user-agent':'Mozilla/5.0','referer':'https://www.maspero.eg/player%s'%clink,'accept':'*/*'},cookies=Cookie_Jar).content
+  link=re.findall('url:\s*[\'"]([^\'"]+).\s*\+',source)[0]+cname
+  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'https://www.maspero.eg/player%s'%clink,'accept':'*/*'},cookies=Cookie_Jar).content
+  return re.findall('"([^"]+)',source)[0]
+]]></expres>
+<page>https://www.maspero.eg/wps/portal/home/tv/channels/first-channel</page>
+</regex>
+<fanart>https://i.imgur.com/UgfMePs.jpg</fanart> 
+</item>  
+  
+<item>
 <title>EG | Sha3beyat</title>
 <dmlive>x6x6qp2</dmlive>
 <fanart>https://i.imgur.com/UgfMePs.jpg</fanart>   
-<thumbnail>https://i.imgur.com/rNxm99f.jpg</thumbnail>
 </item>   
   
 </items>
