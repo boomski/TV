@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 
 <item>
-<title>MPT SAT **http://play.mrt.com.mk/live/45**</title>
+<title>MK | MPT SAT</title>
 <link>$doregex[getUrl]|User-Agent=iPad</link>
-<thumbnail>http://vod-c57w.interspace.com/t/1/chn/45/poster-ln-1.png</thumbnail>
+<fanart>https://i.imgur.com/wSkO20g.png</fanart>
 <regex>
 <name>getUrl</name>
 <expres>x-mpegURL","src":"(.*?)"</expres>
@@ -10,13 +12,6 @@
 <agent>iPad</agent>
 </regex>
 </item>
-#EXTM3U
+  
+</items>    
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJ472ot.png",MK | Koha TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tcL0bP3.jpg",MK | Sky Folk TV
-http://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C67vLVL.jpg",MK | TVPlus
-http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C67vLVL.jpg",MK | TVPlus
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
