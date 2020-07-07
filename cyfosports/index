@@ -93,6 +93,23 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo3.ht
 <cookieJar></cookieJar>
 </regex>
 </item> 
+<item>
+<title>BE | CYFO 3.1</title>
+<thumbnail>https://i.imgur.com/MvGf1BE.jpg</thumbnail>
+<link>$doregex[GetPageUrl]</link>
+<regex>
+<name>GetPageUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.cyfostreams.com/cyfo3.php'):
+   import liveresolver
+   u = liveresolver.resolve(url)
+   return u
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>    
+   
    
 <item>
 <title>BE | CYFO 4</title>
