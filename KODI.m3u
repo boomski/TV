@@ -3761,5 +3761,9 @@ https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KphOph0.png" tvg-chno="9999",RADIO | Ritsa TV
 http://195.9.195.3:8080/hls/122431.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="",TEST | CYFO 3 
+http://45.134.21.13/live/s3/chunks.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="",TEST | CYFO 3 
+http://45.134.21.13/live/s3/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo3.html
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="",TEST | CYFO 3 
+http://45.134.21.13/live/s3/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo3.html
