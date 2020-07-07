@@ -7,9 +7,9 @@ plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
-#EXTINF:-1 tvg-logo="",SPORT | CYFO 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg",SPORT | CYFO 2
 http://45.134.21.13/live/s2/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo2.html
-#EXTINF:-1 tvg-logo="",SPORT | CYFO 3 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvGf1BE.jpg",SPORT | CYFO 3 
 http://45.134.21.13/live/s3/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo3.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png",BE | Q2
 plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
@@ -19,25 +19,25 @@ plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd5
 plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85dda47458?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hs49TFl.png",BE | Vitaya
 plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
-#EXTINF:-1 tvg-id="VTM KIDS" tvg-logo="https://i.imgur.com/Khd93SF.jpg" tvg-chno="9",BE | VTM Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg",BE | VTM Kids
 plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
-#EXTINF:-1 tvg-id="Ketnet" tvg-logo="https://i.imgur.com/X3BtaQw.png" tvg-chno="10",BE | Ketnet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3BtaQw.png",BE | Ketnet
 plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
-#EXTINF:-1 tvg-id="Ketnet/Op12" tvg-logo="https://i.imgur.com/IfXF6r1.jpg" tvg-chno="11",BE | Ketnet Junior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg",BE | Ketnet Junior
 plugin://plugin.video.vrt.nu/play/id/ketnet_jr
-#EXTINF:-1 tvg-id="La Une HD" tvg-logo="https://i.imgur.com/VvykYlU.png" tvg-chno="13",BE | La Une
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VvykYlU.png",BE | La Une
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=laune&item_module=resources.lib.channels.be.rtbf&item_dict={}
-#EXTINF:-1 tvg-id="La Deux HD" tvg-logo="https://i.imgur.com/E3htoMD.png" tvg-chno="14",BE | La Deux
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3htoMD.png",BE | La Deux
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ladeux&item_module=resources.lib.channels.be.rtbf&item_dict={}
-#EXTINF:-1 tvg-id="La Trois" tvg-logo="https://i.imgur.com/StttnYz.png" tvg-chno="15",BE | La Trois
+#EXTINF:-1 tvg-logo="https://i.imgur.com/StttnYz.png",BE | La Trois
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=latrois&item_module=resources.lib.channels.be.rtbf&item_dict={}
-#EXTINF:-1 tvg-id="LN24" tvg-logo="https://i.imgur.com/bp1Qp0d.png" tvg-chno="16",BE | LN24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-id="AB3" tvg-logo="https://i.imgur.com/0gXVzbC.png" tvg-chno="17",BE | AB3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png",BE | AB3
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ab3&item_module=resources.lib.channels.be.abbe&item_dict={}
-#EXTINF:-1 tvg-id="ABXPLORE" tvg-logo="https://i.imgur.com/lNnVizU.png" tvg-chno="18",BE | ABXPLORE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png",BE | ABXPLORE
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=abxplore&item_module=resources.lib.channels.be.abbe&item_dict={}
-#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.imgur.com/iWXUmje.jpg" tvg-chno="19",BE | ATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg",BE | ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-id="ROB" tvg-logo="https://i.imgur.com/CzQe0q2.png" tvg-chno="20",BE | ROB TV
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
