@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-  
-  
+<item>
+<title>010 | LaLiga Sports</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCIfgjNyrVPxtn86fWU65lSg</page>
+</regex>
+<thumbnail>https://i.imgur.com/nqkbvCb.png</thumbnail> 
+<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>  
+</item>
+
+<item>
+<title>011 | LaLiga SmartBank</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
+</regex>
+<thumbnail>https://i.imgur.com/Sq0QuPt.png</thumbnail> 
+<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
+</item>
+ 
 <item>
 <title>200 | Russian Premier League</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
@@ -25,5 +47,17 @@
 <thumbnail>https://i.imgur.com/yI2OPud.jpg</thumbnail> 
 <fanart>https://i.imgur.com/FMQOsjH.jpg</fanart>   
 </item>  
+ 
+<item>
+<title>500 | Beach Soccer TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCiiyNz0Q_mJbl2se3JMY-IA</page>
+</regex>
+<thumbnail>https://i.imgur.com/UtkmcHl.png</thumbnail> 
+<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
+</item> 
   
 </items> 
