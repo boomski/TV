@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-<item>
-<title>010 | LaLiga Sports</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCIfgjNyrVPxtn86fWU65lSg</page>
-</regex>
-<thumbnail>https://i.imgur.com/nqkbvCb.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>  
-</item>
 
 <item>
 <title>011 | LaLiga SmartBank</title>
@@ -20,8 +9,7 @@
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
 </regex>
-<thumbnail>https://i.imgur.com/Sq0QuPt.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
+<fanart>https://i.imgur.com/kinKrld.jpg</fanart>
 </item>
  
 <item>
@@ -32,8 +20,7 @@
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
 </regex>
-<thumbnail>https://i.imgur.com/GYiFQuw.jpg</thumbnail> 
-<fanart>https://i.imgur.com/MslAEzw.png</fanart>   
+<fanart>https://i.imgur.com/mqvD2cw.jpg</fanart>   
 </item> 
  
 <item>
@@ -44,9 +31,21 @@
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCzZTOa7CVWGYjUh1G4if2AQ</page>
 </regex>
-<thumbnail>https://i.imgur.com/yI2OPud.jpg</thumbnail> 
-<fanart>https://i.imgur.com/FMQOsjH.jpg</fanart>   
+<fanart>https://i.imgur.com/RNaDgRo.jpg</fanart>   
 </item>  
+ 
+ 
+<item>
+<title>300 | Club Brugge</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCr4sbmZGQY9T4p4KcknxSNw</page>
+</regex>
+<fanart>https://i.imgur.com/EXlM5A2.jpg</fanart>   
+</item> 
+ 
  
 <item>
 <title>500 | Beach Soccer TV</title>
@@ -56,8 +55,18 @@
 <expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCiiyNz0Q_mJbl2se3JMY-IA</page>
 </regex>
-<thumbnail>https://i.imgur.com/UtkmcHl.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
+<fanart>https://i.imgur.com/T0p0Kqe.jpg</fanart>
 </item> 
-  
+
+<item>
+<title>999 | LaLiga Sports</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCIfgjNyrVPxtn86fWU65lSg</page>
+</regex>
+<fanart>https://i.imgur.com/HFsYE3F.jpg</fanart>  
+</item>
+ 
 </items> 
