@@ -1,3 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+  
+<item>
+<title>200 | Russian Premier League</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
+</regex>
+<thumbnail>https://i.imgur.com/GYiFQuw.jpg</thumbnail> 
+<fanart>https://i.imgur.com/MslAEzw.png</fanart>   
+</item> 
+ 
+<item>
+<title>201 | Belarus Premier League</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCzZTOa7CVWGYjUh1G4if2AQ</page>
+</regex>
+<thumbnail>https://i.imgur.com/yI2OPud.jpg</thumbnail> 
+<fanart>https://i.imgur.com/FMQOsjH.jpg</fanart>   
+</item>  
+  
 </items> 
