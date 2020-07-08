@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+  
+<item>
+<title>001 | GCN Racing</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww</page>
+</regex>
+<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>  
+  
+  
 </items> 
