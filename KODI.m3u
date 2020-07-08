@@ -7,14 +7,32 @@ plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg",SPORT | CYFO 2
-http://45.134.21.13/live/s2/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo2.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvGf1BE.jpg",SPORT | CYFO 3 
-http://45.134.21.13/live/s3/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo3.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",SPORT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg",SPORT | CYFO 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg",SPORT | CYFO 2
+http://45.134.21.13/live/s2/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo2.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvGf1BE.jpg",SPORT | CYFO 3 
+http://45.134.21.13/live/s3/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo3.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2WyaHy.jpg",SPORT | CYFO 4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65EIZPO.jpg",SPORT | CYFO 5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62tcrBV.jpg",SPORT | CYFO 6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZRyVq2q.jpg",SPORT | CYFO 7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFzsZDp.jpg",SPORT | CYFO 8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtbI0tO.jpg",SPORT | CYFO 9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGQom76.jpg",SPORT | CYFO 10
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClHegNS.jpg",SPORT | CYFO 11
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png",SPORT | TIZ Cycling
 https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png",BE | Q2
