@@ -61,7 +61,17 @@
 <fanart>https://i.imgur.com/S39YZzw.jpg</fanart>   
 </item>  
   
-   
+<item>
+<title>006 | Sportpublic TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC6DBX23fpe9BLLhGFTY9sxw</page>
+</regex>
+<thumbnail>https://i.imgur.com/bqw48AY.png</thumbnail> 
+<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart> 
+</item>    
   
   
 </items> 
