@@ -3,35 +3,25 @@
 <item>
 <title>WIELRENNEN LIVESTREAMS</title>
 <link>ignoreme</link>
-<externallink></externallink> 
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/SPORTS/WIELRENNEN</externallink> 
 <fanart></fanart>  
 </item>   
   
 <item>
 <title>VOETBAL LIVESTREAMS</title>
 <link>ignoreme</link>
-<externallink></externallink> 
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/SPORTS/VOETBAL</externallink> 
 <fanart></fanart>  
 </item> 
   
 <item>
 <title>SPORT LIVESTREAMS</title>
 <link>ignoreme</link>
-<externallink></externallink> 
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/SPORTS/SPORT</externallink> 
 <fanart></fanart>  
 </item>   
   
-<item>
-<title>001 | GCN Racing</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww</page>
-</regex>
-<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
-<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
-</item>   
+ 
     
 <item>
 <title>004 | OLYMPIC CHANNEL</title>
