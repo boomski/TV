@@ -11,7 +11,57 @@
 </regex>
 <thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
 <fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>002 | InCycle</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCXgba6tOLghtJuXaD8LBHWg</page>
+</regex>
+<thumbnail>https://i.imgur.com/W65Ck6i.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item>   
+  
+<item>
+<title>003 | PMG Sport</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCCuNpZUFKAaQIlyLt5-bp_g</page>
+</regex>
+<thumbnail>https://i.imgur.com/nRziQoM.png</thumbnail>  
+<fanart>https://i.imgur.com/WbUYeMO.jpg</fanart>   
+</item> 
+
+<item>
+<title>004 | British Cycling</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UC7QMT1odZ6QeJPg5GwClUlw</page>
+</regex>
+<thumbnail>https://i.imgur.com/qz1rj1d.png</thumbnail> 
+<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+</item> 
+  
+<item>
+<title>005 | UCI</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>data-context-item-id="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCloqTh1nPpW13LCntQglS-Q</page>
+</regex>
+<thumbnail>https://i.imgur.com/HH1L9Ou.jpg</thumbnail> 
+<fanart>https://i.imgur.com/S39YZzw.jpg</fanart>   
 </item>  
+  
+   
   
   
 </items> 
