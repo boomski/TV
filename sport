@@ -12,20 +12,7 @@
 <thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
 <fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
 </item>   
-  
-<item>
-<title>002 | CYFO SPORTS</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/cyfosports/index</externallink>
-<thumbnail>https://i.imgur.com/LQ4JyVs.jpg</thumbnail>
-</item>
-  
-<item>
-<title>003 | TIZ Cycling</title> 
-<thumbnail>https://i.imgur.com/OkMkWue.png</thumbnail>
-<link>https://usb.bozztv.com/ssh101/mun41/mun41/chunklist.m3u8</link> 
-</item> 
-  
+    
 <item>
 <title>004 | OLYMPIC CHANNEL</title>
 <link>ignoreme</link>
@@ -87,23 +74,7 @@
 <fanart>https://i.imgur.com/ubxLbs1.jpg</fanart>  
 <thumbnail>https://i.imgur.com/DeuVEMk.jpg</thumbnail>
 </item>  
-  
-<item>
-<title>010 | GCN Racing | ON DEMAND</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCu7phdCr-raU7OaJfEpHZww/</jsonrpc>
-<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
-<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>        
-</item> 
-  
-<item>
-<title>011 | GCN | ON DEMAND</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCuTaETsuCOkJ0H_GAztWt0Q/</jsonrpc>
-<thumbnail>https://i.imgur.com/KCj6hgb.png</thumbnail> 
-<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>        
-</item>     
-  
+    
 <item>
 <title>012 | FIBA</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
