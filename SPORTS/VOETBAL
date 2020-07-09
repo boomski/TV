@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+ 
+<item>
+<title>RT en vivo</title>    
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>   
+<regex>
+<name>id</name>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<page>https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_nW9u4arS_Jm3b0fGpuU7tGfChK28woRqhqQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item> 
 
 <item>
 <title>011 | LaLiga SmartBank</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
+"<expres>data-context-item-id="([^"]+)<expres>"
 <page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
 </regex>
 <fanart>https://i.imgur.com/kinKrld.jpg</fanart>
@@ -17,7 +29,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres>
 <page>https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
 </regex>
 <fanart>https://i.imgur.com/mqvD2cw.jpg</fanart>   
@@ -28,7 +40,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres>
 <page>https://www.youtube.com/channel/UCzZTOa7CVWGYjUh1G4if2AQ</page>
 </regex>
 <fanart>https://i.imgur.com/RNaDgRo.jpg</fanart>   
@@ -40,8 +52,8 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCr4sbmZGQY9T4p4KcknxSNw/live</page>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<page>https://www.youtube.com/channel/UCr4sbmZGQY9T4p4KcknxSNw</page>
 </regex>
 <fanart>https://i.imgur.com/EXlM5A2.jpg</fanart>   
 </item> 
@@ -52,7 +64,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres>
 <page>https://www.youtube.com/channel/UCiiyNz0Q_mJbl2se3JMY-IA</page>
 </regex>
 <fanart>https://i.imgur.com/T0p0Kqe.jpg</fanart>
@@ -63,7 +75,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres>
 <page>https://www.youtube.com/channel/UCIfgjNyrVPxtn86fWU65lSg</page>
 </regex>
 <fanart>https://i.imgur.com/HFsYE3F.jpg</fanart>  
