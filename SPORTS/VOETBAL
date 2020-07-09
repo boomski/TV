@@ -8,7 +8,7 @@
 <expres><![CDATA[#$pyFunction
 import re,urllib2
 def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  return re.findall('video_ids=([^%,]+)',urllib2.urlopen('https://www.youtube.com/channel/UCalwFtq-BVcszKLZ5k2vbLw').read())[0]
+  return re.findall('video_ids=([^%,]+)',urllib2.urlopen('http://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg').read())[0]
 ]]></expres>
 <page></page>
 </regex>
@@ -32,7 +32,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <regex>
 <name>id</name>
 <expres><![CDATA[video_ids=([^%,]+)]]></expres>
-<page>https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
+<page>http://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
 </regex>
 <fanart>https://i.imgur.com/mqvD2cw.jpg</fanart>   
 </item> 
