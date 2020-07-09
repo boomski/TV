@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>IR | IRIB 1</title>
+<fanart>https://i.imgur.com/9SAg99k.png</fanart>    
+<link>$doregex[base500]</link>
+<regex>
+<name>base500</name>
+<expres>"(http[^"]*)","bitrate":"500</expres>
+<page>https://wde1.telewebion.com/v3/channels/jjtv1/details</page>
+<referer>https://www.telewebion.com/live/jjtv1</referer>
+<Origin>https://www.telewebion.com</Origin>
+<cookieJar></cookieJar>
+</regex>
+</item>    
   
 <item>
-<title>IRIB 3</title>
-<fanart>https://i.imgur.com/KpAERnV.jpg</fanart>  
+<title>IR | IRIB 3</title>
+<fanart>https://i.imgur.com/1HrRM8q.png</fanart>  
 <link>$doregex[base1000]</link>
 <regex>
 <name>base1000</name>
@@ -15,84 +28,4 @@
 </regex>
 </item>  
   
-<item>
-<title>Manoto TV Shows</title>
-<link>$doregex[makelist]</link>
-<thumbnail>https://dwphh95xlnw84.cloudfront.net/images/static/placeholder/logomanoto.png</thumbnail>
-<fanart>https://i.imgur.com/QrOHLrP.png</fanart>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[makelist.param2]</title>
-  <link>$doregex[makelist2]</link>
-  <thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  count=3;pn=1;data=[]
-  while pn <= int(count):
-    source=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/list?genre=&pageNumber=str(pn)&pageSize=35&sortBy=latest',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/shows'},cookies=Cookie_Jar).content#json()['details']['list']
-    data +=re.findall('slideID":(\d+).+?Title":"([^"]+).+?Url":"([^"]+)',source);pn +=1
-  return data
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-  <title>[makelist2.param2]</title>
-  <link>$doregex[makelist3]</link>
-  <thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  source=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/serieslist?id=[makelist.param1]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/shows/[makelist.param1]'},cookies=Cookie_Jar).content#json()['details']['list']
-  return re.findall('"id":(\d+)."displayTitle":"([^"]+)',source)
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-  <title>[makelist3.param3]</title>
-  <link>$doregex[getUrl]</link>
-  <thumbnail>[makelist3.param4]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  source1=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/videocliplist?id=[makelist.param1]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/shows/[makelist.param1]'},cookies=Cookie_Jar).content#json()['details']['list']
-  source2=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/episodelist?id=[makelist2.param1]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/shows/[makelist.param1]'},cookies=Cookie_Jar).content#json()['details']['list']
-  data1=re.findall('slideType":"(.*?)"."slideID":(\d+).+?clipTitle":"([^"]+).+?Url":"([^"]+)',source1)
-  data2=re.findall('slideType":"(.*?)"."slideID":(\d+).+?formattedEpisodeTitle":"([^"]+).+?ImgIxUrl":"([^"]+)',source2)
-  return data1+data2
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m,stream='[makelist3.param1]'):#streamwatcher2013
-  if 'videoclip' in stream:
-    source=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/videoclipdetails?id=[makelist3.param2]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/clip/[makelist3.param2]'},cookies=Cookie_Jar)
-    return source.json()['details']['videoM3u8Url']+'|user-agent=ipad&referer=https://www.manototv.com/clip/[makelist3.param2]'
-  else:
-    source=requests.get('https://dak1vd5vmi7x6.cloudfront.net/api/v1/publicrole/showmodule/episodedetails?id=[makelist3.param2]',headers={'user-agent':'Mozilla/5.0','referer':'https://www.manototv.com/episode/[makelist3.param2]'},cookies=Cookie_Jar)
-    return source.json()['details']['videoM3u8Url']+'|user-agent=ipad&referer=https://www.manototv.com/episode/[makelist3.param2]'
-]]></expres>
-<page></page>
-</regex>
-</item>
-  
-<item>
-<title>IR | Kavir TV</title>
-<thumbnail>https://i.imgur.com/dlwN4Go.png</thumbnail>
-<link>ignore</link>
-<fanart>https://i.imgur.com/wcJtrkq.png</fanart>  
-<externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/kavirtv</externallink>
-</item> 
-
 </items> 
