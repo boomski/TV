@@ -13,7 +13,18 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <page></page>
 </regex>
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7_nW9u4arS_Jm3b0fGpuU7tGfChK28woRqhqQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
-</item> 
+</item>
+  
+<item>
+<title>011 | LaLiga SmartBank</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
+</regex>
+<fanart>https://i.imgur.com/kinKrld.jpg</fanart>
+</item>  
   
 <item>
 <title>011 | LaLiga SmartBank</title>
