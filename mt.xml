@@ -1,14 +1,15 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>TVM **https://www.tvm.com.mt/mt/tvmi/live/**</title>
+<title>MT | TVM </title>
+<fanart>https://i.imgur.com/Wfs1zsn.jpg</fanart>  
 <link>$doregex[makelist]|Referer=https://www.tvm.com.mt/mt/tvmi/live/</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
   <title>[COLOR cyan]TVM[/COLOR]<title>
   <link>$doregex[getUrl]</link>
-  <thumbnail>https://www.tvm.com.mt/mt/wp-content/themes/tvm/dist/images/tvm-logo.svg</thmbnail>
+  <thumbnail>https://www.tvm.com.mt/mt/wp-content/themes/tvm/dist/images/tvm-logo.svg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[iframe src="(.*?mt\/)(.*?)(\..*?id=)(.*?)&(.*?)"]]></expres>
 <page>https://www.tvm.com.mt/mt/tvmi/live/</page>
