@@ -6,7 +6,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
 <page>https://www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww</page>
 </regex>
 <thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
@@ -18,7 +18,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
 <page>https://www.youtube.com/channel/UCXgba6tOLghtJuXaD8LBHWg</page>
 </regex>
 <thumbnail>https://i.imgur.com/W65Ck6i.png</thumbnail> 
@@ -30,7 +30,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
 <page>https://www.youtube.com/channel/UCCuNpZUFKAaQIlyLt5-bp_g</page>
 </regex>
 <thumbnail>https://i.imgur.com/nRziQoM.png</thumbnail>  
@@ -42,7 +42,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
 <page>https://www.youtube.com/channel/UC7QMT1odZ6QeJPg5GwClUlw</page>
 </regex>
 <thumbnail>https://i.imgur.com/qz1rj1d.png</thumbnail> 
@@ -54,7 +54,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
 <page>https://www.youtube.com/channel/UCloqTh1nPpW13LCntQglS-Q</page>
 </regex>
 <thumbnail>https://i.imgur.com/HH1L9Ou.jpg</thumbnail> 
@@ -66,7 +66,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
 <page>https://www.youtube.com/channel/UC6DBX23fpe9BLLhGFTY9sxw</page>
 </regex>
 <thumbnail>https://i.imgur.com/bqw48AY.png</thumbnail> 
