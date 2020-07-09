@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>TVP Sport</title>     
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>   
-<regex>
-<name>id</name>
-<expres><![CDATA[#$pyFunction
-import re,urllib2
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  return re.findall('video_ids=([^%,]+)',urllib2.urlopen('https://www.youtube.com/channel/UCw1d4l8j8PaDSr2CqsZU4wg').read())[0]
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/a/AGF-l7_nW9u4arS_Jm3b0fGpuU7tGfChK28woRqhqQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<title>001 | Youtube Live Football</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=$PLx3OYcmaC2QUbXw-hTYF_plCd4sfTKwn1</link>
+<fanart>https://i.imgur.com/95xXobv.jpg</fanart>
+</item>   
+  
+<item>
+<title>IB3 TELEVISIÓ DIRECTE</title>
+<thumbnail>https://i.imgur.com/0vhU3Id.jpg</thumbnail>
+<utube>UCff_CBVJDTHP4wOHPjP5BMg</utube>
 </item>
   
 <item>
