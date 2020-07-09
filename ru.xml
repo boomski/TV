@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+ 
 <item>
 <title>RT en vivo</title>     
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>   
@@ -24,7 +27,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <thumbnail>https://yt3.ggpht.com/a/AGF-l7_nW9u4arS_Jm3b0fGpuU7tGfChK28woRqhqQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 </item>
 
-
+</items> 
 
 #EXTINF:-1,Amedia Premium HD
 http://russia.livetv.az/russia/amedia_premium_hd/chunks.m3u8
