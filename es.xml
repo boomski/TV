@@ -94,7 +94,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
 <page>https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg</page>
 </regex>
 <thumbnail>https://i.imgur.com/e7jXCym.png</thumbnail> 
