@@ -8,7 +8,7 @@
 <expres><![CDATA[#$pyFunction
 import re,urllib2
 def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  return re.findall('video_ids=([^%,]+)',urllib2.urlopen('http://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg').read())[0]
+  return re.findall('video_ids=([^%,]+)',urllib2.urlopen('https://www.youtube.com/channel/UCw1d4l8j8PaDSr2CqsZU4wg').read())[0]
 ]]></expres>
 <page></page>
 </regex>
