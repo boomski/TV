@@ -2,6 +2,20 @@
 <items>
   
 <item>
+<title>IRIB 3</title>
+<fanart>https://i.imgur.com/KpAERnV.jpg</fanart>  
+<link>$doregex[base1000]</link>
+<regex>
+<name>base1000</name>
+<expres>"(http[^"]*)","bitrate":"1000</expres>
+<page>https://wde1.telewebion.com/v3/channels/tv3/details</page>
+<referer>https://www.telewebion.com/live/tv3</referer>
+<Origin>https://www.telewebion.com</Origin>
+<cookieJar></cookieJar>
+</regex>
+</item>  
+  
+<item>
 <title>Manoto TV Shows</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://dwphh95xlnw84.cloudfront.net/images/static/placeholder/logomanoto.png</thumbnail>
