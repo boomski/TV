@@ -18,7 +18,6 @@
 <regex>
 <name>id</name>
 <expres><![CDATA[video_ids=([^%,]+)]]></expres> 
-"<expres>data-context-item-id="([^"]+)<expres>"
 <page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
 </regex>
 <fanart>https://i.imgur.com/kinKrld.jpg</fanart>
@@ -82,3 +81,4 @@
 </item>
  
 </items> 
+"<expres>data-context-item-id="([^"]+)<expres>"
