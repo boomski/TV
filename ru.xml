@@ -1,4 +1,28 @@
+<item>
+<title>RT en vivo</title>     
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>   
+<regex>
+<name>id</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  return re.findall('video_ids=([^%,]+)',urllib2.urlopen('https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ').read())[0]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_nW9u4arS_Jm3b0fGpuU7tGfChK28woRqhqQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
 
+<item>
+<title>RT en vivo</title>    
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>   
+<regex>
+<name>id</name>
+<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<page>https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AGF-l7_nW9u4arS_Jm3b0fGpuU7tGfChK28woRqhqQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
 
 
 
