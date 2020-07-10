@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 <item>
-<title>IB3 TELEVISIÓ DIRECTE</title>
-<thumbnail></thumbnail>
-<utube>UCff_CBVJDTHP4wOHPjP5BMg</utube>
-</item>
-    
-<item>
 <title>011 | LaLiga SmartBank</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
@@ -75,4 +69,4 @@
 </item>
  
 </items> 
-"<expres>data-context-item-id="([^"]+)<expres>"
+
