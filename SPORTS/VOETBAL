@@ -5,24 +5,7 @@
 <thumbnail></thumbnail>
 <utube>UCff_CBVJDTHP4wOHPjP5BMg</utube>
 </item>
-  
-<item>
-<title>001 | Youtube Live Football</title>
-<fanart>https://i.imgur.com/95xXobv.jpg</fanart>
-<utube>PLx3OYcmaC2QUbXw-hTYF_plCd4sfTKwn1</utube>
-</item>
-  
-<item>
-<title>011 | LaLiga SmartBank</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres><![CDATA[video_ids=([^%,]+)]]></expres>
-<page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
-</regex>
-<fanart>https://i.imgur.com/kinKrld.jpg</fanart>
-</item>  
-  
+    
 <item>
 <title>011 | LaLiga SmartBank</title>
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
@@ -39,7 +22,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<expres>data-context-item-id="([^"]+)<expres>
 <page>http://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
 </regex>
 <fanart>https://i.imgur.com/mqvD2cw.jpg</fanart>   
@@ -50,7 +33,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCzZTOa7CVWGYjUh1G4if2AQ</page>
 </regex>
 <fanart>https://i.imgur.com/RNaDgRo.jpg</fanart>   
@@ -62,7 +45,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCr4sbmZGQY9T4p4KcknxSNw</page>
 </regex>
 <fanart>https://i.imgur.com/EXlM5A2.jpg</fanart>   
@@ -74,7 +57,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCiiyNz0Q_mJbl2se3JMY-IA</page>
 </regex>
 <fanart>https://i.imgur.com/T0p0Kqe.jpg</fanart>
@@ -85,7 +68,7 @@
 <link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
 <regex>
 <name>id</name>
-<expres><![CDATA[video_ids=([^%,]+)]]></expres>
+<expres>data-context-item-id="([^"]+)<expres>
 <page>https://www.youtube.com/channel/UCIfgjNyrVPxtn86fWU65lSg</page>
 </regex>
 <fanart>https://i.imgur.com/HFsYE3F.jpg</fanart>  
