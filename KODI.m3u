@@ -11,6 +11,8 @@ plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FWrnNTI.jpg",SPORT | L'Équipe
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruXN2HE.png",SPORT | ZIGGO Sports Select
+http://stream-e30453a4b.nmbs.top/m3u/Sports/f0332b2519.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg",SPORT | CYFO 1
 http://45.134.21.13/live/s1/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo1.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg",SPORT | CYFO 2
@@ -181,16 +183,42 @@ https://streamserv.mytvchain.com/sportenfrance/SP1564435593/media.m3u8
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png",SPORT | Free Sports
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyGDgc1.jpg",SPORT | SKY Sports Austria
-http://stream-e30453a4b.nmbs.top/m3u/Germany/a8a5bab2b3.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNfUlHr.png",SPORT | Sky Sports News
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmZVTdE.png",SPORT | Sky Sports Action
-https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/9ed0e5e694.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmZVTdE.png",SPORT | Sky Sports Action HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/01c28c1790.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oUMnYwX.png",SPORT | Sky Sports Arena
-https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/050156c6ae.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oUMnYwX.png",SPORT | Sky Sports Arena HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyGDgc1.jpg",SPORT | Sky Sports Austria
+http://stream-e30453a4b.nmbs.top/m3u/Germany/a8a5bab2b3.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SjtCvbJ.png",SPORT | Sky Sports 1 Italia
+http://stream-e30453a4b.nmbs.top/m3u/Sports/4541dbda1d.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OC3PnPg.png",SPORT | Sky Sports 1 Deutschland
+http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PoEPMeC.png",SPORT | Sky Sports 2 Deutschland
+http://stream-e30453a4b.nmbs.top/m3u/Sports/2c73c0d477.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q29swzC.png",SPORT | Sky Sports F1
-https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+http://stream-e30453a4b.nmbs.top/m3u/Sports/dd960521e0.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q29swzC.png",SPORT | Sky Sports F1 HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/3c40561002.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHLvuJo.png",SPORT | Sky Sports Football
+http://stream-e30453a4b.nmbs.top/m3u/Sports/b2c6f5370b.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHLvuJo.png",SPORT | Sky Sports Football HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/5ae22ea6ae.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOIAHGx.jpg",SPORT | Sky Sports League
+http://stream-e30453a4b.nmbs.top/m3u/Sports/7b0be90830.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOIAHGx.jpg",SPORT | Sky Sports League HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/71dbd2fb94.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmdRYdt.png",SPORT | SKY SPORTS GOLF
+http://stream-e30453a4b.nmbs.top/m3u/Sports/73b2082f87.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BmdRYdt.png",SPORT | SKY SPORTS GOLF HD
+http://stream-e30453a4b.nmbs.top/m3u/Sports/ed04f1621a.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hpRglCb.png",SPORT | SKY SPORTS MIX
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png",SPORT | NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83dag4T.png",SPORT | NBA TV
