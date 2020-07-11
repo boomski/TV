@@ -3,18 +3,14 @@
  
 <item> 
 <title>TEST</title> 
-<utube>r6Z8AnX9Tj0</utube> 
+<utube>PLx3OYcmaC2QUbXw-hTYF_plCd4sfTKwn1</utube> 
 </item>
 
-<item>
-<title>TEST 2</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>v="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg/live</page>
-</regex>
+<item> 
+<title>Channel</title> 
+<utube>UCzZTOa7CVWGYjUh1G4if2AQ</utube> 
 </item> 
+ 
  
  
 <item>
