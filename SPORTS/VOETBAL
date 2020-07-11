@@ -2,20 +2,44 @@
 <items>
  
 <item> 
-<title>TEST</title> 
-<utube>PLx3OYcmaC2QUbXw-hTYF_plCd4sfTKwn1</utube> 
+<title>005 | LaLiga SmartBank</title> 
+<utube>UCs3Gqvp1tO-nK-XNzFlopsg</utube> 
+<fanart>https://i.imgur.com/kinKrld.jpg</fanart> 
 </item>
 
 <item> 
-<title>Channel</title> 
-<utube>UCzZTOa7CVWGYjUh1G4if2AQ</utube> 
-</item> 
- 
- 
+<title>010 | Russian Premier League</title> 
+<utube>UCfO4uULWZvEtCCj-lw1ZO5A</utube> 
+<fanart>https://i.imgur.com/mqvD2cw.jpg</fanart>  
+</item>
  
 <item>
-<title>011 | LaLiga SmartBank</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<title>011 | Belarus Premier League</title>
+<utube>UCzZTOa7CVWGYjUh1G4if2AQ</utube>
+<fanart>https://i.imgur.com/RNaDgRo.jpg</fanart>
+</item> 
+ 
+<item>
+<title>300 | Club Brugge</title>
+<utube>UCr4sbmZGQY9T4p4KcknxSNw</utube> 
+<fanart>https://i.imgur.com/EXlM5A2.jpg</fanart>   
+</item>  
+ 
+<item>
+<title>500 | Beach Soccer TV</title>
+<utube>UCiiyNz0Q_mJbl2se3JMY-IA</utube>
+<fanart>https://i.imgur.com/T0p0Kqe.jpg</fanart> 
+</item>
+ 
+<item>
+<title>999 | LaLiga Sports</title>
+<utube>UCIfgjNyrVPxtn86fWU65lSg</utube>
+<fanart>https://i.imgur.com/HFsYE3F.jpg</fanart>  
+</item> 
+ 
+<item>
+<title>TEST | LaLiga SmartBank</title>
+<utube>doregex[id]</utube>
 <regex>
 <name>id</name>
 <expres>data-context-item-id="([^"]+)<expres>
@@ -23,63 +47,7 @@
 </regex>
 <fanart>https://i.imgur.com/kinKrld.jpg</fanart>
 </item>
- 
-<item>
-<title>200 | Russian Premier League</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>http://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A</page>
-</regex>
-<fanart>https://i.imgur.com/mqvD2cw.jpg</fanart>   
-</item> 
- 
-<item>
-<title>201 | Belarus Premier League</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCzZTOa7CVWGYjUh1G4if2AQ</page>
-</regex>
-<fanart>https://i.imgur.com/RNaDgRo.jpg</fanart>   
-</item>  
- 
- 
-<item>
-<title>300 | Club Brugge</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCr4sbmZGQY9T4p4KcknxSNw</page>
-</regex>
-<fanart>https://i.imgur.com/EXlM5A2.jpg</fanart>   
-</item> 
- 
- 
-<item>
-<title>500 | Beach Soccer TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCiiyNz0Q_mJbl2se3JMY-IA</page>
-</regex>
-<fanart>https://i.imgur.com/T0p0Kqe.jpg</fanart>
-</item> 
 
-<item>
-<title>999 | LaLiga Sports</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCIfgjNyrVPxtn86fWU65lSg</page>
-</regex>
-<fanart>https://i.imgur.com/HFsYE3F.jpg</fanart>  
-</item>
- 
 </items> 
+
 
