@@ -6,78 +6,39 @@
 <fanart>https://i.imgur.com/J1yZ9ul.jpg</fanart> 
 </item>   
   
-  
 <item>
 <title>001 | GCN Racing</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCu7phdCr-raU7OaJfEpHZww</page>
-</regex>
-<thumbnail>https://i.imgur.com/7F2DZKl.png</thumbnail> 
-<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
-</item> 
+<utube>UCu7phdCr-raU7OaJfEpHZww</utube>
+<fanart>https://i.imgur.com/wvMbGfh.jpg</fanart> 
+</item>    
   
 <item>
 <title>002 | InCycle</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCXgba6tOLghtJuXaD8LBHWg</page>
-</regex>
-<thumbnail>https://i.imgur.com/W65Ck6i.png</thumbnail> 
-<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
+<utube>UCXgba6tOLghtJuXaD8LBHWg</utube>
+<fanart>https://i.imgur.com/MAn8ety.jpg</fanart> 
 </item>   
   
 <item>
 <title>003 | PMG Sport</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCCuNpZUFKAaQIlyLt5-bp_g</page>
-</regex>
-<thumbnail>https://i.imgur.com/nRziQoM.png</thumbnail>  
-<fanart>https://i.imgur.com/WbUYeMO.jpg</fanart>   
-</item> 
+<utube>UCCuNpZUFKAaQIlyLt5-bp_g</utube>
+<fanart>https://i.imgur.com/RNnTaHt.jpg</fanart> 
+</item>   
+  
+<item>
+<title>004 | UCI</title>
+<utube>UCloqTh1nPpW13LCntQglS-Q</utube>
+<fanart>https://i.imgur.com/w33OvV8.png</fanart> 
+</item>   
 
 <item>
-<title>004 | British Cycling</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UC7QMT1odZ6QeJPg5GwClUlw</page>
-</regex>
-<thumbnail>https://i.imgur.com/qz1rj1d.png</thumbnail> 
-<fanart>https://i.imgur.com/BAe4Eya.jpg</fanart>   
-</item> 
-  
-<item>
-<title>005 | UCI</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCloqTh1nPpW13LCntQglS-Q</page>
-</regex>
-<thumbnail>https://i.imgur.com/HH1L9Ou.jpg</thumbnail> 
-<fanart>https://i.imgur.com/S39YZzw.jpg</fanart>   
-</item>  
-  
+<title>005 | British Cycling</title>
+<utube>UC7QMT1odZ6QeJPg5GwClUlw</utube>
+<fanart>https://i.imgur.com/XGKHSj3.jpg</fanart> 
+</item>   
+
 <item>
 <title>006 | Sportpublic TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UC6DBX23fpe9BLLhGFTY9sxw</page>
-</regex>
-<thumbnail>https://i.imgur.com/bqw48AY.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart> 
-</item>    
-  
-  
+<utube>UC6DBX23fpe9BLLhGFTY9sxw</utube>
+<fanart>https://i.imgur.com/9njt6RC.jpg</fanart> 
+</item>     
 </items> 
