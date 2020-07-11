@@ -13,13 +13,26 @@
 <dmlive>x797sy0</dmlive>
 <fanart>https://i.imgur.com/ZQrqAZQ.jpg</fanart>  
 </item>
+ 
+<item>
+<title>003 | Swiss Sport TV</title>
+<utube>UCTgutNhUEHEIVJohhfXEZ4w</utube>
+<fanart>https://i.imgur.com/DslnCWc.png</fanart>    
+</item> 
    
 <item>
-<title>003 | SPORTZONLINE</title>
+<title>004 | SPORTZONLINE</title>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/boomski/TV/master/sportzonline/index</externallink>
 <fanart>https://i.imgur.com/PgzH5Zw.jpg</fanart>
 </item> 
+ 
+ 
+<item>
+<title>018 | PAC 12 Network Intenational</title>
+<utube>UCx0IoH70qVp11Qkv1pa0phQ</utube>
+<fanart>https://i.imgur.com/6ou3LfC.jpg</fanart>    
+</item>   
   
 <item>
 <title>019 | Sportal.bg</title>
@@ -50,6 +63,11 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <thumbnail>https://i.imgur.com/HLEOo0t.png</thumbnail>
 </item> 
 
+<item>
+<title>022 | KPSPORT.PL</title>
+<utube>UCRrc2_f8vf5rpr_1VBnlE1Q</utube>
+<fanart>https://i.imgur.com/g07QPXn.png</fanart>    
+</item>  
     
 <item>
 <title>100 | FIBA</title>
@@ -91,10 +109,16 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <title>127 | ITF</title>
 <utube>UCsyvlpbK0BTEc3jec6nhPyQ</utube>
 <fanart>https://i.imgur.com/0IyECEI.png</fanart>    
-</item>  
+</item> 
+ 
   
 
-   
+<item>
+<title>998 | European Cricket Network</title>
+<utube>UCzpKcXOP32CxF-X6iTpM7EQ</utube>
+<fanart>https://i.imgur.com/ns0TxOp.jpg</fanart>    
+</item> 
+ 
 <item>
 <title>999 | 60FPS.LIVE</title>
 <link>ignoreme</link>
