@@ -5,7 +5,16 @@
 <title>TEST</title> 
 <utube>r6Z8AnX9Tj0</utube> 
 </item>
- 
+
+<item>
+<title>TEST 2</title>
+<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>v="([^"]+)<expres>
+<page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg/live</page>
+</regex>
+</item> 
  
  
 <item>
