@@ -196,7 +196,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wyGDgc1.jpg",SPORT | Sky Sports Austria
 http://stream-e30453a4b.nmbs.top/m3u/Germany/a8a5bab2b3.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SjtCvbJ.png",SPORT | Sky Sports 1 Italia
-http://stream-e30453a4b.nmbs.top/m3u/Sports/4541dbda1d.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OC3PnPg.png",SPORT | Sky Sports 1 Deutschland
 http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoEPMeC.png",SPORT | Sky Sports 2 Deutschland
@@ -1049,10 +1049,22 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/59f8cf257de98a7e0db5e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png",CA | BBC Canada
 http://stream-e30453a4b.nmbs.top/m3u/Canada/62cfb44b1b.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Diewwst.jpg",CA | FOX News
+http://stream-e30453a4b.nmbs.top/m3u/Canada/9f119f4fb2.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26nKUbR.png",CA | Yoopa
 http://stream-e30453a4b.nmbs.top/m3u/Canada/d0dfa22a3f.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAb96Id.png",CA | PBS Kids
+http://stream-e30453a4b.nmbs.top/m3u/Canada/f15ecd35f7.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AhQgx1M.png",CA | TVA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QfZW5yQ.png",CA | HLN
+http://stream-e30453a4b.nmbs.top/m3u/Canada/a5bafcb0fa.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png",CA | CHCH
+http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzYNZTv.png",CA | CTV 2
+http://stream-e30453a4b.nmbs.top/m3u/Canada/4f95f02e05.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIMFNAL.jpg",CA | CTV VANCOUVER
+http://stream-e30453a4b.nmbs.top/m3u/Canada/aeff428891.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg",CA | CTV News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
