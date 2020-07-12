@@ -27,19 +27,19 @@
 <fanart>https://i.imgur.com/PgzH5Zw.jpg</fanart>
 </item> 
  
+<item>
+<title>005 | PDC Darts</title>
+<utube>UCRvCwDp_1DwOlOpnlJf9iYw</utube>
+<fanart>https://i.imgur.com/xcX6Lkc.jpg</fanart>    
+</item> 
+ 
  
 <item>
 <title>018 | PAC 12 Network Intenational</title>
 <utube>UCx0IoH70qVp11Qkv1pa0phQ</utube>
 <fanart>https://i.imgur.com/6ou3LfC.jpg</fanart>    
 </item>   
-  
-<item>
-<title>019 | Sportal.bg</title>
-<fanart>https://i.imgur.com/8uqug1f.jpg</fanart>   
-<urlsolve>https://mobile.sportal.bg/live_tv_video.php?video=20</urlsolve>
-</item>   
-  
+    
 <item>
 <title>020 | M4 Sport</title>
 <link>$doregex[getUrl]</link>
@@ -67,6 +67,12 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <title>022 | KPSPORT.PL</title>
 <utube>UCRrc2_f8vf5rpr_1VBnlE1Q</utube>
 <fanart>https://i.imgur.com/g07QPXn.png</fanart>    
+</item>  
+ 
+<item>
+<title>023 | TVP SPORT</title>
+<utube>UCalwFtq-BVcszKLZ5k2vbLw</utube>
+<fanart>https://i.imgur.com/xsfCZIQ.jpg</fanart>    
 </item>  
     
 <item>
