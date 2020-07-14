@@ -1104,8 +1104,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Canada",CA | Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/venPneF.png" group-title="Canada",CA | Nac TV
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/venPneF.png" group-title="Canada",CA | NAC TV
+rtmp://pivotalelements.com:1935/live/NACTV|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRigj9q.jpg" group-title="Canada",CA | Télé Culturelle Médias
 https://5790d294af2dc.streamlock.net/8150/8150/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="Canada",CA | Canal Savoir 
