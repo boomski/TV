@@ -3247,6 +3247,10 @@ https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8bPQfOO.png" group-title="Egypte",EG | Al Kahera Wal Nas
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JSm9v1P.jpg" group-title="Algerije",DZ | El Djazair N1
+http://82.212.74.5:8000/live/hls/7728.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brBTJ3A.png" group-title="Algerije",DZ | Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan",AF | Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan",AF | Ariana TV US
