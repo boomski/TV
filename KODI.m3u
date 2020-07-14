@@ -2650,10 +2650,6 @@ https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8?sd=10&r
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg" group-title="Israel",IL | BLOCKTV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HwRaOKi.png" group-title="Tunesië",TN | Sahel TV
-http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Tunesië",TN | Tunisie Immobilier TV
-https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg" group-title="Angola",AO | TPA 1
 http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiGrf6k.png" group-title="Ivoorkust",CI | NTV Afrique
@@ -2662,6 +2658,8 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3MHcyD0.png" group-title="Ivoorkust",CI | RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PvkeId6.jpg" group-title="Ivoorkust",CI | La Nouvelle Chaîne Ivorienne
+https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ox4PeIp.jpg" group-title="Ivoorkust",CI | Christ Live
 plugin://plugin.video.dailymotion_com/?url=x7liq2i&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg" group-title="Rwanda",RW | KC2
@@ -3251,6 +3249,10 @@ https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
 http://82.212.74.5:8000/live/hls/7728.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brBTJ3A.png" group-title="Algerije",DZ | Ennahar TV
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HwRaOKi.png" group-title="Tunesië",TN | Sahel TV
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Tunesië",TN | Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan",AF | Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan",AF | Ariana TV US
