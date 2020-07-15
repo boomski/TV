@@ -2742,16 +2742,24 @@ https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg" group-title="Angola",AO | TPA 1
 http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiGrf6k.png" group-title="Ivoorkust",CI | NTV Afrique
-https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnGxpM8.png" group-title="Ivoorkust",CI | RTI 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i2qD2qO.png" group-title="Ivoorkust",CI | RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3MHcyD0.png" group-title="Ivoorkust",CI | RTI 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5tJyoA.png" group-title="Ivoorkust",CI | RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMElxZu.png" group-title="Ivoorkust",CI | RTI 3
+https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PvkeId6.jpg" group-title="Ivoorkust",CI | La Nouvelle Chaîne Ivorienne
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XdulnH.png" group-title="Ivoorkust",CI | LMTV English
+https://edge6.vedge.infomaniak.com/livecast/ik:lmtven/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4XdulnH.png" group-title="Ivoorkust",CI | LMTV Français
+https://edge2.vedge.infomaniak.com/livecast/ik:lmtvfr/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdOQk35.png" group-title="Ivoorkust",CI | NTV
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ox4PeIp.jpg" group-title="Ivoorkust",CI | Christ Live
 plugin://plugin.video.dailymotion_com/?url=x7liq2i&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5eRj770.jpg" group-title="Ivoorkust",CI | Ecclesia TV
+https://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg" group-title="Rwanda",RW | KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d8HEFx7.png" group-title="Rwanda",RW | RTV
@@ -3895,6 +3903,8 @@ http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist_w750668821.
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTUx6q3.png" group-title="Radio",RADIO | Afrobit
 http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/erg0OjC.png" group-title="Radio",RADIO | Radio Côte d'Ivoire
+https://www.enovativecdn.com:4433/radio/radiorci.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A21WS1A.png" group-title="Radio",RADIO | Musig24
 https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AdvLwbP.jpg" group-title="Radio",RADIO | Radio Argovia
