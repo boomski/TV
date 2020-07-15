@@ -249,6 +249,8 @@ https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",SPORT | Eurosport 1 Russia
 http://russia.livetv.az/russia/eurosport1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0mAYnw.png" group-title="Sport",SPORT | Teledeporte
+https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szFw7MG.png" group-title="Sport",SPORT | Esport3
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1VuYAB.png" group-title="Sport",SPORT | Football 1 Ukraine
@@ -1324,6 +1326,8 @@ https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/v
 https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F8l6eE.jpg" group-title="Frankrijk",FR | France 3 Alpes
 https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B4i2kq6.png" group-title="Frankrijk",FR | 01 TV
+plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" group-title="Frankrijk",FR | Wéo
 plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1a3uLT.png" group-title="Frankrijk",FR | Wéo Picardie
@@ -1334,6 +1338,8 @@ plugin://plugin.video.dailymotion_com/?url=x13x1q2&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z1A47vL.png" group-title="Frankrijk",FR | Provence AZUR TV
 plugin://plugin.video.dailymotion_com/?url=x630sku&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvIJxCd.png" group-title="Frankrijk",FR | B Smart
+plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Frankrijk",FR | TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="Frankrijk",FR | TV5 Style
@@ -1688,10 +1694,12 @@ http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50B8mhG.png" group-title="Zweden",SE | Expressen TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rv0cVR7.png" group-title="Spanje",ES | LA 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rv0cVR7.png" group-title="Spanje",ES | La 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYjFpEh.png" group-title="Spanje",ES | La 2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="Spanje",ES | 24 Horas
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="Spanje",ES | Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8TMYWI0.png" group-title="Spanje",ES | Telecinco
@@ -1770,6 +1778,8 @@ https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZB7Bfbu.jpg" group-title="Mexico",MX | Multimedios Monterrey 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXMLYnz.png" group-title="Mexico",MX | Tlaxcala TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9xoZOr.png" group-title="Argentinië",AR | PAKA PAKA
 https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYG7LuP.png" group-title="Argentinië",AR | Encuentro
@@ -2157,7 +2167,9 @@ https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uhi0ybP.jpg" group-title="Turkije",TR | TV 8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png" group-title="Turkije",TR | TV264
-https://5e6ab1e5b06a6.streamlock.net/tokus_live/tv264canli/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png" group-title="Turkije",TR | Kanal Ege
+https://59cba4d34b678.streamlock.net/canlitv/kanalege/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVbhLiA.png" group-title="Bulgarije",BG | National Geographic 
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffsvXpr.png" group-title="Bulgarije",BG | National Geographic Wild
@@ -2362,6 +2374,10 @@ http://188.93.95.34:80/mama/index.m3u8
 http://ultotv.ru:8888/live/uhd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="Rusland",RU | Vechernyaya Moskva
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ARh6WSf.png" group-title="Rusland",RU | Kuzbass 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://www.10kanal.ru/live/dash/k24.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGJOdls.png" group-title="Wit-Rusland",BY | Belarus 4
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wj7RZUI.png" group-title="Wit-Rusland",BY | Belarus 24
