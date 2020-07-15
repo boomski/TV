@@ -241,6 +241,14 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djdariX.jpg" group-title="Sport",SPORT | Super Tennis
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",SPORT | Eurosport 1 Bulgaria
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x6RlAP5.png" group-title="Sport",SPORT | Eurosport 2 Bulgaria
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",SPORT | Eurosport 1 Portugal
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",SPORT | Eurosport 1 Russia
+http://russia.livetv.az/russia/eurosport1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szFw7MG.png" group-title="Sport",SPORT | Esport3
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8|X-Forwarded-For=81.17.18.50
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1VuYAB.png" group-title="Sport",SPORT | Football 1 Ukraine
@@ -251,14 +259,10 @@ https://95-213-224-183.livesports24.online/fooootball2.m3u8
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xT6GB6v.png" group-title="Sport",SPORT | Most Video
 http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg" group-title="Sport",SPORT | LSN
-https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMxx8ts.png" group-title="Sport",SPORT | Adventure Sports Network
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sport",SPORT | World Of Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2msWdzQ.jpg" group-title="Sport",SPORT | Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x8qu5Ec.png" group-title="Sport",SPORT | Nova Sport Bulgaria
+https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5khL0fh.png" group-title="Sport",SPORT | Nova Sport 1
 https://h1-s5.c.markiza.sk/hls/novasport1-hd-master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdtVhYM.png" group-title="Sport",SPORT | Nova Sport 2
@@ -431,10 +435,14 @@ https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/
 https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Sport",SPORT | RTV Sport
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7hOiqyw.png" group-title="Sport",SPORT | Eurosport 1 Portugal
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7hOiqyw.png" group-title="Sport",SPORT | Eurosport 1 Russia
-http://russia.livetv.az/russia/eurosport1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg" group-title="Sport",SPORT | LSN
+https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMxx8ts.png" group-title="Sport",SPORT | Adventure Sports Network
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sport",SPORT | World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/baWAIjY.png" group-title="Sport",SPORT | Auto Motorsport Channel
+https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png" group-title="Sport",SPORT | UFC TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png" group-title="Sport",SPORT | MMA Junkie
