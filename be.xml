@@ -9,12 +9,7 @@
  
 <item>
 <title>BE | Motomediateam</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCOopJCfktYVsCP6p7TOEmvA</page>
-</regex>
+<utube>UCOopJCfktYVsCP6p7TOEmvA</utube>
 <fanart>https://i.imgur.com/pHkct5v.jpg</fanart>  
 </item> 
  
