@@ -1892,8 +1892,26 @@ https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 http://89.140.99.41/hls/cancionero.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eFooT2.jpg" group-title="Spanje",ES | Andalucia | Trebujena TV
 http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLo1hjw.png" group-title="Spanje",ES | Aragón | Aragón TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQ1FR8T.jpg" group-title="Spanje",ES | Aragón | Huesca TV
+https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LMoBtZC.jpg" group-title="Spanje",ES | Aragón | La Tele TV
+https://secure3.todostreaming.es/live/generaltv-livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="Spanje",ES | Aragón | Canal 25 Barbastro
 http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rv0cVR7.png" group-title="Spanje",ES | Canarias | La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYjFpEh.png" group-title="Spanje",ES | Canarias | La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="Spanje",ES | Canarias | 24 Horas
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zr469h4.jpg" group-title="Spanje",ES | Canarias | Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTcXDsI.png" group-title="Spanje",ES | Canarias | Tindaya TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zgAIkv.jpg" group-title="Spanje",ES | Canarias | Noroeste Televisión
+https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="Spanje",ES | Communidad de Madrid | Canal 33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laEKihH.jpg" group-title="Spanje",ES | Communidad Valenciana | Canal 56
