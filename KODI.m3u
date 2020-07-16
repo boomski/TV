@@ -575,6 +575,8 @@ http://c.mjh.nz/snowy-mountains/
 http://i.mjh.nz/au/Canberra/tv.7ausbiz.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u43e7yq.png" group-title="Australië",AU | ACC TV
 http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOqY8x0.png" group-title="Australië",AU | Arcana HD
+http://api.new.livestream.com/accounts/25119151/events/7392689/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCGjx9D.png" group-title="Nieuw-Zeeland",NZ | TVNZ 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1HshlGj.png" group-title="Nieuw-Zeeland",NZ | Te Reo
@@ -3279,6 +3281,8 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DQ1RfUa.png" group-title="UAE",AE | Star Movies
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="UAE",AE | Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FpKvYT1.png" group-title="UAE",AE | Al Wousta TV
@@ -3286,7 +3290,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laJ40ds.png" group-title="UAE",AE | 3eesh Al Aan TV
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6FT7yx.jpg" group-title="UAE",AE | Ajman TV
-
+https://dcunilive18-lh.akamaihd.net/i/dclive_1@189007/index_150_av-p.m3u8?sd=6&rebase=on|Referer=https://iframe.dacast.com/b/116648/c/480929
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDhD6kT.png" group-title="UAE",AE | Al Aan TV
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="UAE",AE | MBC
@@ -3307,6 +3311,10 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="UAE",AE | MBC Drama
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/40szbwQ.jpg" group-title="UAE",AE | MBC Drama+
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOxsPzm.png" group-title="UAE",AE | MBC Persia
+https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNhSZ9N.png" group-title="UAE",AE | Cinema 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lTEvrU.jpg" group-title="UAE",AE | Citruss TV
@@ -3318,7 +3326,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="UAE",AE | Toheed TV
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="UAE",AE | Wanasah
-
+http://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="UAE",AE | Hawas TV
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="UAE",AE | Sharqiya from Kalba TV
