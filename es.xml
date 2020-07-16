@@ -79,36 +79,38 @@
   
 <item>
 <title>ES | Granada Channel</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<link>$doregex[getUrl]</link>
 <regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCRZP4zH-4yPgjzjTsoQp2Eg</page>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2,resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=urllib2.urlopen('https://www.youtube.com/channel/UCRZP4zH-4yPgjzjTsoQp2Eg').read()
+  return resolveurl.resolve('https://www.youtube.com//watch?v='+re.findall('"watchEndpoint":{"videoId":"([^"]+)',source)[0])
+]]></expres>
+<page></page>
 </regex>
-<thumbnail>https://i.imgur.com/eXHOljg.jpg</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart> 
+<fanart>https://i.imgur.com/8Qfmjdj.jpg</fanart> 
 </item>  
   
 <item>
-<title>ES | IB3 Televisió</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<title>IB3 TELEVISIÓ</title>
+<link>$doregex[getUrl]</link>
 <regex>
-<name>id</name>
-<expres><![CDATA[video_ids=([^%,]+)]]></expres> 
-<page>https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg</page>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2,resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=urllib2.urlopen('https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg').read()
+  return resolveurl.resolve('https://www.youtube.com//watch?v='+re.findall('"watchEndpoint":{"videoId":"([^"]+)',source)[0])
+]]></expres>
+<page></page>
 </regex>
-<thumbnail>https://i.imgur.com/e7jXCym.png</thumbnail> 
 <fanart>https://i.imgur.com/BVPxGFH.jpg</fanart> 
+</item>
+
 </item>   
   
-<item>
-<title>ES | Malaga 24h</title>
-<thumbnail>https://i.imgur.com/MXJkaVv.png</thumbnail>
-<link>ignore</link>  
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/malaga24h</externallink>
-</item> 
- 
 <item>
 <title>ES | Canal Cero</title>
 <thumbnail>https://i.imgur.com/KB4oiKG.png</thumbnail> 
