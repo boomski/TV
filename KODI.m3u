@@ -2392,8 +2392,38 @@ http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8
 https://cloudfront20.lexanetwork.com:1440/hlsrelay020/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gx0AVhB.jpg" group-title="Hongarije",HU | Gyongyos Tv
 https://cloudfront63.lexanetwork.com:1440/hlsrelay018/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xhir5ZD.png" group-title="Roemenië",RO | TVR 1	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uackM9c.png" group-title="Roemenië",RO | TVR 1	
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uackM9c.png" group-title="Roemenië",RO | TVR 1 HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0u1bpZ.png" group-title="Roemenië",RO | TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uz1oiYM.png" group-title="Roemenië",RO | TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XW7BIDB.png" group-title="Roemenië",RO | TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hBb7MPp.png" group-title="Roemenië",RO | TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L98VUhG.png" group-title="Roemenië",RO | TVR Iasi
+http://89.136.209.26:1935/liveedge/TVRIASI.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JIdvsc1.png" group-title="Roemenië",RO | TVR International
+http://89.136.209.33:1935/liveorigin/TVRI.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6EStAB.png" group-title="Roemenië",RO | TVR Targu-Mures
+http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qZ7trDX.png" group-title="Roemenië",RO | TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="Roemenië",RO | Agro TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4MGzCR.jpg" group-title="Roemenië",RO | TV SE
+http://89.38.8.130:39419
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6T7w975.png" group-title="Roemenië",RO | TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OORlbKG.jpg" group-title="Roemenië",RO | A7 TV
+https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UiFc6c.png" group-title="Roemenië",RO | TVSat
+http://89.38.8.130:39443
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R9Hf4Uh.png" group-title="Roemenië",RO | VP TV
+http://89.38.8.130:39437
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeEAXXS.jpg" group-title="Polen",PL | Hope Channel Poland
 http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tgLWe9o.jpg" group-title="Polen",PL | Telewizja Kujawy
