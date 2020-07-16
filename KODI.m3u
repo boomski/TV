@@ -1752,8 +1752,54 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Spanje",ES | País Vasco | EITB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ncvPzdj.png" group-title="Spanje",ES | País Vasco | Goiena
+https://zuzenean.goienamedia.eus:8443/telebista.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1eMKV9.jpg" group-title="Spanje",ES | País Vasco | TeleBilbao
+https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2YUhVkZ.jpg" group-title="Spanje",ES | País Vasco | 28 Kanala
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06mbumL.jpg" group-title="Spanje",ES | País Vasco | TeleDonosti
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPauVSQ.jpg" group-title="Spanje",ES | País Vasco | Hamaika Telebista
+https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qps5MiN.png" group-title="Spanje",ES | País Vasco | Oizmendi Telebista
+https://5940924978228.streamlock.net/8161/8161/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="Spanje",ES | País Vasco | Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P9n1g5B.jpg" group-title="Spanje",ES | Communidad Foral de Navarra | Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0drrFFN.jpg" group-title="Spanje",ES | Communidad Foral de Navarra | TeleRibera
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PdrXhom.jpg" group-title="Spanje",ES | Castilla y León | La 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fFyW0D.jpg" group-title="Spanje",ES | Castilla y León | La 8 Avila
+https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IamDS7p.png" group-title="Spanje",ES | Castilla y León | La 8 Bierzo
+https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKgtdTX.jpg" group-title="Spanje",ES | Castilla y León | La 8 Burgos
+https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jv5F8zI.jpg" group-title="Spanje",ES | Castilla y León | La 8 Leon
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hsj1NIP.jpg" group-title="Spanje",ES | Castilla y León | La 8 Palencia
+https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27qOomz.png" group-title="Spanje",ES | Castilla y León | La 8 Salamanca
+https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBL4HEV.png" group-title="Spanje",ES | Castilla y León | La 8 Segovia
+https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Tn3qdO.jpg" group-title="Spanje",ES | Castilla y León | La 8 Soria
+https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LVbv3Ko.png" group-title="Spanje",ES | Castilla y León | La 8 Valladolid
+https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgplxRA.jpg" group-title="Spanje",ES | Castilla y León | La 8 Zamora
+https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B86td7F.jpg" group-title="Spanje",ES | Castilla y León | Canal 54
+https://videocdn.mixer.com/hls/26772748-4d1a153df5cb5d4418ca30bad3049144_source/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLebShE.png" group-title="Spanje",ES | Castilla y León | TV Benavente
+https://593fa17dec176.streamlock.net/gcm5/gcm5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsh3x16.png" group-title="Spanje",ES | Castilla y León | Televisión Aranda
+https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pjT938.jpg" group-title="Spanje",ES | Castilla y León | Junta Castilla y León
+https://secuoya-live2.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KP6NG5K.png" group-title="Spanje",ES | Andalucia | Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KP6NG5K.png" group-title="Spanje",ES | Andalucia | Canal Sur 1 Andalucía
