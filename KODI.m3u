@@ -2255,6 +2255,12 @@ http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CVgMwVq.png" group-title="Brazilië",BR | CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfhUef7.png" group-title="Brazilië",BR | Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Iscuff.jpg" group-title="Brazilië",BR | Agro Canal
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="Brazilië",BR | TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNzRUAP.png" group-title="Brazilië",BR | Zoom
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W6THaIw.png" group-title="Brazilië",BR | Jovem Pan News
@@ -4196,14 +4202,16 @@ http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="Radio",RADIO | Radio Pilatus TV
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Radio",RADIO | Smash Radio (Malta)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Radio",RADIO | Smash Radio
 http://s3.smashmalta.com:82/live/smash/smash/35.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Radio",RADIO | Rock Radio (Malta) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Radio",RADIO | Rock Radio
 http://s3.smashmalta.com:82/live/smash/smash/37.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Radio",RADIO | Retro Radio (Malta)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Radio",RADIO | Retro Radio
 http://s3.smashmalta.com:82/live/smash/smash/36.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Radio",RADIO | Alternative Radio (Malta)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dI8u9AT.png" group-title="Radio",RADIO | Alternative Radio
 http://s3.smashmalta.com:82/live/smash/smash/38.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFRH8fl.png" group-title="Radio",RADIO | 98 Live Belo Horizonte
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yMLnaHk.png" group-title="Radio",RADIO | Radio Vesti FM
 https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A2FfrGX.png" group-title="Radio",RADIO | Radio HIT Orsk
