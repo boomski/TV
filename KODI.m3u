@@ -590,6 +590,8 @@ http://rokutna.tulix.tv/live/firstlight-uk.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4AuQtX.png" group-title="Fiji",FJ | Fiji TV
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuZyiqg.jpg" group-title="USA",US | CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuZyiqg.jpg" group-title="USA",US | CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubsNr5F.jpg" group-title="USA",US | CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
@@ -606,7 +608,7 @@ https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VK4efja.png" group-title="USA",US | ABC HD
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=2800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Live HD
-
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4zFHzI.png" group-title="USA",US | CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="USA",US | NBC News Now
@@ -655,7 +657,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jb5NwNN.png" group-title="USA",US | Shout Factory TV 
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1BD1DA.png" group-title="USA",US | America's Voice
+https://cdnapi.kaltura.com/p/2377021/sp/237702100/playManifest/entryId/0_m2pjgwiu/format/applehttp/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MzBoKRa.png" group-title="USA",US | American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ytc2qZW.jpg" group-title="USA",US | Docurama
@@ -674,14 +677,26 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iwd9Jxb.png" group-title="USA",US | Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson TV
+https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Racing TV
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Factory TV
+https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Garage TV
+https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvY0iSk.jpg" group-title="USA",US | Law & Crime
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C0NoakZ.jpg" group-title="USA",US | Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n1Zrw82.png" group-title="USA",US | NASA
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Public
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLqTUXD.png" group-title="USA",US | WeatherNation TV
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hrmBseU.png" group-title="USA",US | The Weather Channel 
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Mbe9eU.png" group-title="USA",US | Baton Rouge | ABC 2 WBRZ 
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LtaMW4g.jpg" group-title="USA",US | Seattle | ABC 4 KOMO
