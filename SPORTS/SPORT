@@ -33,53 +33,41 @@
 <fanart>https://i.imgur.com/xcX6Lkc.jpg</fanart>    
 </item> 
  
- 
 <item>
-<title>018 | PAC 12 Network Intenational</title>
-<utube>UCx0IoH70qVp11Qkv1pa0phQ</utube>
-<fanart>https://i.imgur.com/6ou3LfC.jpg</fanart>    
-</item>   
-    
-<item>
-<title>020 | M4 Sport</title>
-<link>$doregex[getUrl]</link>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
-  return re.findall('id=.xplayer[\w\W]+?src=[\'"]([^\'"]+)',page_data)[0].replace(':443','')+'|user-agent=ipad&referer=https://onlinestream.live/m4-sport/videoplayer/5903-3'
-]]></expres>
-<page>https://onlinestream.live/m4-sport/videoplayer/5903-3</page>
-<referer>https://onlinestream.live/videoplayer.cgi?id=5903&ch=3</referer>
-</regex>
-<fanart>https://i.imgur.com/ueQQkeN.jpg</fanart>
-</item>   
-
-<item>
-<title>021 | SPORTACENTRS</title>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/boomski/TV/master/sportacentrs/index</externallink>
-<fanart>https://i.imgur.com/HLEOo0t.png</fanart>
-</item> 
-
-<item>
-<title>022 | KPSPORT.PL</title>
-<utube>UCRrc2_f8vf5rpr_1VBnlE1Q</utube>
-<fanart>https://i.imgur.com/g07QPXn.png</fanart>    
+<title>006 | BDO Darts</title>
+<utube>UC92zCMeQJdH8ChEamXZxSeQ</utube>
+<fanart>https://i.imgur.com/x9py3Un.jpg</fanart>     
 </item>  
  
 <item>
-<title>023 | TVP SPORT</title>
-<utube>UCalwFtq-BVcszKLZ5k2vbLw</utube>
-<fanart>https://i.imgur.com/xsfCZIQ.jpg</fanart>    
-</item> 
- 
+<title>012 | PAC 12 Network Intenational</title>
+<utube>UCx0IoH70qVp11Qkv1pa0phQ</utube>
+<fanart>https://i.imgur.com/6ou3LfC.jpg</fanart>    
+</item>   
+
 <item>
 <title>050 | FIA World Rallycross Championship</title>
 <utube>UCFD78OTzB27H5HD4cjMp2JQ</utube>
 <fanart>https://i.imgur.com/6l4IQnW.jpg</fanart>    
 </item> 
+
+<item>
+<title>060 | World Padel Tour</title>
+<utube>UCK59dYVs3Wgwoe73nDTH6jw</utube>
+<fanart>https://i.imgur.com/Cr3gBMJ.jpg</fanart>    
+</item> 
+ 
+<item>
+<title>61 | ITF</title>
+<utube>UCsyvlpbK0BTEc3jec6nhPyQ</utube>
+<fanart>https://i.imgur.com/0IyECEI.png</fanart>    
+</item>  
+ 
+<item>
+<title>62 | Tennis Australia</title>
+<utube>UCgUrLyvzsRqgGSmTBbxL84A</utube>
+<fanart>https://i.imgur.com/C9289OH.jpg</fanart>    
+</item>  
     
 <item>
 <title>100 | FIBA</title>
@@ -106,24 +94,45 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>
   
 <item>
-<title>125 | BDO Darts</title>
-<utube>UC92zCMeQJdH8ChEamXZxSeQ</utube>
-<fanart>https://i.imgur.com/x9py3Un.jpg</fanart>     
+<title>888 | M4 Sport</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
+  return re.findall('id=.xplayer[\w\W]+?src=[\'"]([^\'"]+)',page_data)[0].replace(':443','')+'|user-agent=ipad&referer=https://onlinestream.live/m4-sport/videoplayer/5903-3'
+]]></expres>
+<page>https://onlinestream.live/m4-sport/videoplayer/5903-3</page>
+<referer>https://onlinestream.live/videoplayer.cgi?id=5903&ch=3</referer>
+</regex>
+<fanart>https://i.imgur.com/ueQQkeN.jpg</fanart>
+</item> 
+ 
+<item>
+<title>890 | KPSPORT.PL</title>
+<utube>UCRrc2_f8vf5rpr_1VBnlE1Q</utube>
+<fanart>https://i.imgur.com/g07QPXn.png</fanart>    
 </item>  
+ 
+<item>
+<title>891 | TVP SPORT</title>
+<utube>UCalwFtq-BVcszKLZ5k2vbLw</utube>
+<fanart>https://i.imgur.com/xsfCZIQ.jpg</fanart>    
+</item> 
   
 <item>
-<title>126 | International Socca Federation</title>
+<title>900 | International Socca Federation</title>
 <utube>UCh8bwk-zO3FqyeT-f2Z2pcA</utube>
 <fanart>https://i.imgur.com/pJ1IuBY.jpg</fanart>     
 </item>   
   
 <item>
-<title>127 | ITF</title>
-<utube>UCsyvlpbK0BTEc3jec6nhPyQ</utube>
-<fanart>https://i.imgur.com/0IyECEI.png</fanart>    
-</item> 
- 
-  
+<title>997 | SPORTACENTRS</title>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/boomski/TV/master/sportacentrs/index</externallink>
+<fanart>https://i.imgur.com/HLEOo0t.png</fanart>
+</item>   
 
 <item>
 <title>998 | European Cricket Network</title>
