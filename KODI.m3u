@@ -213,6 +213,8 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/71dbd2fb94.m3u8|User-Agent=VLC
 http://stream-e30453a4b.nmbs.top/m3u/Sports/ed04f1621a.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hpRglCb.png" group-title="Sport",SPORT | SKY SPORTS MIX
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pKm7n0s.jpg" group-title="Sport",SPORT | PAC 12 Plus
+https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="Sport",SPORT | NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83dag4T.png" group-title="Sport",SPORT | NBA TV
@@ -1703,6 +1705,8 @@ https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
 https://w1.mediastreaming.it/tuttositiweb/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fU1Qazg.png" group-title="Italië",IT | Donna TV
 https://59d7d6f47d7fc.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0URACk.jpg" group-title="Italië",IT | History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBvCm5S.png" group-title="Italië",IT | AB Channel
 https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rpr1SHd.jpg" group-title="Italië",IT | Alto Adige TV
@@ -3960,6 +3964,8 @@ http://p-indiaahead.planetcast.in/01.m3u8
 https://edge-1192-ch-gv.filmon.com/live/3482.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png" group-title="India",IN | NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HBpvKJY.png" group-title="India",IN | NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71xhF2J.jpg" group-title="India",IN | Discovery Hindi 
 https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8nfPBU.jpg" group-title="India",IN | Discovery Science Hindi
