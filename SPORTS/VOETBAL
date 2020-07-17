@@ -66,17 +66,6 @@
 <fanart>https://i.imgur.com/HFsYE3F.jpg</fanart>  
 </item> 
  
-<item>
-<title>TEST | LaLiga SmartBank</title>
-<utube>doregex[id]</utube>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
-</regex>
-<fanart>https://i.imgur.com/kinKrld.jpg</fanart>
-</item>
-
 </items> 
 
 
