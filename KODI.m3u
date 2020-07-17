@@ -37,6 +37,8 @@ http://45.134.21.13/live/s10/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo
 http://45.134.21.13/live/s11/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo11.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OkMkWue.png" group-title="Sport",SPORT | TIZ Cycling
 https://usb.bozztv.com/hyb41/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DSE16Bf.png" group-title="België",BE | HLN LIVE
+https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3N6h89L.png" group-title="België",BE | Q2
 plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXEq8tx.png" group-title="België",BE | CAZ
