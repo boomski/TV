@@ -1,84 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-  
 <item>
-<title>VPN ES | RTVE 1</title>
-<thumbnail>https://i.imgur.com/eaLBGqn.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
-<inputstream>https://rtvelivestream.akamaized.net/la1_dvr.m3u8</inputstream>
-</item> 
-  
-<item>
-<title>VPN ES | RTVE 2</title>
-<thumbnail>https://i.imgur.com/qZWMOaV.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
-<inputstream>https://rtvelivestream.akamaized.net/la2_dvr.m3u8</inputstream>
-</item>  
-  
-<item>
-<title>VPN ES | 24 Horas</title>
-<thumbnail>https://i.imgur.com/SvUWRQm.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
-<inputstream>https://rtvelivestream.akamaized.net/24h_dvr.m3u8</inputstream>
-</item> 
-  
-<item>
-<title>VPN SPORT | Teledeporte</title>
-<thumbnail>https://i.imgur.com/NM9t1XU.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
-<inputstream>https://rtvelivestream.akamaized.net/tdp_dvr.m3u8</inputstream>
-</item> 
-  
-<item>
-<title>ES | LaLiga Sports</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCIfgjNyrVPxtn86fWU65lSg</page>
-</regex>
-<thumbnail>https://i.imgur.com/nqkbvCb.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>  
-</item>
-
-<item>
-<title>ES | LaLiga SmartBank</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg</page>
-</regex>
-<thumbnail>https://i.imgur.com/Sq0QuPt.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
-</item>
-  
-<item>
-<title>ES | Sportpublic TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UC6DBX23fpe9BLLhGFTY9sxw</page>
-</regex>
-<thumbnail>https://i.imgur.com/bqw48AY.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart> 
-</item> 
- 
-<item>
-<title>ES | Beach Soccer TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCiiyNz0Q_mJbl2se3JMY-IA</page>
-</regex>
-<thumbnail>https://i.imgur.com/UtkmcHl.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
-</item> 
-  
-<item>
-<title>ES | Granada Channel</title>
+<title>ES | Andalucía | Granada Channel 1</title>
 <link>$doregex[getUrl]</link>
 <regex>
 <name>getUrl</name>
@@ -94,7 +17,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 </item>  
   
 <item>
-<title>IB3 TELEVISIÓ</title>
+<title>ES | Illes Balears | IB3</title>
 <link>$doregex[getUrl]</link>
 <regex>
 <name>getUrl</name>
@@ -106,22 +29,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 ]]></expres>
 <page></page>
 </regex>
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart> 
+<fanart>https://i.imgur.com/1oMHzSK.jpg</fanart> 
 </item>
 
-</item>   
-  
-<item>
-<title>ES | Canal Cero</title>
-<thumbnail>https://i.imgur.com/KB4oiKG.png</thumbnail> 
-<fanart>https://i.imgur.com/BVPxGFH.jpg</fanart>
-<link>https:$doregex[secure]|Referer=https://vergol.com&amp;User-Agent=iPad</link>
-<regex>
-   <name>secure</name>   
-   <expres>source:\s*'(/[^']+)</expres>  
-   <page>https://vergol.com/canales996/live/plus1.php</page>
-   <referer>https://vergol.com/</referer>
-   <post>manzana66:12345</post>
-</regex>
-</item>  
 </items>
