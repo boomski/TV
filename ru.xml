@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
  
-<item>
-<title>RT en vivo</title>     
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>   
-<regex>
-<name>id</name>
-<expres><![CDATA[#$pyFunction
-import re,urllib2
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
-  return re.findall('video_ids=([^%,]+)',urllib2.urlopen('https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ').read())[0]
-]]></expres>
-<page></page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/a/AGF-l7_nW9u4arS_Jm3b0fGpuU7tGfChK28woRqhqQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
-</item>
-
-<item>
-<title>RT en vivo</title>    
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>   
-<regex>
-<name>id</name>
-<expres><![CDATA[video_ids=([^%,]+)]]></expres>
-<page>https://www.youtube.com/channel/UCEIhICHOQOonjE6V0SLdrHQ</page>
-</regex>
-<thumbnail>https://yt3.ggpht.com/a/AGF-l7_nW9u4arS_Jm3b0fGpuU7tGfChK28woRqhqQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<item> 
+<title>RU | Russian Premier League</title> 
+<utube>UCfO4uULWZvEtCCj-lw1ZO5A</utube> 
+<fanart>https://i.imgur.com/mqvD2cw.jpg</fanart>  
 </item>
 
 </items> 
@@ -215,12 +195,7 @@ http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
 http://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7PPOAto.jpg",RU | Groznyy
 http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sffwErO.jpg",RU | Guberniya (Voronezh)
-http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e0AcZSI.png",RU | Guberniya (Samara)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LpKu1ix.jpg",RU | Guberniya 33 (Vladimir)
-http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfOrCm5.jpg",RU | Evrazïya
 http://paideuma.tv:1941/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lh0bnu8.png",RU | Yevraziya (Orsk)
