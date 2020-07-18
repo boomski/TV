@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
- 
-<item>
-<title>BE | ÉÉN</title>
-<fanart>https://i.imgur.com/30F0vYf.png</fanart>
-<link>https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8</link>
-</item>  
- 
+
 <item>
 <title>BE | Motomediateam</title>
 <utube>UCOopJCfktYVsCP6p7TOEmvA</utube>
@@ -14,11 +8,28 @@
 </item> 
  
 <item>
-<title>BE | NRJ Hits</title>
-<link>https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8</link>
-<fanart>https://i.imgur.com/xqNlU1c.jpg</fanart>  
-</item>   
+<title>BE | Club Brugge</title>
+<utube>UCr4sbmZGQY9T4p4KcknxSNw</utube> 
+<fanart>https://i.imgur.com/EXlM5A2.jpg</fanart>   
+</item> 
+ 
+<item>
+<title>BE | Standard de Liège</title>
+<utube>UCq9Q9hNYKwJ3YPEM7ICI1qw</utube> 
+<fanart>https://i.imgur.com/Y2tHnBu.jpg</fanart>   
+</item>  
+ 
+<item>
+<title>BE | KV Mechelen</title>
+<utube>UCUvzYRh36A0u5aLigo-FiXg</utube> 
+<fanart>https://i.imgur.com/wNuW83g.png</fanart>   
+</item>    
     
 </items>
 
+<item>
+<title>BE | ÉÉN</title>
+<fanart>https://i.imgur.com/30F0vYf.png</fanart>
+<link>https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8</link>
+</item> 
 
