@@ -1202,8 +1202,6 @@ http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzurFum.png" group-title="Frankrijk",FR | Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Frankrijk",FR | Antenne Réunion
-http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",FR | Africa Sports TV
 https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="Sport",FR | Poker TV France
@@ -1212,6 +1210,10 @@ http://51.15.254.60/hls/stream.m3u8
 http://51.15.193.127/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLRf32o.png" group-title="Tahiti",PF | Tahiti Nui TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Réunion",RE | Antenne Réunion
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xxcBlC.jpg" group-title="Réunion",RE | Tele Kreol
+http://41.213.129.46:8080/2.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OC3PnPg.png" group-title="Sport",DE | Sky Sports 1 Deutschland
 http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoEPMeC.png" group-title="Sport",DE | Sky Sports 2 Deutschland
@@ -2182,6 +2184,10 @@ https://unirtmp.tulix.tv/sat7arabic/satarabiclive-web.smil/playlist.m3u8
 https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxfcnr6.png" group-title="Sport",TR | A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fg0eoJu.png" group-title="Sport",TR | TRT Spor
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0Ygpa7.png" group-title="Sport",TR | TRT Spor 2
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0UemU0i.png" group-title="Turkije",TR | TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7PqlA0F.png" group-title="Turkije",TR | TRT 2
@@ -2202,6 +2208,14 @@ https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/inmcBuI.png" group-title="Turkije",TR | TRT Turk
 https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rVBcTil.png" group-title="Turkije",TR | TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9VoPejf.png" group-title="Turkije",TR | TRT EBA TV İlkokul
+http://tv-e-okul00.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umYgXmu.png" group-title="Turkije",TR | TRT EBA TV Ortaokul
+http://tv-e-okul01.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2JyE5Kj.png" group-title="Turkije",TR | TRT EBA TV Lise
+http://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AoKSJYX.jpg" group-title="Turkije",TR | ATV
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au33HHc.png" group-title="Turkije",TR | A2
@@ -2222,6 +2236,8 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 https://streams.livetv.az/turk/star_stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9TKtxc.jpg" group-title="Turkije",TR | Show
 https://streams.livetv.az/turk/showtv_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdMPksL.png" group-title="Turkije",TR | Teve2
+https://tv.kuzeytv.com/hls/teve2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3L4MFK.png" group-title="Turkije",TR | TV 4
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfXKuu0.png" group-title="Turkije",TR | Kanal 7
@@ -2232,6 +2248,10 @@ https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png" group-title="Turkije",TR | TV264
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5UBnxP.png" group-title="Turkije",TR | Altaş TV
+http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyrV0Ns.png" group-title="Turkije",TR | Beşiktaş TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png" group-title="Turkije",TR | Kanal Ege
 https://59cba4d34b678.streamlock.net/canlitv/kanalege/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8qu5Ec.png" group-title="Sport",BG | Nova Sport Bulgaria
@@ -3026,8 +3046,10 @@ http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5tJyoA.png" group-title="Ivoorkust",CI | RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nMElxZu.png" group-title="Ivoorkust",CI | RTI 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/re320jD.png" group-title="Ivoorkust",CI | RTI La 3
 https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLd2IFS.png" group-title="Ivoorkust",CI | RTI Web TV
+https://www.enovativecdn.com:4433/rticdn/smil:rtiwebtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PvkeId6.jpg" group-title="Ivoorkust",CI | La Nouvelle Chaîne Ivorienne
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/NCI_PIXPLAY/1500K/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XdulnH.png" group-title="Ivoorkust",CI | LMTV English
