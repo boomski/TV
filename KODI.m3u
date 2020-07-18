@@ -2701,6 +2701,12 @@ https://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGLbJIi.jpg" group-title="Rusland",RU | Brodilo TV
 http://brodilo.tv/channel.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sffwErO.jpg" group-title="Rusland",RU | Guberniya (Voronezh)
+http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0AcZSI.png" group-title="Rusland",RU | Guberniya (Samara)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LpKu1ix.jpg" group-title="Rusland",RU | Guberniya 33 (Vladimir)
+http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Rusland",RU | TV BRICS Russia
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Rusland",RU | TV BRICS English
