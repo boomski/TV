@@ -7,20 +7,23 @@
 <utube>UCP-vp1zdHOa9k2hN_nMT9TA</utube>
 </item>    
 
-  
-
-  
 <item>
 <title>BR | Brasil Rural TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<link>$doregex[getUrl]</link>
 <regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UC2jwyWTeYPTnqCrXtWu5qnA</page>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2,resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=urllib2.urlopen('https://www.youtube.com/channel/UC2jwyWTeYPTnqCrXtWu5qnA').read()
+  return resolveurl.resolve('https://www.youtube.com//watch?v='+re.findall('"watchEndpoint":{"videoId":"([^"]+)',source)[0])
+]]></expres>
+<page></page>
 </regex>
-<thumbnail>https://i.imgur.com/pMtNNBf.jpg</thumbnail> 
-<fanart>https://i.imgur.com/ZWMxnPa.jpg</fanart>  
+<fanart>https://i.imgur.com/S07sD6x.jpg</fanart> 
 </item>   
+
+  
   
 </items> 
 
@@ -41,9 +44,9 @@ http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJSUbTM.png",BR | Canção Nova
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S2tZaxs.jpg",BR | CBTV
-https://sa-all13.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1662090379.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S2tZaxs.jpg",BR | CBTV Internacional
-https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SYPYeHt.jpg",BR | Cine+
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQ5BKun.png",BR | FM O Dia
@@ -168,8 +171,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 http://bit.ly/2CyHmr0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9q8rtn.jpg",BR | TV Faap
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKDc2V2.png",BR | TV Gazeta
-http://api.new.livestream.com/accounts/5381476/events/gazeta-aovivo/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z5HMLv9.png",BR | TV Gidoes
 http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0mlQZ8F.png",BR | TV Louvar
