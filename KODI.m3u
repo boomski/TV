@@ -281,10 +281,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="Sport",US | EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHCYzRr.jpg" group-title="Sport",US | ESPN
+https://e10.cdn4.us/ingest666/espn_usa/master.m3u8|Referer=https://sportsbay.org/embed/43572/1/espn-usa-live.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qsbmzM.png" group-title="Sport",US | ESPN U
-https://e7.cdn4.us/ingest666/espn_u.m3u8|Referer=https://sportsbay.org/embed/45457/1/espn-u-live.html
+https://e7.cdn4.us/ingest666/espn_u/master.m3u8|Referer=https://sportsbay.org/embed/45457/1/espn-u-live.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plCyWQp.png" group-title="Sport",US | SEC Network
-https://e7.cdn4.us/ingest666/sec-network.m3u8|Referer=https://sportsbay.org/embed/46070/1/sec-network-live.html
+https://e10.cdn4.us/ingest666/sec_network/master.m3u8|Referer=https://sportsbay.org/embed/46070/1/sec-network-live.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",US | BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sport",US | Tennis Channel
@@ -2982,6 +2984,8 @@ http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Albanië",AL | AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRItBCy.jpg" group-title="Albanië",AL | Top News 
+plugin://plugin.video.dailymotion_com/?url=x6inuzo&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQGjhj6.png" group-title="Sport",XK | Art Sports 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjX5rdB.png" group-title="Sport",XK | Art Sports 2
