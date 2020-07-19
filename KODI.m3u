@@ -1632,6 +1632,8 @@ https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0mAYnw.png" group-title="Sport",ES | Teledeporte
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=88.26.241.242
+#EXTINF:-1 tvg-logo="https://i.imgur.com/koxbASS.png" group-title="Sport",ES | Fight Time
+https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rv0cVR7.png" group-title="Spanje",ES | La 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYjFpEh.png" group-title="Spanje",ES | La 2
