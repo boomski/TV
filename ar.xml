@@ -1,144 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-<item>
-<title>AR | ESPN Sur</title>
-<thumbnail>https://i.imgur.com/7sLNvFP.png</thumbnail>
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>   
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/54013.html'):
-   import liveresolver
-   u = liveresolver.resolve(url)
-   return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>  
-  
-<item>
-<title>AR | ESPN 2 Sur</title>
-<thumbnail>https://i.imgur.com/qvVnAAG.png</thumbnail>
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>   
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/54014.html'):
-   import liveresolver
-   u = liveresolver.resolve(url)
-   return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-  
-<item>
-<title>AR | ESPN 3 Sur</title>
-<thumbnail>https://i.imgur.com/cAdtNRj.png</thumbnail>
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>   
-<link>$doregex[GetPageUrl]</link>
-<regex>
-<name>GetPageUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='https://sportsbay.org/stream/54015.html'):
-   import liveresolver
-   u = liveresolver.resolve(url)
-   return u
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-</item>  
-  
+
 <item>
 <title>AR | America Sports</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<link>$doregex[getUrl]</link>
 <regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q</page>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2,resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=urllib2.urlopen('https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q').read()
+  return resolveurl.resolve('https://www.youtube.com//watch?v='+re.findall('"watchEndpoint":{"videoId":"([^"]+)',source)[0])
+]]></expres>
+<page></page>
 </regex>
-<thumbnail>https://i.imgur.com/LWh9CeP.png</thumbnail>  
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
-</item>
-  
+<fanart>https://i.imgur.com/1cyKqKj.jpg</fanart> 
+</item>    
+   
 <item>
 <title>AR | TV Pública Argentina</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<link>$doregex[getUrl]</link>
 <regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg</page>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2,resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=urllib2.urlopen('https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg').read()
+  return resolveurl.resolve('https://www.youtube.com//watch?v='+re.findall('"watchEndpoint":{"videoId":"([^"]+)',source)[0])
+]]></expres>
+<page></page>
 </regex>
-<thumbnail>https://i.imgur.com/kuiH4nW.png</thumbnail>  
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
+<fanart>https://i.imgur.com/AcIrHlH.jpg</fanart> 
 </item> 
   
 <item>
 <title>AR | A24</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<link>$doregex[getUrl]</link>
 <regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ</page>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2,resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=urllib2.urlopen('https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ').read()
+  return resolveurl.resolve('https://www.youtube.com//watch?v='+re.findall('"watchEndpoint":{"videoId":"([^"]+)',source)[0])
+]]></expres>
+<page></page>
 </regex>
-<thumbnail>https://i.imgur.com/jnh9Zxv.png</thumbnail>  
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
-</item>   
+<fanart>https://i.imgur.com/7MxCnxq.png</fanart> 
+</item> 
   
 <item>
-<title>AR | Youtube C5N</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<title>AR | C5N</title>
+<link>$doregex[getUrl]</link>
 <regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w</page>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2,resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=urllib2.urlopen('https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w').read()
+  return resolveurl.resolve('https://www.youtube.com//watch?v='+re.findall('"watchEndpoint":{"videoId":"([^"]+)',source)[0])
+]]></expres>
+<page></page>
 </regex>
-<thumbnail>https://i.imgur.com/9AQcDoF.png</thumbnail>  
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
-</item>
+<fanart>https://i.imgur.com/uFKC0dV.jpg</fanart> 
+</item>    
 
 <item>
 <title>AR | LN+</title>
-<link>plugin://plugin.video.youtube/play/?video_id=$doregex[id]</link>
+<link>$doregex[getUrl]</link>
 <regex>
-<name>id</name>
-<expres>data-context-item-id="([^"]+)<expres>
-<page>https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA</page>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,urllib2,resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  source=urllib2.urlopen('https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA').read()
+  return resolveurl.resolve('https://www.youtube.com//watch?v='+re.findall('"watchEndpoint":{"videoId":"([^"]+)',source)[0])
+]]></expres>
+<page></page>
 </regex>
-<thumbnail>https://i.imgur.com/5SfEOmj.png</thumbnail>  
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>  
+<fanart>https://i.imgur.com/G0XAXx1.jpg</fanart> 
 </item>    
-  
-<item>
-<title>AR | Viajar</title>  
-<thumbnail>https://i.imgur.com/uLJhPuu.png</thumbnail> 
-<fanart>https://i.imgur.com/oJelfoJ.jpg</fanart>   
-<link>$doregex[get-Clean-M3U8]$doregex[get-Clean-token]</link><regex>
-<name>get-Clean-token</name>
-<expres>$pyFunction:'$doregex[get-token]'.replace('\/','/')</expres>
-<page>https://iframe.dacast.com/b/118358/c/484245</page>
-</regex>
-<regex>
-<name>get-token</name>
-<expres>"token":"(.*?)"</expres>
-<page>https://services.dacast.com/token/i/b/118358/c/484245</page>
-<referer>http://iframe.dacast.com/</referer>
-</regex><regex>
-<name>get-Clean-M3U8</name>
-<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
-<page>https://iframe.dacast.com/b/118358/c/484245</page>
-</regex><regex>
-<name>get-M3U8</name>
-<expres>"hls":"(.*?)"</expres>
-<page>http://json.dacast.com/b/118358/c/484245</page>
-<referer>http://iframe.dacast.com/</referer>
-</regex>
-</item>     
+       
 </items> 
 
 
