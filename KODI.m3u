@@ -1159,6 +1159,24 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="Canada",CA | VBS
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",CA | TSN Sports 1
+http://stream-e30453a4b.nmbs.top/m3u/Sports/d4f35cf7c2.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Sport",CA | TSN Sports 2
+http://stream-e30453a4b.nmbs.top/m3u/Sports/fc1a327257.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Sport",CA | TSN Sports 3
+http://stream-e30453a4b.nmbs.top/m3u/Sports/c08f7b129e.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",CA | TSN Sports 4
+http://stream-e30453a4b.nmbs.top/m3u/Sports/f7ac7cd76f.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport",CA | TSN Sports 5
+http://stream-e30453a4b.nmbs.top/m3u/Sports/5c31c97855.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sport",CA | Sportsnet World
+http://stream-e30453a4b.nmbs.top/m3u/Sports/3a1ed01077.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",CA | Sportsnet Otanrio
+http://stream-e30453a4b.nmbs.top/m3u/Sports/a48d90bd5f.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",CA | Sportsnet One
+http://stream-e30453a4b.nmbs.top/m3u/Sports/1d4783966c.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXoCgM0.png" group-title="Sport",CA | Sportsnet 360
+http://stream-e30453a4b.nmbs.top/m3u/Sports/8931c93da8.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Sport",UK | Free Sports
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNfUlHr.png" group-title="Sport",UK | Sky Sports News
@@ -1280,6 +1298,8 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png" group-title="Sport",IE | Rugby Women's Sevens
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNlgioH.png" group-title="Ierland",IE | RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",AU | Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HRBKBo.png" group-title="Sport",AU | Sky Racing 1
@@ -1378,6 +1398,8 @@ http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8|X-Forwarded-For=52.6
 http://api.new.livestream.com/accounts/25119151/events/7392689/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCGjx9D.png" group-title="Nieuw-Zeeland",NZ | TVNZ 1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpfUsc8.png" group-title="Nieuw-Zeeland",NZ | Prime
+https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1HshlGj.png" group-title="Nieuw-Zeeland",NZ | Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z7A1Vrb.png" group-title="Nieuw-Zeeland",NZ | Maori Television
@@ -2213,7 +2235,7 @@ https://unirtmp.tulix.tv/sat7arabic/satarabiclive-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrOg8vL.png" group-title="Cyprus",CY | Sat 7 Pars
 https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hxfcnr6.png" group-title="Sport",TR | A Spor
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fg0eoJu.png" group-title="Sport",TR | TRT Spor
 https://tv-trtspor1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0Ygpa7.png" group-title="Sport",TR | TRT Spor 2
@@ -2249,17 +2271,17 @@ http://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AoKSJYX.jpg" group-title="Turkije",TR | ATV
 https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au33HHc.png" group-title="Turkije",TR | A2
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJFkYlv.png" group-title="Turkije",TR | A Haber
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0tvXAQ.png" group-title="Turkije",TR | A Para
-https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RLUPDDJ.jpg" group-title="Turkije",TR | Fox Türkiye
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXD9nOd.jpg" group-title="Turkije",TR | Haber Turk 
 http://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vYEnfbj.jpg" group-title="Turkije",TR | Halk TV
-http://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+http://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mntX3mr.png" group-title="Turkije",TR | Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYMq6Ll.png" group-title="Turkije",TR | Star TV
@@ -2268,20 +2290,40 @@ https://streams.livetv.az/turk/star_stream/playlist.m3u8
 https://streams.livetv.az/turk/showtv_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdMPksL.png" group-title="Turkije",TR | Teve2
 https://tv.kuzeytv.com/hls/teve2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VR2k1lN.png" group-title="Turkije",TR | Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3L4MFK.png" group-title="Turkije",TR | TV 4
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfXKuu0.png" group-title="Turkije",TR | Kanal 7
-https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhhzjbC.png" group-title="Turkije",TR | TV 8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uhi0ybP.jpg" group-title="Turkije",TR | TV 8.5
-https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png" group-title="Turkije",TR | TV264
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ssnKce.png" group-title="Turkije",TR | Afyon Turk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3hy2mR.png" group-title="Turkije",TR | Ahi TV Kirsehir
+http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gaN2Z33.png" group-title="Turkije",TR | Akit TV
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5UBnxP.png" group-title="Turkije",TR | Altaş TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8MbTyP.png" group-title="Turkije",TR | Al-Zahra TV Türkçe
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/advS9xv.jpg" group-title="Turkije",TR | Ben TV
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NyrV0Ns.png" group-title="Turkije",TR | Beşiktaş TV
 http://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tYVqmO.png" group-title="Turkije",TR | Bursa TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6aVC3R2.jpg" group-title="Turkije",TR | Can TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XeXj7x1.png" group-title="Turkije",TR | Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfIQuLz.jpg" group-title="Turkije",TR | EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png" group-title="Turkije",TR | Kanal Ege
 https://59cba4d34b678.streamlock.net/canlitv/kanalege/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8qu5Ec.png" group-title="Sport",BG | Nova Sport Bulgaria
@@ -3292,6 +3334,10 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 rtmp://xiaoyu.speedws.com/sat/md041
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hraxh1.jpg" group-title="Sport",TW | Weilai Sports
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKfM8jb.png" group-title="Taiwan",TW | Formosa TV 
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gN1Xo8a.png" group-title="Taiwan",TW | Da Ai 1 
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hObPElR.jpg" group-title="Taiwan",TW | Momo TV
 rtmp://xiaoyu.speedws.com/sat/tv761
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1PmloYC.jpg" group-title="Taiwan",TW | Jingyang Theater
