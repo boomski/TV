@@ -1900,6 +1900,10 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrxmhW3.png" group-title="Mexico",MX | Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u17a3U1.png" group-title="Mexico",MX | Canal Once 
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u17a3U1.png" group-title="Mexico",MX | Canal Once Internacional  
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZB7Bfbu.jpg" group-title="Mexico",MX | Multimedios Monterrey 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXMLYnz.png" group-title="Mexico",MX | Tlaxcala TV
@@ -2174,10 +2178,42 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-F
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CVgMwVq.png" group-title="Brazilië",BR | CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IYrlcar.png" group-title="Brazilië",BR | Discovery Brasil
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ueiNjW.png" group-title="Brazilië",BR | Discovery Kids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UkcIeCS.png" group-title="Brazilië",BR | Nick Jr Brasil 
+https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfhUef7.png" group-title="Brazilië",BR | Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Iscuff.jpg" group-title="Brazilië",BR | Agro Canal
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L9qH24V.png" group-title="Brazilië",BR | Boa Vontade
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjxC2Pq.jpg" group-title="Brazilië",BR | Canal 25 Jundiaí
+http://stream01.msolutionbrasil.com.br:80/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlALUlD.png" group-title="Brazilië",BR | Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFa02Gs.jpg" group-title="Brazilië",BR | Canal Saúde
+https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w1195952216_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kl1hd7B.png" group-title="Brazilië",BR | Catve
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Brazilië",BR | CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Brazilië",BR | CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazilië",BR | COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="Brazilië",BR | Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QbdReYf.png" group-title="Brazilië",BR | FURG TV
+http://stream.furg.br:80/hls/furgtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="Brazilië",BR | IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Muu2av7.jpg" group-title="Brazilië",BR | TV Aracati
+https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ino9oJF.jpg" group-title="Brazilië",BR | TV Baiana
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="Brazilië",BR | TV Gazeta
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNzRUAP.png" group-title="Brazilië",BR | Zoom
