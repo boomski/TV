@@ -511,14 +511,22 @@ https://e10.cdn4.us/ingest666/fs2/f.m3u8|Referer=https://espn-live.stream/stream
 https://e10.cdn4.us/ingest666/foxdep/f.m3u8|Referer=https://espn-live.stream/stream/45529.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrCJfBl.jpg" group-title="Sport",US | Fox Soccer Plus
 https://e10.cdn4.us/ingest666/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cd4GYZT.png" group-title="Sport",US | Marquee Sports Network
+https://e10.cdn4.us/ingest666/marquee/master.m3u8|Referer=https://espn-live.stream/stream/70091.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BHCYzRr.jpg" group-title="Sport",US | ESPN
 https://e10.cdn4.us/ingest666/espn_usa/f.m3u8|Referer=https://espn-live.stream/stream/43572.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JmKCRFG.jpg" group-title="Sport",US | ESPN 2
 https://e10.cdn4.us/ingest666/espn2_usa/f.m3u8|Referer=https://espn-live.stream/stream/45351.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qsbmzM.png" group-title="Sport",US | ESPN U
 https://e10.cdn4.us/ingest666/espn_u/f.m3u8|Referer=https://espn-live.stream/stream/45457.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGMsunk.jpg" group-title="Sport",US | ESPN News
+https://e10.cdn4.us/ingest666/espn_news/master.m3u8|Referer=https://espn-live.stream/stream/45458.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kf6f4uB.png" group-title="Sport",US | ACCN ESPN
+https://e10.cdn4.us/ingest666/accn/master.m3u8|Referer=https://espn-live.stream/stream/50008.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plCyWQp.png" group-title="Sport",US | SEC Network
 https://e10.cdn4.us/ingest666/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kkg1gt5.png" group-title="Sport",US | Big Ten Network
+https://e10.cdn4.us/ingest666/btn/master.m3u8|Referer=https://espn-live.stream/stream/45629.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zaebCgc.jpg" group-title="Sport",US | BeIN Sports
 https://e10.cdn4.us/ingest666/beinsports/video5.m3u8|Referer=https://espn-live.stream/stream/68949.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",US | BeIN Sports Xtra
@@ -567,6 +575,8 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VK4efja.png" group-title="USA",US | ABC HD
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=2800000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VK4efja.png" group-title="USA",US | ABC
+https://e10.cdn4.us/ingest666/abc/master.m3u8|Referer=https://espn-live.stream/stream/52715.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4zFHzI.png" group-title="USA",US | CNN
@@ -593,8 +603,16 @@ https://live.chdrstatic.com/cbn/primary/5.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CP05YX0.jpg" group-title="USA",US | AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k3sRwBI.png" group-title="USA",US | American Heroes Channel
+https://e10.cdn4.us/ingest666/ahc/master.m3u8|Referer=https://espn-live.stream/stream/70077.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7OaFtN.png" group-title="USA",US | TBS East
-
+https://e10.cdn4.us/ingest666/tbse/master.m3u8|Referer=https://espn-live.stream/stream/69563.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7OaFtN.png" group-title="USA",US | TBS West
+https://e10.cdn4.us/ingest666/tbsw/master.m3u8|Referer=https://espn-live.stream/stream/69564.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ylU1iUK.jpg" group-title="USA",US | TNT
+https://e10.cdn4.us/ingest666/tnt/master.m3u8|Referer=https://espn-live.stream/stream/50368.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opxhqel.png" group-title="USA",US | TV Land
+https://e10.cdn4.us/ingest666/tvland/master.m3u8|Referer=https://espn-live.stream/stream/68073.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="USA",US | A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjTeasa.png" group-title="USA",US | Big Life TV
@@ -633,6 +651,8 @@ https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxWGQ7J.png" group-title="USA",US | FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmfxSWn.jpg" group-title="USA",US | MavTV
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CP05YX0.jpg" group-title="USA",US | Buzzr 
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ii5W0Lx.png" group-title="USA",US | TBD.
@@ -647,8 +667,10 @@ https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Garage TV
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SvY0iSk.jpg" group-title="USA",US | Law & Crime
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SpONwoP.png" group-title="USA",US | Law & Crime Network
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SpONwoP.png" group-title="USA",US | Law & Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C0NoakZ.jpg" group-title="USA",US | Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Public
@@ -1874,12 +1896,22 @@ http://events1-crtvg.flumotion.com/playlist.m3u8
 http://events2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="Spanje",ES | Galicia | TVG Momento
 http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJBh8xV.png" group-title="Mexico",MX | Telemundo Chicago
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrxmhW3.png" group-title="Mexico",MX | Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZB7Bfbu.jpg" group-title="Mexico",MX | Multimedios Monterrey 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXMLYnz.png" group-title="Mexico",MX | Tlaxcala TV
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhKgZ4w.jpg" group-title="Sport",AR | Deportv
 https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7h3oEo.png" group-title="Sport",AR | ESPN Sur
+https://e10.cdn4.us/ingest666/espn_sur/master.m3u8|Referer=https://espn-live.stream/stream/54013.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Yz4gMD.png" group-title="Sport",AR | ESPN 2 Sur
+https://e10.cdn4.us/ingest666/espn2_sur/master.m3u8|Referer=https://espn-live.stream/stream/54014.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HA5qhQ7.jpg" group-title="Sport",AR | ESPN 3 Sur
+https://e10.cdn4.us/ingest666/espn3_sur/master.m3u8|Referer=https://espn-live.stream/stream/54015.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9xoZOr.png" group-title="Argentinië",AR | PAKA PAKA
 https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYG7LuP.png" group-title="Argentinië",AR | Encuentro
