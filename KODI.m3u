@@ -3212,6 +3212,8 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/boaGpAv.jpg" group-title="Hong Kong",HK | i-Cable Finance
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MZ7jxoQ.png" group-title="Sport",MO | TDM Desporto
+https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rrgblg8.png" group-title="Macau",MO | TDM Ou Mun
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TnCK6KQ.png" group-title="Macau",MO | Canal Macau
@@ -3222,6 +3224,10 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4Axyvy.png" group-title="Macau",MO | TDM Entretenimento
 https://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7nXvuN.png" group-title="Macau",MO | Macau Legislative Council  
+https://live4.tdm.com.mo/tv/_definst_/ch21.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7nXvuN.png" group-title="Macau",MO | Macau Legislative Council Portuguese
+https://live4.tdm.com.mo/tv/_definst_/ch22.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8Z3OIf.png" group-title="Sport",JP | New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWKCBIz.png" group-title="Japan",JP | NHK Kishou-Saigai NHK Kishou-Saigai
