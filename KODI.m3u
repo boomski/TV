@@ -3408,6 +3408,8 @@ https://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 https://live4.tdm.com.mo/tv/_definst_/ch21.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7nXvuN.png" group-title="Macau",MO | Macau Legislative Council Portuguese
 https://live4.tdm.com.mo/tv/_definst_/ch22.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LSHC7lG.jpg" group-title="Macau",MO | Lotus Macau TV
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8Z3OIf.png" group-title="Sport",JP | New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWKCBIz.png" group-title="Japan",JP | NHK Kishou-Saigai NHK Kishou-Saigai
@@ -4215,7 +4217,7 @@ http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00u3qsv.png" group-title="Bangladesh",BD | Gazi TV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="Bangladesh",BD | Nat Geo Wild [ BANGLADESH ]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="Bangladesh",BD | Nat Geo Wild 
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tWN6MFt.png" group-title="Bangladesh",BD | ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
@@ -4271,8 +4273,8 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fupJrp1.jpg" group-title="Bangladesh",BD | Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5wARsrs.png" group-title="Bangladesh",BD | Colors Bangla
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLgjYXh.jpg" group-title="Bangladesh",BD | Mohona TV
+https://itpolly.iptv.digijadoo.net/live/mohona_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OxkTwpR.png" group-title="Sport",IN | D Sport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yf5sc5k.png" group-title="Sport",IN | Sony Six HD
@@ -4283,6 +4285,8 @@ http://cdn.banglatv.xyz/beeiptv-stb/ten1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQc7Tce.png" group-title="Sport",IN | Astro Cricket
 http://stream-e30453a4b.nmbs.top/m3u/Sports/0349462cac.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCo2Fmf.jpg" group-title="India",IN | StarPlus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEXKl0v.png" group-title="India",IN | CNBC Bajar
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wqi0Cmd.jpg" group-title="India",IN | CNBC 18
@@ -4317,8 +4321,16 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t1O83T7.jpg" group-title="India",IN | Shemaroo Punjabi TV
 https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYxvsZh.png" group-title="India",IN | Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SRqXxHl.png" group-title="India",IN | Colors Rishtey
-
+https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5wARsrs.png" group-title="India",IN | Colors Bangla HD
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5wARsrs.png" group-title="India",IN | Colors Bangla
+https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HSTFmK5.jpg" group-title="India",IN | Manoranjan TV
+https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qDjEJD9.jpg" group-title="India",IN | Chardikla Time Tv North America
 http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBd9SRR.png" group-title="Sport",MM | Skynet Sport HD
