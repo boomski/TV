@@ -1308,6 +1308,20 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/in
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxf9gQd.jpg" group-title="Groot-Brittannië",UK | Kanshi TV
 http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Groot-Brittannië",UK | Rathergood Movies
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=6&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODMOVIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Groot-Brittannië",UK | Rathergood Radio
+https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Groot-Brittannië",UK | Rathergood 90s
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=202&n=0&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOOD90S-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Groot-Brittannië",UK | Rathergood 00s
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=21&n=0&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODNOUGHTIES-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Groot-Brittannië",UK | Rathergood Dance
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=6&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCE-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Groot-Brittannië",UK | Rathergood Dance Classics
+https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=22&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOF6Z6K.png" group-title="Groot-Brittannië",UK | Vintage Music TV
+https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SxxV8uA.png" group-title="Sport",UK | Box Nation
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMxx8ts.png" group-title="Sport",UK | Adventure Sports Network
@@ -1664,6 +1678,8 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="Spanje",ES | 24 Horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mtW94M.jpg" group-title="Spanje",ES | Clan
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.242
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mR9c6r7.jpg" group-title="Spanje",ES | Antena 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4569,10 +4585,6 @@ https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3
 https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/chunklist_b2168000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Rj0uts.jpg" group-title="Radio",RADIO | Fun Radio
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=fun_radio&item_module=resources.lib.channels.fr.6play&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/owjXT3r.png" group-title="Radio",RADIO | Rathergood Radio
-https://kapang000.broadcastcdn.net/RathergoodRadio-Studio1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOF6Z6K.png" group-title="Radio",RADIO | Vintage Music TV
-https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EdH8s1I.jpg" group-title="Radio",RADIO | BritAsia Live
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0100/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olijpoB.png" group-title="Radio",RADIO | Auto Play TV
