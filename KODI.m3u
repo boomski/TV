@@ -1665,21 +1665,37 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="Spanje",ES | 24 Horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="Spanje",ES | Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8TMYWI0.png" group-title="Spanje",ES | Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://mdst-t5-live-dash.secure.footprint.net/live/nas_live/t5/dash/t5.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qeKsys1.png" group-title="Spanje",ES | La Sexta
-https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu3ISCk.png" group-title="Spanje",ES | Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://mdst-boing-live-dash.secure.footprint.net/live/nas_live/boing/dash/boing.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQ77UnZ.png" group-title="Spanje",ES | Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://mdst-energy-live-dash.secure.footprint.net/live/nas_live/energy/dash/energy.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwsmMWu.png" group-title="Spanje",ES | Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://mdst-dvnty-live-dash.secure.footprint.net/live/nas_live/dvnty/dash/dvnty.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gD5eYVs.jpg" group-title="Spanje",ES | Be Mad
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://mdst-bmad-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4HjQT6E.png" group-title="Spanje",ES | FDF
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://mdst-fdf-live-dash.secure.footprint.net/live/nas_live/fdf/dash/fdf.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00df064d6546bc93c6c4433e117dee75ca5920a97
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upKWdDt.jpg" group-title="Spanje",ES | El Toro TV
 https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zHnN2Gh.jpg" group-title="Spanje",ES | Libertad Digital
