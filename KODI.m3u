@@ -1664,38 +1664,58 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="Spanje",ES | 24 Horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mR9c6r7.jpg" group-title="Spanje",ES | Antena 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09qP7mv.png" group-title="Spanje",ES | Cuatro
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd
+https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8TMYWI0.png" group-title="Spanje",ES | Telecinco
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://mdst-t5-live-dash.secure.footprint.net/live/nas_live/t5/dash/t5.mpd
+https://mdst-t5-live-dash.secure.footprint.net/live/nas_live/t5/dash/t5.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=04dd1203c4e2c03dbc7071e7671a4bbb1e04e376c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qeKsys1.png" group-title="Spanje",ES | La Sexta
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lu3ISCk.png" group-title="Spanje",ES | Boing
+https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7liY9XQ.png" group-title="Spanje",ES | Neox
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://mdst-boing-live-dash.secure.footprint.net/live/nas_live/boing/dash/boing.mpd
+https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0c83968d0468c93bf4e3e0738e60ece3f3c5ee9c0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlIgkqe.png" group-title="Spanje",ES | Nova
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06b89b965159503223e9617ee4f6d9a022132ea16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7fLLk5q.jpg" group-title="Spanje",ES | Mega
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://a3m-mega-live-dash.secure.footprint.net/live/nas_live/mega/dash/mega.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0fc0dd63e19ae7a86d239b17baad0901a328234d7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3WZbG2d.jpg" group-title="Spanje",ES | Atreseries
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://a3m-a3s-live-dash.secure.footprint.net/live/nas_live/a3s/dash/a3s.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06179f00f76e46bf918b09c17e47079a1efa09954
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQ77UnZ.png" group-title="Spanje",ES | Energy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://mdst-energy-live-dash.secure.footprint.net/live/nas_live/energy/dash/energy.mpd
+https://mdst-energy-live-dash.secure.footprint.net/live/nas_live/energy/dash/energy.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=05e23b7305e90fa956f4e1f085ec79c8ec1dffd78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwsmMWu.png" group-title="Spanje",ES | Divinity
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://mdst-dvnty-live-dash.secure.footprint.net/live/nas_live/dvnty/dash/dvnty.mpd
+https://mdst-dvnty-live-dash.secure.footprint.net/live/nas_live/dvnty/dash/dvnty.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=03ad125c92e8fe503094d2512e31f0ff14cd62b29
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gD5eYVs.jpg" group-title="Spanje",ES | Be Mad
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://mdst-bmad-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd
+https://mdst-bmad-live-dash.secure.footprint.net/live/nas_live/bmad/dash/bmad.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0b715c03db8d2203dd364d1e2681f343ce3c87a4b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4HjQT6E.png" group-title="Spanje",ES | FDF
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://mdst-fdf-live-dash.secure.footprint.net/live/nas_live/fdf/dash/fdf.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00df064d6546bc93c6c4433e117dee75ca5920a97
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lu3ISCk.png" group-title="Spanje",ES | Boing
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://mdst-boing-live-dash.secure.footprint.net/live/nas_live/boing/dash/boing.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0eabfb73fbe4d0e9dc74a0895b4c627d60cc2e4b0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upKWdDt.jpg" group-title="Spanje",ES | El Toro TV
 https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zHnN2Gh.jpg" group-title="Spanje",ES | Libertad Digital
