@@ -2200,6 +2200,18 @@ https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
 http://rokutna.tulix.tv/live/inmaculadatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3NPkqX1.png" group-title="Cuba",CU | Cubavisión Internacional
 https://cdn.teveo.cu/live/video/Hqp6Hb4Vq2GFNeGj/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPJqdGy.png" group-title="Haïti",HT | Impact TV
+https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Haïti",HT | Nago TV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="Haïti",HT | Radio TeleBoston
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYoEk8m.png" group-title="Haïti",HT | Tele Eclair
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nYeBNN.jpg" group-title="Haïti",HT | Tele Haiti
+http://66.175.238.147:1935/live/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="Haïti",HT | Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="Andorra",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",PT | Eurosport 1 Portugal
@@ -2272,6 +2284,12 @@ https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W6THaIw.png" group-title="Brazilië",BR | Jovem Pan News
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title="Mozambique",MZ | TV Maná Moçambique
+http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9ieSCH.png" group-title="Mozambique",MZ | TVM
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ligyuce.png" group-title="Mozambique",MZ | TVM Telescola
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jn7fdJH.png" group-title="Malta",MT | TVM
 http://s3.smashmalta.com:82/live/smash/smash/39.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zaluKEH.png" group-title="Malta",MT | TVM 2
@@ -2450,6 +2468,8 @@ http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png" group-title="Turkije",TR | Kanal Ege
 https://59cba4d34b678.streamlock.net/canlitv/kanalege/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9x1SkMj.png" group-title="Turkije",TR | TV A
+https://waw2.artiyerelmedya.net/tva/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8qu5Ec.png" group-title="Sport",BG | Nova Sport Bulgaria
 https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",BG | Eurosport 1 Bulgaria
@@ -2852,6 +2872,10 @@ https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pdZ7aSw.png" group-title="Litouwen",LT | LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZpnEZY.jpg" group-title="Litouwen",LT | LRT Televizija
+https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5k208L.png" group-title="Litouwen",LT | LRT Plius
+https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/chunklist.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9RtBZN.jpg" group-title="Letland",LV | Chau TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png" group-title="Letland",LV | TVNET
@@ -3082,6 +3106,12 @@ http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
 http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yq7wZJ9.png" group-title="Kirgizië",KG | Balastan
 http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hySMigP.jpg" group-title="Kirgizië",KG | HTV KG
+http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PpKqGAA.jpg" group-title="Kirgizië",KG | TV1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXzhdA7.jpg" group-title="Kirgizië",KG | Lyubimy HD
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="Tadzjikistan",TJ | Xuzur TV
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4FGVDqV.jpg" group-title="Sport",TM | Turkmenistan Sport
@@ -4021,6 +4051,10 @@ https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8bPQfOO.png" group-title="Egypte",EG | Al Kahera Wal Nas
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmhfPpd.png" group-title="Egypte",EG | CBC Sofra
+http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2356.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cla9w5J.jpg" group-title="Egypte",EG | Koky Kids
+http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2416.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JSm9v1P.jpg" group-title="Algerije",DZ | El Djazair N1
 http://82.212.74.5:8000/live/hls/7728.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brBTJ3A.png" group-title="Algerije",DZ | Ennahar TV
@@ -4129,6 +4163,8 @@ https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u
 https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJ9UsLT.png" group-title="Iran",IR | IRIB Nasim
 https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJ9UsLT.png" group-title="Iran",IR | IRIB Nasim
+https://live.farsiland.com/nasim/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdDNiAo.jpg" group-title="Iran",IR | GEM USA
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCmSo9i.png" group-title="Iran",IR | iFILM English
@@ -4183,6 +4219,50 @@ http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
 https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b3pGT5G.png" group-title="Koeweit",KW | Funoon TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTF6v72.png" group-title="Libanon",LB | LBC
+https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="Libanon",LB | LBC International
+http://watch.teledunet.com:25461/live/tdn/23614613770/10146730.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="Libanon",LB | Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yxE1jv.jpg" group-title="Libanon",LB | Nour Al Shabab
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="Libanon",LB | Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Libanon",LB | Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Libanon",LB | NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDzolV6.png" group-title="Libanon",LB | NBN
+http://play.teledunet.com:25461/live/tdn/32610118556/10006.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="Libanon",LB | MTV
+http://51.178.43.32:25461/live/tdn/44119572164/10146728.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="Libanon",LB | Al Jadeed
+http://watch.teledunet.com:25461/live/tdn/23614613767/10146727.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Libanon",LB | Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3xH7s7.png" group-title="Libanon",LB | Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v1YizD3.png" group-title="Libanon",LB | Alhayat TV
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/817xRPg.png" group-title="Libanon",LB | Aliman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95sSEr0.png" group-title="Libanon",LB | Assirat TV
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtWZjfc.png" group-title="Libanon",LB | CharityTV
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j9oAlEr.png" group-title="Libanon",LB | Future TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/thbb6F1.png" group-title="Libanon",LB | Lana TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFNOHva.png" group-title="Libanon",LB | Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHi8u7F.jpg" group-title="Libanon",LB | OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="Libanon",LB | Taha TV
+https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvssZ4u.jpg" group-title="Libanon",LB | Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8|Referer=https://www.teleliban.com.lb/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="Sport",JO | Jordan Sport TV
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rpyXHku.png" group-title="Syrië",SY | Sama TV
@@ -4317,6 +4397,8 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 http://playhls.media.nic.in/live/ddpunjabi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEhepQa.jpg" group-title="India",IN | UGC-CEC Vyas
 http://playhls.media.nic.in/live/vyas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIc76op.png" group-title="India",IN | Deepam TV
+http://95.217.218.87/deepamtvhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="India",IN | Shemaroo Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t1O83T7.jpg" group-title="India",IN | Shemaroo Punjabi TV
@@ -4333,6 +4415,14 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qDjEJD9.jpg" group-title="India",IN | Chardikla Time Tv North America
 http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="India",IN | 3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t10I7b6.jpg" group-title="India",IN | 5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WqJlDsA.png" group-title="India",IN | 7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kuzYv6C.jpg" group-title="India",IN | Sooriyan TV
+https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBd9SRR.png" group-title="Sport",MM | Skynet Sport HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IkjHQWF.jpg" group-title="Sport",MM | Skynet Sport +
