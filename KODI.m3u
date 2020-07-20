@@ -149,6 +149,8 @@ http://ms7.mx-cd.net/tv/198-989148/1Twente_TV.smil/playlist.m3u8
 http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="Nederland",NL | TV Valkenburg
 http://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cWxgJTj.jpg" group-title="Nederland",NL | Studio 040
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnQMXRm.jpg" group-title="Nederland",NL | DocuBox HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sx1yiF9.png" group-title="Nederland",NL | Filmbox Extra
@@ -1338,6 +1340,8 @@ https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNlgioH.png" group-title="Ierland",IE | RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzDoNg0.jpg" group-title="Ierland",IE | TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",AU | Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HRBKBo.png" group-title="Sport",AU | Sky Racing 1
@@ -2132,6 +2136,8 @@ http://live-15.viewer.dacast.com:80/i/dclive_1@397642/master.m3u8
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z1YqTFZ.png" group-title="Chili",CL | TV Chile
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTTj9ya.png" group-title="Chili",CL | Holvoet TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7osLgHP.png" group-title="Chili",CL | DESIERTO TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SmkRTGH.png" group-title="Chili",CL | Retro Plus TV
@@ -3224,6 +3230,8 @@ http://77.238.209.50:8080/hema1
 http://wowza.bihnet.net:88/hls/b1-live.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Bosnië en Herzegovina",BA | 777 Tehnika TV
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2ddR1h.png" group-title="Servië",RS | 24 Kitchen
+http://mobia.si/ts/DOQ/stream_iptv_2000k.m3u8|User-Agent=AppleCoreMedia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaEkaMQ.png" group-title="Servië",RS | T7
 https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yzg0yt720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkgYixn.jpg" group-title="Servië",RS | RTV Puls
