@@ -569,6 +569,8 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 http://188.93.95.34:80/fightboxhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCcok6.png" group-title="Sport",US | CombatGo
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOCcok6.png" group-title="Sport",US | CombatGo
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png" group-title="Sport",US | MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg" group-title="Sport",US | LSN
@@ -1476,6 +1478,8 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cVxGC0h.png" group-title="Nieuw-Zeeland",NZ | Ankhila Punjab
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cucsYIP.jpg" group-title="Nieuw-Zeeland",NZ | Kordia TV
+https://streaming.kordia.net.nz/out/u/ContentServices.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3usuh4.png" group-title="Nieuw-Zeeland",NZ | Firstlight UK
 http://rokutna.tulix.tv/live/firstlight-uk.stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4AuQtX.png" group-title="Fiji",FJ | Fiji TV
@@ -3524,6 +3528,8 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/boaGpAv.jpg" group-title="Hong Kong",HK | i-Cable Finance
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrHAgQo.jpg" group-title="Hong Kong",HK | Universal Television
+http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MZ7jxoQ.png" group-title="Sport",MO | TDM Desporto
 https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rrgblg8.png" group-title="Macau",MO | TDM Ou Mun
@@ -4297,6 +4303,8 @@ http://137.74.205.201/live25/live25.m3u8
 https://live.karwan.tv/karwan.tv/waar-tv_1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hkopcmh.png" group-title="Irak",IQ | Zagro
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vIM1Ze.png" group-title="Irak",IQ | Babylon TV
+https://iqlivestream.com/babylontv/kardokardo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJeRr5j.jpg" group-title="Sport",KW | KTV Sport
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KB7KA1.jpg" group-title="Sport",KW | KTV Sport Plus
@@ -4489,6 +4497,10 @@ https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mlMq1Ku.png" group-title="India",IN | Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jubxTLm.jpg" group-title="India",IN | Sony Sab
+http://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECpFNZB.jpg" group-title="India",IN | Sony Yay
+http://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HTdpLvS.jpg" group-title="India",IN | Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vclGdKK.png" group-title="India",IN | MNX Movies
@@ -4525,6 +4537,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuzYv6C.jpg" group-title="India",IN | Sooriyan TV
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m1GyyQg.jpg" group-title="India",IN | Thirumalai
+https://abcmedias.livewebcast.in/abcmedias/abcmediaslive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBd9SRR.png" group-title="Sport",MM | Skynet Sport HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IkjHQWF.jpg" group-title="Sport",MM | Skynet Sport +
