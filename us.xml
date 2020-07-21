@@ -67,15 +67,13 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
    
 <item>
 <title>US VPN | NBC Golf</title>
-<thumbnail>https://i.imgur.com/1SMuTLT.jpg</thumbnail> 
-<fanart>https://i.imgur.com/sv730VB.jpg</fanart>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8</link>
+<fanart>https://i.imgur.com/PpAofk8.jpg</fanart>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=67.14.5.205</link>
 </item> 
   
 <item>
 <title>US VPN | PBS Kids</title>
-<thumbnail>https://i.imgur.com/f07nRRi.png</thumbnail> 
-<fanart>https://i.imgur.com/sv730VB.jpg</fanart>
+<fanart>https://i.imgur.com/3JCHmNR.png</fanart>
 <link>https://live-cdn.pbskids.org/out/u/aim/wpsu_3.m3u8</link>
 </item>  
   
@@ -84,6 +82,12 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <utube>UCfkKltnHzMs7U8QCl3BWfrg</utube> 
 <fanart>https://i.imgur.com/gIq0GnP.jpg</fanart> 
 </item>  
+  
+<item>
+<title>US | USL Championship</title>
+<utube>UCBhFPYpX9WBxYRMGzqLjoMA</utube> 
+<fanart>https://i.imgur.com/6j3GcmA.png</fanart> 
+</item>   
   
 <item>
 <title>US | Disc Golf Pro Tour</title>
