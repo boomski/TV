@@ -387,6 +387,8 @@ https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/c
 https://wowzaprod222-i.akamaihd.net/hls/live/1005450/e10659bc/e10659bc_1_3500000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kybSwK3.png" group-title="Duitsland",DE | Kiel TV
 https://live.oksh.de:8888/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DxS0Jc2.png" group-title="Duitsland",DE | Salve TV
+https://58de7a369a9c4.streamlock.net/salvetv/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agcpY2R.png" group-title="Duitsland",DE | MTV Germany
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGkaSQ.png" group-title="Duitsland",DE | Noviy Mir
@@ -1929,7 +1931,7 @@ https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZgA0OGG.png" group-title="Spanje",ES | Andalucia | Lebrija TV
 https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QBzvCJc.png" group-title="Spanje",ES | Andalucia | Canal San Roque
-http://common01.todostreaming.es/live/sanroque-livestream.m3u8
+https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AFT43kx.png" group-title="Spanje",ES | Andalucia | Cadena Elite Granada
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8nWoe1R.jpg" group-title="Spanje",ES | Andalucia | Canal 45 TV
@@ -1988,6 +1990,8 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laEKihH.jpg" group-title="Spanje",ES | Communidad Valenciana | Canal 56
 https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtNwai6.jpg" group-title="Spanje",ES | Communidad Valenciana | Univers TV
+https://5c21f7ec1999d.streamlock.net/universvalencia/universvalencia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="Spanje",ES | Castilla-La Mancha | RTV Diocesana Toledo
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="Spanje",ES | Castilla-La Mancha | Canal 4 Mancha Centro
@@ -3326,6 +3330,10 @@ http://77.238.209.50:8080/hema1
 http://wowza.bihnet.net:88/hls/b1-live.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Bosnië en Herzegovina",BA | 777 Tehnika TV
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vLMqAy.jpg" group-title="Bosnië en Herzegovina",BA | N1 
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vLMqAy.jpg" group-title="Servië",RS | N1 
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2ddR1h.png" group-title="Servië",RS | 24 Kitchen
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaEkaMQ.png" group-title="Servië",RS | T7
@@ -3342,6 +3350,8 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 http://178.253.194.75:1935/live/hram.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAsSKAv.png" group-title="Servië",RS | Rrokum TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiXkiqu.png" group-title="Kroatië",HR | N1 
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdaxFrx.jpg" group-title="Kroatië",HR | Z1
 https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="Noord-Macedonië",MK | Sky Folk TV
