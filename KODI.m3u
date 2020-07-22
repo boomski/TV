@@ -366,21 +366,25 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle Arabic
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7JHiV2.png" group-title="Duitsland",DE | Pro 7
-https://wer22.wertvlive.com/hls/k11.m3u8  
+ 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW7ZqPk.png" group-title="Duitsland",DE | RTL
-https://wer2.wertvlive.com/hls/u1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y10LNR1.jpg" group-title="Duitsland",DE | RTL 2
-https://wer22.wertvlive.com/hls/k22.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2WZjsh.png" group-title="Duitsland",DE | RTL Nitro
-https://wer2.wertvlive.com/hls/u4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitJsZU.png" group-title="Duitsland",DE | EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXkIqPG.png" group-title="Duitsland",DE | RiC
 https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcFmRzG.png" group-title="Duitsland",DE | Anixe HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XbXSpy1.png" group-title="Duitsland",DE | Welt der Wunder
 http://wowza-1.vidoo.de:1935/live/weltderwunder/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aH3CGO7.png" group-title="Duitsland",DE | WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tupATym.png" group-title="Duitsland",DE | Augsburg TV
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tph4j1N.png" group-title="Duitsland",DE | RheinMain TV
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1H7y8YK.png" group-title="Duitsland",DE | Niederbayern TV
@@ -549,9 +553,15 @@ https://e10.cdn4.us/ingest666/accn/master.m3u8|Referer=https://espn-live.stream/
 https://e10.cdn4.us/ingest666/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kkg1gt5.png" group-title="Sport",US | Big Ten Network
 https://e10.cdn4.us/ingest666/btn/master.m3u8|Referer=https://espn-live.stream/stream/45629.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zaebCgc.jpg" group-title="Sport",US | BeIN Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zaebCgc.jpg" group-title="Sport",US | beIN Sports
 https://e10.cdn4.us/ingest666/beinsports/video5.m3u8|Referer=https://espn-live.stream/stream/68949.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",US | BeIN Sports Xtra
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJ8wVis.png" group-title="Sport",US | beIN 4 USA
+https://e10.cdn4.us/ingest666/bein4/video3.m3u8|Referer=https://espn-live.stream/stream/69178.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ApkyDOI.png" group-title="Sport",US | beIN Sports La Liga
+https://e10.cdn4.us/ingest666/laliga/video4.m3u8|Referer=https://espn-live.stream/stream/69176.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5pHtq8.png" group-title="Sport",US | beIN Sports Ñ 
+https://e10.cdn4.us/ingest666/beinenie/video1.m3u8|Referer=https://espn-live.stream/stream/69175.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",US | beIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iyisNh1.png" group-title="Sport",US | GolTV
 https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
@@ -603,6 +613,26 @@ http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=2800000.m3u8
 https://e10.cdn4.us/ingest666/abc/master.m3u8|Referer=https://espn-live.stream/stream/52715.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMeWq3p.jpg" group-title="USA",US | ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4zFHzI.png" group-title="USA",US | CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="USA",US | NBC News Now
@@ -631,12 +661,22 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 https://e10.cdn4.us/ingest666/ahc/master.m3u8|Referer=https://espn-live.stream/stream/70077.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7OaFtN.png" group-title="USA",US | TBS East
 https://e10.cdn4.us/ingest666/tbse/master.m3u8|Referer=https://espn-live.stream/stream/69563.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7OaFtN.png" group-title="USA",US | TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7OaFtN.png" group-title="USA",US | TBS West
 https://e10.cdn4.us/ingest666/tbsw/master.m3u8|Referer=https://espn-live.stream/stream/69564.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7OaFtN.png" group-title="USA",US | TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ylU1iUK.jpg" group-title="USA",US | TNT
 https://e10.cdn4.us/ingest666/tnt/master.m3u8|Referer=https://espn-live.stream/stream/50368.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ylU1iUK.jpg" group-title="USA",US | TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/opxhqel.png" group-title="USA",US | TV Land
 https://e10.cdn4.us/ingest666/tvland/master.m3u8|Referer=https://espn-live.stream/stream/68073.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukZbYjg.png" group-title="USA",US | CMT
+https://e10.cdn4.us/ingest666/cmt/f.m3u8|Referer=https://espn-live.stream/stream/68074.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7zmSUUF.png" group-title="USA",US | VH1
+https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream/68075.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="USA",US | A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjTeasa.png" group-title="USA",US | Big Life TV
@@ -711,8 +751,12 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JExsI09.png" group-title="USA",US | Denver | ABC 7 KMGH 
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lBw9hj6.png" group-title="USA",US | Sarasota | ABC 7 WWSB
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfnY67p.jpg" group-title="USA",US | Chattanooga | ABC 9 WTVC
 https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzrMJIJ.png" group-title="USA",US | Miami | ABC 10 WPLG
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgF6S22.png" group-title="USA",US | Omaha | CBS 3 KMTV 
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ByPFQGp.png" group-title="USA",US | Albany | CBS 6 WRGB
@@ -3594,6 +3638,8 @@ https://tv.nknews.org/tvhls/stream.m3u8
 http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/knM3pJm.png" group-title="Sport",KR | JTBC Golf
 http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvdkdHL.png" group-title="Zuid-Korea",KR | Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GcU8Uer.png" group-title="Zuid-Korea",KR | EBS 1
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pIOBbqT.png" group-title="Zuid-Korea",KR | Fishing TV
@@ -4501,6 +4547,8 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBpvKJY.png" group-title="India",IN | Hindi | NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SiWtpk.jpg" group-title="India",IN | Hindi | 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCo2Fmf.jpg" group-title="India",IN | Hindi | StarPlus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEXKl0v.png" group-title="India",IN | Hindi | CNBC Bajar
@@ -4512,9 +4560,9 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymVf9aC.jpg" group-title="India",IN | Hindi | India Today
 https://edge-1192-ch-gv.filmon.com/live/3482.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71xhF2J.jpg" group-title="India",IN | Hindi | Discovery Hindi 
-https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8nfPBU.jpg" group-title="India",IN | Hindi | Discovery Science Hindi
-https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jubxTLm.jpg" group-title="India",IN | Hindi | Sony Sab
 http://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECpFNZB.jpg" group-title="India",IN | Hindi | Sony Yay
