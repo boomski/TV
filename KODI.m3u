@@ -255,6 +255,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yEwrmqa.jpg" group-title="Frankrijk",FR | Télévision Locale du Choletais
 plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtqpY6w.png" group-title="Frankrijk",FR | TV78
+https://origin2.dvmr.fr/hls/tvfil78/tvfil78-1200k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png" group-title="Frankrijk",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="Frankrijk",FR | Alpe d’Huez TV
