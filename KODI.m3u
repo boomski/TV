@@ -105,6 +105,10 @@ https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruXN2HE.png" group-title="Sport",NL | ZIGGO Sports Select
 http://stream-e30453a4b.nmbs.top/m3u/Sports/f0332b2519.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6EuA2U.png" group-title="Nederland",NL | NPO Nieuws
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZISvyzR.png" group-title="Nederland",NL | NPO Politiek
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Introuble TV
@@ -392,12 +396,14 @@ https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KZKqSrg.jpg" group-title="Duitsland",DE | Euronews
 http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7JHiV2.png" group-title="Duitsland",DE | Pro 7
- 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW7ZqPk.png" group-title="Duitsland",DE | RTL
-
+http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y10LNR1.jpg" group-title="Duitsland",DE | RTL 2
-
+http://5.135.92.133:52841/out/u/119_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2WZjsh.png" group-title="Duitsland",DE | RTL Nitro
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/usTBWQn.jpg" group-title="Duitsland",DE | Super RTL 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3t0izO.png" group-title="Duitsland",DE | Kabel eins
 
@@ -817,6 +823,8 @@ https://e10.cdn4.us/ingest666/cmt/f.m3u8|Referer=https://espn-live.stream/stream
 https://e10.cdn4.us/ingest666/vh1/c.m3u8|Referer=https://espn-live.stream/stream/68075.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="USA",US | A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZJs3hk.png" group-title="USA",US | Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjTeasa.png" group-title="USA",US | Big Life TV
 https://biglife.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4Bx9pG.jpg" group-title="USA",US | Glewed TV
@@ -2844,6 +2852,38 @@ https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9Hf4Uh.png" group-title="Roemenië",RO | VP TV
 http://89.38.8.130:39437
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Białystok
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Bydgoszcz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Gdańsk
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Gorzów
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Katowice
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Kielce
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Kraków
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Łódź
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz:
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Lublin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Olsztyn
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Opole
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Poznań
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Rzeszów
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Wrocław
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeEAXXS.jpg" group-title="Polen",PL | Hope Channel Poland
 http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tgLWe9o.jpg" group-title="Polen",PL | Telewizja Kujawy
@@ -3486,6 +3526,8 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://5.135.92.133:52841/out/u/155_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzEGZEH.png" group-title="Albanië",AL | Tirana TV
 http://5.135.92.133:52841/out/u/163_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEtAnpF.png" group-title="Albanië",AL | Fine Living
+http://5.135.92.133:52841/out/u/500_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vMSKhQc.jpg" group-title="Albanië",AL | KOHA TV 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQGjhj6.png" group-title="Sport",XK | Art Sports 1
@@ -3540,10 +3582,18 @@ http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdaxFrx.jpg" group-title="Kroatië",HR | Z1
 https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ySxsmK9.jpg" group-title="Noord-Macedonië",MK | MRT 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gtqa9lj.jpg" group-title="Noord-Macedonië",MK | Sitel
+http://51.89.67.64:8081/tvstanici/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="Noord-Macedonië",MK | Sky Folk TV
 http://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYTdqIc.png" group-title="Noord-Macedonië",MK | Star Folk
+http://live.muzickatv.mk/hls/Starmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C67vLVL.jpg" group-title="Noord-Macedonië",MK | TVPlus
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FHZpMo.png" group-title="Noord-Macedonië",MK | Shenja
+http://5.135.92.133:52841/out/u/145_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="Israel",IL | Channel 2 News
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRvjdEz.png" group-title="Israel",IL | Knesset 10
@@ -4839,6 +4889,8 @@ https://nepaltv.nettvnepal.com.np/notoken/NTVNEPAL1500.stream/chunks.m3u8
 http://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zX6fCMT.png" group-title="Erotic",XXX | Shemale Tube TV 2
 http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/73kRbyj.png" group-title="Erotic",XXX | Bunga Bunga
+http://5.135.92.133:52841/out/u/107_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iV0doUF.png" group-title="Erotic",XXX | Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHHE8Rt.png" group-title="Erotic",XXX | Babestation 24
