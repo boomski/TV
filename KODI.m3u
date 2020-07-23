@@ -491,10 +491,12 @@ https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUP8ZBb.png" group-title="Duitsland",DE | RAN1 Regionalfernsehen
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oYho5l3.jpg" group-title="Duitsland",DE | Regio TV Bodensee
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XTMWFx7.jpg" group-title="Duitsland",DE | Regio TV Schwaben
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mD8kgk8.jpg" group-title="Duitsland",DE | Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zPWK5ol.jpg" group-title="Duitsland",DE | Regio TV Schwaben
+https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD4mw3v.png" group-title="Duitsland",DE | Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VivsqjW.png" group-title="Duitsland",DE | RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aQLaFRi.jpg" group-title="Duitsland",DE | Rhein Neckar Fernsehen
@@ -508,17 +510,17 @@ https://58de7a369a9c4.streamlock.net/salvetv/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8JgvKq.png" group-title="Duitsland",DE | Tele Regional Passau 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KB32ebd.png" group-title="Duitsland",DE | TV Aktuell
-
-#EXTINF:-1 tvg-logo=""  group-title="Duitsland",DE | TV Mainfranken
-
-#EXTINF:-1 tvg-logo=""  group-title="Duitsland",DE | TV Mittelrhein
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j9YGiom.png" group-title="Duitsland",DE | TV Oberfranken
-
-#EXTINF:-1 tvg-logo="" group-title="Duitsland",DE | TV Würzburg
+https://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jj5St7o.png" group-title="Duitsland",DE | TV Mainfranken
+https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jj5St7o.png" group-title="Duitsland",DE | TV Mainfranken
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6BCmbO.png" group-title="Duitsland",DE | TV Mittelrhein
+https://sdn-global-live-http-cache-3qsdn.akamaized.net/2979/amlst:5714-sbr/2979/5714_Z2m9rPBkNW4DKMG/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j9YGiom.png" group-title="Duitsland",DE | TV Oberfranken
+https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sn32FG.png" group-title="Duitsland",DE | Westerwald TV
-
+https://sdn-global-live-http-cache-3qsdn.akamaized.net/2980/amlst:5715-sbr/2980/5715_DkY34r6dJxfbmNp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agcpY2R.png" group-title="Duitsland",DE | MTV Germany
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8|X-Forwarded-For=195.186.136.21
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGkaSQ.png" group-title="Duitsland",DE | Noviy Mir
@@ -2852,37 +2854,37 @@ https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9Hf4Uh.png" group-title="Roemenië",RO | VP TV
 http://89.38.8.130:39437
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Białystok
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WkV5GP.jpg" group-title="Polen",PL | TVP 3 Białystok
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Bydgoszcz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xN8Snn.jpg" group-title="Polen",PL | TVP 3 Bydgoszcz
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Gdańsk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJnRNIg.jpg" group-title="Polen",PL | TVP 3 Gdańsk
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Gorzów
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9Qsuuw.png" group-title="Polen",PL | TVP 3 Gorzów
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Katowice
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PtkfFD.jpg" group-title="Polen",PL | TVP 3 Katowice
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Kielce
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9avQR3C.png" group-title="Polen",PL | TVP 3 Kielce
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Kraków
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ch1M3Ye.jpg" group-title="Polen",PL | TVP 3 Kraków
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Łódź
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y0KG5JQ.jpg" group-title="Polen",PL | TVP 3 Łódź
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz:
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Lublin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hYcs9Xo.png" group-title="Polen",PL | TVP 3 Lublin
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Olsztyn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2UF9pXt.jpg" group-title="Polen",PL | TVP 3 Olsztyn
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Opole
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVHYKLA.png" group-title="Polen",PL | TVP 3 Opole
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Poznań
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohBlvXm.png" group-title="Polen",PL | TVP 3 Poznań
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Rzeszów
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5hXsDe.png" group-title="Polen",PL | TVP 3 Rzeszów
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Szczecin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WLe8xa2.png" group-title="Polen",PL | TVP 3 Szczecin
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Warszawa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ma5N9dV.jpg" group-title="Polen",PL | TVP 3 Warszawa
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:-1 tvg-logo="" group-title="Polen",PL | TVP 3 Wrocław
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1kxvh9X.png" group-title="Polen",PL | TVP 3 Wrocław
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeEAXXS.jpg" group-title="Polen",PL | Hope Channel Poland
 http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
@@ -4815,6 +4817,8 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1GyyQg.jpg" group-title="India",IN | Tamil | Thirumalai
 https://abcmedias.livewebcast.in/abcmedias/abcmediaslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qaQkQn.jpg" group-title="India",IN | Tamil | Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBh7Gmy.jpg" group-title="India",IN | Malayalam | Mangalam TV
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eJUF2G1.jpg" group-title="India",IN | Malayalam | Twenty Four News
