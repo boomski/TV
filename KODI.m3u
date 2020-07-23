@@ -4755,6 +4755,8 @@ https://edge-1192-ch-gv.filmon.com/live/3482.high.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8nfPBU.jpg" group-title="India",IN | Hindi | Discovery Science Hindi
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q9zAYfM.jpg" group-title="India",IN | Hindi | B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jubxTLm.jpg" group-title="India",IN | Hindi | Sony Sab
 http://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECpFNZB.jpg" group-title="India",IN | Hindi | Sony Yay
@@ -4789,18 +4791,34 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qDjEJD9.jpg" group-title="India",IN | Hindi | Chardikla Time Tv North America
 http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLvgJmy.png" group-title="India",IN | Hindi | Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="India",IN | Tamil | 3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="India",IN | Tamil | Aathavan TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4TBfRuA.jpg" group-title="India",IN | Tamil | Captain TV
+http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TIc76op.png" group-title="India",IN | Tamil | Deepam TV
 http://95.217.218.87/deepamtvhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxNolB3.jpg" group-title="India",IN | Tamil | Kalaignar Murasu
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nTUWEGT.jpg" group-title="India",IN | Tamil | MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JJvxYK4.jpg" group-title="India",IN | Tamil | MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMoWZ3Q.png" group-title="India",IN | Tamil | MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqJlDsA.png" group-title="India",IN | Tamil | 7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuzYv6C.jpg" group-title="India",IN | Tamil | Sooriyan TV
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1GyyQg.jpg" group-title="India",IN | Tamil | Thirumalai
 https://abcmedias.livewebcast.in/abcmedias/abcmediaslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBh7Gmy.jpg" group-title="India",IN | Malayalam | Mangalam TV
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJUF2G1.jpg" group-title="India",IN | Malayalam | Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QCfHNPt.png" group-title="India",IN | Malayalam | ACV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kILcFLq.png" group-title="India",IN | Malayalam | ACV Jukebox
