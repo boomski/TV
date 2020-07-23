@@ -557,6 +557,14 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wyGDgc1.jpg" group-title="Sport",AT | Sky Sports Austria
 http://stream-e30453a4b.nmbs.top/m3u/Germany/a8a5bab2b3.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laESecM.png" group-title="Sport",AT | ORF Sport+
+https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MSrojwT.jpg" group-title="Oostenrijk",AT | ORF 1
+https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5z0Ihu.png" group-title="Oostenrijk",AT | ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6QWXt3.jpg" group-title="Oostenrijk",AT | Servus TV Österreich
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png" group-title="Oostenrijk",AT | RTL Austria
@@ -2752,6 +2760,54 @@ https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffsvXpr.png" group-title="Bulgarije",BG | National Geographic Wild
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GYF3OGJ.jpg" group-title="Bulgarije",BG | AMC 
+https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUMHkbC.jpg" group-title="Bulgarije",BG | AXN 
+https://cdn1.mobiletv.bg/T13/axn/axn_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4VL5iX.jpg" group-title="Bulgarije",BG | FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bAqwymx.png" group-title="Bulgarije",BG | TLC 
+https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CbPnblr.jpg" group-title="Bulgarije",BG | Travel Channel 
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HxtLzdR.png" group-title="Bulgarije",BG | FEN TV
+https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrRMmZh.png" group-title="Bulgarije",BG | 7/8 TV
+https://ms1.sedemosmi.tv/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4sT7w1i.png" group-title="Bulgarije",BG | Alfa TV
+http://alfa.bg:1935/live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoOSqFa.jpg" group-title="Bulgarije",BG | bTV Cinema
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKgYpFD.jpg" group-title="Bulgarije",BG | bTV Comedy
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/okEHR6h.jpg" group-title="Bulgarije",BG | Nova
+https://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZLS3QM.jpg" group-title="Bulgarije",BG | Bulgaria on Air
+https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNE62gW.png" group-title="Bulgarije",BG | This is Bulgaria
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kouSG7d.jpg" group-title="Bulgarije",BG | City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ns5gkRt.jpg" group-title="Bulgarije",BG | Planeta
+https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGpNZ04.png" group-title="Bulgarije",BG | Box TV
+https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrpowV1.jpg" group-title="Bulgarije",BG | Folklor TV
+https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WF8lM4j.jpg" group-title="Bulgarije",BG | SKAT
+https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0ukLny.png" group-title="Bulgarije",BG | RMTV
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dNA0uQV.png" group-title="Bulgarije",BG | TV Vratsa
+https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RysDTkw.jpg" group-title="Bulgarije",BG | Nick JR 
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XauvFmp.png" group-title="Bulgarije",BG | EKids 
+https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIWjB5I.png" group-title="Bulgarije",BG | MM-TV
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ri5Tggn.jpg" group-title="Bulgarije",BG | 100automoto.tv
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="Slovenië",SI | TV SLOVENIJA 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QweABvP.png" group-title="Slovenië",SI | TV SLOVENIJA 2
@@ -3494,6 +3550,30 @@ https://edge06eu.ekranet.com/rtshshqip1/index.m3u8
 https://edge01eu.ekranet.com/tvkorca/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAqeWM0.png" group-title="Albanië",AL | RTSH Kuvend
 https://edge06eu.ekranet.com/rtshkuvendweb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring 3
+http://5.135.92.133:52841/out/u/496_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring International
+http://5.135.92.133:52841/out/u/237_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring World
+http://5.135.92.133:52841/out/u/459_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring History
+http://5.135.92.133:52841/out/u/456_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Planet
+http://5.135.92.133:52841/out/u/458_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Shqip
+http://5.135.92.133:52841/out/u/18_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Life
+http://5.135.92.133:52841/out/u/25_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Summertime
+http://5.135.92.133:52841/out/u/457_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Super
+http://5.135.92.133:52841/out/u/470_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Muse
+http://5.135.92.133:52841/out/u/461_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqIrYqB.png" group-title="Albanië",AL | Tip TV
+http://5.135.92.133:52841/out/u/359_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38BAiGz.png" group-title="Albanië",AL | Living HD
+http://5.135.92.133:52841/out/u/481_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Albanië",AL | Ora 
 https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Albanië",AL | Ora News
@@ -3552,6 +3632,10 @@ http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Id22wXD.jpg" group-title="Kosovo",XK | ZëRI TV 
 http://boson.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/ytkt1k720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xc8kwIv.jpg" group-title="Kosovo",XK | TV Dielli
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nyINUz.jpg" group-title="Bosnië en Herzegovina",BA | RTRS TV
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f9ajRl5.png" group-title="Bosnië en Herzegovina",BA | Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Bosnië en Herzegovina",BA | Hema Televizija
@@ -3560,6 +3644,8 @@ http://77.238.209.50:8080/hema1
 http://wowza.bihnet.net:88/hls/b1-live.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Bosnië en Herzegovina",BA | 777 Tehnika TV
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1yrEQS.png" group-title="Bosnië en Herzegovina",BA | BN Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4vLMqAy.jpg" group-title="Bosnië en Herzegovina",BA | N1 
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4vLMqAy.jpg" group-title="Servië",RS | N1 
@@ -3580,6 +3666,16 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 http://178.253.194.75:1935/live/hram.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAsSKAv.png" group-title="Servië",RS | Rrokum TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1AjAUky.png" group-title="Kroatië",HR | HRT 1 
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5jQt9iM.png" group-title="Kroatië",HR | HRT 2 
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GdQFg4P.png" group-title="Kroatië",HR | HRT 3 
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1Elwjm.jpg" group-title="Kroatië",HR | HRT 4 
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oS0xK1k.png" group-title="Kroatië",HR | Aurora TV
+http://85.94.81.190:8844/sdi/aurora.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiXkiqu.png" group-title="Kroatië",HR | N1 
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdaxFrx.jpg" group-title="Kroatië",HR | Z1
