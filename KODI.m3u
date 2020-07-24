@@ -2248,6 +2248,8 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RYvFexn.jpg" group-title="Mexico",MX | Canal 18 Ibero Americana
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qc20Us0.png" group-title="Mexico",MX | Canal 28 Nuevo León
+https://5e307acc9a171.streamlock.net:1936/canal28/canal28/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Mexico",MX | Multimedios
 https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Mexico",MX | Multimedios CDMX
@@ -2266,6 +2268,8 @@ https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Mexico",MX | Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7ntMFa.png" group-title="Mexico",MX | TV Tabasqueña
+https://liveingesta118.cdnmedia.tv/rtvtabascolive/smil:tvt.smil/chunklist_b750000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxRpFPk.jpg" group-title="Mexico",MX | Uno TV
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ar87ip.jpg" group-title="Mexico",MX | Central FM
@@ -2276,6 +2280,8 @@ http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist.m3u8
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXMLYnz.png" group-title="Mexico",MX | Tlaxcala TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zO2NftU.png" group-title="Mexico",MX | TeleRitmo
+http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMtKE60.png" group-title="Mexico",MX | Genesis TV
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Mexico",MX | Monte Maria
@@ -2524,7 +2530,7 @@ http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmAlmX4.png" group-title="Peru",PE | TV Cosmos
 http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7I13BUc.png" group-title="Peru",PE | Antares TV SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7I13BUc.png" group-title="Peru",PE | Antares TV
 http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ki7ZvDD.png" group-title="Peru",PE | Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
@@ -2562,6 +2568,12 @@ http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="Haïti",HT | Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsSLnJC.png" group-title="Panama",PA | Sertv
+https://accionastream.com/live/sertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mPkl7Gu.jpg" group-title="Panama",PA | Oye TV
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUHkolc.png" group-title="Panama",PA | Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="Andorra",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",PT | Eurosport 1 Portugal
