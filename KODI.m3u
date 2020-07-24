@@ -4527,6 +4527,32 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Tunesië",TN | Tunisie Immobilier TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Marokko",MA | 2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQZAxsF.png" group-title="Marokko",MA | Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0JhZTs.png" group-title="Marokko",MA | Al Aoula Laayoune
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYVH1i9.png" group-title="Sport",MA | Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmPMmis.png" group-title="Marokko",MA | Athaqafia
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTY1ylg.png" group-title="Marokko",MA | Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLKuqCK.png" group-title="Marokko",MA | Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHMQgAo.png" group-title="Marokko",MA | Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Marokko",MA | Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Marokko",MA | M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyTEyUo.png" group-title="Marokko",MA | Medi 1 TV Maghreb
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyTEyUo.png" group-title="Marokko",MA | Medi 1 TV Arabic
+https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SqfC2G2.png" group-title="Marokko",MA | Chada TV
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan",AF | Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Afghanistan",AF | Ariana TV US
