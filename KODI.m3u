@@ -2222,16 +2222,60 @@ http://events2-crtvg.flumotion.com/playlist.m3u8
 http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJBh8xV.png" group-title="Mexico",MX | Telemundo Chicago
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiKtVbb.png" group-title="Mexico",MX | Milenio TV
+http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Mexico",MX | ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8|X-Forwarded-For=17.45.63.25
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrxmhW3.png" group-title="Mexico",MX | Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrxmhW3.png" group-title="Mexico",MX | Azteca 7
+https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8|X-Forwarded-For=17.45.63.25
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="Mexico",MX | Canal Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="Mexico",MX | Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u17a3U1.png" group-title="Mexico",MX | Canal Once 
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u17a3U1.png" group-title="Mexico",MX | Canal Once Internacional  
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZB7Bfbu.jpg" group-title="Mexico",MX | Multimedios Monterrey 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="Mexico",MX | 15TV Sabinas
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9zTQcC.jpg" group-title="Mexico",MX | Canal 15 Zacatecas
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYvFexn.jpg" group-title="Mexico",MX | Canal 18 Ibero Americana
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Mexico",MX | Multimedios
+https://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Mexico",MX | Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Mexico",MX | Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Mexico",MX | Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/czXDdQC.jpg" group-title="Mexico",MX | Multimedios Monterrey 
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="Mexico",MX | RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aH9uKk0.jpg" group-title="Mexico",MX | Teleformula
+https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viRPSln.png" group-title="Mexico",MX | Telemar Campeche TV
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Mexico",MX | Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxRpFPk.jpg" group-title="Mexico",MX | Uno TV
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ar87ip.jpg" group-title="Mexico",MX | Central FM
+https://5ca39be538307.streamlock.net/centralfm/videocentralfm/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/neas9sL.png" group-title="Mexico",MX | Media Group
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" group-title="Mexico",MX | Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXMLYnz.png" group-title="Mexico",MX | Tlaxcala TV
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMtKE60.png" group-title="Mexico",MX | Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Mexico",MX | Monte Maria
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhKgZ4w.jpg" group-title="Sport",AR | Deportv
 https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d7h3oEo.png" group-title="Sport",AR | ESPN Sur
@@ -4233,6 +4277,14 @@ https://stream.suryaiptv.net/streams/135_.m3u8
 https://stream.suryaiptv.net/streams/125_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eQ5vEQu.jpg" group-title="Indonesië",ID | Bungo TV
 http://103.229.72.178/mobile/bungotv.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCaXdZk.jpg" group-title="Indonesië",ID | Balikpapan TV
+http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/soVPCHy.png" group-title="Indonesië",ID | Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1djQ729.jpg" group-title="Indonesië",ID | Tawaf TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLVxEEy.png" group-title="Indonesië",ID | Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yKdtV1s.png" group-title="Vietnam",VN | VTV 1
 https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv1hd1_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7vREzU.png" group-title="Vietnam",VN | VTV 2
