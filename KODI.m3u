@@ -841,34 +841,18 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjTeasa.png" group-title="USA",US | Big Life TV
 https://biglife.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W4Bx9pG.jpg" group-title="USA",US | Glewed TV
-https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nbVom3F.jpg" group-title="USA",US | Waypoint
-https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BYNg7Wk.png" group-title="USA",US | Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CStwnl9.jpg" group-title="USA",US | Fail Army
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="USA",US | AFV!
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VxMBNzA.jpg" group-title="USA",US | MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULF3iOE.png" group-title="USA",US | Positiv TV
 http://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/26S06iK.png" group-title="USA",US | Film Hub
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2sQ81W1.jpg" group-title="USA",US | CON TV
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jb5NwNN.png" group-title="USA",US | Shout Factory TV 
-https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w1BD1DA.png" group-title="USA",US | America's Voice
 https://cdnapi.kaltura.com/p/2377021/sp/237702100/playManifest/entryId/0_m2pjgwiu/format/applehttp/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MzBoKRa.png" group-title="USA",US | American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ytc2qZW.jpg" group-title="USA",US | Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oIy673i.png" group-title="USA",US | Magellan TV
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f07nRRi.png" group-title="USA",US | PBS Kids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIWj2Mt.jpg" group-title="USA",US | Kids Central
@@ -877,10 +861,6 @@ https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-pla
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmfxSWn.jpg" group-title="USA",US | MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CP05YX0.jpg" group-title="USA",US | Buzzr 
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ii5W0Lx.png" group-title="USA",US | TBD.
-https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iwd9Jxb.png" group-title="USA",US | Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson TV
@@ -897,6 +877,8 @@ https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C0NoakZ.jpg" group-title="USA",US | Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaIhZeo.png" group-title="USA",US | TastyTrade
+https://trinity-lh.akamaihd.net/i/ttmain_d@82127/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Public
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Media
@@ -943,7 +925,6 @@ http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOqJ7nO.png" group-title="USA",US | Savannah | FOX 28 WTGS
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA",US | Victorville | KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocMGZM6.png" group-title="USA",US | Kentucky | PBS KET
@@ -954,6 +935,56 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sW5JpGr.jpg" group-title="USA",US | Toledo | WTOL 11 News
 http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4Bx9pG.jpg" group-title="USA",US | STIRR | Glewed TV
+https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbVom3F.jpg" group-title="USA",US | STIRR | Waypoint
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BYNg7Wk.png" group-title="USA",US | STIRR | Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CStwnl9.jpg" group-title="USA",US | STIRR | Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jb5NwNN.png" group-title="USA",US | STIRR | Shout Factory TV 
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oIy673i.png" group-title="USA",US | STIRR | Magellan TV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CP05YX0.jpg" group-title="USA",US | STIRR | Buzzr 
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ii5W0Lx.png" group-title="USA",US | STIRR | TBD.
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR CITY
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR 2020 LIVE
+https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR COVID-19 NEWS
+https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Biographies
+https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Fit
+https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Travel
+https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Cooks
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Sports
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Music
+https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Comedy
+https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Westerns
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR Black Cinema
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR TV MIX 
+https://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaSFTnV.png" group-title="USA",US | STIRR | Live Live
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zPs2J7w.jpg" group-title="USA",US | STIRR | Music Baeble
+https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwN9Ujp.png" group-title="USA",US | STIRR | Mobcrush
+https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv
 https://stream.allsprk.tv/live/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-0
@@ -1000,106 +1031,6 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUKOM1b.png" group-title="USA",US | Vegas Stats & Information Network
 https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NPfpoF8.png" group-title="USA",US | Sportsgrid Network
-https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="USA",US | Dove Channel 
-https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bfXUwaa.png" group-title="USA",US | ElectricNOW
-https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg" group-title="USA",US | The Film Detective
-https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W5yDzNn.jpg" group-title="USA",US | Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/naYszow.jpg" group-title="USA",US | Unidentified
-https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tTmLQwo.png" group-title="USA",US | Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSpOD29.jpg" group-title="USA",US | Monarch
-https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSAfKXY.jpg" group-title="USA",US | People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTECoKS.png" group-title="USA",US | Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pL0b3M6.png" group-title="USA",US | Studio C
-https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQnWpg8.png" group-title="USA",US | Saveur
-https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="USA",US | Brut.
-https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="USA",US | IDG
-https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQFtDvU.png" group-title="USA",US | Popular Science
-https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYDR5VS.jpg" group-title="USA",US | The Boat Show
-https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ruG03IK.jpg" group-title="USA",US | Outside TV +
-https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AdEFuUG.jpg" group-title="USA",US | Sportskool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QIEhpPp.png" group-title="USA",US | Motorcyclist
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RZE3Pwf.png" group-title="USA",US | Cycle World
-https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9NsnVCJ.png" group-title="USA",US | Field & Stream
-https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYGPodV.jpg" group-title="USA",US | Everyday Heroes
-https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PGN1TLJ.jpg" group-title="USA",US | Honor TV
-https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WNqDJT4.jpg" group-title="USA",US | Titanic TV
-https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WrYEcXp.png" group-title="USA",US | Young Hollywood
-https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y8wzxRP.jpg" group-title="USA",US | Global Fashion Channel
-https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JGFEW6W.jpg" group-title="USA",US | Bollywood TV
-https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png" group-title="USA",US | Real Vision
-https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uz6tXvz.png" group-title="USA",US | KNEKT
-https://stitcheraws.unreel.me/live/5bf2268e932c8304fc453419/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0p2QIix.png" group-title="USA",US | PopcornFlix Action
-https://stitcheraws.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Epic M
-https://stitcheraws.unreel.me/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Fueled TV
-https://stitcheraws.unreel.me/live/5c95334c932c837b493972fb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | GT Channel
-https://stitcheraws.unreel.me/live/5bf220bbd5eeee0f5a409419/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Animals Live
-https://stitcheraws.unreel.me/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Aurora Live
-https://stitcheraws.unreel.me/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Forests Live
-https://stitcheraws.unreel.me/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Lakes Live
-https://stitcheraws.unreel.me/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Lego Toons
-https://stitcheraws.unreel.me/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Activity Kid
-https://stitcheraws.unreel.me/live/5bf225d2d5eeee0f5a4094bf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Giggle Zone
-https://stitcheraws.unreel.me/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Homemade TV
-https://stitcheraws.unreel.me/live/5c952677932c837b493972a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Delicious TV
-https://stitcheraws.unreel.me/live/5c9529aa932c837b493972cb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Taste It
-https://stitcheraws.unreel.me/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="USA",US | Chef Champion
-https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tn9bRD1.jpg" group-title="USA",US | Chef Roc Show
-https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K36sd0M.png" group-title="USA",US | Prime Time Drama 
-https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JBEqPZP.png" group-title="USA",US | Mythos
-https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SDKWWQu.png" group-title="USA",US | Xcorps TV
-https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="USA",US | Classic Cinema
-https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kAYiaJS.png" group-title="USA",US | Golden TV
-https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="USA",US | AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="USA",US | AKC TV - Puppies
@@ -1124,52 +1055,6 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="USA",US | 3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="USA",US | Adult Swim
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="USA",US | Infowars
-http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bwxoXVc.jpg" group-title="USA",US | TVS Television Network
-https://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDTpg4B.jpg" group-title="USA",US | TVS Select Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/37OGfa3.jpg" group-title="USA",US | TVS Mainstreet
-https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ui099xQ.jpg" group-title="USA",US | TVS Classic Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="USA",US | TVS Boxing
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="USA",US | TVS Turbo
-https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5UjqDht.jpg" group-title="USA",US | TVS Tavern
-https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="USA",US | TVS Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jQdBjyx.jpg" group-title="USA",US | TVS Women Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="USA",US | TVS Classic Movies
-https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="USA",US | TVS Drive In Movie
-https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I6pSh1y.jpg" group-title="USA",US | TVS Hollywood History
-https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uNQeGHw.jpg" group-title="USA",US | TVS Horror Network
-https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="USA",US | TVS Nostalgia Movies
-https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="USA",US | TVS Western Movie
-https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lHvWCyV.jpg" group-title="USA",US | TVS Comedy Network
-https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0ly2m8.jpg" group-title="USA",US | TVS Tally Ho
-https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="USA",US | TVS Travel Network
-https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="USA",US | TVS Family Channel
-https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ogvLLji.png" group-title="USA",US | Sent TV Global Network
-https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2SGJCBI.png" group-title="USA",US | Black Artist
-https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",US | Mo Laughter TV
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p931DIT.png" group-title="USA",US | Metro Cable Network 6
@@ -1178,62 +1063,6 @@ http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FT3b6Vr.png" group-title="USA",US | Filmon 360
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR CITY
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR 2020 LIVE
-https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR COVID-19 NEWS
-https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Biographies
-https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Fit
-https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Travel
-https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Cooks
-https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Sports
-https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Music
-https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Comedy
-https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Westerns
-https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR Black Cinema
-https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR TV MIX 
-https://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OaSFTnV.png" group-title="USA",US | Live Live
-https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zPs2J7w.jpg" group-title="USA",US | Music Baeble
-https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",US | Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",US | Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA",US | Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="USA",US | Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="USA",US | Gravitas Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zk5wP5K.png" group-title="USA",US | Maverick Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMPu5HU.png" group-title="USA",US | Hi-Yah!
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WUAXiq1.png" group-title="USA",US | American Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0Tb4Cr.png" group-title="USA",US | TMZ 
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg" group-title="USA",US | Documentaries 4U
-https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YaIhZeo.png" group-title="USA",US | TastyTrade
-https://trinity-lh.akamaihd.net/i/ttmain_d@82127/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KwN9Ujp.png" group-title="USA",US | Mobcrush
-https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2uHWnUW.png" group-title="USA",US | Dancestar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="USA",US | Better Life TV
@@ -1252,6 +1081,176 @@ https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9uz9lyg.png" group-title="USA",US | OUR TV
 https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="USA",US | Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="USA",US | Infowars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="USA",US | DISTRO TV | Dove Channel 
+https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfXUwaa.png" group-title="USA",US | DISTRO TV | ElectricNOW
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukKFllt.jpg" group-title="USA",US | DISTRO TV | The Film Detective
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W5yDzNn.jpg" group-title="USA",US | DISTRO TV | Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naYszow.jpg" group-title="USA",US | DISTRO TV | Unidentified
+https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tTmLQwo.png" group-title="USA",US | DISTRO TV | Chive TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSpOD29.jpg" group-title="USA",US | DISTRO TV | Monarch
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSAfKXY.jpg" group-title="USA",US | DISTRO TV | People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTECoKS.png" group-title="USA",US | DISTRO TV | Latido Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pL0b3M6.png" group-title="USA",US | DISTRO TV | Studio C
+https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQnWpg8.png" group-title="USA",US | DISTRO TV | Saveur
+https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="USA",US | DISTRO TV | Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="USA",US | DISTRO TV | IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQFtDvU.png" group-title="USA",US | DISTRO TV | Popular Science
+https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYDR5VS.jpg" group-title="USA",US | DISTRO TV | The Boat Show
+https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruG03IK.jpg" group-title="USA",US | DISTRO TV | Outside TV +
+https://a.jsrdn.com/broadcast/3gT64sH/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdEFuUG.jpg" group-title="USA",US | DISTRO TV | Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QIEhpPp.png" group-title="USA",US | DISTRO TV | Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZE3Pwf.png" group-title="USA",US | DISTRO TV | Cycle World
+https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NsnVCJ.png" group-title="USA",US | DISTRO TV | Field & Stream
+https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYGPodV.jpg" group-title="USA",US | DISTRO TV | Everyday Heroes
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGN1TLJ.jpg" group-title="USA",US | DISTRO TV | Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WNqDJT4.jpg" group-title="USA",US | DISTRO TV | Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WrYEcXp.png" group-title="USA",US | DISTRO TV | Young Hollywood
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y8wzxRP.jpg" group-title="USA",US | DISTRO TV | Global Fashion Channel
+https://a.jsrdn.com/broadcast/33ee2rtf5/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGFEW6W.jpg" group-title="USA",US | DISTRO TV | Bollywood TV
+https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLUmsCt.png" group-title="USA",US | DISTRO TV | Real Vision
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="USA",US | TVS | Chef Champion
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tn9bRD1.jpg" group-title="USA",US | TVS | Chef Roc Show
+https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K36sd0M.png" group-title="USA",US | TVS | Prime Time Drama 
+https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBEqPZP.png" group-title="USA",US | TVS | Mythos
+https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDKWWQu.png" group-title="USA",US | TVS | Xcorps TV
+https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tC4AePW.png" group-title="USA",US | TVS | Classic Cinema
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kAYiaJS.png" group-title="USA",US | TVS | Golden TV
+https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bwxoXVc.jpg" group-title="USA",US | TVS | TVS Television Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDTpg4B.jpg" group-title="USA",US | TVS | TVS Select Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37OGfa3.jpg" group-title="USA",US | TVS | TVS Mainstreet
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ui099xQ.jpg" group-title="USA",US | TVS | TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="USA",US | TVS | TVS Boxing
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="USA",US | TVS | TVS Turbo
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UjqDht.jpg" group-title="USA",US | TVS | TVS Tavern
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="USA",US | TVS | TVS Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQdBjyx.jpg" group-title="USA",US | TVS | TVS Women Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLWDHGs.png" group-title="USA",US | TVS | TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" group-title="USA",US | TVS | TVS Drive In Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6pSh1y.jpg" group-title="USA",US | TVS | TVS Hollywood History
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uNQeGHw.jpg" group-title="USA",US | TVS | TVS Horror Network
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ygj2DL.jpg" group-title="USA",US | TVS | TVS Nostalgia Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="USA",US | TVS | TVS Western Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHvWCyV.jpg" group-title="USA",US | TVS | TVS Comedy Network
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0ly2m8.jpg" group-title="USA",US | TVS | TVS Tally Ho
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="USA",US | TVS | TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="USA",US | TVS | TVS Family Channel
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogvLLji.png" group-title="USA",US | TVS | Sent TV Global Network
+https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SGJCBI.png" group-title="USA",US | TVS | Black Artist
+https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/26S06iK.png" group-title="USA",US | REDBOX | Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2sQ81W1.jpg" group-title="USA",US | REDBOX | CON TV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPfpoF8.png" group-title="USA",US | REDBOX | Sportsgrid Network
+https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",US | REDBOX | Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="USA",US | REDBOX | Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="USA",US | REDBOX | Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="USA",US | REDBOX | Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="USA",US | REDBOX | Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zk5wP5K.png" group-title="USA",US | REDBOX | Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMPu5HU.png" group-title="USA",US | REDBOX | Hi-Yah!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WUAXiq1.png" group-title="USA",US | REDBOX | American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0Tb4Cr.png" group-title="USA",US | REDBOX | TMZ 
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg" group-title="USA",US | MYTVTOGO | Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uz6tXvz.png" group-title="USA",US | Bumblebee | KNEKT
+https://stitcheraws.unreel.me/live/5bf2268e932c8304fc453419/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0p2QIix.png" group-title="USA",US | Bumblebee | PopcornFlix Action
+https://stitcheraws.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Epic M
+https://stitcheraws.unreel.me/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Fueled TV
+https://stitcheraws.unreel.me/live/5c95334c932c837b493972fb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | GT Channel
+https://stitcheraws.unreel.me/live/5bf220bbd5eeee0f5a409419/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Animals Live
+https://stitcheraws.unreel.me/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Aurora Live
+https://stitcheraws.unreel.me/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Forests Live
+https://stitcheraws.unreel.me/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Lakes Live
+https://stitcheraws.unreel.me/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Lego Toons
+https://stitcheraws.unreel.me/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Activity Kid
+https://stitcheraws.unreel.me/live/5bf225d2d5eeee0f5a4094bf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Giggle Zone
+https://stitcheraws.unreel.me/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Homemade TV
+https://stitcheraws.unreel.me/live/5c952677932c837b493972a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Delicious TV
+https://stitcheraws.unreel.me/live/5c9529aa932c837b493972cb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Taste It
+https://stitcheraws.unreel.me/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
@@ -4516,8 +4515,8 @@ https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L42Ouau.png" group-title="UAE",AE | Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mT3mCCK.png" group-title="UAE",AE | Cartoon Network كرتون
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mT3mCCK.png" group-title="UAE",AE | Cartoon Network Arabic
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="UAE",AE | Toheed TV
 http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="UAE",AE | Wanasah
@@ -4610,10 +4609,12 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IWVgSqc.png" group-title="Qatar",QA | Qatar Television
 http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yKimM9x.png" group-title="Qatar",QA | Qatar Television 2
+http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4VbYHU.png" group-title="Qatar",QA | Qatar Television Educational 1
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500230.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lvm9yxZ.png" group-title="Qatar",QA | Qatar Television Educational 2
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500330.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="Qatar",QA | Al Rayyan
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mVwHGbc.png" group-title="Qatar",QA | Al Rayyan Al Qadeem
@@ -4858,6 +4859,8 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTF6v72.png" group-title="Libanon",LB | LBC
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="Libanon",LB | LBC International
+https://shls-lbci-prod.shahid.net/lbci-prod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="Libanon",LB | LBC International
 http://watch.teledunet.com:25461/live/tdn/23614613770/10146730.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="Libanon",LB | Nour Al Koddas
