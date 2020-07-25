@@ -667,6 +667,8 @@ https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist
 http://31.10.19.12:8066/live/999/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Drxu8Du.png" group-title="Liechtenstein",LI | Mediashop TV
 https://cdn1-europe.smartcast.tv/mediashop/mediashop1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sdrtuHJ.png" group-title="Sport",US | Fubo Sports Network
+http://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKm7n0s.jpg" group-title="Sport",US | PAC 12 Plus
 https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded-For=174.224.6.160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="Sport",US | NBC GOLF
@@ -929,6 +931,8 @@ https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBCV3vP.png" group-title="USA",US | Miami | FOX 7 WSVN
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/faWpyzm.jpg" group-title="USA",US | Oregon | FOX 12 KPTV
+http://api.new.livestream.com/accounts/6908462/events/2706967/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0NFOPT.jpg" group-title="USA",US | Tulsa | FOX 23 KOKI NEWS
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1R15Rpp.png" group-title="USA",US | Boston | FOX 25 WFXT
@@ -937,6 +941,7 @@ http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOqJ7nO.png" group-title="USA",US | Savannah | FOX 28 WTGS
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA",US | Victorville | KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocMGZM6.png" group-title="USA",US | Kentucky | PBS KET
@@ -945,6 +950,8 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPJ4ViL.jpg" group-title="USA",US | Ohio | WMFD
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sW5JpGr.jpg" group-title="USA",US | Toledo | WTOL 11 News
+http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv
 https://stream.allsprk.tv/live/test/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-0
@@ -1161,6 +1168,10 @@ https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2SGJCBI.png" group-title="USA",US | Black Artist
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",US | Mo Laughter TV
+https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p931DIT.png" group-title="USA",US | Metro Cable Network 6
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2gXSIbO.png" group-title="USA",US | Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FT3b6Vr.png" group-title="USA",US | Filmon 360
@@ -1221,6 +1232,8 @@ https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 https://trinity-lh.akamaihd.net/i/ttmain_d@82127/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KwN9Ujp.png" group-title="USA",US | Mobcrush
 https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2uHWnUW.png" group-title="USA",US | Dancestar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="USA",US | Better Life TV
 https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMfE22R.jpg" group-title="USA",US | Better Health TV
@@ -3194,6 +3207,8 @@ http://cdn.mytouchtv.tv/hlsl/10/Zvezda/Zvezda_3/index.m3u8
 http://cdn.mytouchtv.tv/hlsl/10/Domashniy/Domashniy_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1EaNTOp.png" group-title="Rusland",RU | Karusel
 https://cdn.mytouchtv.tv/hlsl/10/Karusel/Karusel_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="Rusland",RU | Ministry of Ideas
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgFmj3L.png" group-title="Rusland",RU | Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0ArNhN.png" group-title="Rusland",RU | Luxury World
