@@ -791,6 +791,8 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8|X-Forwarded-For
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4zFHzI.png" group-title="USA",US | CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P4zFHzI.png" group-title="USA",US | CNN
+http://203.162.235.41:16918
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="USA",US | NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JSCsJc5.png" group-title="USA",US | NBCLX
@@ -1495,6 +1497,8 @@ https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pRD6Fx.png" group-title="Groot-Brittannië",UK | BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyQE9AH.png" group-title="Groot-Brittannië",UK | BBC World News
+http://203.162.235.41:16917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1awPCdR.png" group-title="Groot-Brittannië",UK | BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="Groot-Brittannië",UK | Sky News
@@ -4023,6 +4027,8 @@ https://live4.tdm.com.mo/tv/_definst_/ch21.live/playlist.m3u8
 https://live4.tdm.com.mo/tv/_definst_/ch22.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LSHC7lG.jpg" group-title="Macau",MO | Lotus Macau TV
 https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87cdkWW.png" group-title="Sport",JP | Golf Network
+http://203.162.235.41:16924
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8Z3OIf.png" group-title="Sport",JP | New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWKCBIz.png" group-title="Japan",JP | NHK Kishou-Saigai NHK Kishou-Saigai
@@ -4031,6 +4037,14 @@ https://nhknewsreal5-i.akamaihd.net/hls/live/267603/nhknewsreal5/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="Japan",JP | NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XK0cibc.png" group-title="Japan",JP | NHK BSP
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EYT2HRT.jpg" group-title="Japan",JP | Crossover
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fN8gSc9.png" group-title="Japan",JP | WOWOW Prime
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ISDyEoK.jpg" group-title="Japan",JP | BS-TBS
+http://203.162.235.41:16913
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6f0LgS.jpg" group-title="Japan",JP | BBC News Japan
 https://bbc1.media.ylive.jp/53ccb8ca9cb44762b3f1f4aecc85b7ba/ap-northeast-1/5690807595001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="Japan",JP | NTV News24
@@ -4053,6 +4067,8 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gob5LhJ.png" group-title="Japan",JP | Japanet Channel DX
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxYf9G0.png" group-title="Japan",JP | Nippon TV
+http://203.162.235.41:16905
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wN1cSDd.png" group-title="Noord-Korea",KP | Korean Central Television
 https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Y1dUtF.png" group-title="Sport",KR | JTBC GOLF&SPORTS
