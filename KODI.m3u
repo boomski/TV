@@ -861,6 +861,8 @@ https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-pla
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rmfxSWn.jpg" group-title="USA",US | MavTV
 https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQCVaSR.png" group-title="USA",US | This TV Network
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iwd9Jxb.png" group-title="USA",US | Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson TV
@@ -879,6 +881,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YaIhZeo.png" group-title="USA",US | TastyTrade
 https://trinity-lh.akamaihd.net/i/ttmain_d@82127/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jeG2q6J.jpg",group-title="USA",US | Seattle Channel
+https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICVTtIq.png" group-title="USA",US | Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tV8tVxQ.png" group-title="USA",US | Texas Student TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrRxU67.png" group-title="USA",US | TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Public
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Media
@@ -913,6 +923,8 @@ http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Wo5an.png" group-title="USA",US | Boston | CW 7 WHDH 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlUZ9Az.png" group-title="USA",US | Charlotte | CW 10 WCCB
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBCV3vP.png" group-title="USA",US | Miami | FOX 7 WSVN
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faWpyzm.jpg" group-title="USA",US | Oregon | FOX 12 KPTV
@@ -929,12 +941,16 @@ http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocMGZM6.png" group-title="USA",US | Kentucky | PBS KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3K1DtX.png" group-title="USA",US | Detroit | WHPR 33
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jcKNLF.png" group-title="USA",US | Pennsylvania | PBS WPSU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPJ4ViL.jpg" group-title="USA",US | Ohio | WMFD
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sW5JpGr.jpg" group-title="USA",US | Toledo | WTOL 11 News
 http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMjrDPH.png" group-title="USA",US | Red Apple 21 - Fairfax County Public Schools - Virginia
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4Bx9pG.jpg" group-title="USA",US | STIRR | Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nbVom3F.jpg" group-title="USA",US | STIRR | Waypoint
@@ -1085,6 +1101,8 @@ https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="USA",US | Infowars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUEiiK.png" group-title="USA",US | DISTRO TV | Fighting Spirit
+https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="USA",US | DISTRO TV | Dove Channel 
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bfXUwaa.png" group-title="USA",US | DISTRO TV | ElectricNOW
