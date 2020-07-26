@@ -2288,8 +2288,6 @@ http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8|X-Forwarded-For=17.45.63.25
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrxmhW3.png" group-title="Mexico",MX | Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrxmhW3.png" group-title="Mexico",MX | Azteca 7
-https://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8|X-Forwarded-For=17.45.63.25
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="Mexico",MX | Canal Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="Mexico",MX | Canal 10 Cancún
@@ -3122,6 +3120,8 @@ http://w4.mostvideo.tv/tv/ch1.m3u8
 http://bemtv.parom.tv/hls/stream248/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zpk9s5k.png" group-title="Oekraïne",UA | Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWrp1aI.png" group-title="Oekraïne",UA | 1 Zahid
+http://hls.cdn.ua/1zahid.com_live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zBNUXF9.png" group-title="Oekraïne",UA | Film TV
 http://195.9.195.3:8080/manifest/165462_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",RU | Eurosport 1 Russia
@@ -3383,11 +3383,11 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pdZ7aSw.png" group-title="Litouwen",LT | LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ZpnEZY.jpg" group-title="Litouwen",LT | LRT Televizija
-https://srautas.lrt.lt/lrt_televizija/smil:lrt_televizija.smil/chunklist.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K5k208L.png" group-title="Litouwen",LT | LRT Plius
-https://kultura.lrt.lt/lrt_kultura/smil:lrt_kultura.smil/chunklist.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dGWx622.jpg" group-title="Letland",LV | Visiem LTV
-https://00fe00.latnet.media/ltv9/playlist.m3u8|Referer=https://replay.lsm.lv/lv/tiesraide/visiem
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9RtBZN.jpg" group-title="Letland",LV | Chau TV
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png" group-title="Letland",LV | TVNET
@@ -5051,6 +5051,8 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ymVf9aC.jpg" group-title="India",IN | Hindi | India Today
 https://edge-1192-ch-gv.filmon.com/live/3482.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVcdG60.png" group-title="India",IN | Hindi | IND 24
+https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71xhF2J.jpg" group-title="India",IN | Hindi | Discovery Hindi 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8nfPBU.jpg" group-title="India",IN | Hindi | Discovery Science Hindi
