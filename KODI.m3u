@@ -4262,6 +4262,8 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J2U730J.png" group-title="Thailand",TH | New18
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2b2Vf14.png" group-title="Thailand",TH | TNN 16
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yerAaRN.jpg" group-title="Thailand",TH | NationTV 22
 plugin://plugin.video.dailymotion_com/?url=x6eoldf&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bGap63Q.png" group-title="Thailand",TH | Workpoint 23
@@ -4280,6 +4282,8 @@ https://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWM4kjJ.png" group-title="Thailand",TH | Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHT7yDx.png" group-title="Thailand",TH | Police TV
+https://cdn-th.login.in.th/policetv/policetv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWQNh0D.png" group-title="Thailand",TH | Happy TV 65
 https://edge6a.v2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KVr5UN.png" group-title="Thailand",TH | 69 TV
