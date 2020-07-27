@@ -4283,6 +4283,8 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVY1ETs.png" group-title="Filipijnen",PH | 5 Network
 http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8yad4lA.jpg" group-title="Filipijnen",PH | People TV
+plugin://plugin.video.dailymotion_com/?url=x5cr6b9&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1GdM9Oy.jpg" group-title="Filipijnen",PH | GMA Pinoy TV
 http://164.40.161.43:10011
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gscTB2D.png" group-title="Filipijnen",PH | MyTV Cebu
