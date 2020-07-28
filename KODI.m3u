@@ -1940,6 +1940,8 @@ https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8|X-Forwarded-For=5.24
 https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iviMrbO.jpg" group-title="Noorwegen",NO | MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScVsMnB.png" group-title="Noorwegen",NO | Canal Motor
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWNNpB6.png" group-title="Noorwegen",NO | Kanal 10 Norge
 http://cdn-kanal10.crossnet.net:1935/kanal10no/mp4:live1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUqwvLz.png" group-title="Noorwegen",NO | Gatebil TV
@@ -2830,6 +2832,10 @@ https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4high.m3u8
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png" group-title="Griekenland",GR | Epirus TV 1
 https://server.tvdj.info:8222/radioepirus/radioepirus/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjPFgjd.png" group-title="Griekenland",GR | Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Osxbf93.jpg" group-title="Griekenland",GR | Creta TV
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GocquE.png" group-title="Cyprus",CY | BRT 1 HD
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjuOfNf.png" group-title="Cyprus",CY | BRT 2
@@ -3932,6 +3938,8 @@ https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8?sd=10&r
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg" group-title="Israel",IL | BLOCKTV
 https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHK6W2j.jpg" group-title="Zuid-Afrika",ZA | BOK TV
+http://boktv.interworks.in:1935/live/boktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg" group-title="Angola",AO | TPA 1
 http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i2qD2qO.png" group-title="Ivoorkust",CI | RTI 1
