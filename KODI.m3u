@@ -413,6 +413,10 @@ https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/
 https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dcFmRzG.png" group-title="Duitsland",DE | Anixe HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4b9qKqd.png" group-title="Duitsland",DE | Anixe +
+http://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aT8MSIb.png" group-title="Duitsland",DE | Aristo TV
+http://ma.anixa.tv/clips/stream/aristo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOvYCea.png" group-title="Duitsland",DE | VOX
 http://5.135.92.133:52841/out/u/123_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XbXSpy1.png" group-title="Duitsland",DE | Welt der Wunder
@@ -473,8 +477,12 @@ https://live.oksh.de:8888/play/hls/kieltv/index.m3u8
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="Duitsland",DE | München TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="Duitsland",DE | München TV
+https://stream02.stream.welocal.world/stream/muc/ngrp:muc.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6oHf495.png" group-title="Duitsland",DE | Oberpfalz TV
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oHf495.png" group-title="Duitsland",DE | Oberpfalz TV
+https://stream05.stream.welocal.world/stream/otv/ngrp:otv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZsL17a.jpg" group-title="Duitsland",DE | Offener Kanal Dessau
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BHTsPMP.png" group-title="Duitsland",DE | Offener Kanal Magdeburg
@@ -523,6 +531,8 @@ https://stream02.stream.welocal.world/stream/tvo/ngrp:tvo.stream_all/playlist.m3
 https://sdn-global-live-http-cache-3qsdn.akamaized.net/2980/amlst:5715-sbr/2980/5715_DkY34r6dJxfbmNp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agcpY2R.png" group-title="Duitsland",DE | MTV Germany
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8|X-Forwarded-For=195.186.136.21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpyd72d.png" group-title="Duitsland",DE | Nice
+https://ngx.cr5.streamzilla.xlcdn.com/session/dd8d014cb836799066aa1356c0cd7f0c/sz/nice-broadcast-media-gmbh/wowza4/live/1800-h264-Event-Video/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGkaSQ.png" group-title="Duitsland",DE | Noviy Mir
 http://bemtv.parom.tv/hls/stream329/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIb3gg3.png" group-title="Duitsland",DE | TV RUS
@@ -2498,6 +2508,28 @@ http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="Colombia",CO | Suram
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="Ecuador",EC | Canela TV
+http://inliveserver.com:1935/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATPWac1.jpg" group-title="Ecuador",EC | Ecuador TV Canal 7
+https://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82PP6bd.png" group-title="Ecuador",EC | Ecuavisa HD
+http://173.212.247.99/hls/tvec2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iJ7sUPy.png" group-title="Ecuador",EC | Gama TV HD
+http://173.212.247.99/hls/tvec1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jML8jtE.png" group-title="Ecuador",EC | RTS Ecuador
+http://173.212.247.99/hls/tvec3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LaNW3TV.png" group-title="Ecuador",EC | RTU
+https://59c3c7bda15f4.streamlock.net:444/rtutv/smil:rtutv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="Ecuador",EC | Teleamazonas
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="Ecuador",EC | Teleamazonas HD
+http://173.212.247.99/hls/tvec4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQxjGwh.png" group-title="Ecuador",EC | TC Television
+https://5d4837686f698.streamlock.net/tctelevision/tctelevision/chunklist_w801040103.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktz843z.png" group-title="Ecuador",EC | TV Manabita
+http://vivo.eurolatintv.tv/tvmanabita/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="Ecuador",EC | UCSG
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="Costa Rica",CR | Anexion TV
 https://rtmp.info/anexiontv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Costa Rica",CR | Extrema TV
@@ -2898,10 +2930,14 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfIQuLz.jpg" group-title="Turkije",TR | EuroStar
 https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xMIPgh.png" group-title="Turkije",TR | Kanal Avrupa
+http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9mWUQ.png" group-title="Turkije",TR | Kanal Ege
 https://59cba4d34b678.streamlock.net/canlitv/kanalege/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9x1SkMj.png" group-title="Turkije",TR | TV A
 https://waw2.artiyerelmedya.net/tva/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3Feo3S.png" group-title="Turkije",TR | Yol TV
+https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8qu5Ec.png" group-title="Sport",BG | Nova Sport Bulgaria
 https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",BG | Eurosport 1 Bulgaria
