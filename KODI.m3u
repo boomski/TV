@@ -959,6 +959,12 @@ http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sW5JpGr.jpg" group-title="USA",US | Toledo | WTOL 11 News
 http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",US | C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltcivXp.png" group-title="USA",US | C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyU21ML.png" group-title="USA",US | C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMjrDPH.png" group-title="USA",US | Red Apple 21 - Fairfax County Public Schools - Virginia
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4Bx9pG.jpg" group-title="USA",US | STIRR | Glewed TV
@@ -977,6 +983,8 @@ https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ii5W0Lx.png" group-title="USA",US | STIRR | TBD.
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvLuYDd.png" group-title="USA",US | STIRR | Comedy Dynamics
+http://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR CITY
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="USA",US | STIRR | STIRR 2020 LIVE
@@ -1249,36 +1257,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playli
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z4ZiY0N.jpg" group-title="USA",US | MYTVTOGO | Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uz6tXvz.png" group-title="USA",US | Bumblebee | KNEKT
-https://stitcheraws.unreel.me/live/5bf2268e932c8304fc453419/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0p2QIix.png" group-title="USA",US | Bumblebee | PopcornFlix Action
-https://stitcheraws.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Epic M
-https://stitcheraws.unreel.me/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Fueled TV
-https://stitcheraws.unreel.me/live/5c95334c932c837b493972fb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | GT Channel
-https://stitcheraws.unreel.me/live/5bf220bbd5eeee0f5a409419/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Animals Live
-https://stitcheraws.unreel.me/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Aurora Live
-https://stitcheraws.unreel.me/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Forests Live
-https://stitcheraws.unreel.me/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Lakes Live
-https://stitcheraws.unreel.me/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Lego Toons
-https://stitcheraws.unreel.me/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Activity Kid
-https://stitcheraws.unreel.me/live/5bf225d2d5eeee0f5a4094bf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Giggle Zone
-https://stitcheraws.unreel.me/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Homemade TV
-https://stitcheraws.unreel.me/live/5c952677932c837b493972a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Delicious TV
-https://stitcheraws.unreel.me/live/5c9529aa932c837b493972cb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8hWSYQ.png" group-title="USA",US | Bumblebee | Taste It
-https://stitcheraws.unreel.me/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u6zwJcd.png" group-title="USA",US | MYTVTOGO | Energy TV
+https://nimble.dashstreams.net/onestudio/energytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
