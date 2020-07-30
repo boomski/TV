@@ -260,7 +260,7 @@ https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yEwrmqa.jpg" group-title="Frankrijk",FR | Télévision Locale du Choletais
 plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtqpY6w.png" group-title="Frankrijk",FR | TV78
-https://origin2.dvmr.fr/hls/tvfil78/tvfil78-1200k/index.m3u8
+https://origin2.dvmr.fr/hls/tvfil78/tvfil78.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHvW8pK.png" group-title="Frankrijk",FR | A12 Televison
 https://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="Frankrijk",FR | Alpe d’Huez TV
@@ -398,6 +398,8 @@ http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7JHiV2.png" group-title="Duitsland",DE | Pro 7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW7ZqPk.png" group-title="Duitsland",DE | RTL
+https://cdn1.mobiletv.bg/T5/rtl_archive/rtl_794613.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uW7ZqPk.png" group-title="Duitsland",DE | RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y10LNR1.jpg" group-title="Duitsland",DE | RTL 2
 http://5.135.92.133:52841/out/u/119_1.m3u8
@@ -517,6 +519,8 @@ https://58de7a369a9c4.streamlock.net/salvetv/stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8JgvKq.png" group-title="Duitsland",DE | Tele Regional Passau 1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="Duitsland",DE | TV38 Sudost-Niedersachen
+http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KB32ebd.png" group-title="Duitsland",DE | TV Aktuell
 https://stream02.stream.welocal.world/stream/tva/ngrp:tva.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jj5St7o.png" group-title="Duitsland",DE | TV Mainfranken
@@ -2942,10 +2946,20 @@ https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/baWAIjY.png" group-title="Sport",BG | Auto Motorsport Channel
 https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I4PiWCL.png" group-title="Sport",BG | Ring
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/an5NvI1.png" group-title="Bulgarije",BG | Kanal 3
+https://cdn1.mobiletv.bg/T13/kanal3/kanal3_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DjgJKme.png" group-title="Bulgarije",BG | Kanal 4
+https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dE5UlWv.jpg" group-title="Bulgarije",BG | History
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iVbhLiA.png" group-title="Bulgarije",BG | National Geographic 
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffsvXpr.png" group-title="Bulgarije",BG | National Geographic Wild
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9VQ4udD.jpg" group-title="Bulgarije",BG | Fishing and Hunting TV
+https://cdn1.mobiletv.bg/T5/fh/fh_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GYF3OGJ.jpg" group-title="Bulgarije",BG | AMC 
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUMHkbC.jpg" group-title="Bulgarije",BG | AXN 
@@ -2988,6 +3002,8 @@ http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RysDTkw.jpg" group-title="Bulgarije",BG | Nick JR 
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRmkvfd.jpg" group-title="Bulgarije",BG | TV Evropa
+https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XauvFmp.png" group-title="Bulgarije",BG | EKids 
 https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIWjB5I.png" group-title="Bulgarije",BG | MM-TV
@@ -3390,6 +3406,8 @@ https://hls.myvideocontent.ru/hls2/ritsa/index.m3u8
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bW5LNmE.jpg" group-title="Rusland",RU | 9 Volna
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U8PLmQ0.jpg" group-title="Rusland",RU | TV21 Murmansk
+http://tv21.inmurmansk.ru/full_stream.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r3ARFu5.jpg" group-title="Rusland",RU | Ulto TV
 http://ultotv.ru:8888/live/uhd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="Rusland",RU | Vechernyaya Moskva
@@ -3880,6 +3898,8 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2ddR1h.png" group-title="Servië",RS | 24 Kitchen
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTuRanK.jpg" group-title="Servië",RS | DM Sat
+https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaEkaMQ.png" group-title="Servië",RS | T7
 https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yzg0yt720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkgYixn.jpg" group-title="Servië",RS | RTV Puls
@@ -4922,6 +4942,8 @@ https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Pakistan",PK | Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XInnWNK.jpg" group-title="Pakistan",PK | Lollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AR3Snsb.png" group-title="Sport",IR | Varzesh TV Farsi
 http://51.158.66.44/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDY4Aiq.png" group-title="Sport",IR | Varzesh TV Farsi 2
@@ -5168,6 +5190,8 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/StzPPND.png" group-title="India",IN | Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBpy9qd.jpg" group-title="India",IN | MovieZone
+https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNPQDqa.png" group-title="India",IN | NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBpvKJY.png" group-title="India",IN | Hindi | NDTV Profit
@@ -5230,6 +5254,8 @@ http://radio.lapunjabiradio.com/hls/chardiklanorthamerica.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6pRsYCs.jpg" group-title="India",IN | Hindi | Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pwnt5cn.png" group-title="India",IN | Hindi | Bollywood
+http://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="India",IN | Tamil | 3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="India",IN | Tamil | Aathavan TV
@@ -5252,6 +5278,8 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1GyyQg.jpg" group-title="India",IN | Tamil | Thirumalai
 https://abcmedias.livewebcast.in/abcmedias/abcmediaslive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hc0vHtN.jpg" group-title="India",IN | Tamil | Kollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5qaQkQn.jpg" group-title="India",IN | Tamil | Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBh7Gmy.jpg" group-title="India",IN | Malayalam | Mangalam TV
@@ -5268,6 +5296,10 @@ http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HylpoDU.png" group-title="India",IN | Malayalam | ACV Utsav Plus
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4uURya.png" group-title="India",IN | Malayalam | Mollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rTHgLr4.jpg" group-title="India",IN | Telugu | Tollywood TV 
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SRqXxHl.png" group-title="India",IN | Urdu | Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5wARsrs.png" group-title="India",IN | Bengali | Colors Bangla HD
