@@ -4470,6 +4470,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.imgur.com/tPvtrgk.png" group-title="Indonesië",ID | TVRI Jawa Barat
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMGwMXe.png" group-title="Indonesië",ID | TV9 Nusantara
+http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gheyoBN.png" group-title="Indonesië",ID | MATRIX TV
 https://stream.suryaiptv.net/streams/70_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjJpmDO.png" group-title="Indonesië",ID | Indosiar
