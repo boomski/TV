@@ -95,6 +95,8 @@ plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=r
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia
 https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="België",BE | 21 Bis
+http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | 2.RTL
@@ -341,6 +343,10 @@ http://51.15.254.60/hls/stream.m3u8
 http://51.15.193.127/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLRf32o.png" group-title="Tahiti",PF | Tahiti Nui TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUK9yRE.png" group-title="Guadeloupe",GP | MFM TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="Guadeloupe",GP | TMA
+http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Réunion",RE | Antenne Réunion
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xxcBlC.jpg" group-title="Réunion",RE | Tele Kreol
@@ -3340,8 +3346,12 @@ http://russia.livetv.az/russia/kinokomediya/chunks.m3u8
 https://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu1KYAx.png" group-title="Rusland",RU | TV1000 HD
 https://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lu1KYAx.png" group-title="Rusland",RU | TV1000 HD
+http://russia.livetv.az/russia/tv1000_action_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDER6fc.png" group-title="Rusland",RU | TV1000 Russian Kino HD
 https://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDER6fc.png" group-title="Rusland",RU | TV1000 Russian Kino HD
+http://russia.livetv.az/russia/tv1000_action_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cr8UYAP.png" group-title="Rusland",RU | VIP Comedy HD
 https://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxe21Rt.png" group-title="Rusland",RU | VIP Megahit HD
