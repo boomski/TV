@@ -2654,6 +2654,8 @@ https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GjJu9Rm.jpg" group-title="Barbados",BB | CBC TV 8
 https://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wbuv3Sl.jpg" group-title="Barbados",BB | Trident 10 TV
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPAiCbC.jpg" group-title="Bermuda",BM | CITV 
 http://api.new.livestream.com/accounts/19270406/events/8302593/broadcasts/208992671.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g56zYDr.png" group-title="Dominikaanse Republiek",DO | ITV Inmaculada TV
@@ -2714,10 +2716,24 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/mast
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UkcIeCS.png" group-title="Brazilië",BR | Nick Jr Brasil 
 https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/axQSoQR.png" group-title="Brazilië",BR | SBT Interior
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfhUef7.png" group-title="Brazilië",BR | Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Iscuff.jpg" group-title="Brazilië",BR | Agro Canal
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Brazilië",BR | Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IceKUjf.png" group-title="Brazilië",BR | Sesc TV
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJc9oy7.png" group-title="Brazilië",BR | SIC TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="Brazilië",BR | Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j1pp5yc.png" group-title="Brazilië",BR | TCM HD
+https://live.tcm10.com.br/tcm10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Brazilië",BR | Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L9qH24V.png" group-title="Brazilië",BR | Boa Vontade
 http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjxC2Pq.jpg" group-title="Brazilië",BR | Canal 25 Jundiaí
@@ -2728,12 +2744,42 @@ http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
 https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w1195952216_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kl1hd7B.png" group-title="Brazilië",BR | Catve
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gn66K1Z.png" group-title="Brazilië",BR | MultiRio
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brazilië",BR | Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Brazilië",BR | Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TnSvJpd.png" group-title="Brazilië",BR | Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gpg1TMu.png" group-title="Brazilië",BR | TV Ambiental
+http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="Brazilië",BR | TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqGaH6n.png" group-title="Brazilië",BR | TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="Brazilië",BR | TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3zuEdt.png" group-title="Brazilië",BR | TV Carioca
+https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaUyYN3.png" group-title="Brazilië",BR | TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YActhan.jpg" group-title="Brazilië",BR | TV Cidade de Petrópolis
+https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MhLAjsz.png" group-title="Brazilië",BR | TV Cidade Oeste
+http://209.222.17.241:5080/LiveApp/streams/083687260640701234040186.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e10zKye.png" group-title="Brazilië",BR | TV Cidade Verde
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Brazilië",BR | CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Brazilië",BR | CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazilië",BR | COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZzGIcU.png" group-title="Brazilië",BR | Metrópole News TV
+http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JwMDuGk.jpg" group-title="Brazilië",BR | MKK Web TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="Brazilië",BR | Fonte TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QbdReYf.png" group-title="Brazilië",BR | FURG TV
@@ -2748,8 +2794,36 @@ http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNzRUAP.png" group-title="Brazilië",BR | Zoom
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcGZjui.png" group-title="Brazilië",BR | ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORQSoF2.png" group-title="Brazilië",BR | Luau TV
+https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fyGrm5.png" group-title="Brazilië",BR | TV ALMG
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G1VIULw.png" group-title="Brazilië",BR | TV ALRN
+http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W6THaIw.png" group-title="Brazilië",BR | Jovem Pan News
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysjAjuA.png" group-title="Brazilië",BR | Rede TV Mais
+https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67DQ3bk.png" group-title="Brazilië",BR | Rede União
+https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Brazilië",BR | Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5UZDbv.jpg" group-title="Brazilië",BR | Rádio Jornal
+https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="Brazilië",BR | Rede Mão Amiga
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nc95BPy.png" group-title="Brazilië",BR | Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="Brazilië",BR | Rede Super
+https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vvrCWVo.jpg" group-title="Brazilië",BR | Rede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/31OLp47.png" group-title="Brazilië",BR | Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="Brazilië",BR | Yeeaah!
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title="Mozambique",MZ | TV Maná Moçambique
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9ieSCH.png" group-title="Mozambique",MZ | TVM
@@ -3948,7 +4022,7 @@ http://51.89.67.64:8081/tvstanici/1/playlist.m3u8
 http://skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYTdqIc.png" group-title="Noord-Macedonië",MK | Star Folk
 http://live.muzickatv.mk/hls/Starmusic.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C67vLVL.jpg" group-title="Noord-Macedonië",MK | TVPlus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C67vLVL.jpg" group-title="Noord-Macedonië",MK | TV+ Kumanovo
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FHZpMo.png" group-title="Noord-Macedonië",MK | Shenja
 http://5.135.92.133:52841/out/u/145_1.m3u8
