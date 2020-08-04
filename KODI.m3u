@@ -1352,23 +1352,23 @@ https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/59f8cf257de98a7e0db5e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mh4X0IM.png" group-title="Canada",CA | LCN
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3GFoHKz.png" group-title="Canada",CA | BBC Canada
-http://stream-e30453a4b.nmbs.top/m3u/Canada/62cfb44b1b.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Diewwst.jpg" group-title="Canada",CA | FOX News
-http://stream-e30453a4b.nmbs.top/m3u/Canada/9f119f4fb2.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26nKUbR.png" group-title="Canada",CA | Yoopa
-http://stream-e30453a4b.nmbs.top/m3u/Canada/d0dfa22a3f.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAb96Id.png" group-title="Canada",CA | PBS Kids
-http://stream-e30453a4b.nmbs.top/m3u/Canada/f15ecd35f7.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AhQgx1M.png" group-title="Canada",CA | TVA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QfZW5yQ.png" group-title="Canada",CA | HLN
-http://stream-e30453a4b.nmbs.top/m3u/Canada/a5bafcb0fa.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuKdd24.png" group-title="Canada",CA | CHCH
-http://stream-e30453a4b.nmbs.top/m3u/Canada/8239452087.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzYNZTv.png" group-title="Canada",CA | CTV 2
-http://stream-e30453a4b.nmbs.top/m3u/Canada/4f95f02e05.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cIMFNAL.jpg" group-title="Canada",CA | CTV VANCOUVER
-http://stream-e30453a4b.nmbs.top/m3u/Canada/aeff428891.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg" group-title="Canada",CA | CTV News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1388,11 +1388,11 @@ https://pe-ak-lp02a-9c9media.akamaized.net/live/News4Digi/p/dash/00000001/4b36d0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0KOPxmV.jpg" group-title="Canada",CA | V Télé
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qS0bw3.jpg" group-title="Canada",CA | Discovery Channel 
-http://stream-e30453a4b.nmbs.top/m3u/Canada/ab19959e4a.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GH7IKEk.png" group-title="Canada",CA | Discovery Science 
-http://stream-e30453a4b.nmbs.top/m3u/Canada/ec08fbf903.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNXvGxT.jpg" group-title="Canada",CA | History
-http://stream-e30453a4b.nmbs.top/m3u/Canada/dcfd896fca.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuje8uN.png" group-title="Canada",CA | H2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Canada",CA | Global News
@@ -1408,7 +1408,7 @@ https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Canada",CA | CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IojZ24.jpg" group-title="Canada",CA | Peachtree TV
-http://stream-e30453a4b.nmbs.top/m3u/Canada/7716a4b3ea.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="Canada",CA | Télé-Québec
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="Canada",CA | TVO Kids
@@ -1484,44 +1484,45 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Canada",CA | TAG TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",CA | TSN Sports 1
-http://stream-e30453a4b.nmbs.top/m3u/Sports/d4f35cf7c2.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BCnHvzg.png" group-title="Sport",CA | TSN Sports 2
-http://stream-e30453a4b.nmbs.top/m3u/Sports/fc1a327257.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evGQ8R6.png" group-title="Sport",CA | TSN Sports 3
-http://stream-e30453a4b.nmbs.top/m3u/Sports/c08f7b129e.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r5xtV83.png" group-title="Sport",CA | TSN Sports 4
-http://stream-e30453a4b.nmbs.top/m3u/Sports/f7ac7cd76f.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport",CA | TSN Sports 5
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5c31c97855.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8EtA0g4.png" group-title="Sport",CA | Sportsnet World
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3a1ed01077.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZt3Jr5.png" group-title="Sport",CA | Sportsnet Otanrio
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a48d90bd5f.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PF2AAxA.png" group-title="Sport",CA | Sportsnet One
-http://stream-e30453a4b.nmbs.top/m3u/Sports/1d4783966c.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gXoCgM0.png" group-title="Sport",CA | Sportsnet 360
-http://stream-e30453a4b.nmbs.top/m3u/Sports/8931c93da8.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Sport",UK | Free Sports
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=freesports&item_module=resources.lib.channels.uk.stv&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNfUlHr.png" group-title="Sport",UK | Sky Sports News
 https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmZVTdE.png" group-title="Sport",UK | Sky Sports Action
-http://stream-e30453a4b.nmbs.top/m3u/Sports/9ed0e5e694.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmZVTdE.png" group-title="Sport",UK | Sky Sports Action HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/01c28c1790.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oUMnYwX.png" group-title="Sport",UK | Sky Sports Arena
-http://stream-e30453a4b.nmbs.top/m3u/Sports/050156c6ae.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oUMnYwX.png" group-title="Sport",UK | Sky Sports Arena HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/a8b78b572a.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q29swzC.png" group-title="Sport",UK | Sky Sports F1 HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/3c40561002.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHLvuJo.png" group-title="Sport",UK | Sky Sports Football HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/5ae22ea6ae.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOIAHGx.jpg" group-title="Sport",UK | Sky Sports League HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/71dbd2fb94.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmdRYdt.png" group-title="Sport",UK | SKY SPORTS GOLF HD
-http://stream-e30453a4b.nmbs.top/m3u/Sports/ed04f1621a.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hpRglCb.png" group-title="Sport",UK | SKY SPORTS MIX
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUCeMKb.png" group-title="Groot-Brittannië",UK | BBC 1 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Groot-Brittannië",UK | BBC 1 Scotland
@@ -1563,7 +1564,7 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jn5knh.png" group-title="Groot-Brittannië",UK | FOX UK HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKPaekB.jpg" group-title="Groot-Brittannië",UK | Dave
-http://stream-e30453a4b.nmbs.top/m3u/Uk/cee5b0eee1.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yY70OOE.png" group-title="Groot-Brittannië",UK | Really
 https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Mbaii.jpg" group-title="Groot-Brittannië",UK | Forces TV
