@@ -4265,12 +4265,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sOnZtrz.png" group-title="Sport",HK | Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOnZtrz.png" group-title="Sport",HK | Fox Sports 1 Asia
-rtmp://xiaoyu.speedws.com/sat/tv731
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sOnZtrz.png" group-title="Sport",HK | Fox Sports 2 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOnZtrz.png" group-title="Sport",HK | Fox Sports 2 Asia
-rtmp://xiaoyu.speedws.com/sat/tv741
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuohn3e.png" group-title="Sport",HK | Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C8BZ0Ja.png" group-title="Hong Kong",HK | TVB Xing He
