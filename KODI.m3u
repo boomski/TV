@@ -3445,6 +3445,14 @@ http://cdn.mytouchtv.tv/hlsl/10/Zvezda/Zvezda_3/index.m3u8
 http://cdn.mytouchtv.tv/hlsl/10/Domashniy/Domashniy_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1EaNTOp.png" group-title="Rusland",RU | Karusel
 https://cdn.mytouchtv.tv/hlsl/10/Karusel/Karusel_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbkhImD.png" group-title="Rusland",RU | Dom Kino
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XyiksXK.jpg" group-title="Rusland",RU | Dom Kino Premium HD
+http://cdn.nexttvnet.ru/hlsl/10/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lA4tqJm.png" group-title="Rusland",RU | Usabda TV
+http://cdn.nexttvnet.ru/hlsl/10/Usadba_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bg1FarP.png" group-title="Rusland",RU | SD REX
+http://cdn.nexttvnet.ru/hlsl/10/Russkiy_ekstrim/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="Rusland",RU | Ministry of Ideas
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgFmj3L.png" group-title="Rusland",RU | Nano TV
@@ -3485,6 +3493,10 @@ https://imedi-tv.cdn.xsg.ge/indiyskoekino/tracks-v1a1/mono.m3u8
 https://imedi-tv.cdn.xsg.ge/kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PqJ5zzi.jpg" group-title="Rusland",RU | Kino Komediya
 http://russia.livetv.az/russia/kinokomediya/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r96PcYg.jpg" group-title="Rusland",RU | Kinouzhas
+http://russia.livetv.az/russia/kinouzhas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0QhQdaT.png" group-title="Rusland",RU | Kinopokaz
+http://russia.livetv.az/russia/kinopokaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sq68WXO.png" group-title="Rusland",RU | TV1000 Action HD
 https://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu1KYAx.png" group-title="Rusland",RU | TV1000 HD
@@ -3495,6 +3507,8 @@ http://russia.livetv.az/russia/tv1000_action_sd/playlist.m3u8
 https://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDER6fc.png" group-title="Rusland",RU | TV1000 Russian Kino HD
 http://russia.livetv.az/russia/tv1000_action_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPdM4FY.png" group-title="Rusland",RU | Feniks Plus Kino
+http://russia.livetv.az/russia/feniks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cr8UYAP.png" group-title="Rusland",RU | VIP Comedy HD
 https://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxe21Rt.png" group-title="Rusland",RU | VIP Megahit HD
