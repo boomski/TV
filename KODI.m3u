@@ -1976,7 +1976,7 @@ https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvLkbh3.jpg" group-title="Denemarken",DK | TV Storbyen
 https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srXY7yg.png" group-title="Faeröer",FO | KVF
-https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/chunklist.m3u8
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CDuDuQ1.png" group-title="Noorwegen",NO | NRK 1
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pg7idUh.png" group-title="Noorwegen",NO | NRK 2
@@ -1984,7 +1984,7 @@ https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8|X-Forwarded-For=5.24
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYrBLPN.png" group-title="Noorwegen",NO | NRK 3
 https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iviMrbO.jpg" group-title="Noorwegen",NO | MTV Norge
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScVsMnB.png" group-title="Noorwegen",NO | Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWNNpB6.png" group-title="Noorwegen",NO | Kanal 10 Norge
@@ -2000,7 +2000,9 @@ http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gsDz02g.png" group-title="Ijsland",IS | RUV 2
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nyq4Wl7.png" group-title="Ijsland",IS | N4
-http://tv.vodafoneplay.is/n4/index.m3u8
+https://live.tv.c.is/n4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqJX5p1.png" group-title="Ijsland",IS | Omega
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhCEyxH.png" group-title="Finland",FI | YLE 1
 http://193.64.188.131:8011/bysid/17
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6le3MM.jpg" group-title="Finland",FI | YLE 2
@@ -2045,6 +2047,10 @@ http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50B8mhG.png" group-title="Zweden",SE | Expressen TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0l2zIJF.png" group-title="Zweden",SE | Oppna Kanalen
+http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="Zweden",SE | Västmanlands Television
+https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" group-title="Sport",ES | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" group-title="Sport",ES | Olympic Channel 2
@@ -2381,6 +2387,8 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u17a3U1.png" group-title="Mexico",MX | Canal Once Internacional  
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFlzBNN.jpg" group-title="Mexico",MX | QuieroTV
+https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="Mexico",MX | 15TV Sabinas
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9zTQcC.jpg" group-title="Mexico",MX | Canal 15 Zacatecas
