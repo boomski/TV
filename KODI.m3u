@@ -1560,19 +1560,47 @@ https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hpRglCb.png" group-title="Sport",UK | SKY SPORTS MIX
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUCeMKb.png" group-title="Groot-Brittannië",UK | BBC 1 HD
-
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Groot-Brittannië",UK | BBC 1 Scotland
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Groot-Brittannië",UK | BBC 1 Scotland
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/812
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F00Fb85.jpg" group-title="Groot-Brittannië",UK | BBC 1 London
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/809
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62u7UkS.jpg" group-title="Groot-Brittannië",UK | BBC 1 Northern Ireland
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/810
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uizrWHu.png" group-title="Groot-Brittannië",UK | BBC 2 HD
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjKvu4H.jpg" group-title="Groot-Brittannië",UK | BBC 2 England
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IcNpTxt.jpg" group-title="Groot-Brittannië",UK | BBC 2 Northern Ireland
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/817
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlTR04e.png" group-title="Groot-Brittannië",UK | BBC 2 Scotland
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/818
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YX1Qg7g.png" group-title="Groot-Brittannië",UK | BBC 2 Wales
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/816
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afChnws.png" group-title="Groot-Brittannië",UK | BBC 3 HD
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxG6bPj.png" group-title="Groot-Brittannië",UK | BBC 4
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yMalMid.png" group-title="Groot-Brittannië",UK | BBC ALBA 
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/828
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pRD6Fx.png" group-title="Groot-Brittannië",UK | BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GyQE9AH.png" group-title="Groot-Brittannië",UK | BBC World News
 http://203.162.235.41:16917
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GyQE9AH.png" group-title="Groot-Brittannië",UK | BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="Groot-Brittannië",UK | BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3rJRu2.jpg" group-title="Groot-Brittannië",UK | BBC Persian
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1awPCdR.png" group-title="Groot-Brittannië",UK | BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3vd41w8.png" group-title="Groot-Brittannië",UK | CBBC 
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/821
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhwCPnB.png" group-title="Groot-Brittannië",UK | S4C
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="Groot-Brittannië",UK | Sky News
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=skynews&item_module=resources.lib.channels.uk.sky&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="Groot-Brittannië",UK | Sky News Americas
@@ -1605,6 +1633,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Mbaii.jpg" group-title="Groot-Brittannië",UK | Forces TV
 https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Groot-Brittannië",UK | Sheffield Live TV
+http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmHryT4.png" group-title="Groot-Brittannië",UK | Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVJWUpc.png" group-title="Groot-Brittannië",UK | Hala London
