@@ -945,6 +945,8 @@ https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Garage TV
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nA3WP6o.jpg" group-title="USA",US | The Blaze TV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpONwoP.png" group-title="USA",US | Law & Crime Network
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpONwoP.png" group-title="USA",US | Law & Crime Network
@@ -3003,6 +3005,8 @@ https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
 https://ert-live.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLxDtIh.jpg" group-title="Griekenland",GR | EPT 3
 https://ert-live.siliconweb.com/media/ert_3/ert_3medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jT6OPuW.jpg" group-title="Griekenland",GR | ERT World
+http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcLqlcO.jpg" group-title="Griekenland",GR | EPT Play 1
 https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozWM3NM.jpg" group-title="Griekenland",GR | EPT Play 2
@@ -3013,12 +3017,24 @@ https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3high.m3u8
 https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UH87y1F.png" group-title="Griekenland",GR | ANT1
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTycB26.png" group-title="Griekenland",GR | Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fYBo9T.jpg" group-title="Griekenland",GR | TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOUmuYs.png" group-title="Griekenland",GR | WZRA KIDS TV
+http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png" group-title="Griekenland",GR | Epirus TV 1
 https://server.tvdj.info:8222/radioepirus/radioepirus/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjPFgjd.png" group-title="Griekenland",GR | Corfu TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Osxbf93.jpg" group-title="Griekenland",GR | Creta TV
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="Griekenland",GR | Μesogeios TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lf2JvoR.png" group-title="Griekenland",GR | Lychnos TV
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOMGzka.jpg" group-title="Griekenland",GR | Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GocquE.png" group-title="Cyprus",CY | BRT 1 HD
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjuOfNf.png" group-title="Cyprus",CY | BRT 2
@@ -3313,6 +3329,12 @@ http://89.136.209.33:1935/liveorigin/TVRI.smil/playlist.m3u8
 http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qZ7trDX.png" group-title="Roemenië",RO | TVR Timisoara
 http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ftjth09.png" group-title="Roemenië",RO | Antena Cook & Play
+https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJZYZrQ.png" group-title="Roemenië",RO | Antena Comedy Play
+https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTpuZwW.png" group-title="Roemenië",RO | Antena Monden
+https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="Roemenië",RO | Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y4MGzCR.jpg" group-title="Roemenië",RO | TV SE
@@ -3373,6 +3395,8 @@ https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepubli
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hjODZvI.jpg" group-title="Polen",PL | TVT Zgorzelec
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7luV1x.png" group-title="Polen",PL | Trwam TV
+https://trwamtv.live.e57-po.insyscd.net/cl01/out/u/trwam_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QjuWBxr.jpg" group-title="Polen",PL | WTK
 http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c59VWgF.jpg" group-title="Polen",PL | 4FUN TV
@@ -4343,6 +4367,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuohn3e.png" group-title="Sport",HK | Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ylvMXnY.jpg" group-title="Sport",HK | Star Sport
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C8BZ0Ja.png" group-title="Hong Kong",HK | TVB Xing He
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d45LP0W.jpg" group-title="Hong Kong",HK | TVB Jade
