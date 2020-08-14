@@ -3734,8 +3734,9 @@ http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6szQkm.png" group-title="Letland",LV | ReTV
 http://edge-telia2.tiesraides.lv/live/retv.lv.1_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D3Pt9UL.png" group-title="Sport",KZ | Qazsport
-
+https://live-qazsport.cdnvideo.ru/qazsport_kz/qazsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mixRJCe.jpg" group-title="Sport",KZ | Setanta Кazakhstan
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png" group-title="Kazachstan",KZ | Kazakh TV
 http://kazakhtvru.ultraiptv.com/live_kz/playlist1/index.m3u8
@@ -3821,6 +3822,10 @@ https://sc.id-tv.kz/IDFashion_38_39.m3u8
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJvoDn5.png" group-title="Kazachstan",KZ | Muzzone
 https://edge04.daitsuna.net/muzzone/muzzone/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/04Btu5f.png" group-title="Kazachstan",KZ | Balapan TV
+https://balapantv-stream.daitsuna.net/balapantv/balapantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qONg98W.png" group-title="Kazachstan",KZ | Abai TV
+https://live-abaitv.cdnvideo.ru/abaitv_kz/abaitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d17kd8G.jpg" group-title="Sport",GE | Setanta Georgia 1
 http://188.93.95.34:80/setanta_georgia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d17kd8G.jpg" group-title="Sport",GE | Setanta Georgia 2
