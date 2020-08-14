@@ -2581,6 +2581,10 @@ http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTtG1SE.jpg" group-title="Argentinië",AR | MUSICTOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkN1tV2.png" group-title="Argentinië",AR | Telered
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pHNlfFb.jpg" group-title="Argentinië",AR | Canal Santa Maria 
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SknQ25w.png" group-title="Colombia",CO | RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg" group-title="Colombia",CO | Telecafe
