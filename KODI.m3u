@@ -2403,6 +2403,10 @@ http://events2-crtvg.flumotion.com/playlist.m3u8
 http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WeXhC2f.jpg" group-title="Spanje",ES | Galicia | Hermes TV
 https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/48FFpRJ.jpg" group-title="Spanje",ES | Melilla | Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M750qqO.jpg" group-title="Spanje",ES | Melilla | Melilla TV
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kzedlEr.jpg" group-title="Sport",ES | PLUTO TV | PLUTO TV Deportes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiKtVbb.png" group-title="Mexico",MX | Milenio TV
@@ -2421,6 +2425,8 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFlzBNN.jpg" group-title="Mexico",MX | QuieroTV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yzWYgCC.jpg" group-title="Mexico",MX | Canal 14
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/2a01d801265741e581c396e8ad4fa405/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="Mexico",MX | 15TV Sabinas
 http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9zTQcC.jpg" group-title="Mexico",MX | Canal 15 Zacatecas
