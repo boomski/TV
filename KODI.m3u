@@ -4684,6 +4684,8 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KEbokdx.jpg" group-title="Thailand",TH | M Channel
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKO8wn0.png" group-title="Thailand",TH | Naza TV
+http://54c241893bf39.streamlock.net:1935/nazatv/nazatv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dauuWLp.png" group-title="Thailand",TH | Smart SME Channel
 https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Thailand",TH | White Channel
