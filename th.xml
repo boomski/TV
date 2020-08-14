@@ -1,5 +1,121 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+<item>
+<title>TH | TNN 16</title>
+<thumbnail>https://i.imgur.com/ZU9gNsP.jpg</thumbnail>
+<inputstream>$doregex[getURL]|Referer=https://tv.trueid.net/&amp;User-Agent=iPad</inputstream>
+<regex>
+<name>getURL</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,cid="tnn16"):
+  import re, requests
+  from requests.auth import HTTPBasicAuth
+  s = requests.session()
+  url = "https://tv.trueid.net/embed/{0}".format(cid)
+  s.headers = {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'}
+  page = s.get(url)
+  user, passwd = re.findall(r'username":"([^"]+)","password":"([^"]+)', page.text)[0]
+  ccode = re.findall(r'channel_code":"([^"]+)', page.text)[0]
+  apiurl = "https://tv.trueid.net/apis/player"
+  s.headers.update({'Origin': 'https://tv.trueid.net', 'Referer': 'https://tv.trueid.net/'})
+  data = {"ssoId":"nologin","channel_code":ccode,"visitor":"web","drm":"aes","lang":"th","concurrent":"no"}
+  spage = s.post(apiurl, json=data, auth=HTTPBasicAuth(user, passwd))
+  strurl = spage.json().get("stream").get("result")
+  return strurl
+]]></expres>
+<page></page>
+</regex>
+</item>
+  
+<item>
+<title>TH | AXN</title>
+<fanart>https://i.imgur.com/PzDEaCV.png</fanart>
+<inputstream>$doregex[getURL]</inputstream>
+<regex>
+<name>getURL</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,cid="axn-hd"):
+  import re, requests, urllib
+  from requests.auth import HTTPBasicAuth
+  s = requests.session()
+  url = "https://tv.trueid.net/embed/{0}".format(cid)
+  burl = 'https://tv.trueid.net/'
+  s.headers = {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'}
+  page = s.get(url)
+  user, passwd = re.findall(r'username":"([^"]+)","password":"([^"]+)', page.text)[0]
+  ccode = re.findall(r'channel_code":"([^"]+)', page.text)[0]
+  apiurl = "https://tv.trueid.net/apis/player"
+  s.headers.update({'Origin': burl[:-1], 'Referer': burl})
+  data = {"ssoId":"27086721","channel_code":ccode,"visitor":"web","drm":"wv","lang":"th","concurrent":"no"}
+  spage = s.post(apiurl, json=data, auth=HTTPBasicAuth(user, passwd)).json()
+  strurl = spage.get("stream").get("streamurl")
+  wvurl = spage.get("stream").get("license")
+  strurl = '{0}|Referer={1}&User-Agent=Mozilla/5.0$$lic={2}|Referer={1}&User-Agent=Mozilla/5.0|R{{SSM}}|'.format(strurl, burl, urllib.quote_plus(wvurl))
+  return strurl
+]]></expres>
+<page></page>
+</regex>
+</item>  
+  
+<item>
+<title>TH | TLC</title>
+<fanart>https://i.imgur.com/Bstr5P1.png</fanart>
+<inputstream>$doregex[getURL]</inputstream>
+<regex>
+<name>getURL</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,cid="tcl-hd"):
+  import re, requests, urllib
+  from requests.auth import HTTPBasicAuth
+  s = requests.session()
+  url = "https://tv.trueid.net/embed/{0}".format(cid)
+  burl = 'https://tv.trueid.net/'
+  s.headers = {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'}
+  page = s.get(url)
+  user, passwd = re.findall(r'username":"([^"]+)","password":"([^"]+)', page.text)[0]
+  ccode = re.findall(r'channel_code":"([^"]+)', page.text)[0]
+  apiurl = "https://tv.trueid.net/apis/player"
+  s.headers.update({'Origin': burl[:-1], 'Referer': burl})
+  data = {"ssoId":"27086721","channel_code":ccode,"visitor":"web","drm":"wv","lang":"th","concurrent":"no"}
+  spage = s.post(apiurl, json=data, auth=HTTPBasicAuth(user, passwd)).json()
+  strurl = spage.get("stream").get("streamurl")
+  wvurl = spage.get("stream").get("license")
+  strurl = '{0}|Referer={1}&User-Agent=Mozilla/5.0$$lic={2}|Referer={1}&User-Agent=Mozilla/5.0|R{{SSM}}|'.format(strurl, burl, urllib.quote_plus(wvurl))
+  return strurl
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>TH | True Film</title>
+<fanart>https://i.imgur.com/1OGWwkg.png</fanart>  
+<inputstream>$doregex[getURL]</inputstream>
+<regex>
+<name>getURL</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,cid="true-film-hd"):
+  import re, requests, urllib
+  from requests.auth import HTTPBasicAuth
+  s = requests.session()
+  url = "https://tv.trueid.net/embed/{0}".format(cid)
+  burl = 'https://tv.trueid.net/'
+  s.headers = {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'}
+  page = s.get(url)
+  user, passwd = re.findall(r'username":"([^"]+)","password":"([^"]+)', page.text)[0]
+  ccode = re.findall(r'channel_code":"([^"]+)', page.text)[0]
+  apiurl = "https://tv.trueid.net/apis/player"
+  s.headers.update({'Origin': burl[:-1], 'Referer': burl})
+  data = {"ssoId":"27086721","channel_code":ccode,"visitor":"web","drm":"wv","lang":"th","concurrent":"no"}
+  spage = s.post(apiurl, json=data, auth=HTTPBasicAuth(user, passwd)).json()
+  strurl = spage.get("stream").get("streamurl")
+  wvurl = spage.get("stream").get("license")
+  strurl = '{0}|Referer={1}&User-Agent=Mozilla/5.0$$lic={2}|Referer={1}&User-Agent=Mozilla/5.0|R{{SSM}}|'.format(strurl, burl, urllib.quote_plus(wvurl))
+  return strurl
+]]></expres>
+<page></page>
+</regex>
+</item>  
   
 <item>
 <title>TH | Workpoint 23</title>
@@ -15,6 +131,8 @@
 <fanart>https://i.imgur.com/Oys2HeR.jpg</fanart>  
 <externallink>https://raw.githubusercontent.com/boomski/homeofcycling/master/STRM/voicetv</externallink>
 </item>   
+  
+  
   
 </items>
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2N3OBFH.png",TH | Fox Family Movies
