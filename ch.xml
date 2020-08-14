@@ -5,5 +5,33 @@
 <fanart>https://i.imgur.com/fW6TWiI.png</fanart>
 <urlsolve>https://ok.ru/videoembed/1797639446244</urlsolve>
 </item>
+  
+<item>
+<title>CH | CH Music TV</title>
+<fanart>https://i.imgur.com/PIhtPVQ.png</fanart>
+<link>$doregex[getURL]|Referer=https://www.tikilive.com/&amp;User-Agent=iPad</link>
+<regex>
+<name>getURL</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,cid="36199"):
+  import re, requests
+  s = requests.session()
+  url = "https://www.tikilive.com/embed?scheme=embedChannel&channelId={0}".format(cid)
+  s.headers = {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'}
+  page = s.get(url)
+  keyid = re.findall(r"keyId:\s*'([^']+)", page.text)[0]
+  turl1 = "https://tikilive.com:8080/socket.io/?c={0}&transport=polling&n=TIKISESSID&i={1}".format(cid, keyid)
+  s.headers.update({'Origin': 'https://www.tikilive.com', 'Referer': 'https://www.tikilive.com/'})
+  tpage = s.get(turl1)
+  sid = re.findall(r'sid":"([^"]+)', tpage.text)[0]
+  turl2 = "https://tikilive.com:8080/socket.io/?c={0}&transport=polling&n=TIKISESSID&i={1}&sid={2}".format(cid, keyid, sid)
+  tpage2 = s.get(turl2)
+  token = re.findall(r'id":"([^"]+)', tpage2.text)[0]
+  strurl = re.findall(r'hls":"([^"]+)', tpage2.text)[0].replace("#token#", token)
+  return strurl
+]]></expres>
+<page></page>
+</regex>
+</item>  
 </items>
 
