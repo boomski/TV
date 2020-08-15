@@ -4757,15 +4757,15 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1fpIO3.png" group-title="Singapore",SG | Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVnSA5R.png" group-title="Singapore",SG | Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+https://tglmp02.akamaized.net/out/v1/f091238359f8455f8396cef639d0d9f7/master.m3u8|Referer=https://www.mewatch.sg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpyh6R4.png" group-title="Singapore",SG | Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+https://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vn4lmoE.png" group-title="Singapore",SG | Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8|Referer=https://www.mewatch.sg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxHnd9q.png" group-title="Singapore",SG | Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8|Referer=https://www.mewatch.sg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QtNWc4o.png" group-title="Singapore",SG | Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8|Referer=https://www.mewatch.sg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zjh63nC.jpg" group-title="Sport",ID | TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GIGcX5K.png" group-title="Indonesië",ID | Berita Satu World
