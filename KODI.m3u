@@ -30,9 +30,9 @@ http://45.134.21.13/live/s10/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClHegNS.jpg" group-title="Sport",BE | CYFO 11
 http://45.134.21.13/live/s11/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo11.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OEI0Ec.png" group-title="Sport",BE | Play Sports 1 
-http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26835
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhIbxDG.png" group-title="Sport",BE | Play Sports 2 
-http://85.203.33.205:80/CvEA6MQ61/UHSu6z13/26836
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DtYOWC.png" group-title="Sport",BE | Play Sports 3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gmvb6SP.png" group-title="Sport",BE | Play Sports 4
@@ -347,6 +347,8 @@ https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasports
 http://51.15.254.60/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="Sport",FR | Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lc8UDIj.png" group-title="Frankrijk",FR | Ubiznews TV
+plugin://plugin.video.dailymotion_com/?url=x74ucfd&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLRf32o.png" group-title="Tahiti",PF | Tahiti Nui TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uUK9yRE.png" group-title="Guadeloupe",GP | MFM TV
@@ -963,6 +965,8 @@ http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrRxU67.png" group-title="USA",US | TVW
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4TBHaVb.png" group-title="USA",US | Aliento Vision
+https://livestreamcdn.net:444/Alientoenvivo/smil:Alientoenvivo.smil/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Public
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw1oA3O.png" group-title="USA",US | NASA TV Media
@@ -1185,6 +1189,8 @@ https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="USA",US | Infowars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qRtheCn.jpg" group-title="USA",US | Folk TV East
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUEiiK.png" group-title="USA",US | DISTRO TV | Fighting Spirit
 https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0QGkuL4.jpg" group-title="USA",US | DISTRO TV | Dove Channel 
@@ -1969,6 +1975,12 @@ https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8|X-Forwarded-For=77.238.31.240
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f7RTt0R.jpg" group-title="Italië",IT | TV Luna
 http://live.sloode.com:1935/teleluna/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGF3Ib8.png" group-title="Italië",IT | TV Yes Italia
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRtpe82.png" group-title="Italië",IT | TV Yes Sat
+https://stream1.aswifi.it/tvyessat/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRtpe82.png" group-title="Italië",IT | TV Yes Umbria
+https://stream1.aswifi.it/tvyes/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W7NgjU9.png" group-title="Italië",IT | CNBC Class 
 http://api.new.livestream.com/accounts/25225027/events/7999644/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMIUu9d.png" group-title="Italië",IT | Tiziana Lotto
@@ -3779,6 +3791,8 @@ https://sc.id-tv.kz/TDK-42_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXlYCXz.jpg" group-title="Kazachstan",KZ | Almaty TV
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cBgMwNS.jpg" group-title="Kazachstan",KZ | Astana TV
+https://astanatv-stream.daitsuna.net/live/astanatv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBgMwNS.jpg" group-title="Kazachstan",KZ | Astana TV
 https://sc.id-tv.kz/Astana_38_39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eff3RKj.jpg" group-title="Kazachstan",KZ | Asyl Arna
 https://sc.id-tv.kz/AsylArna_38_39.m3u8
@@ -5232,6 +5246,8 @@ http://playlive.goonj.pk/dunyanewsweb_480p/index.m3u8
 http://playlive.goonj.pk/8xmweb_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hw94SaM.jpg" group-title="Pakistan",PK | Kay 2
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68uCCsQ.png" group-title="Pakistan",PK | Masiha TV
+https://streamer12.vdn.dstreamone.net/dexpo/dexpo3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Pakistan",PK | Nazrana TV
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Pakistan",PK | Zindagi TV
