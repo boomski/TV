@@ -1159,6 +1159,8 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="USA",US | 3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K5Ifonw.png" group-title="USA",US | Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5F3CgdU.png" group-title="USA",US | Mo Laughter TV
 https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p931DIT.png" group-title="USA",US | Metro Cable Network 6
@@ -4772,6 +4774,8 @@ https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRzyzPA.png" group-title="Brunei",BN | RTB Sukmaindera
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ofsy9DM.jpg" group-title="Singapore",SG | HBO Asia
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1fpIO3.png" group-title="Singapore",SG | Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yVnSA5R.png" group-title="Singapore",SG | Channel 5
@@ -4800,6 +4804,8 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/S
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMGwMXe.png" group-title="Indonesië",ID | TV9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZT2tqXz.jpg" group-title="Indonesië",ID | TVKU
+http://103.30.1.14:8080/hls/live.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gheyoBN.png" group-title="Indonesië",ID | MATRIX TV
 https://stream.suryaiptv.net/streams/70_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjJpmDO.png" group-title="Indonesië",ID | Indosiar
@@ -5634,6 +5640,8 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kN0MTc9.png" group-title="Myanmar",MM | Mizzima TV
 https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LgyU24o.png" group-title="Myanmar",MM | Mahar TV
+http://maharlive.b-cdn.net/stream.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6p0TK7e.png" group-title="Cambodja",KH | Fresh News TV
 http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/enPwRCx.jpg" group-title="Cambodja",KH | Apsara TV
