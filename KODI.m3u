@@ -27,6 +27,8 @@ http://45.134.21.13/live/s9/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo9
 http://45.134.21.13/live/s10/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo10.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClHegNS.jpg" group-title="Sport",BE | CYFO 11
 http://45.134.21.13/live/s11/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo11.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
+https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMdUoR3.png" group-title="België",BE | VTM
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYSYY5e.png" group-title="België",BE | VTM 2
