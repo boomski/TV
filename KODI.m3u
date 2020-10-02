@@ -303,6 +303,8 @@ https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cThInij.png" group-title="Frankrijk",FR | D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2p90eO.jpg" group-title="Frankrijk",FR | D5 Music TV
+https://live.creacast.com/d5music/smil:d5music.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9yLdYZ.png" group-title="Frankrijk",FR | Dici TV
 http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Frankrijk",FR | KTO
@@ -350,7 +352,7 @@ http://51.15.193.127/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lc8UDIj.png" group-title="Frankrijk",FR | Ubiznews TV
 plugin://plugin.video.dailymotion_com/?url=x74ucfd&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLRf32o.png" group-title="Tahiti",PF | Tahiti Nui TV
-
+https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uUK9yRE.png" group-title="Guadeloupe",GP | MFM TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="Guadeloupe",GP | TMA
