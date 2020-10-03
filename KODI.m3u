@@ -118,7 +118,7 @@ https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | 2.RTL
 https://live-edge.rtl.lu/channel2/smil:channel2/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YldMnap.jpg" group-title="Luxemburg",LU | Chamber TV
-https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
+https://media02.webtvlive.eu/chd-multilanguage/_definst_/smil:beneluxparl.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png" group-title="Luxemburg",LU | TV MCJ
 https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruXN2HE.png" group-title="Sport",NL | ZIGGO Sports Select
@@ -3703,6 +3703,8 @@ https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
 https://hls.myvideocontent.ru/hls2/ritsa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJs1gk0.png" group-title="Rusland",RU | VIVA
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dbyezls.png" group-title="Rusland",RU | illi TV
+http://cdn.illi.tv/illitv_2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bW5LNmE.jpg" group-title="Rusland",RU | 9 Volna
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8PLmQ0.jpg" group-title="Rusland",RU | TV21 Murmansk
