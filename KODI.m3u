@@ -1483,6 +1483,46 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="Canada",CA | Prime Asia TV
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGpoHNw.png" group-title="Canada",CA | MAXX
+https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NtJYqb.png" group-title="Canada",CA | Onyx
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsbLIhK.png" group-title="Canada",CA | River
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8r9mdl.png" group-title="Canada",CA | Rubix
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" group-title="Canada",CA | GEM AZ
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" group-title="Canada",CA | GEM Arabia
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" group-title="Canada",CA | GEM Fit
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vp7WmG3.png" group-title="Canada",CA | GEM 24B
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByPLvtx.png" group-title="Canada",CA | GEM Comedy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2QBhOe.png" group-title="Canada",CA | GEM Kids
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GkZRmk.png" group-title="Canada",CA | GEM Junior
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" group-title="Canada",CA | GEM TV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" group-title="Canada",CA | GEM Academy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
+
+#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
+
+#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
+
+#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
+
+#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
+
+#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
+
+#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Canada",CA | 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Canada",CA | Amazing Discoveries TV
@@ -5292,8 +5332,6 @@ https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.
 https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJ9UsLT.png" group-title="Iran",IR | IRIB Nasim
 https://live.farsiland.com/nasim/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdDNiAo.jpg" group-title="Iran",IR | GEM USA
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCmSo9i.png" group-title="Iran",IR | iFILM English
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Iran",IR | iFILM
