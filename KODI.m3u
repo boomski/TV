@@ -1491,8 +1491,12 @@ https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_960x540_2000k.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_1920x1080_4500k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8r9mdl.png" group-title="Canada",CA | Rubix
 https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" group-title="Canada",CA | GEM TV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" group-title="Canada",CA | GEM AZ
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" group-title="Canada",CA | GEM Academy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" group-title="Canada",CA | GEM Arabia
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" group-title="Canada",CA | GEM Fit
@@ -1505,24 +1509,32 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GkZRmk.png" group-title="Canada",CA | GEM Junior
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" group-title="Canada",CA | GEM TV
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" group-title="Canada",CA | GEM Academy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
-
-#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
-
-#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
-
-#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
-
-#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
-
-#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
-
-#EXTINF:-1 tvg-logo="" group-title="Canada",CA | 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/onsdgcS.png" group-title="Canada",CA | GEM Drama
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0gufsP.png" group-title="Canada",CA | GEM Film
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJIxU2f.png" group-title="Canada",CA | GEM Life
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hbm5VxM.png" group-title="Canada",CA | GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8OpKp6O.png" group-title="Canada",CA | GEM Travel
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYnkBV8.png" group-title="Canada",CA | GEM Nature
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFNHYJ.png" group-title="Canada",CA | Modern Economy
+https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XZzmIJ.png" group-title="Canada",CA | GEM Property
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGEUHXD.png" group-title="Canada",CA | GEM Latino
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMOlV0J.png" group-title="Canada",CA | GEM Series
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wItGfPe.png" group-title="Canada",CA | GEM Classic
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9juBI9.png" group-title="Canada",CA | GEM Bollywood
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gi2ATG6.png" group-title="Canada",CA | Mifa
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Canada",CA | 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Canada",CA | Amazing Discoveries TV
