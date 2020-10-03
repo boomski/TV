@@ -715,6 +715,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf8341412
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="Sport",US | EDGE Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="Sport",US | EDGE Sport
+https://edgesports-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ew980KL.png" group-title="Sport",US | FS1
 https://e10.julinewr.xyz/ingestnb4s/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xQcyXU3.png" group-title="Sport",US | FS2
