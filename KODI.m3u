@@ -82,7 +82,7 @@ http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
 http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
@@ -106,7 +106,7 @@ http://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_track=128000-video=16
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="België",BE | Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png" group-title="België",BE | RTC Télé Liège
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=rtc&item_module=resources.lib.channels.be.rtc&item_dict={}
+https://tvl-live.fl.freecaster.net/live/rtc/rtc-audio_und=128000-video=5200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="België",BE | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia
@@ -114,9 +114,9 @@ https://5a0b00d270652.streamlock.net/live/vedia-live/chunklist_w426448595.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="België",BE | 21 Bis
 http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
-https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
+https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | 2.RTL
-https://live-edge.rtl.lu/channel2/smil:channel2/chunklist_b1728000_slltz.m3u8
+https://live-edge.rtl.lu/channel2/smil:channel2/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YldMnap.jpg" group-title="Luxemburg",LU | Chamber TV
 https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png" group-title="Luxemburg",LU | TV MCJ
