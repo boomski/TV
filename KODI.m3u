@@ -5842,12 +5842,16 @@ https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
 https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="België",RADIO | Radio 1
 plugin://plugin.video.vrt.nu/play/id/vualto_events3_geo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="België",RADIO | Radio 1
+http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="België",RADIO | MNM
 plugin://plugin.video.vrt.nu/play/id/vualto_mnm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSlIOrh.png" group-title="België",RADIO | Studio Brussel
 plugin://plugin.video.vrt.nu/play/id/vualto_stubru
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6mKq6Kv.jpg" group-title="België",RADIO | VRT NWS
 plugin://plugin.video.vrt.nu/play/id/vualto_nieuws
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bl1eqXn.jpg" group-title="België",RADIO | JOE
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0d2oII.png" group-title="België",RADIO | Q Music België
 plugin://plugin.video.vtm.go/play/catalog/channels/57940c42-a225-44be-8691-46d5175e2d01?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMjFeGE.png" group-title="België",RADIO | Radio PROS
