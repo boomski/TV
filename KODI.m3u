@@ -179,6 +179,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
 http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Sport",FR | L'Équipe
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Sport",FR | L'Équipe
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",FR | Sport en France
 https://sportenfrance.tvchain.network/hls/sp1564435593_hig/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
@@ -194,7 +196,7 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Frankrijk",FR | ARTE
 https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="Frankrijk",FR | France 2
-
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Frankrijk",FR | France 3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="Frankrijk",FR | France 4
@@ -1880,7 +1882,7 @@ http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8|X-Forwarded-For=52.6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOqY8x0.png" group-title="Australië",AU | Arcana HD
 http://api.new.livestream.com/accounts/25119151/events/7392689/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s67amyk.png" group-title="Australië",AU | Horse & Country TV
-https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
+http://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCGjx9D.png" group-title="Nieuw-Zeeland",NZ | TVNZ 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpfUsc8.png" group-title="Nieuw-Zeeland",NZ | Prime
