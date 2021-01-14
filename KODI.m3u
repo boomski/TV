@@ -62,17 +62,17 @@ plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg" group-title="België",BE | Ketnet Junior
 plugin://plugin.video.vrt.nu/play/id/ketnet_jr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VvykYlU.png" group-title="België",BE | La Une
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=laune&item_module=resources.lib.channels.be.rtbf&item_dict={}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3htoMD.png" group-title="België",BE | La Deux
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ladeux&item_module=resources.lib.channels.be.rtbf&item_dict={}
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=laune
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7t4tiyT.png" group-title="België",BE | TIPIK
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=tipiktv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/StttnYz.png" group-title="België",BE | La Trois
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=latrois&item_module=resources.lib.channels.be.rtbf&item_dict={}
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=latrois
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="België",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png" group-title="België",BE | AB3
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=ab3&item_module=resources.lib.channels.be.abbe&item_dict={}
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/abbe/get_live_url/?item_id=ab3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png" group-title="België",BE | ABXPLORE
-plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=abxplore&item_module=resources.lib.channels.be.abbe&item_dict={}
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/abbe/get_live_url/?item_id=abxplore
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="België",BE | ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
@@ -82,9 +82,9 @@ http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
 http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="België",BE | BVN
@@ -112,7 +112,7 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia
 https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="België",BE | 21 Bis
-http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_high.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | 2.RTL
