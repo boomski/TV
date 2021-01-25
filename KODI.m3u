@@ -2865,6 +2865,8 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFu5tT7.png" group-title="Peru",PE | Top Latino TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ChdEPe4.jpg" group-title="Sport",PE | Best Cable Sports
+https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png" group-title="Curaçao",CW | DCTV 
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kbx9ade.png" group-title="Curaçao",CW | Nos Païs
