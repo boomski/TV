@@ -259,6 +259,8 @@ plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x630sku&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvIJxCd.png" group-title="Frankrijk",FR | B Smart
 plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hf6mz9B.jpg" group-title="Frankrijk",FR | Canal 32
+https://edge6.vedge.infomaniak.com/livecast/ik:canal32/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Frankrijk",FR | TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="Frankrijk",FR | TV5 Style
