@@ -69,6 +69,8 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_u
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=latrois
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="België",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="België",BE | Euronews
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png" group-title="België",BE | AB3
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/abbe/get_live_url/?item_id=ab3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png" group-title="België",BE | ABXPLORE
@@ -123,6 +125,8 @@ https://media02.webtvlive.eu/chd-multilanguage/_definst_/smil:beneluxparl.smil/c
 https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruXN2HE.png" group-title="Sport",NL | ZIGGO Sports Select
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Nederland",NL | Euronews
+https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6EuA2U.png" group-title="Nederland",NL | NPO Nieuws
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZISvyzR.png" group-title="Nederland",NL | NPO Politiek
@@ -333,6 +337,8 @@ http://163.172.174.60/hls/stream.m3u8
 http://163.172.147.113/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABKVZ3B.png" group-title="Frankrijk",FR | Salamat Tube TV
 http://51.158.116.146/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PUacVoP.jpg" group-title="Frankrijk",FR | Unearth
+https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Frankrijk",FR | Fashion TV L'Original
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Frankrijk",FR | Fashion TV Midnite Secrets
