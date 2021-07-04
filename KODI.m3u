@@ -113,6 +113,8 @@ https://tvl-live.fl.freecaster.net/live/rtc/rtc-audio_und=128000-video=5200000.m
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia
 https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxXZAXH.png" group-title="België",BE | AFV Family
+https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="België",BE | 21 Bis
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
@@ -727,6 +729,8 @@ https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png" group-title="Sport",US | MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9kBFQI.jpg" group-title="Sport",US | ACCDN
+https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sport",US | Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="Sport",US | EDGE Sport
@@ -752,7 +756,7 @@ https://e10.julinewr.xyz/ingestnb4s/espn_u/f.m3u8|Referer=https://espn-live.stre
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGMsunk.jpg" group-title="Sport",US | ESPN News
 https://e10.julinewr.xyz/ingestnb4s/espn_news/master.m3u8|Referer=https://espn-live.stream/stream/45458.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kf6f4uB.png" group-title="Sport",US | ACCN ESPN
-https://e10.julinewr.xyz/ingestnb4s/accn/master.m3u8|Referer=https://espn-live.stream/stream/50008.html
+https://e10.cdnfoxtv.me/ingestnb4s/accn/master.m3u8|Referer=https://sportsbay.org/embed/50008/1/accn-espn-live.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plCyWQp.png" group-title="Sport",US | SEC Network
 https://e10.julinewr.xyz/ingestnb4s/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kkg1gt5.png" group-title="Sport",US | Big Ten Network
@@ -897,8 +901,12 @@ https://live.chdrstatic.com/cheddar/primary/5.m3u8
 https://live.chdrstatic.com/cbn/primary/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTlQAIX.jpg" group-title="USA",US | ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euRXbV0.jpg" group-title="USA",US | FailArmy
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CP05YX0.jpg" group-title="USA",US | AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wm7oCYE.png" group-title="USA",US | BloodyDisgusting
+https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sx1yiF9.png" group-title="USA",US | Filmbox Extra
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WjPS2q9.png" group-title="USA",US | Filmbox Plus
@@ -935,7 +943,7 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 https://biglife.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OZ34wyg.png" group-title="USA",US | TBD.
 https://content-aeui1.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5/g.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a&pbs=252c0a3591c0449ebc039ce3deacd2b3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="USA",US | AFV!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="USA",US | AFV
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VxMBNzA.jpg" group-title="USA",US | MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
@@ -960,13 +968,15 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iwd9Jxb.png" group-title="USA",US | Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson TV
-https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Racing TV
 https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Rides TV EN
+https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Factory TV
-https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2lxZnA6.png" group-title="USA",US | Harley Davidson Garage TV
-https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
+https://hdtv.prod2.ioio.tv/broker/manifests/70595a59-16f6-4924-a5ef-f498b12469f0/1080/4423680.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nA3WP6o.jpg" group-title="USA",US | The Blaze TV
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpONwoP.png" group-title="USA",US | Law & Crime Network
@@ -1895,8 +1905,14 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3qAKQM.jpg" group-title="Australië",AU | Bounty Plus
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8ucPJd.jpg" group-title="Australië",AU | VENN
+https://venntv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDqmN1R.png" group-title="Australië",AU | Dry Bar Comedy
+https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQgxQqY.jpg" group-title="Australië",AU | C31 Melbourne
 http://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmPFQTR.png" group-title="Australië",AU | Channel 44
+https://iptv-all.lanesh4d0w.codes/australia/ch44
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qe1fi6n.jpg" group-title="Australië",AU | Expo Channel
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/thROObH.png" group-title="Australië",AU | GABRUU TV
@@ -1918,7 +1934,9 @@ http://api.new.livestream.com/accounts/25119151/events/7392689/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RN8yTCZ.jpg" group-title="Australië",AU | Aus Tamil TV
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s67amyk.png" group-title="Australië",AU | Horse & Country TV
-http://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA/1080p.m3u8
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t8jSado.jpg" group-title="Australië",AU | Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCGjx9D.png" group-title="Nieuw-Zeeland",NZ | TVNZ 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpfUsc8.png" group-title="Nieuw-Zeeland",NZ | Prime
