@@ -618,9 +618,11 @@ rtmp://streaming.austria24.tv/live/stream_720p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymjr1zO.png" group-title="Oostenrijk",AT | Krone.tv 
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQZfm5e.jpg" group-title="Oostenrijk",AT | Schau TV
-https://schautv.mdn.ors.at/out/u/schautv-nodrm_5.m3u8
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jHWmjL.png" group-title="Oostenrijk",AT | Tirol TV
-http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="Oostenrijk",AT | Premium Channel
+http://premium-channel.tv:88/live/kali.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eMivDjz.png" group-title="Oostenrijk",AT | Upper Austria
 http://163.172.15.177:80/live/sUPPERchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="Oostenrijk",AT | Uppera Balkan
@@ -640,13 +642,15 @@ https://edge-1192-ch-gv.filmon.com/live/6031.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J25y9ah.png" group-title="Oostenrijk",AT | W24
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmfgBrg.png" group-title="Oostenrijk",AT | M4
-https://5a32c05065c79.streamlock.net/live/stream/chunklist.m3u8
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" group-title="Oostenrijk",AT | P3tv
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2Hdysr.jpg" group-title="Oostenrijk",AT | Ländle TV
 https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eBEwj1h.jpg" group-title="Oostenrijk",AT | Brandnite TV
 http://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnMTcPw.png" group-title="Oostenrijk",AT | Antenne Vorarlberg
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="Oostenrijk",AT | KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxISEZf.png" group-title="Oostenrijk",AT | Go TV
@@ -1808,7 +1812,7 @@ https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png" group-title="Australië",AU | Perth | 10
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qoseE0Y.png" group-title="Australië",AU | Sydney | 10
-
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png" group-title="Australië",AU | Adelaide | 10 Peach
 https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SwHhldH.png" group-title="Australië",AU | Brisbane | 10 Peach
@@ -1887,6 +1891,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="Australië",AU | Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8rJgOHF.png" group-title="Australië",AU | Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3qAKQM.jpg" group-title="Australië",AU | Bounty Plus
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQgxQqY.jpg" group-title="Australië",AU | C31 Melbourne
 http://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qe1fi6n.jpg" group-title="Australië",AU | Expo Channel
@@ -1901,10 +1909,14 @@ https://5afd52b55ff79.streamlock.net/SophiaTV/sophiatv_high.stream/chunklist.m3u
 http://c.mjh.nz/snowy-mountains/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WyAHeLU.png" group-title="Australië",AU | ausbiz TV
 http://i.mjh.nz/au/Canberra/tv.7ausbiz.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u43e7yq.png" group-title="Australië",AU | ACC TV
-http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ISP1Wwq.jpg" group-title="Australië",AU | ACCTV Adelaide
+https://iptv-all.lanesh4d0w.codes/australia/acctv-adelaide
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ISP1Wwq.jpg" group-title="Australië",AU | ACCTV Melbourne
+https://iptv-all.lanesh4d0w.codes/australia/acctv-melbourne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOqY8x0.png" group-title="Australië",AU | Arcana HD
 http://api.new.livestream.com/accounts/25119151/events/7392689/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RN8yTCZ.jpg" group-title="Australië",AU | Aus Tamil TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s67amyk.png" group-title="Australië",AU | Horse & Country TV
 http://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mCGjx9D.png" group-title="Nieuw-Zeeland",NZ | TVNZ 1
