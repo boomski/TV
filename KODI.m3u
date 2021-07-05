@@ -29,6 +29,8 @@ http://45.134.21.13/live/s10/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo
 http://45.134.21.13/live/s11/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo11.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE Kust
+https://dpg-eventstreams.akamaized.net/hlnkustcams-lgw/streamx/hlnkustcams_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMdUoR3.png" group-title="België",BE | VTM
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYSYY5e.png" group-title="België",BE | VTM 2
@@ -90,15 +92,17 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="België",BE | BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
+https://npobvn-prd.cdn.eurovisioncdn.net/live/npo/u/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="België",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png" group-title="België",BE | Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="België",BE | TV Lux
-https://tvl-live-prp.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=2500000.m3u8
+https://tvl-live.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=5200000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="België",BE | TV Lux
+https://tvl-live.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="België",BE | TVCom
-https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+https://tvl-live.fl.freecaster.net/live/tvcom/tvcom-audio_fre=128000-video=2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="België",BE | Antenne Centre
 http://tvl-live.fl.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="België",BE | Telesambre
@@ -111,8 +115,10 @@ http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u
 https://tvl-live.fl.freecaster.net/live/rtc/rtc-audio_und=128000-video=5200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="België",BE | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia
-https://tvl-live-prp.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia 
+https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=5200000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia 
+https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxXZAXH.png" group-title="België",BE | AFV Family
 https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="België",BE | 21 Bis
