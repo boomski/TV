@@ -105,6 +105,8 @@ https://tvl-live.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=52000
 https://tvl-live.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="België",BE | TVCom
 https://tvl-live.fl.freecaster.net/live/tvcom/tvcom-audio_fre=128000-video=2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="België",BE | TVCom
+https://tvl-live.fl.freecaster.net/live/tvcom/tvcom-audio_fre=128000-video=2500000.m3u8|Referer=https://tvcom.fcst.tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="België",BE | Antenne Centre
 http://tvl-live.fl.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="België",BE | Telesambre
