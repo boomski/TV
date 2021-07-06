@@ -92,37 +92,29 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
 http://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="België",BE | BVN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://npobvn-prd.cdn.eurovisioncdn.net/live/npo/u/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="België",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png" group-title="België",BE | Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="België",BE | TV Lux
-https://tvl-live.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=5200000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="België",BE | TV Lux
-https://tvl-live.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="België",BE | TVCom
-https://tvl-live.fl.freecaster.net/live/tvcom/tvcom-audio_fre=128000-video=2500000.m3u8
+https://tvl-live.fl.freecaster.net/live/tvlux/tvlux-audio_fre=128000-video=2500000.m3u8|Referer=https://www.tvlux.be
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="België",BE | TVCom
 https://tvl-live.fl.freecaster.net/live/tvcom/tvcom-audio_fre=128000-video=2500000.m3u8|Referer=https://tvcom.fcst.tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="België",BE | Antenne Centre
-http://tvl-live.fl.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
+https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000.m3u8|Referer=https://actv.fcst.tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="België",BE | Telesambre
-https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8
+https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_track=128000-video=2600000.m3u8|Referer=https://telesambre.fcst.tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="België",BE | Télé MB
-http://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_track=128000-video=1600000.m3u8
+https://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_fre=128000-video=2500000.m3u8|Referer=https://telemb.fcst.tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png" group-title="België",BE | RTC Télé Liège
+https://tvl-live.fl.freecaster.net/live/rtc/rtc-audio_und=128000-video=2500000.m3u8|Referer=https://rtc.fcst.tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia 
+https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8|Referer=https://vedia.fcst.tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="België",BE | Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O3j232B.png" group-title="België",BE | RTC Télé Liège
-https://tvl-live.fl.freecaster.net/live/rtc/rtc-audio_und=128000-video=5200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="België",BE | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia 
-https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=5200000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMQorMy.png" group-title="België",BE | Vedia 
-https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxXZAXH.png" group-title="België",BE | AFV Family
 https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="België",BE | 21 Bis
