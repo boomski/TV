@@ -382,7 +382,7 @@ http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoEPMeC.png" group-title="Sport",DE | Sky Sports 2 Deutschland
 http://stream-e30453a4b.nmbs.top/m3u/Sports/2c73c0d477.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJApWEn.png" group-title="Sport",DE | Sport 1 Deutschland
-https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8
+https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8|Referer=https://www.filmon.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b6tcf2i.jpg" group-title="Sport",DE | FC Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9qenzw.png" group-title="Duitsland",DE | One
@@ -1680,32 +1680,36 @@ https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hpRglCb.png" group-title="Sport",UK | SKY SPORTS MIX
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RziLZiu.png" group-title="Sport",UK | Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/coZxiUc.jpg" group-title="Sport",UK | FTF For the fans
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUCeMKb.png" group-title="Groot-Brittannië",UK | BBC 1 HD
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/807
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Groot-Brittannië",UK | BBC 1 Scotland
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Groot-Brittannië",UK | BBC 1 Scotland
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/812
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F00Fb85.jpg" group-title="Groot-Brittannië",UK | BBC 1 London
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/809
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62u7UkS.jpg" group-title="Groot-Brittannië",UK | BBC 1 Northern Ireland
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/810
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uizrWHu.png" group-title="Groot-Brittannië",UK | BBC 2 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjKvu4H.jpg" group-title="Groot-Brittannië",UK | BBC 2 England
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/814
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IcNpTxt.jpg" group-title="Groot-Brittannië",UK | BBC 2 Northern Ireland
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/817
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlTR04e.png" group-title="Groot-Brittannië",UK | BBC 2 Scotland
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/818
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YX1Qg7g.png" group-title="Groot-Brittannië",UK | BBC 2 Wales
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/816
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afChnws.png" group-title="Groot-Brittannië",UK | BBC 3 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxG6bPj.png" group-title="Groot-Brittannië",UK | BBC 4
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yMalMid.png" group-title="Groot-Brittannië",UK | BBC ALBA 
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/828
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pRD6Fx.png" group-title="Groot-Brittannië",UK | BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GyQE9AH.png" group-title="Groot-Brittannië",UK | BBC World News
@@ -1719,9 +1723,9 @@ https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1awPCdR.png" group-title="Groot-Brittannië",UK | BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vd41w8.png" group-title="Groot-Brittannië",UK | CBBC 
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/821
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhwCPnB.png" group-title="Groot-Brittannië",UK | S4C
-http://iptv1.privateiptv.club:80/random-robbie/random-robbie/829
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="Groot-Brittannië",UK | Sky News
 plugin://plugin.video.catchuptvandmore/resources/lib/main/live_bridge/?item_id=skynews&item_module=resources.lib.channels.uk.sky&item_dict={}
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="Groot-Brittannië",UK | Sky News Americas
@@ -1812,6 +1816,8 @@ https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=6&n=1&ctype=0&adsid=A&chnam
 https://ssai06a.broadcastcdn.net/hlslive/m3u8?profID=22&n=1&ctype=0&adsid=A&chname=CLOUDIETV-RATHERGOODDANCECLASSICS-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOF6Z6K.png" group-title="Groot-Brittannië",UK | Vintage Music TV
 https://streamingserver000.viewtvgroup.com/kapanglivetv-playout-vintage-musicradio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFlNhjV.png" group-title="Groot-Brittannië",UK | TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SxxV8uA.png" group-title="Sport",UK | Box Nation
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMxx8ts.png" group-title="Sport",UK | Adventure Sports Network
@@ -1820,6 +1826,8 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2msWdzQ.jpg" group-title="Sport",UK | Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Sport",UK | Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xVgXmS2.jpg" group-title="Sport",IE | Rugby World TV
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIzAmT0.png" group-title="Sport",IE | Rugby Men's Sevens
@@ -2983,17 +2991,17 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="Andorra",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sHKQGnC.png" group-title="Portugal",PT | RTP1 
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbnOPhs.png" group-title="Portugal",PT | RTP2 
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pV7I4JV.png" group-title="Portugal",PT | RTP3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q40v2Ff.png" group-title="General",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0VB3QJ.png" group-title="General",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2WJJIy.png" group-title="General",RTP África 
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",PT | Eurosport 1 Portugal
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJ4MnoZ.jpg" group-title="Sport",PT | Sport TV 5
