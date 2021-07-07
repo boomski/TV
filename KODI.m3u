@@ -604,19 +604,34 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wyGDgc1.jpg" group-title="Sport",AT | Sky Sports Austria
 http://stream-e30453a4b.nmbs.top/m3u/Germany/a8a5bab2b3.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laESecM.png" group-title="Sport",AT | ORF Sport+
-https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=XO%2FBEKe2ktHA1CFBVyE3prAaA4DGEq3tK7si1MzIgQDEOZdVNvFyLBSpGukXKYFEzSc3ptg4CMdxOSKwEgaVmOZlYb7SuoUwWbFcpFwszH9WQ1DNuClfr39mzVksvEONKvlBbY13vrJ6zHw1cHgy1xk7BdaIXNG1gZxBq5o7qsmbZ%2BTXutax9oZETRaJuHoJmvXud%2FXAIpQBlifWLO2jJWJzywWWpW8WKDd6ea01bNl9YhsBV%2BvShupkerhIr%2F8l||R{SSM}|
+https://orfs.mdn.ors.at/out/u/orfs/drmqxa/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MSrojwT.jpg" group-title="Oostenrijk",AT | ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=XO%2FBEKe2ktHA1CFBVyE3prAaA4DGEq3tK7si1MzIgQDEOZdVNvFyLBSpGukXKYFEzSc3ptg4CMdxOSKwEgaVmOZlYb7SuoUwWbFcpFwszH9WQ1DNuClfr39mzVksvEONKvlBbY13vrJ6zHw1cHgy1xk7BdaIXNG1gZxBq5o7qsmbZ%2BTXutax9oZETRaJuHoJmvXud%2FXAIpQBlifWLO2jJWJzywWWpW8WKDd6ea01bNl9YhsBV%2BvShupkerhIr%2F8l||R{SSM}|
+https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5z0Ihu.png" group-title="Oostenrijk",AT | ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=XO%2FBEKe2ktHA1CFBVyE3prAaA4DGEq3tK7si1MzIgQDEOZdVNvFyLBSpGukXKYFEzSc3ptg4CMdxOSKwEgaVmOZlYb7SuoUwWbFcpFwszH9WQ1DNuClfr39mzVksvEONKvlBbY13vrJ6zHw1cHgy1xk7BdaIXNG1gZxBq5o7qsmbZ%2BTXutax9oZETRaJuHoJmvXud%2FXAIpQBlifWLO2jJWJzywWWpW8WKDd6ea01bNl9YhsBV%2BvShupkerhIr%2F8l||R{SSM}|
+https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3
-https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+#EXTVLCOPT:http-user-agent=NSPlayer/7.10.0.3059
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3
+https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6QWXt3.jpg" group-title="Oostenrijk",AT | Servus TV Österreich
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png" group-title="Oostenrijk",AT | RTL Austria
-http://188.35.9.5:10020/stolen/502r/hot.dll
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="Oostenrijk",AT | oe24.TV
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="Oostenrijk",AT | oe24.TV [GEO]
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lHNKdk0.png" group-title="Oostenrijk",AT | Austria 24 TV
 rtmp://streaming.austria24.tv/live/stream_720p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymjr1zO.png" group-title="Oostenrijk",AT | Krone.tv 
@@ -668,15 +683,21 @@ http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ioGYz1b.jpg" group-title="Oostenrijk",AT | Swamiji TV Austria 
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",CH | Swiss Sport TV
-https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="Zwitserland",CH | RSI LA 1
-http://188.35.9.5:10007/stolen/236r/parasite.install
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="Zwitserland",CH | RSI LA 2
-http://188.35.9.5:10007/stolen/237p/parasite.install
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u2fr94O.png" group-title="Zwitserland",CH | Royal TV
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRtRyfQ.jpg" group-title="Zwitserland",CH | Schweiz 5
+https://stream.schweiz5.ch/schweiz52020/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="Zwitserland",CH | One TV
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G030MZb.png" group-title="Zwitserland",CH | Rouge TV
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCN0a8L.png" group-title="Zwitserland",CH | Sofy TV
+https://sofytv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="Zwitserland",CH | LFM TV
 https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1211388897_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="Zwitserland",CH | Canal 9
@@ -2961,12 +2982,32 @@ https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="Andorra",AD | RTVA
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHKQGnC.png" group-title="Portugal",PT | RTP1 
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbnOPhs.png" group-title="Portugal",PT | RTP2 
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pV7I4JV.png" group-title="Portugal",PT | RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q40v2Ff.png" group-title="General",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0VB3QJ.png" group-title="General",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a2WJJIy.png" group-title="General",RTP África 
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",PT | Eurosport 1 Portugal
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ4MnoZ.jpg" group-title="Sport",PT | Sport TV 5
+http://185.236.229.21:9981/play/a03n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMwSPh7.jpg" group-title="Sport",PT | Sport TV+
+http://185.236.229.21:9981/play/a03c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IbHr9Zq.png" group-title="Portugal",PT | TVI
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHMTUIu.jpg" group-title="Portugal",PT | TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSxzgPb.jpg" group-title="Portugal",PT | Porto Canal
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9p1qW73.jpg" group-title="Portugal",PT | SIC Mulher
+http://185.236.229.21:9981/play/a037
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynCZbOj.png" group-title="Portugal",PT | CMTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gxKLUnr.png" group-title="Portugal",PT | Cacavision
@@ -3592,13 +3633,23 @@ https://tvkrt.com.ua/stream/str/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ZuJiC8.png" group-title="Oekraïne",UA | Lale
 http://stream.atr.ua/lale/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",RU | Eurosport 1 Russia
-http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",RU | Eurosport 1 Russia
-http://russia.livetv.az/russia/eurosport1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crqX8iA.png" group-title="Sport",RU | Viasat Sport
-http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruERJo0.png" group-title="Sport",RU | Match TV
+https://95-213-224-188.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k75Rn9t.jpg" group-title="Sport",RU | Match Igra
+https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/638xHmX.png" group-title="Sport",RU | Astrakhan Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png" group-title="Sport",RU | UFC TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUBX4sv.jpg" group-title="Sport",RU | M1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1cUf8C.png" group-title="Sport",RU | A21 Network Russian Motorsport Television
+http://v2.catcast.me/content/37909/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Du5rsc8.png" group-title="Rusland",RU | RT News
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Rusland",RU | RT Documentary
@@ -3654,61 +3705,63 @@ http://live-ng-01.more.tv/hls/CTC_Kids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmqysOb.png" group-title="Rusland",RU | Sochi 24
 http://serv30.vintera.tv:8081/sochi/maks24hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2b1Ng7.png" group-title="Rusland",RU | Viasat Explore HD
-http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1D5AreT.png" group-title="Rusland",RU | Viasat Nature HD
-http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOmuhKL.png" group-title="Rusland",RU | Viasat History HD
-http://live-ng-01.more.tv/hls/Viasat_History_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U6WicTt.png" group-title="Rusland",RU | Discovery Showcase HD
-http://live-ng-01.more.tv/hls/Discovery_HD/index_5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ibDT1oH.png" group-title="Rusland",RU | Discovery Science HD
-https://live-ng-01.more.tv/hls/Discovery_Science_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOFEg4F.png" group-title="Rusland",RU | National Geographic
-https://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Wy4o31.png" group-title="Rusland",RU | National Geo Wild 
-http://russia.livetv.az/russia/nat_geo_wild_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uHsNtSl.png" group-title="Rusland",RU | Da Vinci Learning
-http://live-ng-01.more.tv/hls/Da_Vinci/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gbYn9jl.png" group-title="Rusland",RU | Animal Planet
-http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WfKoU94.png" group-title="Rusland",RU | Cartoon Network
-http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFAUpTN.png" group-title="Rusland",RU | Outdoor Channel
-http://russia.livetv.az/russia/outdoor_channel/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ohiQeN.png" group-title="Rusland",RU | TLC
-http://live-ng-01.more.tv/hls/TLC_Russia_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHzwy3S.png" group-title="Rusland",RU | FOX HD
-http://live-ng-01.more.tv/hls/FOX_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auErHLy.png" group-title="Rusland",RU | FOX Life HD
-http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i9Ol1gP.png" group-title="Rusland",RU | U TV
-http://live-ng-01.more.tv/hls/U_OTT/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FUYQxWb.png" group-title="Rusland",RU | Peretz International
 https://imedi-tv.cdn.xsg.ge/perec/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16X14yK.png" group-title="Rusland",RU | Vremya
 http://russia.livetv.az/russia/vremya/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i2cL9dE.png" group-title="Rusland",RU | OTR
-https://cdn.mytouchtv.tv/hlsl/10/OTR/OTR_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gsxu5BE.png" group-title="Rusland",RU | Che
-http://cdn.mytouchtv.tv/hlsl/10/Che/Che_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZhBFZP.png" group-title="Rusland",RU | Spas
-http://cdn.mytouchtv.tv/hlsl/10/Spas/Spas_3/index.m3u8
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrvVLsL.png" group-title="Rusland",RU | Pyatnitsa
-http://cdn.mytouchtv.tv/hlsl/10/Pyatnitsa/Pyatnitsa_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2iotBW.png" group-title="Rusland",RU | Zvezda
-http://cdn.mytouchtv.tv/hlsl/10/Zvezda/Zvezda_3/index.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrBBcCP.png" group-title="Rusland",RU | Domashniy
-http://cdn.mytouchtv.tv/hlsl/10/Domashniy/Domashniy_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1EaNTOp.png" group-title="Rusland",RU | Karusel
-https://cdn.mytouchtv.tv/hlsl/10/Karusel/Karusel_3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbkhImD.png" group-title="Rusland",RU | Dom Kino
-http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyiksXK.jpg" group-title="Rusland",RU | Dom Kino Premium HD
-http://cdn.nexttvnet.ru/hlsl/10/Dom_Kino_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XyiksXK.jpg" group-title="Rusland",RU | Dom Kino Premium
+http://edge05.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lA4tqJm.png" group-title="Rusland",RU | Usabda TV
-http://cdn.nexttvnet.ru/hlsl/10/Usadba_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bg1FarP.png" group-title="Rusland",RU | SD REX
-http://cdn.nexttvnet.ru/hlsl/10/Russkiy_ekstrim/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="Rusland",RU | Ministry of Ideas
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgFmj3L.png" group-title="Rusland",RU | Nano TV
@@ -3845,12 +3898,6 @@ http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://www.10kanal.ru/live/dash/k24.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png" group-title="Sport",RU | UFC TV
-http://live-ng-01.more.tv/hls/UFC/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUBX4sv.jpg" group-title="Sport",RU | M1
-http://russia.livetv.az/russia/m1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N1cUf8C.png" group-title="Sport",RU | A21 Network Russian Motorsport Television
-http://v2.catcast.me/content/37909/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGJOdls.png" group-title="Wit-Rusland",BY | Belarus 4
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wj7RZUI.png" group-title="Wit-Rusland",BY | Belarus 24
