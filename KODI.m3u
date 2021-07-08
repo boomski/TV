@@ -129,11 +129,10 @@ https://media02.webtvlive.eu/chd-multilanguage/_definst_/smil:beneluxparl.smil/c
 https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruXN2HE.png" group-title="Sport",NL | ZIGGO Sports Select
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Nederland",NL | Euronews
 https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VFJZQWD.png" group-title="Nederland",NL | NPO 1 
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8|X-Forwarded-For=31.161.255.202 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFJZQWD.png" group-title="Nederland",NL | NPO 1 [GEO]
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6EuA2U.png" group-title="Nederland",NL | NPO Nieuws
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/journaal24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZISvyzR.png" group-title="Nederland",NL | NPO Politiek
@@ -381,13 +380,13 @@ http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xxcBlC.jpg" group-title="Réunion",RE | Tele Kreol
 http://41.213.129.46:8080/2.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OC3PnPg.png" group-title="Sport",DE | Sky Sports 1 Deutschland
-http://stream-e30453a4b.nmbs.top/m3u/Sports/20cb5d2f56.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoEPMeC.png" group-title="Sport",DE | Sky Sports 2 Deutschland
-http://stream-e30453a4b.nmbs.top/m3u/Sports/2c73c0d477.m3u8|User-Agent=VLC
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJApWEn.png" group-title="Sport",DE | Sport 1 Deutschland
-https://edge-1192-ch-gv.filmon.com/live/4121.high.stream/playlist.m3u8|Referer=https://www.filmon.com
+https://www.filmon.com/vr-streams/4121.high/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b6tcf2i.jpg" group-title="Sport",DE | FC Bayern Munchen TV
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9qenzw.png" group-title="Duitsland",DE | One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfTK4SU.png" group-title="Duitsland",DE | ARD HD
@@ -624,9 +623,6 @@ https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=XO%2FBEKe2ktHA1CFBVyE3prAaA4DGEq3tK7si1MzIgQDEOZdVNvFyLBSpGukXKYFEzSc3ptg4CMdxOSKwEgaVmOZlYb7SuoUwWbFcpFwszH9WQ1DNuClfr39mzVksvEONKvlBbY13vrJ6zHw1cHgy1xk7BdaIXNG1gZxBq5o7qsmbZ%2BTXutax9oZETRaJuHoJmvXud%2FXAIpQBlifWLO2jJWJzywWWpW8WKDd6ea01bNl9YhsBV%2BvShupkerhIr%2F8l||R{SSM}|
 https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3
-#EXTVLCOPT:http-user-agent=NSPlayer/7.10.0.3059
-https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6QWXt3.jpg" group-title="Oostenrijk",AT | Servus TV Österreich
