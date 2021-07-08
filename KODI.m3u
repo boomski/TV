@@ -2271,6 +2271,8 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3mtW94M.jpg" group-title="Spanje",ES | Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.242
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AlE2n7Z.jpg" group-title="Spanje",ES | mtmad 24h 
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/master.m3u8|X-Forwarded-For=88.26.241.242
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mR9c6r7.jpg" group-title="Spanje",ES | Antena 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2329,6 +2331,8 @@ http://91.126.141.201:1935/live/ten/chunklist.m3u8
 https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zHnN2Gh.jpg" group-title="Spanje",ES | Libertad Digital
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0D4VCG.jpg" group-title="Spanje",ES | Negocios TV
+https://play.gooru.live/playnegocios/5646-1603313320000/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sGqrlS2.jpg" group-title="Spanje",ES | Nius
 https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U842Z2c.png" group-title="Spanje",ES | Canal Parlamento
@@ -5134,6 +5138,8 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OozNLx6.png" group-title="Vietnam",VN | Soc Trang TV 2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcQ5frf.png" group-title="Vietnam",VN | Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",AE | Abu Dhabi Sports
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",AE | Abu Dhabi Sports 2
