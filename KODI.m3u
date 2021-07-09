@@ -1927,6 +1927,8 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzDoNg0.jpg" group-title="Ierland",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png" group-title="Sport",AU | Olympics Channel [Geo]
+https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",AU | Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HRBKBo.png" group-title="Sport",AU | Sky Racing 1
@@ -2346,6 +2348,8 @@ http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="Zweden",SE | Västmanlands Television
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" group-title="Sport",ES | Olympic Channel 1
+https://ott-dai-oc.akamaized.net/OC1/master.m3u8|Referer=https://olympics.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" group-title="Sport",ES | Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" group-title="Sport",ES | Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
@@ -2356,9 +2360,9 @@ https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" group-title="Sport",ES | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0mAYnw.png" group-title="Sport",ES | Teledeporte
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=88.26.241.242
+https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=88.26.241.23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/koxbASS.png" group-title="Sport",ES | Fight Time
-https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rv0cVR7.png" group-title="Spanje",ES | La 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MYjFpEh.png" group-title="Spanje",ES | La 2
@@ -2366,9 +2370,9 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="Spanje",ES | 24 Horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3mtW94M.jpg" group-title="Spanje",ES | Clan
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.242
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlE2n7Z.jpg" group-title="Spanje",ES | mtmad 24h 
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/master.m3u8|X-Forwarded-For=88.26.241.242
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/master.m3u8|X-Forwarded-For=88.26.241.23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mR9c6r7.jpg" group-title="Spanje",ES | Antena 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
