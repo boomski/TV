@@ -206,7 +206,7 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="Frankrijk",FR | LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Frankrijk",FR | ARTE
-https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
+https://www.filmon.com/vr-streams/1729.high/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="Frankrijk",FR | France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Frankrijk",FR | France 3
@@ -216,7 +216,7 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="Frankrijk",FR | France 5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="Frankrijk",FR | France Ô
-https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 Arabic
@@ -226,8 +226,8 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 Español
 https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Frankrijk",FR | France Info
-https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5P5UJd.png" group-title="Frankrijk",FR | Canal +
+https://www.filmon.com/vr-streams/3887.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5P5UJd.png" group-title="Frankrijk",FR | Canal + [Geo]
 plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5elXFA.png" group-title="Frankrijk",FR | C8
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
@@ -246,17 +246,19 @@ https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="Frankrijk",FR | MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="Frankrijk",FR | TéléToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="Frankrijk",FR | TZiK
-https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFRsOre.png" group-title="Frankrijk",FR | TZiK
+https://5a1178b42cc03.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C1hymx8.jpg" group-title="Frankrijk",FR | Tiji
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MN73rOu.png" group-title="Frankrijk",FR | Boing 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Frankrijk",FR | BFM Business
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t1ynZ3x.png" group-title="Frankrijk",FR | France 3 Rhône-Alpes
-https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
+https://www.filmon.com/vr-streams/3890.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F8l6eE.jpg" group-title="Frankrijk",FR | France 3 Alpes
-https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+https://www.filmon.com/vr-streams/3893.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B4i2kq6.png" group-title="Frankrijk",FR | 01 TV
 plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" group-title="Frankrijk",FR | Wéo
@@ -329,20 +331,38 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="Frankrijk",FR | CDirect
 http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X9U6AqK.png" group-title="Frankrijk",FR | Persiana 1
-http://51.15.229.209/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Frankrijk",FR | Persiana 2 Cinema
-http://51.15.193.156/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Frankrijk",FR | Persiana 3 Junior
-http://51.158.74.129/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Frankrijk",FR | Persiana 4 Iranian
-http://51.158.97.214/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Frankrijk",FR | Persiana 5 Documentary
-http://163.172.174.60/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rioc5XV.jpg" group-title="Frankrijk",FR | Persiana 6 Music
-http://163.172.147.113/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABKVZ3B.png" group-title="Frankrijk",FR | Salamat Tube TV
-http://51.158.116.146/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYDdyGH.jpg" group-title="Frankrijk",FR | 4 Kurd
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVUqGfh.png" group-title="Frankrijk",FR | Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFFpAnV.png" group-title="Frankrijk",FR | Persiana Family Plus
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kitlaii.png" group-title="Frankrijk",FR | Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fs5u62H.png" group-title="Frankrijk",FR | Persiana Plus
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FHSyFhl.png" group-title="Frankrijk",FR | Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2edrurQ.png" group-title="Frankrijk",FR | Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SGTxBp6.png" group-title="Frankrijk",FR | Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nMbXCsV.png" group-title="Frankrijk",FR | Persiana Classic
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFeWXD3.png" group-title="Frankrijk",FR | Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aywxK89.png" group-title="Frankrijk",FR | Persiana Game & Tech
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lvdh1vI.png" group-title="Frankrijk",FR | Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hizUnB.png" group-title="Frankrijk",FR | Persiana Sonnati
+http://51.210.199.59/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61RAHX2.png" group-title="Frankrijk",FR | Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MPGSSSQ.png" group-title="Frankrijk",FR | Persiana Billboard
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxMKyuK.png" group-title="Frankrijk",FR | Persiana Documentary
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUacVoP.jpg" group-title="Frankrijk",FR | Unearth
 https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Frankrijk",FR | Fashion TV L'Original
@@ -362,11 +382,9 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzurFum.png" group-title="Frankrijk",FR | Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",FR | Africa Sports TV
-https://strhls.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="Sport",FR | Poker TV France
-http://51.15.254.60/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43gYR8Y.png" group-title="Sport",FR | Poker TV Arabia
-http://51.15.193.127/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Sport",FR | Poker TV
+http://51.210.199.17/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lc8UDIj.png" group-title="Frankrijk",FR | Ubiznews TV
 plugin://plugin.video.dailymotion_com/?url=x74ucfd&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLRf32o.png" group-title="Tahiti",PF | Tahiti Nui TV
@@ -592,13 +610,13 @@ https://tv.artcom-venture.de/dmf/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcl73d7.png" group-title="Duitsland",DE | K-TV
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1mgVMD.png" group-title="Duitsland",DE | Sophia TV
-https://edge-1192-ch-gv.filmon.com/live/4721.high.stream/playlist.m3u8
+https://www.filmon.com/vr-streams/4721.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1P5FTuM.jpg" group-title="Duitsland",DE | Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fnW0Pk8.jpg" group-title="Duitsland",DE | HSE 24
-https://edge-1192-ch-gv.filmon.com/live/4727.high.stream/playlist.m3u8
+https://www.filmon.com/vr-streams/4727.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3bzWe2.jpg" group-title="Duitsland",DE | HSE 24 Extra
-https://edge-1192-ch-gv.filmon.com/live/4730.high.stream/playlist.m3u8
+https://www.filmon.com/vr-streams/4730.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/piwT1HQ.jpg" group-title="Duitsland",DE | Sonnenklar.TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",AT | Red Bull TV
@@ -656,7 +674,7 @@ http://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wu6SMvb.png" group-title="Oostenrijk",AT | R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wu6SMvb.png" group-title="Oostenrijk",AT | R9
-https://edge-1192-ch-gv.filmon.com/live/6031.high.stream/playlist.m3u8
+https://www.filmon.com/vr-streams/6031.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J25y9ah.png" group-title="Oostenrijk",AT | W24
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xmfgBrg.png" group-title="Oostenrijk",AT | M4
@@ -3955,6 +3973,8 @@ http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://www.10kanal.ru/live/dash/k24.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rNkIaYy.jpg" group-title="Rusland",RU | Tiji
+http://188.40.68.167/russia/tiji/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGJOdls.png" group-title="Wit-Rusland",BY | Belarus 4
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wj7RZUI.png" group-title="Wit-Rusland",BY | Belarus 24
@@ -5503,13 +5523,13 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XInnWNK.jpg" group-title="Pakistan",PK | Lollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AR3Snsb.png" group-title="Sport",IR | Varzesh TV Farsi
-http://51.158.66.44/hls/stream.m3u8
+http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDY4Aiq.png" group-title="Sport",IR | Varzesh TV Farsi 2
-http://51.158.176.190/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cE6nKMN.png" group-title="Sport",IR | Varzesh TV Farsi 3
-http://51.15.236.137/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1e6M2L.png" group-title="Sport",IR | Varzesh TV Farsi 4
-http://163.172.138.186/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVAGOv5.png" group-title="Sport",IR | IRIB Varzesh
 https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hZjj9kH.png" group-title="Iran",IR | IRIB 1
@@ -5944,12 +5964,20 @@ https://nepaltv.nettvnepal.com.np/notoken/NTVNEPAL1500.stream/chunks.m3u8
 http://www.ast.tv/stream/1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zX6fCMT.png" group-title="Erotic",XXX | Shemale Tube TV 2
 http://www.ast.tv/stream/2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uswlIwa.png" group-title="Erotic",XXX | Erotic Sensations
+http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EZ9Qc6b.png" group-title="Erotic",XXX | Penthouse
+http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQv2FkA.png" group-title="Erotic",XXX | Fetish Factory
+http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uj9hDG1.png" group-title="Erotic",XXX | Man2Man
+http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/73kRbyj.png" group-title="Erotic",XXX | Bunga Bunga
-http://5.135.92.133:52841/out/u/107_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iV0doUF.png" group-title="Erotic",XXX | Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AHHE8Rt.png" group-title="Erotic",XXX | Babestation 24
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+https://sdn-global-live-streaming-packager-cache-aka.3qsdn.com/9528/26410872606_2107_19378video_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="Erotic",XXX | A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvSnoCw.png" group-title="Erotic",XXX | Jasmin TV
@@ -5960,38 +5988,94 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Erotic",XXX | Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Big Ass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Anal
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Big Dick
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Big Tits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Big Tits
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Blowjob
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Blowjob
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Cuckold
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Cuckold
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Fetish
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Fetish
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Hardcore
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Hardcore
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Interracial
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Interracial
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Latina
-http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Lesbian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | MILF
-http://live.redtraffic.xyz/milf.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | POV
-http://live.redtraffic.xyz/pov.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Pornstar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Pornstar
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Russian
-http://live.redtraffic.xyz/russian.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Teen
-http://live.redtraffic.xyz/teen.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="Erotic",XXX | Threesome
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Threesome
 http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnr7SKH.jpg" group-title="Erotic",XXX | AdultIPTV.net Woman
+http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K07fQUV.jpg" group-title="Series",SERIE | Hunter
 https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8s0xjM.jpg" group-title="Series",SERIE | The Commish
