@@ -4091,6 +4091,8 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8|Referer=https://www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ZpnEZY.jpg" group-title="Litouwen",LT | LRT Televizija
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S4u5AG1.png" group-title="Litouwen",LT | Delfi
+plugin://plugin.video.youtube/play/?video_id=B5xuEROjHwQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K5k208L.png" group-title="Litouwen",LT | LRT Plius
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dGWx622.jpg" group-title="Letland",LV | Visiem LTV
