@@ -4609,13 +4609,15 @@ http://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JH43wB.jpg" group-title="Israel",IL | Yeshua Chai TV
 https://ihoplive-f.akamaihd.net/i/yeshuachai_tv@124973/index_2_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M2yrRca.png" group-title="Israel",IL | Ynet Live
-https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQOOgh6.jpg" group-title="Israel",IL | BLOCKTV
-https://video.sekindo.com/blocktv/ch1/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHK6W2j.jpg" group-title="Zuid-Afrika",ZA | BOK TV
 http://boktv.interworks.in:1935/live/boktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbLE9S2.jpg" group-title="Angola",AO | TPA 1
-http://api.new.livestream.com/accounts/1181452/events/5141181/live.m3u8
+https://iptv-all.lanesh4d0w.codes/angola/tpa1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xfgwVQp.jpg" group-title="Angola",AO | TV Zimbo
+https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i2qD2qO.png" group-title="Ivoorkust",CI | RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5tJyoA.png" group-title="Ivoorkust",CI | RTI 2
