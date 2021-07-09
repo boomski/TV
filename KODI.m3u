@@ -281,6 +281,8 @@ https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKFCMr5.png" group-title="Frankrijk",FR | BFM Grand Littoral
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgrlRsF.png" group-title="Frankrijk",FR | BFM DICI
+https://bfmdicialpes-lh.akamaihd.net/i/BFMDICIAlpes_ESYTLS@67259/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t1ynZ3x.png" group-title="Frankrijk",FR | France 3 Rhône-Alpes
 https://www.filmon.com/vr-streams/3890.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F8l6eE.jpg" group-title="Frankrijk",FR | France 3 Alpes
@@ -332,9 +334,9 @@ https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Frankrijk",FR | TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="Frankrijk",FR | TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+plugin://plugin.video.youtube/play/?video_id=jglhy85qVJ0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="Frankrijk",FR | TVR
-https://origin2.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QmZP1em.png" group-title="Frankrijk",FR | viaATV
 https://streamer03.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmna9PU.png" group-title="Frankrijk",FR | viàMATÉLÉ
@@ -347,24 +349,22 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/inde
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Frankrijk",FR | ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cThInij.png" group-title="Frankrijk",FR | D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2p90eO.jpg" group-title="Frankrijk",FR | D5 Music TV
-https://live.creacast.com/d5music/smil:d5music.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9yLdYZ.png" group-title="Frankrijk",FR | Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Frankrijk",FR | KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Frankrijk",FR | MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="Frankrijk",FR | CDirect
-http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8
+plugin://plugin.video.dailymotion_com/?url=x7zw8t0&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cThInij.png" group-title="Frankrijk",FR | D5 TV
+plugin://plugin.video.dailymotion_com/?url=x7zw38l&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2p90eO.jpg" group-title="Frankrijk",FR | D5 Music TV
+plugin://plugin.video.dailymotion_com/?url=x7zw8q9&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lc8UDIj.png" group-title="Frankrijk",FR | Ubiznews TV
+plugin://plugin.video.dailymotion_com/?url=x74ucfd&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="Frankrijk",FR | Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laArg26.png" group-title="Frankrijk",FR | Atelier des chefs
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M37tJsd.jpg" group-title="Frankrijk",FR | Humanity
 https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="Frankrijk",FR | My Surf TV
+https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUacVoP.jpg" group-title="Frankrijk",FR | Unearth
 https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xvGPbwn.jpg" group-title="Frankrijk",FR | Stormcast Novelas TV
@@ -433,12 +433,12 @@ https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/chunklist.m3u8
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzurFum.png" group-title="Frankrijk",FR | Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Frankrijk",FR | KTO
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",FR | Africa Sports TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Sport",FR | Poker TV
 http://51.210.199.17/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lc8UDIj.png" group-title="Frankrijk",FR | Ubiznews TV
-plugin://plugin.video.dailymotion_com/?url=x74ucfd&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLRf32o.png" group-title="Tahiti",PF | Tahiti Nui TV
 https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uUK9yRE.png" group-title="Guadeloupe",GP | MFM TV
@@ -1101,12 +1101,18 @@ https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ByPFQGp.png" group-title="USA",US | Albany | CBS 6 WRGB
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z73dX6D.jpg" group-title="USA",US | Albany | WMHT [Geo]
+https://wmhtdt.lls.cdn.pbs.org/wmhtdt/0777611a-56f1-4668-8094-932ae7498998/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Mbe9eU.png" group-title="USA",US | Baton Rouge | ABC 2 WBRZ 
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4dC3H4S.png" group-title="USA",US | Binghamton | WSKG [Geo]
+https://wskgdt.lls.cdn.pbs.org/wskgdt/2d4742f8-8053-4ea5-8aab-1494fd1822c5/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1R15Rpp.png" group-title="USA",US | Boston | FOX 25 WFXT
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5Wo5an.png" group-title="USA",US | Boston | CW 7 WHDH 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FPiFBl4.png" group-title="USA",US | Buffalo | WNED PBS [Geo]
+https://wneddt.lls.cdn.pbs.org/wneddt/7e1c137a-9e83-4416-8b5a-b81042382e91/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlUZ9Az.png" group-title="USA",US | Charlotte | CW 10 WCCB
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfnY67p.jpg" group-title="USA",US | Chattanooga | ABC 9 WTVC
@@ -1127,6 +1133,10 @@ https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkhTO3v.png" group-title="USA",US | Missouri | NBC 5 KSDK
 https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCXDNTA.jpg" group-title="USA",US | New York | WLIW 21 [GEO]
+https://wliwdt.lls.cdn.pbs.org/wliwdt/a58c2765-7e77-4114-9668-75920022c6bc/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/df6iIIh.png" group-title="USA",US | New York | WNET Thirteen [GEO]
+https://wnetdt.lls.cdn.pbs.org/wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D7qvsPO.png" group-title="USA",US | Ohio | CBS 7 WHIO
 http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPJ4ViL.jpg" group-title="USA",US | Ohio | WMFD
@@ -1135,26 +1145,36 @@ https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faWpyzm.jpg" group-title="USA",US | Oregon | FOX 12 KPTV
 http://api.new.livestream.com/accounts/6908462/events/2706967/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7jcKNLF.png" group-title="USA",US | Pennsylvania | PBS WPSU
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7jcKNLF.png" group-title="USA",US | Pennsylvania | PBS WPSU [Geo]
+ttps://wpsudt.lls.cdn.pbs.org/wpsudt/dfef8386-9db4-41b2-97ab-82cdce4a19be/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9jPL9SW.jpg" group-title="USA",US | Rochester | WXXI [Geo]
+https://wxxidt.lls.cdn.pbs.org/wxxidt/d518ca7e-a094-4362-832b-ae1d426d3729/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lBw9hj6.png" group-title="USA",US | Sarasota | ABC 7 WWSB
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOqJ7nO.png" group-title="USA",US | Savannah | FOX 28 WTGS
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhLfzlV.jpg" group-title="USA",US | Scranton | WVIA [Geo]
+https://wviadt.lls.cdn.pbs.org/wviadt/951e97d7-7c2c-45c0-abff-261c852fcb7d/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LtaMW4g.jpg" group-title="USA",US | Seattle | ABC 4 KOMO
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QZFdoOz.png" group-title="USA",US | Seattle | CBS 7 KIRO
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KzOoCQr.png" group-title="USA",US | South Mississippi | FOX 25 WXXVT
-http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sW5JpGr.jpg" group-title="USA",US | Toledo | WTOL 11 News
-http://api.new.livestream.com/accounts/12003465/events/3786544/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e0NFOPT.jpg" group-title="USA",US | Tulsa | FOX 23 KOKI NEWS
-http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alLDvJp.jpg" group-title="USA",US | Syracuse | WCNY [Geo] 
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sW5JpGr.jpg" group-title="USA",US | Toledo | WTOL 11 News [Geo] 
+https://livevideo01.wtol.com/hls/live/2017153/newscasts/live-2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3BcsVof.png" group-title="USA",US | Tulsa | FOX 23 Tulsa Now [Geo]
+https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/842298d8-102b-4e6f-ba6c-243c052a8685/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3afDru.jpg" group-title="USA",US | Tulsa | FOX 23 Tulsa Breaking [Geo]
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokib1-hls-v3/live_med.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA",US | Victorville | KVVB-TV 33
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iU16uFm.png" group-title="USA",US | Watertown | WPBS [Geo]
+https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xlSsOY.png" group-title="USA",US | West Virginia | Cozi 16 WZTS
-https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WJBh8xV.png" group-title="USA",US | Telemundo Chicago
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",US | C-SPAN
@@ -3788,7 +3808,9 @@ https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z0ivs4.png" group-title="Rusland",RU | Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png" group-title="Rusland",RU | Russia 24
-https://edge-1192-ch-gv.filmon.com/live/1744.high.stream/playlist.m3u8
+https://www.filmon.com/vr-streams/1744.high/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png" group-title="Rusland",RU | Russia 24
+https://gtrk-volga.ru/media/hr24/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tb3Os7l.png" group-title="Rusland",RU | Russia 24
 https://imedi-tv.cdn.xsg.ge/russia24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kGB9fZe.png" group-title="Rusland",RU | Planeta RTR
@@ -3873,7 +3895,7 @@ http://russia.livetv.az/russia/vremya/chunks.m3u8
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrvVLsL.png" group-title="Rusland",RU | Pyatnitsa
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R2iotBW.png" group-title="Rusland",RU | Zvezda
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dSVZsq5.png" group-title="Rusland",RU | Zvezda
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrBBcCP.png" group-title="Rusland",RU | Domashniy
 
@@ -3946,19 +3968,21 @@ http://russia.livetv.az/russia/tv1000_action_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPdM4FY.png" group-title="Rusland",RU | Feniks Plus Kino
 http://russia.livetv.az/russia/feniks/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cr8UYAP.png" group-title="Rusland",RU | VIP Comedy HD
-https://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxe21Rt.png" group-title="Rusland",RU | VIP Megahit HD
-https://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVxPNq5.png" group-title="Rusland",RU | VIP Premiere HD
-https://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20CLPaq.png" group-title="Rusland",RU | VIP Serial HD
-https://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKy5wNW.png" group-title="Rusland",RU | Аuto Plus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zfr7TBn.jpg" group-title="Rusland",RU | Аuto 24
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvytBym.jpg" group-title="Rusland",RU | Doktor
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZE9go74.png" group-title="Rusland",RU | Abaza TV
+https://clients.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGNvRAr.png" group-title="Rusland",RU | HD Life HD
 https://imedi-tv.cdn.xsg.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFEW9I3.jpg" group-title="Rusland",RU | Friday International
@@ -4005,12 +4029,14 @@ https://v2.catcast.tv/content/36987/index.m3u8
 http://v2.catcast.me/content/34246/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouj3LbP.png" group-title="Rusland",RU | Mars TV
 http://v2.catcast.me/content/37033/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pjsUm0W.png" group-title="Rusland",RU | Gal TV
+https://stream.funcontent.ru/hls/galtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" group-title="Rusland",RU | Ritsa TV
+https://stream.funcontent.ru/hls/ritsa_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GJs1gk0.png" group-title="Rusland",RU | VIVA
+https://stream.funcontent.ru/hls/vivarussia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ctwdSl3.jpg" group-title="Rusland",RU | Mafi2a Music
 https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" group-title="Rusland",RU | Ritsa TV
-https://hls.myvideocontent.ru/hls2/ritsa/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GJs1gk0.png" group-title="Rusland",RU | VIVA
-http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dbyezls.png" group-title="Rusland",RU | illi TV
 http://cdn.illi.tv/illitv_2000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bW5LNmE.jpg" group-title="Rusland",RU | 9 Volna
@@ -4294,6 +4320,8 @@ https://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GbJb8HL.png" group-title="Azerbeidzjan",AZ | Play One
 http://51.158.103.244/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mdiGeW.jpg" group-title="Azerbeidzjan",AZ | Qebele TV
+https://qebele.tv/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9TdbIR.png" group-title="Sport",KG | КТRК Sport
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVpfyaE.png" group-title="Kirgizië",KG | КТRК
@@ -4618,6 +4646,14 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiyYqPK.jpg" group-title="Congo",CD | Congo Planet Television 2
 https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="Congo-Brazzaville",CG | CDirect
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVCJ4eq.jpg" group-title="Congo-Brazzaville",CG | AfricaNews
+https://linkastream.co/headless?url=https://youtu.be/NQjabLGdP5g/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVCJ4eq.jpg" group-title="Congo-Brazzaville",CG | AfricaNews
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ET1XZ2.jpg" group-title="Congo-Brazzaville",CG | Obosso TV
+https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Kameroen",CM | Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVhC78L.jpg" group-title="Kameroen",CM | Afrique Média TV
@@ -6359,4 +6395,4 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ctwdSl3.jpg" group-title="Rusland",RADIO | Mafi2a Music
 https://hls.myvideocontent.ru/hls2/tv12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KphOph0.png" group-title="Rusland",RADIO | Ritsa TV
-https://hls.myvideocontent.ru/hls2/ritsa/index.m3u8
+https://stream.funcontent.ru/hls/ritsa_tv/index.m3u8
