@@ -674,26 +674,16 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",AT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wyGDgc1.jpg" group-title="Sport",AT | Sky Sports Austria
-http://stream-e30453a4b.nmbs.top/m3u/Germany/a8a5bab2b3.m3u8|User-Agent=VLC
+https://list.iptvcat.com/my_list/s/f0f4aa4c4d0d40a3d51833fe8a733f95.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laESecM.png" group-title="Sport",AT | ORF Sport+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=XO%2FBEKe2ktHA1CFBVyE3prAaA4DGEq3tK7si1MzIgQDEOZdVNvFyLBSpGukXKYFEzSc3ptg4CMdxOSKwEgaVmOZlYb7SuoUwWbFcpFwszH9WQ1DNuClfr39mzVksvEONKvlBbY13vrJ6zHw1cHgy1xk7BdaIXNG1gZxBq5o7qsmbZ%2BTXutax9oZETRaJuHoJmvXud%2FXAIpQBlifWLO2jJWJzywWWpW8WKDd6ea01bNl9YhsBV%2BvShupkerhIr%2F8l||R{SSM}|
-https://orfs.mdn.ors.at/out/u/orfs/drmqxa/manifest.mpd
+https://list.iptvcat.com/my_list/s/7d9557902a8efae2de4d42a22b4bd518.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MSrojwT.jpg" group-title="Oostenrijk",AT | ORF 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=XO%2FBEKe2ktHA1CFBVyE3prAaA4DGEq3tK7si1MzIgQDEOZdVNvFyLBSpGukXKYFEzSc3ptg4CMdxOSKwEgaVmOZlYb7SuoUwWbFcpFwszH9WQ1DNuClfr39mzVksvEONKvlBbY13vrJ6zHw1cHgy1xk7BdaIXNG1gZxBq5o7qsmbZ%2BTXutax9oZETRaJuHoJmvXud%2FXAIpQBlifWLO2jJWJzywWWpW8WKDd6ea01bNl9YhsBV%2BvShupkerhIr%2F8l||R{SSM}|
-https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd
+https://list.iptvcat.com/my_list/s/e0607f45693e9b8ee243e5c7cf276e57.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5z0Ihu.png" group-title="Oostenrijk",AT | ORF 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=XO%2FBEKe2ktHA1CFBVyE3prAaA4DGEq3tK7si1MzIgQDEOZdVNvFyLBSpGukXKYFEzSc3ptg4CMdxOSKwEgaVmOZlYb7SuoUwWbFcpFwszH9WQ1DNuClfr39mzVksvEONKvlBbY13vrJ6zHw1cHgy1xk7BdaIXNG1gZxBq5o7qsmbZ%2BTXutax9oZETRaJuHoJmvXud%2FXAIpQBlifWLO2jJWJzywWWpW8WKDd6ea01bNl9YhsBV%2BvShupkerhIr%2F8l||R{SSM}|
-https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3
+https://list.iptvcat.com/my_list/s/21031aa5aad5f226b7cf615538dc1c98.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3 
+https://list.iptvcat.com/my_list/s/21b1911bb1d51a813c02bb740e9e205b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3 [Geo]
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6QWXt3.jpg" group-title="Oostenrijk",AT | Servus TV Österreich
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55 
@@ -754,9 +744,9 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",CH | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="Zwitserland",CH | RSI LA 1
-
+https://list.iptvcat.com/my_list/s/373e5c2a2c0d4cadb1b6a82605d1e92e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="Zwitserland",CH | RSI LA 2
-
+https://list.iptvcat.com/my_list/s/f37e3436af0d260ef20e4f62e3d63f24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2fr94O.png" group-title="Zwitserland",CH | Royal TV
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RRtRyfQ.jpg" group-title="Zwitserland",CH | Schweiz 5
@@ -814,7 +804,7 @@ https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="Sport",US | NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83dag4T.png" group-title="Sport",US | NBA TV
-https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
+https://list.iptvcat.com/my_list/s/e04e5cf2aa30f00ac263fd8c49c91a5d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FWNdatJ.png" group-title="Sport",US | NFL Network
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oDOpMph.png" group-title="Sport",US | MLB Network
@@ -830,75 +820,39 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="Sport",US | EDGE Sport
 https://edgesports-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ew980KL.png" group-title="Sport",US | FS1
-https://e10.julinewr.xyz/ingestnb4s/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xQcyXU3.png" group-title="Sport",US | FS2
-https://e10.julinewr.xyz/ingestnb4s/fs2/f.m3u8|Referer=https://espn-live.stream/stream/45460.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVl7Zzm.png" group-title="Sport",US | Fox Deportes
-https://e10.julinewr.xyz/ingestnb4s/foxdep/f.m3u8|Referer=https://espn-live.stream/stream/45529.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrCJfBl.jpg" group-title="Sport",US | Fox Soccer Plus
-https://e10.julinewr.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cd4GYZT.png" group-title="Sport",US | Marquee Sports Network
-https://e10.julinewr.xyz/ingestnb4s/marquee/master.m3u8|Referer=https://espn-live.stream/stream/70091.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BHCYzRr.jpg" group-title="Sport",US | ESPN
-https://e10.julinewr.xyz/ingestnb4s/espn_usa/f.m3u8|Referer=https://espn-live.stream/stream/43572.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JmKCRFG.jpg" group-title="Sport",US | ESPN 2
-https://e10.julinewr.xyz/ingestnb4s/espn2_usa/f.m3u8|Referer=https://espn-live.stream/stream/45351.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qsbmzM.png" group-title="Sport",US | ESPN U
-https://e10.julinewr.xyz/ingestnb4s/espn_u/f.m3u8|Referer=https://espn-live.stream/stream/45457.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGMsunk.jpg" group-title="Sport",US | ESPN News
-https://e10.julinewr.xyz/ingestnb4s/espn_news/master.m3u8|Referer=https://espn-live.stream/stream/45458.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kf6f4uB.png" group-title="Sport",US | ACCN ESPN
-https://e10.cdnfoxtv.me/ingestnb4s/accn/master.m3u8|Referer=https://sportsbay.org/embed/50008/1/accn-espn-live.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plCyWQp.png" group-title="Sport",US | SEC Network
-https://e10.julinewr.xyz/ingestnb4s/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kkg1gt5.png" group-title="Sport",US | Big Ten Network
-https://e10.julinewr.xyz/ingestnb4s/btn/master.m3u8|Referer=https://espn-live.stream/stream/45629.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zaebCgc.jpg" group-title="Sport",US | beIN Sports
-https://e10.julinewr.xyz/ingestnb4s/beinsports/video5.m3u8|Referer=https://espn-live.stream/stream/68949.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJ8wVis.png" group-title="Sport",US | beIN 4 USA
-https://e10.julinewr.xyz/ingestnb4s/bein4/video3.m3u8|Referer=https://espn-live.stream/stream/69178.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApkyDOI.png" group-title="Sport",US | beIN Sports La Liga
-https://e10.julinewr.xyz/ingestnb4s/laliga/video4.m3u8|Referer=https://espn-live.stream/stream/69176.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q5pHtq8.png" group-title="Sport",US | beIN Sports Ñ 
-https://e10.julinewr.xyz/ingestnb4s/beinenie/video1.m3u8|Referer=https://espn-live.stream/stream/69175.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FgyiahB.png" group-title="Sport",US | beIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 1
-https://1da9sm33.com/hls/s1.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 2
-https://1da9sm33.com/hls/s2.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 3
-https://1da9sm33.com/hls/s3.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 4
-https://1da9sm33.com/hls/s4.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 5
-https://1da9sm33.com/hls/s5.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 6
-https://1da9sm33.com/hls/s6.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 7
-https://1da9sm33.com/hls/s7.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 8
-https://1da9sm33.com/hls/s8.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports Soccer 9
-https://1da9sm33.com/hls/s9.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 1
-https://1da9sm33.com/hls/n1.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 2
-https://1da9sm33.com/hls/n2.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 3
-https://1da9sm33.com/hls/n3.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 4
-https://1da9sm33.com/hls/n4.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 5
-https://1da9sm33.com/hls/n5.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 6
-https://1da9sm33.com/hls/n6.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 7
-https://1da9sm33.com/hls/n7.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 8
-https://1da9sm33.com/hls/n8.m3u8|Referer=https://mazymedias.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8HPXjaJ.png" group-title="Sport",US | MazySports American 9
-https://1da9sm33.com/hls/n9.m3u8|Referer=https://mazymedias.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iyisNh1.png" group-title="Sport",US | GolTV
 https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sport",US | Tennis Channel
@@ -1237,28 +1191,6 @@ https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KwN9Ujp.png" group-title="USA",US | STIRR | Mobcrush
 https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv
-https://stream.allsprk.tv/live/test/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-0
-https://stream.allsprk.tv/live/0/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-1
-https://stream.allsprk.tv/live/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-2
-https://stream.allsprk.tv/live/2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-3
-https://stream.allsprk.tv/live/3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-4
-https://stream.allsprk.tv/live/4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-5
-https://stream.allsprk.tv/live/5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-6
-https://stream.allsprk.tv/live/6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-7
-https://stream.allsprk.tv/live/7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-8
-https://stream.allsprk.tv/live/8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86oqnN6.png" group-title="USA",US | Allsprk.tv Channel-9
-https://stream.allsprk.tv/live/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OIUSuI4.jpg" group-title="USA",US | CubaPlay+
 http://d31c1svk0i6vkc.cloudfront.net/cubaplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nN80Wbj.jpg" group-title="USA",US | Sorpresa
@@ -1630,57 +1562,57 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="Canada",CA | Prime Asia TV
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGpoHNw.png" group-title="Canada",CA | MAXX
-https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NtJYqb.png" group-title="Canada",CA | Onyx
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lsbLIhK.png" group-title="Canada",CA | River
-https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_1920x1080_4500k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8r9mdl.png" group-title="Canada",CA | Rubix
-https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" group-title="Canada",CA | GEM TV
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" group-title="Canada",CA | GEM AZ
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" group-title="Canada",CA | GEM Academy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" group-title="Canada",CA | GEM Arabia
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" group-title="Canada",CA | GEM Fit
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vp7WmG3.png" group-title="Canada",CA | GEM 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ByPLvtx.png" group-title="Canada",CA | GEM Comedy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2QBhOe.png" group-title="Canada",CA | GEM Kids
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GkZRmk.png" group-title="Canada",CA | GEM Junior
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/onsdgcS.png" group-title="Canada",CA | GEM Drama
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J0gufsP.png" group-title="Canada",CA | GEM Film
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJIxU2f.png" group-title="Canada",CA | GEM Life
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hbm5VxM.png" group-title="Canada",CA | GEM Food
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8OpKp6O.png" group-title="Canada",CA | GEM Travel
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYnkBV8.png" group-title="Canada",CA | GEM Nature
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iLFNHYJ.png" group-title="Canada",CA | Modern Economy
-https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XZzmIJ.png" group-title="Canada",CA | GEM Property
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGEUHXD.png" group-title="Canada",CA | GEM Latino
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMOlV0J.png" group-title="Canada",CA | GEM Series
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wItGfPe.png" group-title="Canada",CA | GEM Classic
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o9juBI9.png" group-title="Canada",CA | GEM Bollywood
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gi2ATG6.png" group-title="Canada",CA | Mifa
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_960x540_2000k.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Canada",CA | 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Canada",CA | Amazing Discoveries TV
