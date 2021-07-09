@@ -2265,14 +2265,18 @@ https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
 https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srXY7yg.png" group-title="Faeröer",FO | KVF
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SCeh3KR.png" group-title="Sport",NO | TV2 Sport
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CDuDuQ1.png" group-title="Noorwegen",NO | NRK 1
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pg7idUh.png" group-title="Noorwegen",NO | NRK 2
 https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8|X-Forwarded-For=5.249.230.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYrBLPN.png" group-title="Noorwegen",NO | NRK 3
 https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/emLQ75Y.png" group-title="Noorwegen",NO | Frikanalen
+https://frikanalen.no/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iviMrbO.jpg" group-title="Noorwegen",NO | MTV Norge
-
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ScVsMnB.png" group-title="Noorwegen",NO | Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWNNpB6.png" group-title="Noorwegen",NO | Kanal 10 Norge
@@ -2283,6 +2287,8 @@ https://digicom.hls.iptvdc.com/tvplus/tracks-v1a1/mono.m3u8
 https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P4OaCFR.png" group-title="Noorwegen",NO | Norway Live
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/horCLMX.jpg" group-title="Noorwegen",NO | TV2 Nyhetsstrømmen
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mtMIIT0.png" group-title="Ijsland",IS | RUV
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gsDz02g.png" group-title="Ijsland",IS | RUV 2
