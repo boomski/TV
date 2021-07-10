@@ -537,6 +537,18 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV [Geo]
 https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV Impuls
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bibeltv01.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV Musik
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bibeltv01.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VUS6341.jpg" group-title="Duitsland",DE | BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ak4PZYU.jpg" group-title="Duitsland",DE | Campus TV Magdeburg
@@ -3689,6 +3701,10 @@ http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hJAoLIq.png" group-title="Polen",PL | EZO TV
 http://live.ezotv.pl:1935/live/EZOTV/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6QRzsR.png" group-title="Polen",PL | Echo 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1VuYAB.png" group-title="Sport",UA | Football 1 Ukraine
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e7E9Of9.jpg" group-title="Sport",UA | Football 2 Ukraine
