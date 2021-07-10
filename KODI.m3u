@@ -463,6 +463,34 @@ https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebas
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Frankrijk",FR | Poker TV
 http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c9qenzw.png" group-title="Duitsland",DE | One
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Duitsland",DE | ARTE
+http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADCiOHX.png" group-title="Duitsland",DE | ServusTV
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oitJsZU.png" group-title="Duitsland",DE | EOTV
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXkIqPG.png" group-title="Duitsland",DE | RiC
+https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcFmRzG.png" group-title="Duitsland",DE | Anixe HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4b9qKqd.png" group-title="Duitsland",DE | Anixe +
+http://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aT8MSIb.png" group-title="Duitsland",DE | Aristo TV
+http://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aH3CGO7.png" group-title="Duitsland",DE | WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle Deutsch
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle Deutsch +
+https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle Arabic
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Duitsland",DE | Euronews 
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p6FCV5l.png" group-title="Duitsland",DE | CNN International 
@@ -527,7 +555,28 @@ https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0lmuLf.jpg" group-title="Duitsland",DE | The Pet Collective 
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tupATym.png" group-title="Duitsland",DE | Augsburg TV
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iY2LUWA.png" group-title="Duitsland",DE | Allgäu TV
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOh68GS.png" group-title="Duitsland",DE | Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOh68GS.png" group-title="Duitsland",DE | Baden TV
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV [Geo]
+https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV Impuls
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bibeltv01.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV Musik
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://bibeltv01.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/manifest.mpd
 
 
 
