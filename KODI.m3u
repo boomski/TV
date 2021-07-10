@@ -357,8 +357,8 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Frankrijk",FR | TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="Frankrijk",FR | TVPI
-plugin://plugin.video.youtube/play/?video_id=jglhy85qVJ0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ezqC7KQ.png" group-title="Frankrijk",FR | TVPI
+plugin://plugin.video.youtube/play/?channel_id=UCwVQAPo6tjC5w5yBBh0WEdA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="Frankrijk",FR | TVR
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QmZP1em.png" group-title="Frankrijk",FR | viaATV
@@ -813,5 +813,21 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",FR | Africa Sports TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CwS5jn.jpg" group-title="Sport",BE | Club Brugge
+plugin://plugin.video.youtube/play/?channel_id=UCr4sbmZGQY9T4p4KcknxSNw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJ9RjEq.jpg" group-title="Sport",BE | Standard de Liège
+plugin://plugin.video.youtube/play/?channel_id=UCq9Q9hNYKwJ3YPEM7ICI1qw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",DO | Liga Dominicana de Fútbol 1
+plugin://plugin.video.youtube/play/?channel_id=UCyTqCrAq1n3HF0W7dRNTArA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",DO | Liga Dominicana de Fútbol 2
+plugin://plugin.video.youtube/play/?channel_id=UC2ofYN9e_gnH9CgxnaewhbA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUeDTn5.jpg" group-title="Sport",VE | Transmisionesenvivo10
+plugin://plugin.video.youtube/play/?channel_id=UCMSIKU7bWdmr1WB501u6zxw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X0BWZab.jpg" group-title="Sport",GI | PartyPoker TV
+plugin://plugin.video.youtube/play/?channel_id=UCwsWa65jkbHfvAblmmW_Z-Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="Sport",US | World Poker Tour
+plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Sport",FR | Poker TV
 http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LG4LSCD.jpg" group-title="Sport",IN | Doordarshan Sports
+plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
