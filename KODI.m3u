@@ -459,6 +459,8 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forw
 https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Vt9dtg.png" group-title="Duitsland",DE | WDR
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmvqB8d.jpg" group-title="Duitsland",DE | 3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhlRplV.jpg" group-title="Duitsland",DE | Kika HD
 https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/index_3776_av-p.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Duitsland",DE | ARTE
@@ -494,15 +496,15 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle Arabic
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KZKqSrg.jpg" group-title="Duitsland",DE | Euronews
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E7JHiV2.png" group-title="Duitsland",DE | Pro 7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW7ZqPk.png" group-title="Duitsland",DE | RTL
-https://cdn1.mobiletv.bg/T5/rtl_archive/rtl_794613.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW7ZqPk.png" group-title="Duitsland",DE | RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y10LNR1.jpg" group-title="Duitsland",DE | RTL 2
-http://5.135.92.133:52841/out/u/119_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2WZjsh.png" group-title="Duitsland",DE | RTL Nitro
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/usTBWQn.jpg" group-title="Duitsland",DE | Super RTL 
@@ -520,20 +522,20 @@ http://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aT8MSIb.png" group-title="Duitsland",DE | Aristo TV
 http://ma.anixa.tv/clips/stream/aristo/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XOvYCea.png" group-title="Duitsland",DE | VOX
-http://5.135.92.133:52841/out/u/123_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XbXSpy1.png" group-title="Duitsland",DE | Welt der Wunder
-http://wowza-1.vidoo.de:1935/live/weltderwunder/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aH3CGO7.png" group-title="Duitsland",DE | WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tupATym.png" group-title="Duitsland",DE | Augsburg TV
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iY2LUWA.png" group-title="Duitsland",DE | Allgäu TV
-https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/playlist.m3u8
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOh68GS.png" group-title="Duitsland",DE | Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOh68GS.png" group-title="Duitsland",DE | Baden TV
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV [Geo]
 https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VUS6341.jpg" group-title="Duitsland",DE | BLK TV
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
