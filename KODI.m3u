@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="België",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OvWaMqS.jpg" group-title="België",BE | Canvas
@@ -249,3 +250,6 @@ http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="Radio",NL | Radio 10
 http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="Sport",BE | Sporza
+plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
