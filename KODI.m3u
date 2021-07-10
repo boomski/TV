@@ -670,15 +670,15 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",AT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wyGDgc1.jpg" group-title="Sport",AT | Sky Sports Austria
-https://list.iptvcat.com/my_list/s/f0f4aa4c4d0d40a3d51833fe8a733f95.m3u8
+https://list.iptvcat.com/my_list/s/f0f4aa4c4d0d40a3d51833fe8a733f95.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laESecM.png" group-title="Sport",AT | ORF Sport+
-https://list.iptvcat.com/my_list/s/7d9557902a8efae2de4d42a22b4bd518.m3u8
+https://list.iptvcat.com/my_list/s/7d9557902a8efae2de4d42a22b4bd518.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MSrojwT.jpg" group-title="Oostenrijk",AT | ORF 1
-https://list.iptvcat.com/my_list/s/e0607f45693e9b8ee243e5c7cf276e57.m3u8
+https://list.iptvcat.com/my_list/s/e0607f45693e9b8ee243e5c7cf276e57.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5z0Ihu.png" group-title="Oostenrijk",AT | ORF 2
-https://list.iptvcat.com/my_list/s/21031aa5aad5f226b7cf615538dc1c98.m3u8
+https://list.iptvcat.com/my_list/s/21031aa5aad5f226b7cf615538dc1c98.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3 
-https://list.iptvcat.com/my_list/s/21b1911bb1d51a813c02bb740e9e205b.m3u8
+https://list.iptvcat.com/my_list/s/21b1911bb1d51a813c02bb740e9e205b.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3 [Geo]
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6QWXt3.jpg" group-title="Oostenrijk",AT | Servus TV Österreich
@@ -740,9 +740,9 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",CH | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="Zwitserland",CH | RSI LA 1
-https://list.iptvcat.com/my_list/s/373e5c2a2c0d4cadb1b6a82605d1e92e.m3u8
+https://list.iptvcat.com/my_list/s/373e5c2a2c0d4cadb1b6a82605d1e92e.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="Zwitserland",CH | RSI LA 2
-https://list.iptvcat.com/my_list/s/f37e3436af0d260ef20e4f62e3d63f24.m3u8
+https://list.iptvcat.com/my_list/s/f37e3436af0d260ef20e4f62e3d63f24.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2fr94O.png" group-title="Zwitserland",CH | Royal TV
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RRtRyfQ.jpg" group-title="Zwitserland",CH | Schweiz 5
