@@ -235,3 +235,17 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Radio",BE | NRJ Hits TV
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="Radio",NL | Omroep Brabant Radio
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="Radio",NL | Qmusic Nederland
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="Radio",NL | Radio Veronica
+http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="Radio",NL | RTV Noord Extra
+http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYbO6ch.jpg" group-title="Radio",NL | BNR Nieuwsradio
+http://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w60x1M7.jpg" group-title="Radio",NL | Simone FM
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDB4Gd2.png" group-title="Radio",NL | Radio 10
+http://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/Q5.m3u8
