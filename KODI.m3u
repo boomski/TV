@@ -802,9 +802,9 @@ https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8|X-Forwarded
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYSh8Aj.png" group-title="Sport",US | NBC GOLF
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83dag4T.png" group-title="Sport",US | NBA TV
-https://list.iptvcat.com/my_list/s/e04e5cf2aa30f00ac263fd8c49c91a5d.m3u8
+https://list.iptvcat.com/my_list/s/e04e5cf2aa30f00ac263fd8c49c91a5d.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FWNdatJ.png" group-title="Sport",US | NFL Network
-https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oDOpMph.png" group-title="Sport",US | MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t7x61s.png" group-title="Sport",US | MLS
@@ -866,11 +866,11 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hB0Y4qZ.png" group-title="Sport",US | Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2nHx4Z.jpg" group-title="Sport",US | FightBox
-http://188.93.95.34:80/fightboxhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCcok6.png" group-title="Sport",US | CombatGo
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCcok6.png" group-title="Sport",US | CombatGo
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/1920x1080_4528000/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s5NcNef.png" group-title="Sport",US | MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFyUz2D.jpg" group-title="Sport",US | LSN
