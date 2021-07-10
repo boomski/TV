@@ -363,6 +363,8 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/inde
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Frankrijk",FR | ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OARBu5H.jpg" group-title="Frankrijk",FR | Puissance Télévision
+plugin://plugin.video.youtube/play/?channel_id=UCxSUslP_JMH3Bb50oXd1Nnw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Frankrijk",FR | MYComedy
 plugin://plugin.video.dailymotion_com/?url=x7zw8t0&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cThInij.png" group-title="Frankrijk",FR | D5 TV
@@ -456,6 +458,8 @@ http://51.210.199.17/hls/stream.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
+https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
@@ -506,6 +510,7 @@ https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",FR | Fuel TV
 https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg" group-title="Sport",BE | CYFO 1
