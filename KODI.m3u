@@ -450,10 +450,11 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Frankrijk",FR | KTO
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",FR | Africa Sports TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Sport",FR | Poker TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Frankrijk",FR | Poker TV
 http://51.210.199.17/hls/stream.m3u8
+
+
+
 
 
 
@@ -550,3 +551,8 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zE6rr85.png" group-title="Sport",BE | Play Sports 8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruXN2HE.png" group-title="Sport",NL | ZIGGO Sports Select
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",FR | Africa Sports TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Sport",FR | Poker TV
+http://51.210.199.17/hls/stream.m3u8
