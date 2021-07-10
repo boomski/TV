@@ -99,6 +99,16 @@ https://live-edge.rtl.lu/channel2/smil:channel2/720p.m3u8
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzhlDF6.png" group-title="Luxemburg",LU | TV MCJ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Luxemburg",LU | Euronews 
+https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Znu8wCa.jpg" group-title="Luxemburg",LU | AfricaNews
+https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxXZAXH.png" group-title="Luxemburg",LU | AVF Family 
+https://futuretoday-afv-family-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dX569rC.png" group-title="Luxemburg",LU | Bloomberg TV 
+https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8ctdBR.jpg" group-title="Luxemburg",LU | Bloomberg Quicktake 
+https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VFJZQWD.png" group-title="Nederland",NL | NPO 1
 http://77.163.171.114:9981/stream/channelid/1438758799?profile=pass:NPO1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VFJZQWD.png" group-title="Nederland",NL | NPO 1 [Geo]
