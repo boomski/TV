@@ -291,12 +291,8 @@ https://www.filmon.com/vr-streams/3893.high/playlist.m3u8
 plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" group-title="Frankrijk",FR | Wéo
 plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" group-title="Frankrijk",FR | Wéo
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x62islg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1a3uLT.png" group-title="Frankrijk",FR | Wéo Picardie
 plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1a3uLT.png" group-title="Frankrijk",FR | Wéo Picardie
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x63085w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HKj1V6l.jpg" group-title="Frankrijk",FR | AZUR TV
 plugin://plugin.video.dailymotion_com/?url=x13x1q2&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OQeNlUD.png" group-title="Frankrijk",FR | VAR AZUR TV
@@ -2881,7 +2877,7 @@ https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WjG1Z5W.jpg" group-title="Colombia",CO | Eduvision
 http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sFDIMWK.jpg" group-title="Radio",CO | La Mega COLOMBIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sFDIMWK.jpg" group-title="Colombia",RADIO | La Mega COLOMBIA
 http://20823.live.streamtheworld.com/LA_MEGA_BOG_SC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8D1LrKO.png" group-title="Ecuador",EC | Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
