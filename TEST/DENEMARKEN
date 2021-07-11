@@ -4,23 +4,20 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEGJ3NX.jpg" group-title="Denemarken",DK | TV 2 Lorry
-https://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/1_grusx1zd/sd/6000/t/SBqf2reMLuRFOX3tQQv_Iw/index-s32.m3u8
+https://cdn-lt-live.tv2lorry.dk/env/cluster-1-a.live.nvp1/live/hls/p/2045321/e/1_grusx1zd/tl/main/st/0/t/Tpoil8IUW0Ll-I7MNdvq9w/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wamEY0w.png" group-title="Denemarken",DK | TV 2 Fyn
-https://cdn-lt-live.tv2fyn.dk/dc-0/live/hls/p/1966291/e/0_vsfrv0zm/sd/6000/t/2eGlsBmOnpkK1g0-J_56AA/index-s32.m3u8
+https://cdn-lt-live.tv2fyn.dk/env/cluster-1-b.live.nvp1/live/hls/p/1966291/e/0_vsfrv0zm/tl/main/st/0/t/6YzMg7iC2gGNwEhTTd--Jw/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vIobmIp.png" group-title="Denemarken",DK | TV 2 Nord Salto
-https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
+https://cdn-lt-live.tv2nord.dk/env/cluster-1-b.live.nvp1/live/hls/p/1956931/e/1_h9yfe7h2/tl/main/st/1/t/kNsCSriKvxV7XpyiejfS4g/index-s32.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ehow2k.jpg" group-title="Denemarken",DK | TV 2 Øst
-https://cdn-lt-live.tveast.dk/dc-1/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/fq8LzmI7TH1TOAjc3wuvqA/index-s32.m3u8
+https://cdn-lt-live.tveast.dk/env/cluster-1-a.live.nvp1/live/hls/p/1953381/e/0_zphj9q61/tl/main/st/1/t/dGW0Wnoe5bhzR0qd4AdnpA/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CG8VU2c.png" group-title="Denemarken",DK | TV Syd+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CG8VU2c.png" group-title="Denemarken",DK | TV Syd+
-http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CG8VU2c.png" group-title="Denemarken",DK | TV Syd+
-https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yIismAO.jpg" group-title="Denemarken",DK | TV Midtvest
-https://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t/EG-gDRIyoxKp9xWooxW-8w/index-s32.m3u8
+https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-a.live.frp1/live/hls/p/1953371/e/1_qwqu2d0z/tl/main/st/0/t/R-Nbk7NAOQWLAqgHM2MA5Q/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIismAO.jpg" group-title="Denemarken",DK | TV Midtvest
+https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-a.live.frp1/live/hls/p/1953371/e/1_qwqu2d0z/tl/main/st/0/t/R-Nbk7NAOQWLAqgHM2MA5Q/index-s43.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OAgXaMO.png" group-title="Denemarken",DK | TV Aarhus
-https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tvLkbh3.jpg" group-title="Denemarken",DK | TV Storbyen
-https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/chunklist.m3u8
+
