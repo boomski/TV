@@ -245,12 +245,20 @@ http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 Arabic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24
+plugin://plugin.video.youtube/play/?channel_id=UCCCPCZNChQdGa9EkATeye4g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTsLy8f.jpg" group-title="Frankrijk",FR | France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTsLy8f.jpg" group-title="Frankrijk",FR | France 24 Arabic
+plugin://plugin.video.youtube/play/?channel_id=UCdTyuXgmJkG_O8_75eqej-w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Io60ZKV.jpg" group-title="Frankrijk",FR | France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Io60ZKV.jpg" group-title="Frankrijk",FR | France 24 English
+plugin://plugin.video.youtube/play/?channel_id=UCQfwfsi5VrQ8yKZ-UWmAEFg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLoXPha.jpg" group-title="Frankrijk",FR | France 24 Español
 https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLoXPha.jpg" group-title="Frankrijk",FR | France 24 Español
+plugin://plugin.video.youtube/play/?channel_id=UCUdOoVWuWmgo1wByzcsyKDQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Frankrijk",FR | France Info
 https://www.filmon.com/vr-streams/3887.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaBElfq.png" group-title="Frankrijk",FR | Euronews
@@ -696,6 +704,14 @@ https://bibeltv01.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/manifest.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://bibeltv01.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 1
+plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 2
+plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 3
+plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 4
+plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MSrojwT.jpg" group-title="Oostenrijk",AT | ORF 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5z0Ihu.png" group-title="Oostenrijk",AT | ORF 2
@@ -869,6 +885,8 @@ https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",CH | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKMfNq3.jpg" group-title="Sport",ES | SPORTPUBLIC TV
+plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2InpIPH.jpg" group-title="Sport",DE | FTF For the Fans 
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJApWEn.png" group-title="Sport",DE | Sport 1 Deutschland
@@ -883,7 +901,8 @@ http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",DE | Fuel TV 
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFxw76W.jpg" group-title="Sport",TH | True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5y1Ll6d.jpg" group-title="Sport",AT | K19
 plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg" group-title="Sport",BE | CYFO 1
