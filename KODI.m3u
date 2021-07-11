@@ -696,15 +696,71 @@ https://bibeltv01.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/manifest.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://bibeltv01.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MSrojwT.jpg" group-title="Oostenrijk",AT | ORF 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5z0Ihu.png" group-title="Oostenrijk",AT | ORF 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3 [Geo]
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Oostenrijk",AT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6QWXt3.jpg" group-title="Oostenrijk",AT | Servus TV Österreich
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png" group-title="Oostenrijk",AT | RTL Austria
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="Oostenrijk",AT | oe24.TV
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist.m3u8|X-Forwarded-For=93.82.18.55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ymjr1zO.png" group-title="Oostenrijk",AT | Krone.tv 
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="Oostenrijk",AT | KroneHit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQZfm5e.jpg" group-title="Oostenrijk",AT | Schau TV
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jHWmjL.png" group-title="Oostenrijk",AT | Tirol TV
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SK9IQ1Z.png" group-title="Oostenrijk",AT | Dorf TV
+https://stream.openplayout.org/hls/dorf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HSRpYUl.jpg" group-title="Oostenrijk",AT | FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9LgT0v.jpg" group-title="Oostenrijk",AT | Okto
+http://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wu6SMvb.png" group-title="Oostenrijk",AT | R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wu6SMvb.png" group-title="Oostenrijk",AT | R9
+https://www.filmon.com/vr-streams/6031.high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J25y9ah.png" group-title="Oostenrijk",AT | W24
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/huk8dG8.png" group-title="Oostenrijk",AT | M4
+rtmp://streaming.austria24.tv/live/stream_720p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/huk8dG8.png" group-title="Oostenrijk",AT | M4
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dhyst6N.jpg" group-title="Oostenrijk",AT | P3tv
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c0W6nvh.png" group-title="Oostenrijk",AT | RTV
+https://stream1.primetv.at/rtvlive/smil:rtvlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxISEZf.png" group-title="Oostenrijk",AT | Go TV
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="Oostenrijk",AT | Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="Oostenrijk",AT | K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ioGYz1b.jpg" group-title="Oostenrijk",AT | Swamiji TV Austria 
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="Oostenrijk",AT | Premium Channel
+http://premium-channel.tv:88/live/kali.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eMivDjz.png" group-title="Oostenrijk",AT | Upper Austria
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="Oostenrijk",AT | Uppera Balkan
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SSDLpPU.png" group-title="Oostenrijk",AT | RTS-Salzburg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g2Hdysr.jpg" group-title="Oostenrijk",AT | Ländle TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eBEwj1h.jpg" group-title="Oostenrijk",AT | Brandnite TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xgkun9X.png" group-title="Oostenrijk",AT | Melodie Express TV
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
