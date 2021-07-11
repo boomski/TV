@@ -780,6 +780,8 @@ https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c0W6nvh.png" group-title="Oostenrijk",AT | RTV
 https://stream1.primetv.at/rtvlive/smil:rtvlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5y1Ll6d.jpg" group-title="Oostenrijk",AT | K19 [ONLY LIVE EVENTS]
+plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxISEZf.png" group-title="Oostenrijk",AT | Go TV
 https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="Oostenrijk",AT | Teins TV
@@ -882,6 +884,8 @@ https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",DE | Fuel TV 
 https://fueltv-fueltv-5-de.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5y1Ll6d.jpg" group-title="Sport",AT | K19
+plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg" group-title="Sport",BE | CYFO 1
 http://45.134.21.13/live/s1/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo1.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg" group-title="Sport",BE | CYFO 2
@@ -926,21 +930,33 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",FR | Africa Sports TV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8CwS5jn.jpg" group-title="Sport",BE | Club Brugge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g4brpmX.jpg" group-title="Sport",CH | FIFA TV
+plugin://plugin.video.youtube/play/?channel_id=UCpcTrCXblq78GZrTUTLWeBw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hiuAi7M.png" group-title="Sport",BE | RSC Anderlecht
+plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tC2s5MM.png" group-title="Sport",BE | Club Brugge
 plugin://plugin.video.youtube/play/?channel_id=UCr4sbmZGQY9T4p4KcknxSNw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PJ9RjEq.jpg" group-title="Sport",BE | Standard de Liège
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgF3B5T.png" group-title="Sport",BE | Standard de Liège
 plugin://plugin.video.youtube/play/?channel_id=UCq9Q9hNYKwJ3YPEM7ICI1qw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qfuw19a.png" group-title="Sport",BE | Oud-Heverlee Leuven
+plugin://plugin.video.youtube/play/?channel_id=UCC_GuH5D0erBXi1XVyR1OJA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifaSIyZ.jpg" group-title="Sport",RU | Russian Premier Liga
+plugin://plugin.video.youtube/play/?channel_id=UCfO4uULWZvEtCCj-lw1ZO5A&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",DO | Liga Dominicana de Fútbol 1
 plugin://plugin.video.youtube/play/?channel_id=UCyTqCrAq1n3HF0W7dRNTArA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",DO | Liga Dominicana de Fútbol 2
 plugin://plugin.video.youtube/play/?channel_id=UC2ofYN9e_gnH9CgxnaewhbA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JUeDTn5.jpg" group-title="Sport",VE | Transmisionesenvivo10
 plugin://plugin.video.youtube/play/?channel_id=UCMSIKU7bWdmr1WB501u6zxw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",CH | Volleybal World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMlf8lo.jpg" group-title="Sport",DE | FIBA - The Basketball Channel
+plugin://plugin.video.youtube/play/?channel_id=UCtInrnU3QbWqFGsdKT1GZtg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Svcv4vi.jpg" group-title="Sport",DE | FIBA - 3x3
+plugin://plugin.video.youtube/play/?channel_id=UC7LpyJP5fupiJu2CdzRQheg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",CH | Volleybal World 1
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",CH | Volleybal World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",CH | Volleybal World 2
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",CH | Volleybal World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",CH | Volleybal World 3
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X0BWZab.jpg" group-title="Sport",GI | PartyPoker TV
 plugin://plugin.video.youtube/play/?channel_id=UCwsWa65jkbHfvAblmmW_Z-Q&live=1
