@@ -1,3 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Canadian TV",noovo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
