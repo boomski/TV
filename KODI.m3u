@@ -710,6 +710,46 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-Forwarded-For=93.82.18.55 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png" group-title="Oostenrijk",AT | RTL Austria
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAySGnl.png" group-title="Oostenrijk",AT | Kabel Eins [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-001.live.p7s1video.net/ba6ffa51/t_001/kabeleins-at/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlhOpdJ.png" group-title="Oostenrijk",AT | Kabel Eins Doku [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-001.live.p7s1video.net/078e3cec/t_001/kabeleinsdoku-at/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LI7QWe0.png" group-title="Oostenrijk",AT | Sat 1 [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/643TQfc.jpg" group-title="Oostenrijk",AT | Sat 1 Gold [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-001.live.p7s1video.net/11ddbf26/t_001/sat1gold-at/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FEwOXkn.jpg" group-title="Oostenrijk",AT | Puls 4 [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-003.live.p7s1video.net/1b29926a/t_003/puls4-at-sd/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13UGJwz.jpg" group-title="Oostenrijk",AT | Sixx [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-001.live.p7s1video.net/f114c74e/t_001/sixx-at/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bq7JjxH.jpg" group-title="Oostenrijk",AT | ProSieben [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-001.live.p7s1video.net/0256e16e/t_001/prosieben-at/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2E8fIxS.png" group-title="Oostenrijk",AT | ProSieben Maxx [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-001.live.p7s1video.net/5dab4de6/t_001/prosiebenmaxx-at/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqOrkVT.png" group-title="Oostenrijk",AT | ATV [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-003.live.p7s1video.net/6f5c0112/t_003/atv/cenc-default.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqOrkVT.png" group-title="Oostenrijk",AT | ATV 2 [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://ac-003.live.p7s1video.net/11b6c3f5/t_003/atv2/cenc-default.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="Oostenrijk",AT | oe24.TV
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ymjr1zO.png" group-title="Oostenrijk",AT | Krone.tv 
@@ -751,18 +791,19 @@ http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="Oostenrijk",AT | Premium Channel
 http://premium-channel.tv:88/live/kali.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eMivDjz.png" group-title="Oostenrijk",AT | Upper Austria
-
+http://89.187.168.245:8080/live/sUPPERchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="Oostenrijk",AT | Uppera Balkan
-
+http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSDLpPU.png" group-title="Oostenrijk",AT | RTS-Salzburg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2Hdysr.jpg" group-title="Oostenrijk",AT | Ländle TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eBEwj1h.jpg" group-title="Oostenrijk",AT | Brandnite TV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xgkun9X.png" group-title="Oostenrijk",AT | Melodie Express TV
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82pCbNH.jpg" group-title="Oostenrijk",AT | Melodie Express TV
+plugin://plugin.video.youtube/play/?video_id=-oCF5ZB7oRg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Zwitserland",CH | Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 
@@ -824,6 +865,8 @@ https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",FR | Sport en France
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",CH | Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2InpIPH.jpg" group-title="Sport",DE | FTF For the Fans 
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJApWEn.png" group-title="Sport",DE | Sport 1 Deutschland
