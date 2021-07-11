@@ -223,6 +223,8 @@ https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
 http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Groot-Brittannië",UK | Free Sports
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/stv/get_live_url/?_pickle_=80027d71012858070000006974656d5f69647102580a0000006672656573706f727473710355075f7469746c655f7104580b000000467265652053706f72747371055808000000786d6c74765f696471064e752e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Groot-Brittannië",UK | Pokerstars
+plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
@@ -983,6 +985,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",CH | Volleybal World 3
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Sport",UK | Pokerstars
+plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X0BWZab.jpg" group-title="Sport",GI | PartyPoker TV
 plugin://plugin.video.youtube/play/?channel_id=UCwsWa65jkbHfvAblmmW_Z-Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="Sport",US | World Poker Tour
