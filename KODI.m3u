@@ -842,6 +842,10 @@ https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoq
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hATNB38.jpg" group-title="Denemarken",DK | Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAgXaMO.png" group-title="Denemarken",DK | TV Aarhus
+https://streaming.backup.media.s.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tvLkbh3.jpg" group-title="Denemarken",DK | TV Storbyen
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 
