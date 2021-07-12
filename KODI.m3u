@@ -829,11 +829,11 @@ plugin://plugin.video.youtube/play/?video_id=-oCF5ZB7oRg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Zwitserland",CH | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png" group-title="Denemarken",DK | DR 1
-https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master3200.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png" group-title="Denemarken",DK | DR 2
-https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master3200.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYmulOw.png" group-title="Denemarken",DK | DR Ramasjang
-https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master3200.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ylB5ea2.jpg" group-title="Denemarken",DK | TV 2/Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rC07Op2.jpg" group-title="Denemarken",DK | TV 2 Østjylland
