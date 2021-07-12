@@ -1,38 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Noovo_608x608.png?raw=true" group-title="Canadian TV",noovo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
-https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Windsor
-https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Vancouver
-https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Regina
-https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Montreal
-https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Halifax
-https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Calgary
-https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Edmonton
-https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Ottawa
-https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC St. Johns
-https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Winnipeg
-https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Charlottetown
-https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Fredericton
-https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Yellowknife
-https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8|X-Forwarded-For=24.37.42.200
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Canada",CA | NTV
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Acadie
