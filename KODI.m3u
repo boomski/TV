@@ -1050,6 +1050,10 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IojZ24.jpg" group-title="Canada",CA | Peachtree TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Canada",CA | NTV
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVzGMIZ.png" group-title="Canada",CA | ICI TV
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/cfc631f111e72b5321a69ddf4bacb1f0/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
@@ -1072,6 +1076,12 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8|Referer=https://miraclechannel.ca
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Canada",CA | Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdCXfyt.png" group-title="Canada",CA | Uvagut TV
+http://dee7mwgg9dzvl.cloudfront.net/hls/live1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdCXfyt.png" group-title="Canada",CA | Uvagut TV
+http://dee7mwgg9dzvl.cloudfront.net/hls/live720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tk4FPfJ.png" group-title="Canada",CA | GH Canada TV
+https://churchchannelstream.tulix.tv/liveticker/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Canada",CA | Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="Canada",CA | Prime Asia TV
@@ -1088,18 +1098,26 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Canada",CA | 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9qiajHz.jpg" group-title="Canada",CA | Awaz Entertainment
+https://streamer12.vdn.dstreamone.net/awaztv/awaztv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="Canada",CA | BBC Toronto Gaunda Punjab
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="Canada",CA | Canada Star TV
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="Canada",CA | Canadian Arab TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="Canada",CA | CNTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/al6RSFp.png" group-title="Canada",CA | EET TV
-
+http://142.112.39.133:8080/catv.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Rt8iww.png" group-title="Canada",CA | Canada National TV
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_5598720_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Rt8iww.png" group-title="Canada",CA | Canada National TV
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_1299456_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp3mu1d.jpg" group-title="Canada",CA | Canada Chinese TV
+https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_5598720_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp3mu1d.jpg" group-title="Canada",CA | Canada Chinese TV
+https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/index_1299456_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLvJl6n.png" group-title="Canada",CA | EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c34WFZw.png" group-title="Canada",CA | Hamdard TV
-
+https://tv.hamdardtv.com/hamdard/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="Canada",CA | Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="Canada",CA | Sardari TV
@@ -1123,7 +1141,7 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nX3IbkV.jpg" group-title="Canada",CA | Hyder TV
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Canada",CA | TAG TV
-
+plugin://plugin.video.youtube/play/?channel_id=UCP3zJUZRPyJh4VGiRd9pqgg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Canada",CA | Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Canada",CA | The Shopping Channel
