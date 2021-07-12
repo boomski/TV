@@ -1100,6 +1100,26 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NVzGMIZ.png" group-title="Canada",CA | ICI TV
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/cfc631f111e72b5321a69ddf4bacb1f0/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qkpT1P.png" group-title="Canada",CA | MHz Now
+https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5mGr7HL.png" group-title="Canada",CA | Dust 
+https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSdFQDl.png" group-title="Canada",CA | The Design Network 
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yaeBuY.png" group-title="Canada",CA | People are Awesome 
+https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQ0iLcc.png" group-title="Canada",CA | TMZ 
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3WYqvn.jpg" group-title="Canada",CA | Players TV 
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2InpIPH.jpg" group-title="Canada",CA | FTF For the Fans 
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Canada",CA | Insight TV 
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Canada",CA | Inwonder 
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gx4ejKm.png" group-title="Canada",CA | Outside TV 
+https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
@@ -1270,6 +1290,8 @@ plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Sport",UK | Free Sports
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/uk/stv/get_live_url/?_pickle_=80027d71012858070000006974656d5f69647102580a0000006672656573706f727473710355075f7469746c655f7104580b000000467265652053706f72747371055808000000786d6c74765f696471064e752e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2InpIPH.jpg" group-title="Sport",CA | FTF For the Fans 
+https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2InpIPH.jpg" group-title="Sport",DE | FTF For the Fans 
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GJApWEn.png" group-title="Sport",DE | Sport 1 Deutschland
