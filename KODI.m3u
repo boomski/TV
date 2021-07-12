@@ -483,6 +483,10 @@ https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8|User-Agent=VLC
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_subs.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9qenzw.png" group-title="Duitsland",DE | One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pd3UjdN.jpg" group-title="Duitsland",DE | Tagesschau 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pd3UjdN.jpg" group-title="Duitsland",DE | Tagesschau 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1992_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Duitsland",DE | ARTE
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADCiOHX.png" group-title="Duitsland",DE | ServusTV
@@ -571,6 +575,8 @@ https://xite-samsung-de.amagi.tv/playlist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="Duitsland",DE | Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oOYRD6y.jpg" group-title="Duitsland",DE | Kurd Music TV
+https://live.kurdmusic.com/live/stream_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RF36DCj.jpg" group-title="Duitsland",DE | MyTV Plus
 https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tctexMM.png" group-title="Duitsland",DE | SuperToons 
@@ -581,6 +587,8 @@ https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D0lmuLf.jpg" group-title="Duitsland",DE | The Pet Collective 
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JlWo6tX.png" group-title="Duitsland",DE | Alex Berlin TV
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/chunklist_b4192000_slGER.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tupATym.png" group-title="Duitsland",DE | Augsburg TV
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iY2LUWA.png" group-title="Duitsland",DE | Allgäu TV
@@ -603,8 +611,12 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q2QtEJO.jpg" group-title="Duitsland",DE | Franken Fernsehen
 https://stream03.stream.welocal.world/stream/frf/ngrp:frf.stream_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gsBKnrI.jpg" group-title="Duitsland",DE | Hamburg 1
+http://live2.telvi.de/hls/hamburg1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcJzKRp.jpg" group-title="Duitsland",DE | Hauptstadt TV
 https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gcJzKRp.jpg" group-title="Duitsland",DE | TV.Berlin
+https://live2.telvi.de/hls/tvberlin_hd720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X9B9Pxc.jpg" group-title="Duitsland",DE | Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s88Izqa.jpg" group-title="Duitsland",DE | TV Halle
@@ -645,6 +657,8 @@ http://62.113.210.250/medienasa-live/ok-salzwedel_high/playlist.m3u8
 http://62.113.210.250/medienasa-live/ok-stendal_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1hkyd7.png" group-title="Duitsland",DE | Oldenburg Eins
 https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBaeAAt.jpg" group-title="Duitsland",DE | PUNKTum Fernsehen
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUP8ZBb.png" group-title="Duitsland",DE | RAN1 Regionalfernsehen
 http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mD8kgk8.jpg" group-title="Duitsland",DE | Regio TV Bodensee
@@ -653,6 +667,8 @@ https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunks.m3u8
 https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nD4mw3v.png" group-title="Duitsland",DE | Regio TV Stuttgart
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0A7Q3S.jpg" group-title="Duitsland",DE | RBW
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jj2XE8k.jpg" group-title="Duitsland",DE | RFH
 http://62.113.210.250:1935/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VivsqjW.png" group-title="Duitsland",DE | RFO
