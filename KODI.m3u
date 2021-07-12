@@ -1170,6 +1170,8 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Radio",BE | NRJ Hits TV
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Vk1TNf.png" group-title="Radio",BE | Tomorrowland - One World Radio
+plugin://plugin.video.youtube/play/?channel_id=UCsN8M73DMWa8SPp5o_0IAQQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="Radio",NL | Omroep Brabant Radio
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="Radio",NL | Qmusic Nederland
