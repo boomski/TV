@@ -223,10 +223,28 @@ https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNgwmz3.jpg" group-title="Nederland",NL | Tommy Teleshopping
 http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
-EXTINF:-1  tvg-logo="https://i.imgur.com/r2tcVnk.png" group-title="Groot-Brittannië",UK | BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8|User-Agent=iPad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2tcVnk.png" group-title="Groot-Brittannië",UK | BBC World News
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/545cTWL.jpg" group-title="Groot-Brittannië",UK | ITV 1
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xzVF5WZ.png" group-title="Groot-Brittannië",UK | ITV 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wEUPgub.png" group-title="Groot-Brittannië",UK | ITV 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8p7Jrix.png" group-title="Groot-Brittannië",UK | ITV 4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lDaSs6h.png" group-title="Groot-Brittannië",UK | ITV Be
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXMRRV5.png" group-title="Groot-Brittannië",UK | 5 HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBYaTHt.png" group-title="Groot-Brittannië",UK | 5 Star
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BylevGX.png" group-title="Groot-Brittannië",UK | 5 USA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Groot-Brittannië",UK | Reuters TV
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/58Jljqj.jpg" group-title="Groot-Brittannië",UK | English Club TV
-http://ott-cdn.ucom.am/s37/index.m3u8|User-Agent=iPad
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Groot-Brittannië",UK | Free Sports
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Groot-Brittannië",UK | Free Sports
@@ -237,6 +255,8 @@ https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Groot-Brittannië",UK | Pokerstars
 plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Groot-Brittannië",UK | Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
@@ -253,7 +273,7 @@ https://www.filmon.com/vr-streams/1729.high/playlist.m3u8
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8|X-Forwarded-For=185.95.8.3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="Frankrijk",FR | France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="Frankrijk",FR | France 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwzdsvb.png" group-title="Frankrijk",FR | France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="Frankrijk",FR | France 4
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
@@ -357,14 +377,14 @@ plugin://plugin.video.dailymotion_com/?url=x630sku&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hf6mz9B.jpg" group-title="Frankrijk",FR | Canal 32
 https://edge6.vedge.infomaniak.com/livecast/ik:canal32/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Frankrijk",FR | TV5Monde Info
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Frankrijk",FR | TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="Frankrijk",FR | TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="Frankrijk",FR | TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AiUPdvp.png" group-title="Frankrijk",FR | TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="Frankrijk",FR | TV5 Monde Maghreb-Orient
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AiUPdvp.png" group-title="Frankrijk",FR | TV5 Monde Pacifique
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yEwrmqa.jpg" group-title="Frankrijk",FR | Télévision Locale du Choletais
 plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BtqpY6w.png" group-title="Frankrijk",FR | TV78
@@ -491,8 +511,8 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 http://51.210.199.17/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYj2bPl.png" group-title="Duitsland",DE | ARD
 https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n737O4M.jpg" group-title="Duitsland",DE | WDR
-https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_subs.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n737O4M.jpg" group-title="Duitsland",DE | WDR [Geo]
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_subs.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c9qenzw.png" group-title="Duitsland",DE | One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pd3UjdN.jpg" group-title="Duitsland",DE | Tagesschau 24
@@ -629,7 +649,7 @@ https://stream03.stream.welocal.world/stream/frf/ngrp:frf.stream_all/chunklist.m
 http://live2.telvi.de/hls/hamburg1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcJzKRp.jpg" group-title="Duitsland",DE | Hauptstadt TV
 https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gcJzKRp.jpg" group-title="Duitsland",DE | TV.Berlin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WJCM4C.png" group-title="Duitsland",DE | TV.Berlin
 https://live2.telvi.de/hls/tvberlin_hd720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X9B9Pxc.jpg" group-title="Duitsland",DE | Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
@@ -1222,25 +1242,27 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpyd72d.png" group-title="Radio",DE | Nice
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnMTcPw.png" group-title="Radio",AT | Antenne Vorarlberg
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRjdPAx.jpg" group-title="Radio",AT | ORF OÖ
 https://orf2ooe.mdn.ors.at/out/u/orf2ooe/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bhhuocz.png" group-title="Radio",CH | Radio Ticino Channel
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2gSDXat.jpg" group-title="Sport",BE | Sporza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2gSDXat.jpg" group-title="Sport",Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Sport",FR | L'Équipe [GEO]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Sport",L'Équipe [GEO]
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",AT | Red Bull TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Sport",DE | Tennis Channel Deutschland
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Sport",Tennis Channel Deutschland
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",FR | Sport en France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",Sport en France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",FR | Sport en France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",Sport en France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",FR | Sport en France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",Sport en France
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",CH | Swiss Sport TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKMfNq3.jpg" group-title="Sport",ES | SPORTPUBLIC TV
 plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
@@ -1370,6 +1392,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=3
 plugin://plugin.video.youtube/play/?channel_id=UC8XRC858pOERvclUDb_d7rg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YVgHc2v.jpg" group-title="Sport",CH | International Federation of Sport Climbing
 plugin://plugin.video.youtube/play/?channel_id=UC2MGuhIaOP6YLpUx106kTQw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Sport",UK | Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Sport",UK | Pokerstars
 plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X0BWZab.jpg" group-title="Sport",GI | PartyPoker TV
