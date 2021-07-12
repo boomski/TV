@@ -215,6 +215,8 @@ https://insighttv-samsungnl.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Introuble TV [Geo]
 https://introuble-samsungnl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2IBXEcL.jpg" group-title="Nederland",NL | Kindertijd KRO-NCRV
+plugin://plugin.video.youtube/play/?channel_id=UCOtok8iIlT9k-beq2bpZ4ag&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcG94ZU.jpg" group-title="Nederland",NL | Stingray Karoke  
 https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcQDJRG.png" group-title="Nederland",NL | MTV Music 24
@@ -956,14 +958,20 @@ https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.tr
 https://streaming.backup.media.s.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTndPEs.png" group-title="Denemarken",DK | TV Storbyen
 https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
+https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV
+plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour
 plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
-https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN
+plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fjcrBN1.jpg" group-title="USA",US | Washington | Bellevue Television
+plugin://plugin.video.youtube/play/?channel_id=UCW22suSoHWumwarCbu3NkOg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
