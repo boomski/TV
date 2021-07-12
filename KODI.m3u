@@ -565,6 +565,8 @@ https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y8Qkj0m.png" group-title="Duitsland",DE | Xite 
 https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbRtqY9.png" group-title="Duitsland",DE | MTV Deutschland [Geo]
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="Duitsland",DE | Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tctexMM.png" group-title="Duitsland",DE | SuperToons 
@@ -679,6 +681,7 @@ https://sdn-global-live-http-cache-3qsdn.akamaized.net/2980/amlst:5715-sbr/2980/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z42mYv9.jpg" group-title="Duitsland",DE | Folx TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="Duitsland",DE | Sonus FM
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcl73d7.png" group-title="Duitsland",DE | K-TV
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
@@ -826,8 +829,58 @@ http://89.187.168.245:8080/live/sUPPERchannel2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82pCbNH.jpg" group-title="Oostenrijk",AT | Melodie Express TV
 plugin://plugin.video.youtube/play/?video_id=-oCF5ZB7oRg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmB2sPc.png" group-title="Zwitserland",CH | RSI LA 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2noGwn.png" group-title="Zwitserland",CH | RSI LA 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRtRyfQ.jpg" group-title="Zwitserland",CH | Schweiz 5
+https://stream.schweiz5.ch/schweiz52020/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Zwitserland",CH | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="Zwitserland",CH | One TV
+https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G030MZb.png" group-title="Zwitserland",CH | Rouge TV
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BCN0a8L.png" group-title="Zwitserland",CH | Sofy TV
+https://sofytv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="Zwitserland",CH | LFM TV
+https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="Zwitserland",CH | Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="Zwitserland",CH | Kanal 9
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="Zwitserland",CH | Canal Alpha Jura
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="Zwitserland",CH | La Tele
+http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="Zwitserland",CH | Die Neue Zeit
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="Zwitserland",CH | TeleBielingue
+https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T26G8fr.jpg" group-title="Zwitserland",CH | TVM3
+http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="Zwitserland",CH | TeleTicino
+https://livestream02.gruppocdt.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFbgNNm.png" group-title="Zwitserland",CH | Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4gwdYD.png" group-title="Zwitserland",CH | TVO
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_t5h46v64/tl/main/st/0/t/pABgewKPiCnchxEl-FUtqQ/index-s32.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="Zwitserland",CH | TeleBarn
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqKjRTP.png" group-title="Zwitserland",CH | Tele M1 HD
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_ljzy3evp/tl/main/st/0/t/UZB_yHZMgWipb99qSGaXjQ/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Xv9s1c.png" group-title="Zwitserland",CH | TeleZüri
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/WBrfPA9txtU5iuPYBt6pjA/index-s32.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3hNjWPu.png" group-title="Zwitserland",CH | Folx TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="Zwitserland",CH | QS24
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Zwitserland",CH | Sportal HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="Zwitserland",CH | Dieu TV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u2fr94O.png" group-title="Zwitserland",CH | Royal TV
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png" group-title="Denemarken",DK | DR 1
 https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master3200.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png" group-title="Denemarken",DK | DR 2
@@ -860,6 +913,8 @@ https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.tr
 https://streaming.backup.media.s.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvLkbh3.jpg" group-title="Denemarken",DK | TV Storbyen
 https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 
