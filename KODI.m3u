@@ -970,6 +970,22 @@ https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8|X-Forwar
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Alberta
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg" group-title="Canada",CA | CTV News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg" group-title="Canada",CA | CTV News 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News2Digi/p/dash/00000001/7989457f94a2b42c/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg" group-title="Canada",CA | CTV News 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://pe-ak-lp02a-9c9media.akamaized.net/live/News3Digi/p/dash/00000001/531849b5c6d55eff/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg" group-title="Canada",CA | CTV News 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://pe-ak-lp02a-9c9media.akamaized.net/live/News4Digi/p/dash/00000001/4b36d011b438df10/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLpSezI.png" group-title="Canada",CA | Noovo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
