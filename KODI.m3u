@@ -914,7 +914,10 @@ https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/play
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
@@ -1099,5 +1102,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCwsWa65jkbHfvAblmmW_Z-Q&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Sport",FR | Poker TV
 http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Sport",CA | Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Sport",CA | Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LG4LSCD.jpg" group-title="Sport",IN | Doordarshan Sports
 plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
