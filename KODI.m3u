@@ -956,6 +956,12 @@ https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.tr
 https://streaming.backup.media.s.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTndPEs.png" group-title="Denemarken",DK | TV Storbyen
 https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV
+plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel
+plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour
+plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
@@ -1342,6 +1348,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=2
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDWxz1B.jpg" group-title="Sport",LU | European Volleyball
 plugin://plugin.video.youtube/play/?channel_id=UC8XRC858pOERvclUDb_d7rg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YVgHc2v.jpg" group-title="Sport",CH | International Federation of Sport Climbing
+plugin://plugin.video.youtube/play/?channel_id=UC2MGuhIaOP6YLpUx106kTQw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Sport",UK | Pokerstars
 plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X0BWZab.jpg" group-title="Sport",GI | PartyPoker TV
