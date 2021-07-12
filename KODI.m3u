@@ -750,14 +750,26 @@ plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=2
 plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 4
 plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MSrojwT.jpg" group-title="Oostenrijk",AT | ORF 1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N5z0Ihu.png" group-title="Oostenrijk",AT | ORF 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vCVPPlO.png" group-title="Oostenrijk",AT | ORF 3 [Geo]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YjHHQ3z.png" group-title="Oostenrijk",AT | ORF 1 [Geo]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
+https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yiu0Pjd.png" group-title="Oostenrijk",AT | ORF 2 [Geo]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
+https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UT0YhTq.png" group-title="Oostenrijk",AT | ORF 3 [Geo]
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61JNfgB.png" group-title="Oostenrijk",AT | ORF Sport+ [Geo]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
+https://orfs.mdn.ors.at/out/u/orfs/drmqxa/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Oostenrijk",AT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B6QWXt3.jpg" group-title="Oostenrijk",AT | Servus TV Österreich
@@ -1164,6 +1176,10 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpyd72d.png" group-title="Radio",DE | Nice
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRjdPAx.jpg" group-title="Radio",AT | ORF OÖ
+https://orf2ooe.mdn.ors.at/out/u/orf2ooe/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bhhuocz.png" group-title="Radio",CH | Radio Ticino Channel
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2gSDXat.jpg" group-title="Sport",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Sport",FR | L'Équipe [GEO]
@@ -1190,8 +1206,12 @@ https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 https://www.filmon.com/vr-streams/4121.high/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wyGDgc1.jpg" group-title="Sport",AT | Sky Sports Austria
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/laESecM.png" group-title="Sport",AT | ORF Sport+
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61JNfgB.png" group-title="Sport",AT | ORF Sport+ [Geo]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
+https://orfs.mdn.ors.at/out/u/orfs/drmqxa/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",NL | Fuel TV
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",FR | Fuel TV
