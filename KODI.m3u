@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="België",BE | Een
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V19fQm0.jpg" group-title="België",BE | Een
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OvWaMqS.jpg" group-title="België",BE | Canvas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ju7Cfje.jpg" group-title="België",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="België",BE | Sporza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2gSDXat.jpg" group-title="België",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3BtaQw.png" group-title="België",BE | Ketnet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ayelYxT.png" group-title="België",BE | Ketnet
 plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg" group-title="België",BE | Ketnet Junior
 plugin://plugin.video.vrt.nu/play/id/ketnet_jr
@@ -878,40 +878,38 @@ https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.s
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2fr94O.png" group-title="Zwitserland",CH | Royal TV
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png" group-title="Denemarken",DK | DR 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png" group-title="Denemarken",DK | DR 1 [Geo]
 https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master3200.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png" group-title="Denemarken",DK | DR 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png" group-title="Denemarken",DK | DR 2 [Geo]
 https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master3200.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYmulOw.png" group-title="Denemarken",DK | DR Ramasjang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYmulOw.png" group-title="Denemarken",DK | DR Ramasjang [Geo]
 https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master3200.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fEGJ3NX.jpg" group-title="Denemarken",DK | TV 2 Lorry
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TvwJbGi.png" group-title="Denemarken",DK | TV 2 Lorry
 https://cdn-lt-live.tv2lorry.dk/env/cluster-1-a.live.nvp1/live/hls/p/2045321/e/1_grusx1zd/tl/main/st/0/t/Tpoil8IUW0Ll-I7MNdvq9w/index-s32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wamEY0w.png" group-title="Denemarken",DK | TV 2 Fyn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYhB3dm.png" group-title="Denemarken",DK | TV 2 Fyn
 https://cdn-lt-live.tv2fyn.dk/env/cluster-1-b.live.nvp1/live/hls/p/1966291/e/0_vsfrv0zm/tl/main/st/0/t/6YzMg7iC2gGNwEhTTd--Jw/index-s32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vIobmIp.png" group-title="Denemarken",DK | TV 2 Nord Salto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qbCpdA.jpg" group-title="Denemarken",DK | TV 2 Nord Salto
 https://cdn-lt-live.tv2nord.dk/env/cluster-1-b.live.nvp1/live/hls/p/1956931/e/1_h9yfe7h2/tl/main/st/1/t/kNsCSriKvxV7XpyiejfS4g/index-s32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ehow2k.jpg" group-title="Denemarken",DK | TV 2 Øst
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrA2Hq4.png" group-title="Denemarken",DK | TV 2 Øst
 https://cdn-lt-live.tveast.dk/env/cluster-1-a.live.nvp1/live/hls/p/1953381/e/0_zphj9q61/tl/main/st/1/t/dGW0Wnoe5bhzR0qd4AdnpA/index-s32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CG8VU2c.png" group-title="Denemarken",DK | TV Syd+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTkhRk7.jpg" group-title="Denemarken",DK | TV Syd+
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIismAO.jpg" group-title="Denemarken",DK | TV Midtvest
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIoHHeP.jpg" group-title="Denemarken",DK | TV Midtvest
 https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-a.live.frp1/live/hls/p/1953371/e/1_qwqu2d0z/tl/main/st/0/t/R-Nbk7NAOQWLAqgHM2MA5Q/index-s32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yIismAO.jpg" group-title="Denemarken",DK | TV Midtvest
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIoHHeP.jpg" group-title="Denemarken",DK | TV Midtvest
 https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-a.live.frp1/live/hls/p/1953371/e/1_qwqu2d0z/tl/main/st/0/t/R-Nbk7NAOQWLAqgHM2MA5Q/index-s43.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ylB5ea2.jpg" group-title="Denemarken",DK | TV 2/Bornholm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CjXQHlX.png" group-title="Denemarken",DK | TV 2/Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rC07Op2.jpg" group-title="Denemarken",DK | TV 2 Østjylland
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nsea5EU.png" group-title="Denemarken",DK | TV 2 Østjylland
 https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cpl90ZC.png" group-title="Denemarken",DK | KKRtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2t7b05l.jpg" group-title="Denemarken",DK | KKRtv
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hATNB38.jpg" group-title="Denemarken",DK | Kanal Hovedstaden
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wgx7Mb9.png" group-title="Denemarken",DK | Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OAgXaMO.png" group-title="Denemarken",DK | TV Aarhus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZID3kYA.jpg" group-title="Denemarken",DK | TV Aarhus
 https://streaming.backup.media.s.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tvLkbh3.jpg" group-title="Denemarken",DK | TV Storbyen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTndPEs.png" group-title="Denemarken",DK | TV Storbyen
 https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
@@ -994,7 +992,6 @@ https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583db
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
@@ -1041,7 +1038,7 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamT
 https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpyd72d.png" group-title="Radio",DE | Nice
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="Sport",BE | Sporza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2gSDXat.jpg" group-title="Sport",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Sport",FR | L'Équipe [GEO]
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
