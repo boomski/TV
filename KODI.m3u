@@ -914,10 +914,45 @@ https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/play
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Windsor
+https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Vancouver
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Regina
+https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Montreal
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Halifax
+https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Calgary
+https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Edmonton
+https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Ottawa
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC St. Johns
+https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Winnipeg
+https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Charlottetown
+https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Fredericton
+https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Yellowknife
+https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xLpSezI.png" group-title="Canada",CA | Noovo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
