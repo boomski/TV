@@ -675,13 +675,10 @@ https://sdn-global-live-http-cache-3qsdn.akamaized.net/2980/amlst:5715-sbr/2980/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGkaSQ.png" group-title="Duitsland",DE | Noviy Mir
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIb3gg3.png" group-title="Duitsland",DE | TV RUS
-
+https://bemtv.parom.tv/hls/stream274/stream0.m3u8|Referer=https://www.tvrus.eu/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MH1woDV.png" group-title="Duitsland",DE | KaufBei.TV
-
+https://api.alpaca.t62a.com/hls/9103/stream0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z42mYv9.jpg" group-title="Duitsland",DE | Folx TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="Duitsland",DE | Sonus FM
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcl73d7.png" group-title="Duitsland",DE | K-TV
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
@@ -960,8 +957,10 @@ https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Radio",DE | Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mrj4D9n.png" group-title="Radio",DE | Sonus FM
+https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fpyd72d.png" group-title="Radio",DE | Nice
-plugin://plugin.video.streamlink-tester/?action=play&url=https://rrr.sz.xlcdn.com/?account=nice-broadcast-media-gmbh&file=nice-radiotv1&type=live&service=wowza&output=player
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOKpfZ0.png" group-title="Sport",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Sport",FR | L'Équipe [GEO]
