@@ -944,6 +944,32 @@ https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8|X-Fo
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Yellowknife
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Acadie
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Montreal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Ontario
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Ottawa-Gatineau
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Quebec
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Saguenay
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Saskatchewan
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Mauricie
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Manitoba
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Estrie
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Est-Quebec
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele CB-Yukon
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bm9qmSR.png" group-title="Canada",CA | ICI Tele Alberta
+https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLpSezI.png" group-title="Canada",CA | Noovo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
