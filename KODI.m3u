@@ -1382,6 +1382,8 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g4brpmX.jpg" group-title="Sport",CH | FIFA TV
 plugin://plugin.video.youtube/play/?channel_id=UCpcTrCXblq78GZrTUTLWeBw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfICjRX.jpg" group-title="Sport",US | CONCACAF
+plugin://plugin.video.youtube/play/?channel_id=UCqn7r-so0mBLaJTtTms9dAQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiuAi7M.png" group-title="Sport",BE | RSC Anderlecht
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tC2s5MM.png" group-title="Sport",BE | Club Brugge
