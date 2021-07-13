@@ -3,7 +3,43 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkgPL8L.jpg" group-title="Zweden",SE | SVT2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UaBElfq.png" group-title="Zweden",SE | Euronews 
+https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0l2zIJF.png" group-title="Zweden",SE | Oppna Kanalen
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="Zweden",SE | Västmanlands Television
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://d1g9he4wcfhgqn.cloudfront.net/edge/_451iw2h_/451iw2h/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xTFtYRn.jpg" group-title="Zweden",SE | Västmanlands Television
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://d3cpwdijdpum6e.cloudfront.net/edge/_lo9yf4l5_/lo9yf4l5/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0lmuLf.jpg" group-title="Zweden",SE | The Pet Collective International 
+https://the-pet-collective-international-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yaeBuY.png" group-title="Zweden",SE | People are Awesome 
+https://jukin-peopleareawesome-2-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Zweden",SE | Fuel TV 
+https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Zweden",SE | Rakuten Family 
+https://rakuten-family-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Zweden",SE | Rakuten Spotlight 
+https://rakuten-spotlight-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Zweden",SE | Rakuten Documentaries 
+https://rakuten-documentaries-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Zweden",SE | Rakuten Action 
+https://rakuten-action-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Zweden",SE | Rakuten Drama 
+https://rakuten-drama-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Zweden",SE | Rakuten Comedy 
+https://rakuten-comedy-9-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMLBCO7.jpg" group-title="Zweden",SE | Failarmy International 
+https://failarmy-international-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuZep0l.png" group-title="Zweden",SE | Qwest TV Classical
+https://qwestclassic-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuZep0l.png" group-title="Zweden",SE | Qwest Mix
+https://qwestmix-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuZep0l.png" group-title="Zweden",SE | Qwest Jazz and Beyond
+https://qwestjazz-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EcG94ZU.jpg" group-title="Zweden",SE | Stingray Karaoke 
+https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Zweden",SE | Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
