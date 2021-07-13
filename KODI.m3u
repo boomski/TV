@@ -1524,6 +1524,8 @@ plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Oostenrijk | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSYJuVZ.jpg" group-title="Sport",Italië | Ciclismo Live
+plugin://plugin.video.youtube/play/?channel_id=UCQl1bzhYYXYMROIuvlNDiRQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Sport",Duitsland | Tennis Channel Deutschland
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",Frankrijk | Sport en France
