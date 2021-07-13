@@ -1028,6 +1028,50 @@ https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf5AFHi.jpg" group-title="Denemarken",DK | Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Finland",FI | Euronews 
+https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Znu8wCa.jpg" group-title="Finland",FI | AfricaNews 
+https://rakuten-africanews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Finland",FI | Reuters
+https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Finland",FI | Rakuten Action 
+https://rakuten-action-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dX569rC.png" group-title="Finland",FI | Bloomberg TV 
+https://bloomberg-bloomberg-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8ctdBR.jpg" group-title="Finland",FI | Bloomberg Quicktake 
+https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Finland",FI | Rakuten Spotlight 
+https://rakuten-spotlight-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Finland",FI | Rakuten Comedy 
+https://rakuten-comedy-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Finland",FI | Rakuten Family 
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Finland",FI | Rakuten Drama 
+https://rakuten-drama-12-fi.samsung.wurl.com/manifest//playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Finland",FI | Rakuten Documentaries 
+https://rakuten-documentaries-12-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3TFKbZ.jpg" group-title="Finland",FI | MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tozqV3r.jpg" group-title="Finland",FI | Duck Tv 
+https://mmm-ducktv-4-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxXZAXH.png" group-title="Finland",FI | AVF Family 
+https://futuretoday-afv-family-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ps7Suie.png" group-title="Finland",FI | Estv
+https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uf5AFHi.jpg" group-title="Finland",FI | Young Hollywood
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Finland",FI | Insight TV
+https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wuLnvvf.jpg" group-title="Finland",FI | EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i6MUfBA.jpg" group-title="Finland",FI | Mavtv
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFRu7yC.jpg" group-title="Finland",FI | TV7
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yIbaTXH.png" group-title="Finland",FI | Taevas TV7
+http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shA6Qzc.png" group-title="Finland",FI | Himlen TV7
+http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YUs9dBq.jpg" group-title="Zweden",SE | SVT1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkgPL8L.jpg" group-title="Zweden",SE | SVT2
@@ -1376,6 +1420,8 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wuLnvvf.jpg" group-title="Sport",Denemarken | EdgeSport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wuLnvvf.jpg" group-title="Sport",Finland | EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Sport",Groot-Brittannië | Free Sports
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Sport",Groot-Brittannië | Free Sports
@@ -1455,6 +1501,8 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cVCb02R.jpg" group-title="Sport",Frankrijk | MotorSport.TV
 https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i6MUfBA.jpg" group-title="Sport",Denemarken | Mavtv
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i6MUfBA.jpg" group-title="Sport",Finland | Mavtv
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OEI0Ec.png" group-title="Sport",België | Play Sports 1 
 
