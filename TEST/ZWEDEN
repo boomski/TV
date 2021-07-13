@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="Sport",SE | ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUs9dBq.jpg" group-title="Zweden",SE | SVT1
+http://185.19.191.12:8090/SVT1/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkgPL8L.jpg" group-title="Zweden",SE | SVT2
+http://185.19.191.12:8090/SVT2/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LsAz0UW.jpg" group-title="Zweden",SE | Aftonbladet TV
+http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1sajpe.png" group-title="Zweden",SE | Dagens Industri TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/50B8mhG.png" group-title="Zweden",SE | Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0l2zIJF.png" group-title="Zweden",SE | Oppna Kanalen
+http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mol9GKz.jpg" group-title="Zweden",SE | Västmanlands Television
+https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
