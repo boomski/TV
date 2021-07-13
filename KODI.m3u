@@ -1072,6 +1072,42 @@ http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/playlist.m3u8
 http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/shA6Qzc.png" group-title="Finland",FI | Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5Uv4C9.png" group-title="Noorwegen",NO | NRK 1
+https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5Uv4C9.png" group-title="Noorwegen",NO | NRK 1 [Geo]
+https://httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive0/21/0/hls/nrk_1/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5Uv4C9.png" group-title="Noorwegen",NO | NRK 2
+https://nrk2us-f.akamaihd.net/i/nrk2us_0@107231/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5Uv4C9.png" group-title="Noorwegen",NO | NRK 2 [Geo]
+https://httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive0/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDm2hAR.png" group-title="Noorwegen",NO | NRK 3
+https://nrk3us-f.akamaihd.net/i/nrk3us_0@107233/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDm2hAR.png" group-title="Noorwegen",NO | NRK 3 [Geo]
+https://nrk-live-no.telenorcdn.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZntGjS3.jpg" group-title="Noorwegen",NO | NRK Super
+https://nrk-nrksuper.akamaized.net/24/0/hls/nrksuper/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w5Uv4C9.png" group-title="Noorwegen",NO | NRK Tegnspraak
+https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oIO30a.png" group-title="Noorwegen",NO | TV2 Nyhetsstrømmen
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHQyAEG.png" group-title="Noorwegen",NO | TV2 Sport
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuuaAs.png" group-title="Noorwegen",NO | Frikanalen
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iviMrbO.jpg" group-title="Noorwegen",NO | MTV Norge
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ip1xG5.jpg" group-title="Noorwegen",NO | Canal Motor
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6tRFPm.jpg" group-title="Noorwegen",NO | Kanal 10 Norge
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6tRFPm.jpg" group-title="Noorwegen",NO | Kanal 10 Asia
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyvqU6A.jpg" group-title="Noorwegen",NO | Gatebil TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dmEo899.jpg" group-title="Noorwegen",NO | TV Haugaland
+https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJ8KQXy.png" group-title="Noorwegen",NO | Norway Live
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YUs9dBq.jpg" group-title="Zweden",SE | SVT1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkgPL8L.jpg" group-title="Zweden",SE | SVT2
@@ -1118,6 +1154,14 @@ https://the-pet-collective-international-se.samsung.wurl.com/manifest/playlist.m
 https://jukin-peopleareawesome-2-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Zweden",SE | Fuel TV 
 https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2CPiCej.png" group-title="Ijsland",IS | RUV [Geo]
+https://ruvruverl-live-hls.secure.footprint.net/8d45da1be1ece089aa393953f6c52b4a5594c605-1543415968/ruv/ruverl/index/stream5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VOmLJIs.png" group-title="Ijsland",IS | RUV 2 [Geo]
+https://ruvruverl-live-hls.secure.footprint.net/fd04fe79e4ebc86ec78b98bcfb14bb3c01b05cde-1626205964/ruv/ruv2erl/index/stream5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5H0MZR.jpg" group-title="Ijsland",IS | N4
+https://live.tv.c.is/n4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R1jn0Iv.jpg" group-title="Ijsland",IS | Gospel Channel Scandinavia
+https://169lawskfzaua3opl.hlscdn.obs-server.com/hls/puc9djrh2cg7wjqw8v9was5fu5kh4a_src.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV
