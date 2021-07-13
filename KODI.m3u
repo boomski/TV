@@ -1122,10 +1122,16 @@ https://fueltv-fueltv-13-se.samsung.wurl.com/manifest/playlist.m3u8
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV
 plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PuZeruz.jpg" group-title="USA",US | Crackle
+https://crackle-plex.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
+https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
+https://120sports-accdn-1.plex.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour
 plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN
@@ -1134,6 +1140,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCFhbonoFqxg2b9FMRzYAwog&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjcrBN1.jpg" group-title="USA",US | Washington | Bellevue Television
 plugin://plugin.video.youtube/play/?channel_id=UCW22suSoHWumwarCbu3NkOg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SdoY8QJ.jpg" group-title="USA",US | Cooking Panda
+https://stream-us-east-1.getpublica.com/cl/623879bb-1758-4cd2-be3f-b35e3223cf6a/1280x720_1518690_3_false.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
