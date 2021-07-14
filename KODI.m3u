@@ -320,6 +320,14 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 plugin://plugin.video.youtube/play/?channel_id=UCJbgGTpBWuC87VFIKTTO4RQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPU3MR2.jpg" group-title="Groot-Brittannië",UK | TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzDoNg0.jpg" group-title="Ierland",IE | TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVgXmS2.jpg" group-title="Ierland",IE | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIzAmT0.png" group-title="Ierland",IE | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png" group-title="Ierland",IE | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
@@ -1757,6 +1765,12 @@ plugin://plugin.video.youtube/play/?channel_id=UC2ofYN9e_gnH9CgxnaewhbA&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCMSIKU7bWdmr1WB501u6zxw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6OqkIPf.png" group-title="Sport",Groot-Brittannië | ATP Tennis TV
 plugin://plugin.video.youtube/play/?channel_id=UCbcxFkd6B9xUU54InHv4Tig&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVgXmS2.jpg" group-title="Sport",Ierland | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIzAmT0.png" group-title="Sport",Ierland | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png" group-title="Sport",Ierland | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMlf8lo.jpg" group-title="Sport",Duitsland | FIBA - The Basketball Channel
 plugin://plugin.video.youtube/play/?channel_id=UCtInrnU3QbWqFGsdKT1GZtg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Svcv4vi.jpg" group-title="Sport",Duitsland | FIBA - 3x3
