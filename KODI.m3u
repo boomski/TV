@@ -288,6 +288,9 @@ plugin://plugin.video.dailymotion_com/?url=x702fmv&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x702g7a&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIFuZIz.jpg" group-title="Groot-Brittannië",UK | Local TV Tyne & Wear
 plugin://plugin.video.dailymotion_com/?url=x5eva8m&mode=playLiveVideo
+
+#EXTINF:-1 tvg-logo="" group-title="Groot-Brittannië",UK | Tastemade
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aAog3ak.jpg" group-title="Groot-Brittannië",UK | MoonBug
 https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QAxQUj6.png" group-title="Groot-Brittannië",UK | Moonbug Kids
