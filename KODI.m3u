@@ -256,8 +256,18 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Groot-Brittannië",UK | Reuters TV
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Groot-Brittannië",UK | Inwonder TV
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/58Jljqj.jpg" group-title="Groot-Brittannië",UK | English Club TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EeU8AxU.jpg" group-title="Groot-Brittannië",UK | Filmzie
+https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SzwncZ6.jpg" group-title="Groot-Brittannië",UK | London Live [Geo]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8|X-Forwarded-For=185.86.151.11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMLBCO7.jpg" group-title="Groot-Brittannië",UK | Failarmy International 
+https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YaoNFN1.jpg" group-title="Groot-Brittannië",UK | Go USA
+https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Groot-Brittannië",UK | Free Sports
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itsvrl7.png" group-title="Groot-Brittannië",UK | Free Sports
@@ -288,21 +298,28 @@ plugin://plugin.video.dailymotion_com/?url=x702fmv&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x702g7a&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIFuZIz.jpg" group-title="Groot-Brittannië",UK | Local TV Tyne & Wear
 plugin://plugin.video.dailymotion_com/?url=x5eva8m&mode=playLiveVideo
-
-#EXTINF:-1 tvg-logo="" group-title="Groot-Brittannië",UK | Tastemade
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LdYpVjB.jpg" group-title="Groot-Brittannië",UK | Time Line
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xb5rerE.png" group-title="Groot-Brittannië",UK | Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aAog3ak.jpg" group-title="Groot-Brittannië",UK | MoonBug
 https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QAxQUj6.png" group-title="Groot-Brittannië",UK | Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N375znC.png" group-title="Groot-Brittannië",UK | Pocket Watch
+https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WU398xs.jpg" group-title="Groot-Brittannië",UK | Voxafrica
 http://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5pA9BD.jpg" group-title="Groot-Brittannië",UK | LCBN
+https://25614.global.ssl.fastly.net/edge-en/ngrp:live_5363cc905d8e11eab9a8c11483dc3ae6_all/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ju0h4s0.png" group-title="Groot-Brittannië",UK | Manoto HD
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJpYNba.jpg" group-title="Groot-Brittannië",UK | Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4e2zUg.png" group-title="Groot-Brittannië",UK | Ideal World
 plugin://plugin.video.youtube/play/?channel_id=UCJbgGTpBWuC87VFIKTTO4RQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPU3MR2.jpg" group-title="Groot-Brittannië",UK | TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
@@ -1614,6 +1631,8 @@ https://www.filmon.com/vr-streams/4121.high/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
 https://orfs.mdn.ors.at/out/u/orfs/drmqxa/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQnhrv2.png" group-title="Sport",Turkije | beIN SPORTS Türkiye [Geo]
+plugin://plugin.video.youtube/play/?channel_id=UCPe9vNjHF1kEExT5kHwc7aw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",Nederland | Fuel TV
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",Frankrijk | Fuel TV
@@ -1716,10 +1735,14 @@ plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCr4sbmZGQY9T4p4KcknxSNw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZgF3B5T.png" group-title="Sport",België | Standard de Liège
 plugin://plugin.video.youtube/play/?channel_id=UCq9Q9hNYKwJ3YPEM7ICI1qw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tee3vJm.jpg" group-title="Sport",België | Royal Antwerp FC
+plugin://plugin.video.youtube/play/?channel_id=UCI1HLqz0ZNQcxY58CATSnew&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qfuw19a.png" group-title="Sport",België | Oud-Heverlee Leuven
 plugin://plugin.video.youtube/play/?channel_id=UCC_GuH5D0erBXi1XVyR1OJA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifaSIyZ.jpg" group-title="Sport",Rusland | Russian Premier Liga
 plugin://plugin.video.youtube/play/?channel_id=UCfO4uULWZvEtCCj-lw1ZO5A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OF40ySw.jpg" group-title="Sport",Andorra | FAF TV
+plugin://plugin.video.youtube/play/?channel_id=UCN059eei7oaJad-OxHNqsfA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",Dominicaanse Republiek | Liga Dominicana de Fútbol 1
 plugin://plugin.video.youtube/play/?channel_id=UCyTqCrAq1n3HF0W7dRNTArA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",Dominicaanse Republiek | Liga Dominicana de Fútbol 2
@@ -1738,6 +1761,12 @@ plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",Zwitserland | Volleybal World 3
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Sport",Zwitserland | Beach Volleybal World 1
+plugin://plugin.video.youtube/play/?channel_id=UCHQUWveEpeO1KTkwbDn6jNA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Sport",Zwitserland | Beach Volleybal World 2
+plugin://plugin.video.youtube/play/?channel_id=UCHQUWveEpeO1KTkwbDn6jNA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Sport",Zwitserland | Beach Volleybal World 3
+plugin://plugin.video.youtube/play/?channel_id=UCHQUWveEpeO1KTkwbDn6jNA&live=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDWxz1B.jpg" group-title="Sport",Luxemburg | European Volleyball
 plugin://plugin.video.youtube/play/?channel_id=UC8XRC858pOERvclUDb_d7rg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YVgHc2v.jpg" group-title="Sport",Zwitserland | International Federation of Sport Climbing
