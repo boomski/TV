@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oa9vhjS.png" group-title="Peru",PE | TVPerú HD
+https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Peru",PE | BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FI1Hd4E.png" group-title="Peru",PE | IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Peru",PE | Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cLItW9C.png" group-title="Peru",PE | CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B89KuHO.png" group-title="Peru",PE | Pax TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmAlmX4.png" group-title="Peru",PE | TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7I13BUc.png" group-title="Peru",PE | Antares TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ki7ZvDD.png" group-title="Peru",PE | Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jzAqHsz.jpg" group-title="Peru",PE | Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PFu5tT7.png" group-title="Peru",PE | Top Latino TV
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ChdEPe4.jpg" group-title="Sport",PE | Best Cable Sports
+https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
