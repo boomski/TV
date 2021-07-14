@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPJqdGy.png" group-title="Haïti",HT | Impact TV
+https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Haïti",HT | Nago TV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="Haïti",HT | Radio TeleBoston
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYoEk8m.png" group-title="Haïti",HT | Tele Eclair
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nYeBNN.jpg" group-title="Haïti",HT | Tele Haiti
+http://66.175.238.147:1935/live/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="Haïti",HT | Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
