@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlatIjx.jpg" group-title="Sport",GR | EPT SPORT
+https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqe9N5r.jpg" group-title="Griekenland",GR | EPT 1
+https://ert-live.siliconweb.com/media/ert_1/ert_1medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXWk2Dy.jpg" group-title="Griekenland",GR | EPT 2
+https://ert-live.siliconweb.com/media/ert_2/ert_2medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLxDtIh.jpg" group-title="Griekenland",GR | EPT 3
+https://ert-live.siliconweb.com/media/ert_3/ert_3medium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jT6OPuW.jpg" group-title="Griekenland",GR | ERT World
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcLqlcO.jpg" group-title="Griekenland",GR | EPT Play 1
+https://ert-live.siliconweb.com/media/ert_play_1/ert_play_1high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozWM3NM.jpg" group-title="Griekenland",GR | EPT Play 2
+https://ert-live.siliconweb.com/media/ert_play_2/ert_play_2high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8w5mR9.jpg" group-title="Griekenland",GR | EPT Play 3
+https://ert-live.siliconweb.com/media/ert_play_3/ert_play_3high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ryehye1.jpg" group-title="Griekenland",GR | EPT Play 4
+https://ert-live.siliconweb.com/media/ert_play_4/ert_play_4high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UH87y1F.png" group-title="Griekenland",GR | ANT1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTycB26.png" group-title="Griekenland",GR | Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fYBo9T.jpg" group-title="Griekenland",GR | TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOUmuYs.png" group-title="Griekenland",GR | WZRA KIDS TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBEjon4.png" group-title="Griekenland",GR | Epirus TV 1
+https://server.tvdj.info:8222/radioepirus/radioepirus/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjPFgjd.png" group-title="Griekenland",GR | Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Osxbf93.jpg" group-title="Griekenland",GR | Creta TV
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="Griekenland",GR | Μesogeios TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lf2JvoR.png" group-title="Griekenland",GR | Lychnos TV
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOMGzka.jpg" group-title="Griekenland",GR | Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
