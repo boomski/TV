@@ -330,6 +330,12 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SC4Uj1r.jpg" group-title="Ierland",IE | Rugby Women's Sevens
 https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUXlTr4.png" group-title="Ierland",IE | Oireachtas TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVQAYs7.jpg" group-title="Ierland",IE | Dail Eireann
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5Aoo6g.png" group-title="Ierland",IE | Seanad Eireann
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
