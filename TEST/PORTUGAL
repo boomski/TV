@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sHKQGnC.png" group-title="Portugal",PT | RTP1 
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cbnOPhs.png" group-title="Portugal",PT | RTP2 
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pV7I4JV.png" group-title="Portugal",PT | RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q40v2Ff.png" group-title="Portugal",PT | RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0VB3QJ.png" group-title="Portugal",PT | RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a2WJJIy.png" group-title="Portugal",PT | RTP África 
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" group-title="Sport",PT | Eurosport 1 Portugal
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ4MnoZ.jpg" group-title="Sport",PT | Sport TV 5
+http://185.236.229.21:9981/play/a03n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMwSPh7.jpg" group-title="Sport",PT | Sport TV+
+http://185.236.229.21:9981/play/a03c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IbHr9Zq.png" group-title="Portugal",PT | TVI
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DHMTUIu.jpg" group-title="Portugal",PT | TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSxzgPb.jpg" group-title="Portugal",PT | Porto Canal
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9p1qW73.jpg" group-title="Portugal",PT | SIC Mulher
+http://185.236.229.21:9981/play/a037
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynCZbOj.png" group-title="Portugal",PT | CMTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gxKLUnr.png" group-title="Portugal",PT | Cacavision
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Portugal",PT | Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Portugal",PT | Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Portugal",PT | Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
