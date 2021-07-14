@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVgXmS2.jpg" group-title="Sport",IE | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIzAmT0.png" group-title="Sport",IE | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HZp8PAw.png" group-title="Sport",IE | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNlgioH.png" group-title="Ierland",IE | RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzDoNg0.jpg" group-title="Ierland",IE | TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
