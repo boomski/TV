@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ols6oB6.png" group-title="Sport",CL | CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ob9ss3.jpg" group-title="Chili",CL | El Pingüino TV
+http://streaming.elpinguino.com:1935/live/ngrp:pinguinotv_all/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1YqTFZ.png" group-title="Chili",CL | TV Chile
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvqaFci.png" group-title="Chili",CL | TV5 Linares
+https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7gVuLSu.png" group-title="Chili",CL | TVR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dVTcSF.png" group-title="Chili",CL | UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png" group-title="Chili",CL | ITV Patagonia
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg" group-title="Chili",CL | Antofagasta TV
+https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTTj9ya.png" group-title="Chili",CL | Holvoet TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6N5OjYv.jpg" group-title="Chili",CL | EmolTv
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFbHdqZ.jpg" group-title="Chili",CL | PAUTA
+http://video-ply.pauta.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a7iI5NO.jpg" group-title="Chili",CL | Quinta TV
+https://593b04c4c5670.streamlock.net/8042/8042/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7osLgHP.png" group-title="Chili",CL | DESIERTO TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umdJ2mP.jpg" group-title="Chili",CL | Portalfoxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SmkRTGH.png" group-title="Chili",CL | Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/897eGEd.png" group-title="Chili",CL | VC ONLINE HD
+https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsHJxPn.png" group-title="Chili",CL | T13 Radio
+https://t13-radio-live.cdn.nedmedia.io/index.m3u8
