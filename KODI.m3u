@@ -1001,6 +1001,8 @@ http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 https://stream1.primetv.at/rtvlive/smil:rtvlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5y1Ll6d.jpg" group-title="Oostenrijk",AT | K19 [ONLY LIVE EVENTS]
 plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6IXkXl.png" group-title="Oostenrijk",AT | Feratel Weather Webcams
+plugin://plugin.video.youtube/play/?channel_id=UC9xLSF0SZDbVa70iTpghQBw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxISEZf.png" group-title="Oostenrijk",AT | Go TV
 https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="Oostenrijk",AT | Teins TV
