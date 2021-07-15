@@ -1311,20 +1311,62 @@ plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
 https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJzz99b.jpg" group-title="USA",US | Albany | WHMT [Geo]
 https://wmhtdt.lls.cdn.pbs.org/wmhtdt/0777611a-56f1-4668-8094-932ae7498998/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVPGe4M.png" group-title="USA",US | Arkansas | PBS Arkansas [Geo]
+https://ketsdt.lls.cdn.pbs.org/ketsdt/b5545820-5d66-4396-9f94-b5bd58aa34d9/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGvLehG.jpg" group-title="USA",US | Atlanta | PBS Atlanta (WBPA) [Geo]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X26CxY1.png" group-title="USA",US | Binghamton | WSKG [Geo]
 https://wskgdt.lls.cdn.pbs.org/wskgdt/2d4742f8-8053-4ea5-8aab-1494fd1822c5/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2NfucoU.jpg" group-title="USA",US | Bowling Green | WKU [Geo] 
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jtdho0W.jpg" group-title="USA",US | Buffalo | WNED [Geo]
 https://wneddt.lls.cdn.pbs.org/wneddt/7e1c137a-9e83-4416-8b5a-b81042382e91/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LRt1LVZ.png" group-title="USA",US | Carbondale | WSIU [Geo]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/isbhLrh.png" group-title="USA",US | Charleston | WEIU [Geo]
+https://weiudt.lls.cdn.pbs.org/weiudt/85af7dd6-89ae-4fde-9826-79b04c30aaa4/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Css4RAl.jpg" group-title="USA",US | Chicago | WTTW [Geo]
+https://wttwdt.lls.cdn.pbs.org/wttwdt/8030a253-4b34-463e-82e2-ec0726e24e58/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9IT0GXB.jpg" group-title="USA",US | Cleveland | WEWS 5 ABC
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H8nfO3W.png" group-title="USA",US | Colorado | PBS Rocky Mountain [Geo]
+https://krmadt.lls.cdn.pbs.org/krmadt/1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n6lhnqB.png" group-title="USA",US | Colorado | PBS 12 KBDI [Geo]
+https://kbdidt.lls.cdn.pbs.org/kbdidt/b4721bf0-b2c5-4568-ba88-69954956292f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ardUDKe.jpg" group-title="USA",US | Erie | WQLN [Geo]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n1ST41v.jpg" group-title="USA",US | Fort Myers | WGCU [Geo]
+https://wgcudt.lls.cdn.pbs.org/wgcudt/19aacc3d-896b-4426-b319-ea0082ef6369/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53zYQxg.png" group-title="USA",US | Gainesville | WUFT [Geo] 
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Im8WV18.png" group-title="USA",US | Georgia | WVAN [Geo]
+https://wgtvdt.lls.cdn.pbs.org/wgtvdt/a4907776-c769-452f-ab2f-74bb1f86676f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o2YxtxF.png" group-title="USA",US | Hawaii | PBS Hawaii [Geo]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rh1uckh.png" group-title="USA",US | Idaho | KAID [Geo]
+https://kaiddt.lls.cdn.pbs.org/kaiddt/8a949120-ff4f-4d71-9c96-ca4978e3b39a/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAy75I6.jpg" group-title="USA",US | Iowa | PBS Iowa [Geo]
+https://kdindt.lls.cdn.pbs.org/kdindt/4b65e70a-e262-4290-ae67-45bd0814cafd/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiJ6FEr.png" group-title="USA",US | Jacksonville | WJCT [Geo]
+https://wjctdt.lls.cdn.pbs.org/wjctdt/5eee712c-8713-4283-8af1-c0ba9d25d6fd/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H6163wy.jpg" group-title="USA",US | Kansas | PBS Smoky Hills [Geo]
+https://kooddt.lls.cdn.pbs.org/kooddt/42bf8024-6bd7-4a3f-b945-00a9ae88e8f1/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V2G4yyV.png" group-title="USA",US | Kentucky | PBS Kentucky [Geo]
+https://wkledt.lls.cdn.pbs.org/wkledt/61059d95-3011-4270-b9d1-17b88ca25b13/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QM4bL4n.png" group-title="USA",US | Lehigh Valley | WLVT
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QM4bL4n.png" group-title="USA",US | Lehigh Valley | WLVT [Geo]
 https://wlvtdt.lls.cdn.pbs.org/wlvtdt/43e7850f-48a2-4e3e-b045-c880ea935fbd/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rWmzqv.jpg" group-title="USA",US | Louisiana | LPB [Geo]
+https://wlpbdt.lls.cdn.pbs.org/wlpbdt/3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmjoCsm.jpg" group-title="USA",US | Miami | WLRN [Geo]
+https://wlrndt.lls.cdn.pbs.org/wlrndt/8f70a678-a636-4dfa-873e-699f0212f78b/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hGH702.png" group-title="USA",US | Miami | WPBT [Geo]
+https://wpbtdt.lls.cdn.pbs.org/wpbtdt/b2c0d4c6-4544-4bb3-8d2d-bc803c5d7381/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9L9dy1.jpg" group-title="USA",US | Moline | WQPT [Geo]
+https://wqptdt.lls.cdn.pbs.org/wqptdt/d431813a-086d-4a12-917a-d160f6b5c4c7/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HFVsrF2.jpg" group-title="USA",US | New Orleans | WYES [Geo]
+https://wyesdt.lls.cdn.pbs.org/wyesdt/6c0e9c73-3ad2-45c6-9741-1aa36878006a/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqALAAZ.png" group-title="USA",US | New York | News 12
 plugin://plugin.video.youtube/play/?channel_id=UCFhbonoFqxg2b9FMRzYAwog&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xzc0Sw3.png" group-title="USA",US | New York | WLIW [Geo]
@@ -1335,6 +1377,10 @@ https://wnetdt.lls.cdn.pbs.org/wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/prima
 https://witfdt.lls.cdn.pbs.org/witfdt/6b45b1e5-671e-439a-8673-ad21a5e56f32/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rSMFHix.png" group-title="USA",US | Pennsylvania | WPSU [Geo]
 https://wpsudt.lls.cdn.pbs.org/wpsudt/dfef8386-9db4-41b2-97ab-82cdce4a19be/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdVJzXZ.png" group-title="USA",US | Pensacola | WSRE [Geo]
+https://wsredt.lls.cdn.pbs.org/wsredt/fc47f495-57b9-4aea-bb6b-d2ce52b74ea1/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOf7frR.png" group-title="USA",US | Peoria | WTVP [Geo]
+https://wtvpdt.lls.cdn.pbs.org/wtvpdt/41427091-bd65-483d-bdb5-9a4159a5d93e/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMoHiMx.png" group-title="USA",US | Philadelphia | WHYY [Geo]
 https://whyydt.lls.cdn.pbs.org/whyydt/6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lC16zKy.png" group-title="USA",US | Phoenix | KAET [Geo]
@@ -1347,12 +1393,28 @@ https://wxxidt.lls.cdn.pbs.org/wxxidt/d518ca7e-a094-4362-832b-ae1d426d3729/prima
 https://wviadt.lls.cdn.pbs.org/wviadt/951e97d7-7c2c-45c0-abff-261c852fcb7d/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t9YaRc.jpg" group-title="USA",US | Syracuse | WCNY [Geo] 
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FhY68e.jpg" group-title="USA",US | Tallahassee | WFSU [Geo]
+https://wfsuhd.lls.cdn.pbs.org/wfsuhd/da7db8ae-5c3b-450e-9a25-76aa661eac79/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1JlAgY.jpg" group-title="USA",US | Tampa | WEDU [Geo]
+https://wedudt.lls.cdn.pbs.org/wedudt/c4ab80c1-ca8c-4a6e-a8b5-c5995919792b/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/linxzNl.png" group-title="USA",US | Topeka | KTWU [Geo]
+https://ktwudt.lls.cdn.pbs.org/ktwudt/164fbea8-3e32-44f3-a701-20ad6de50b72/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHCGNtK.png" group-title="USA",US | Tucson | KUAT [Geo]
 https://kuatdt.lls.cdn.pbs.org/kuatdt/3ac0f71f-c3c4-4e14-92ef-ccd30b4daca6/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j32UlSu.png" group-title="USA",US | Urbana | WILL [Geo]
+https://willdt.lls.cdn.pbs.org/willdt/11bd36cd-46d5-4c3a-bdc8-ae497a23c712/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjcrBN1.jpg" group-title="USA",US | Washington | Bellevue Television
 plugin://plugin.video.youtube/play/?channel_id=UCW22suSoHWumwarCbu3NkOg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7cdkl3.png" group-title="USA",US | Washington | WETA Metro [Geo] 
+https://wetadt5.lls.cdn.pbs.org/wetadt5/92d89794-5ff0-4fe6-a443-cc888104e021/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YU0Kura.jpg" group-title="USA",US | Washington | WHUT [Geo]
+https://whutdt.lls.cdn.pbs.org/whutdt/722b847a-5e2a-4d14-9429-2d430b10b1ee/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O2ySIbp.jpg" group-title="USA",US | Watertown | WPBS [Geo]
 https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7OtEaTX.png" group-title="USA",US | West Palm Beach | WXEL [Geo]
+https://wxeldt.lls.cdn.pbs.org/wxeldt/6f553836-7e24-445a-8c3c-cc418aaba9dc/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWwnxVw.jpg" group-title="USA",US | Wichita | PBS Kansas [Geo]
+https://kptsdt.lls.cdn.pbs.org/kptsdt/f8cd0e67-9e8d-464d-aaf1-f7874f5f6ae6/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crYZH7T.jpg" group-title="USA",US | SurvivorNetTV
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SdoY8QJ.jpg" group-title="USA",US | Cooking Panda
