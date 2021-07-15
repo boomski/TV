@@ -591,8 +591,16 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forw
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pd3UjdN.jpg" group-title="Duitsland",DE | Tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1992_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9mD4ij.png" group-title="Duitsland",DE | ZDF [Geo]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUWxD5p.png" group-title="Duitsland",DE | ZDFinfo [Geo]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3KGFBs.jpg" group-title="Duitsland",DE | ZDFneo [Geo]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8CF43Fa.png" group-title="Duitsland",DE | 3sat [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NW6E29j.jpg" group-title="Duitsland",DE | Phoenix [Geo]
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5wm1c.jpg" group-title="Duitsland",DE | RTL West
 https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTwH3rB.jpg" group-title="Duitsland",DE | NTV [Geo]
@@ -1299,12 +1307,52 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN
 plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Xdw3DJ.jpg" group-title="USA",US | Alaska | Alaska Public Media [Geo]
+https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sJzz99b.jpg" group-title="USA",US | Albany | WHMT [Geo]
+https://wmhtdt.lls.cdn.pbs.org/wmhtdt/0777611a-56f1-4668-8094-932ae7498998/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X26CxY1.png" group-title="USA",US | Binghamton | WSKG [Geo]
+https://wskgdt.lls.cdn.pbs.org/wskgdt/2d4742f8-8053-4ea5-8aab-1494fd1822c5/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jtdho0W.jpg" group-title="USA",US | Buffalo | WNED [Geo]
+https://wneddt.lls.cdn.pbs.org/wneddt/7e1c137a-9e83-4416-8b5a-b81042382e91/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9IT0GXB.jpg" group-title="USA",US | Cleveland | WEWS 5 ABC
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ardUDKe.jpg" group-title="USA",US | Erie | WQLN [Geo]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2YxtxF.png" group-title="USA",US | Hawaii | PBS Hawaii [Geo]
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QM4bL4n.png" group-title="USA",US | Lehigh Valley | WLVT
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QM4bL4n.png" group-title="USA",US | Lehigh Valley | WLVT [Geo]
+https://wlvtdt.lls.cdn.pbs.org/wlvtdt/43e7850f-48a2-4e3e-b045-c880ea935fbd/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqALAAZ.png" group-title="USA",US | New York | News 12
 plugin://plugin.video.youtube/play/?channel_id=UCFhbonoFqxg2b9FMRzYAwog&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xzc0Sw3.png" group-title="USA",US | New York | WLIW [Geo]
+https://wliwdt.lls.cdn.pbs.org/wliwdt/a58c2765-7e77-4114-9668-75920022c6bc/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmdPgvk.png" group-title="USA",US | New York | WNET [Geo]
+https://wnetdt.lls.cdn.pbs.org/wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XT0rkpX.jpg" group-title="USA",US | Pennsylvania | WITF [Geo]
+https://witfdt.lls.cdn.pbs.org/witfdt/6b45b1e5-671e-439a-8673-ad21a5e56f32/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rSMFHix.png" group-title="USA",US | Pennsylvania | WPSU [Geo]
+https://wpsudt.lls.cdn.pbs.org/wpsudt/dfef8386-9db4-41b2-97ab-82cdce4a19be/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aMoHiMx.png" group-title="USA",US | Philadelphia | WHYY [Geo]
+https://whyydt.lls.cdn.pbs.org/whyydt/6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lC16zKy.png" group-title="USA",US | Phoenix | KAET [Geo]
+https://kaetdt.lls.cdn.pbs.org/kaetdt/6d08b852-2c19-4eb7-9348-a5e15b685357/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKbQD6U.png" group-title="USA",US | Pittsburgh | WQED [Geo]
+https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFwOkmQ.jpg" group-title="USA",US | Rochester | WXXI [Geo]
+https://wxxidt.lls.cdn.pbs.org/wxxidt/d518ca7e-a094-4362-832b-ae1d426d3729/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sL0LkVl.jpg" group-title="USA",US | Scranton | WVIA [Geo]
+https://wviadt.lls.cdn.pbs.org/wviadt/951e97d7-7c2c-45c0-abff-261c852fcb7d/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6t9YaRc.jpg" group-title="USA",US | Syracuse | WCNY [Geo] 
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHCGNtK.png" group-title="USA",US | Tucson | KUAT [Geo]
+https://kuatdt.lls.cdn.pbs.org/kuatdt/3ac0f71f-c3c4-4e14-92ef-ccd30b4daca6/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjcrBN1.jpg" group-title="USA",US | Washington | Bellevue Television
 plugin://plugin.video.youtube/play/?channel_id=UCW22suSoHWumwarCbu3NkOg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2ySIbp.jpg" group-title="USA",US | Watertown | WPBS [Geo]
+https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crYZH7T.jpg" group-title="USA",US | SurvivorNetTV
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SdoY8QJ.jpg" group-title="USA",US | Cooking Panda
