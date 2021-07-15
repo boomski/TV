@@ -1745,6 +1745,8 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",Frankrijk | Africa Sports TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQUGztm.jpg" group-title="Sport",Marokko | Arryadia TV
+plugin://plugin.video.youtube/play/?channel_id=UCRN5ho3UGhUi7ZCBe2G2f2w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g4brpmX.jpg" group-title="Sport",Zwitserland | FIFA TV
 plugin://plugin.video.youtube/play/?channel_id=UCpcTrCXblq78GZrTUTLWeBw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfICjRX.jpg" group-title="Sport",USA | CONCACAF
