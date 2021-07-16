@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ySxsmK9.jpg" group-title="Noord-Macedonië",MK | MRT 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gtqa9lj.jpg" group-title="Noord-Macedonië",MK | Sitel
+http://51.89.67.64:8081/tvstanici/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="Noord-Macedonië",MK | Sky Folk TV
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYTdqIc.png" group-title="Noord-Macedonië",MK | Star Folk
+http://live.muzickatv.mk/hls/Starmusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C67vLVL.jpg" group-title="Noord-Macedonië",MK | TV+ Kumanovo
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FHZpMo.png" group-title="Noord-Macedonië",MK | Shenja
+http://5.135.92.133:52841/out/u/145_1.m3u8
