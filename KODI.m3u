@@ -241,6 +241,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BylevGX.png" group-title="Groot-Brittannië",UK | 5 USA
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFaC5uK.png" group-title="Groot-Brittannië",UK | Sky News
+plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Groot-Brittannië",UK | Reuters TV
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Groot-Brittannië",UK | Inwonder TV
@@ -1385,6 +1387,10 @@ https://krmadt.lls.cdn.pbs.org/krmadt/1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c/prima
 https://kbdidt.lls.cdn.pbs.org/kbdidt/b4721bf0-b2c5-4568-ba88-69954956292f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ardUDKe.jpg" group-title="USA",US | Erie | WQLN [Geo]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKKHlB3.jpg" group-title="USA",US | Fort Myers | ABC7 SWFL
+plugin://plugin.video.youtube/play/?channel_id=UCq9e_hCv2jvgck8WowW1NXg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VPmjLlu.jpg" group-title="USA",US | Fort Myers | NBC News 2
+plugin://plugin.video.youtube/play/?channel_id=UCIYVU7fPs_n6gJIBso3ryeg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n1ST41v.jpg" group-title="USA",US | Fort Myers | WGCU [Geo]
 https://wgcudt.lls.cdn.pbs.org/wgcudt/19aacc3d-896b-4426-b319-ea0082ef6369/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53zYQxg.png" group-title="USA",US | Gainesville | WUFT [Geo] 
@@ -1423,6 +1429,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCFhbonoFqxg2b9FMRzYAwog&live=1
 https://wliwdt.lls.cdn.pbs.org/wliwdt/a58c2765-7e77-4114-9668-75920022c6bc/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmdPgvk.png" group-title="USA",US | New York | WNET [Geo]
 https://wnetdt.lls.cdn.pbs.org/wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJqalAJ.jpg" group-title="USA",US | Oregon | KOBI-TV NBC 5
+plugin://plugin.video.youtube/play/?channel_id=UCDDHvAu-pNOgdzgHha96Qnw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XT0rkpX.jpg" group-title="USA",US | Pennsylvania | WITF [Geo]
 https://witfdt.lls.cdn.pbs.org/witfdt/6b45b1e5-671e-439a-8673-ad21a5e56f32/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rSMFHix.png" group-title="USA",US | Pennsylvania | WPSU [Geo]
@@ -1447,6 +1455,8 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://wfsuhd.lls.cdn.pbs.org/wfsuhd/da7db8ae-5c3b-450e-9a25-76aa661eac79/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1JlAgY.jpg" group-title="USA",US | Tampa | WEDU [Geo]
 https://wedudt.lls.cdn.pbs.org/wedudt/c4ab80c1-ca8c-4a6e-a8b5-c5995919792b/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/afidFCO.jpg" group-title="USA",US | Texas | Texas Weather Tracker TV
+plugin://plugin.video.youtube/play/?channel_id=UCMZiahOsO-Ad4IgrD6x4E1A&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/linxzNl.png" group-title="USA",US | Topeka | KTWU [Geo]
 https://ktwudt.lls.cdn.pbs.org/ktwudt/164fbea8-3e32-44f3-a701-20ad6de50b72/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHCGNtK.png" group-title="USA",US | Tucson | KUAT [Geo]
