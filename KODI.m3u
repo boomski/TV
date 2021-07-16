@@ -1327,6 +1327,8 @@ https://ruvruverl-live-hls.secure.footprint.net/fd04fe79e4ebc86ec78b98bcfb14bb3c
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1jn0Iv.jpg" group-title="Ijsland",IS | Gospel Channel Scandinavia
 https://169lawskfzaua3opl.hlscdn.obs-server.com/hls/puc9djrh2cg7wjqw8v9was5fu5kh4a_src.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now
+plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV
