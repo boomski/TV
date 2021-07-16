@@ -17,3 +17,10 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8|User-Agen
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Marokko",MA | Télé Maroc
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Marokko",MA | M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyTEyUo.png" group-title="Marokko",MA | Medi 1 TV Maghreb
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WyTEyUo.png" group-title="Marokko",MA | Medi 1 TV Arabic
+https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SqfC2G2.png" group-title="Marokko",MA | Chada TV
