@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Y1dUtF.png" group-title="Sport",KR | JTBC GOLF&SPORTS
+http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/knM3pJm.png" group-title="Sport",KR | JTBC Golf
+http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvdkdHL.png" group-title="Zuid-Korea",KR | Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GcU8Uer.png" group-title="Zuid-Korea",KR | EBS 1
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pIOBbqT.png" group-title="Zuid-Korea",KR | Fishing TV
+http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="Zuid-Korea",KR | CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCFAAJb.png" group-title="Zuid-Korea",KR | Hallypop
+https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
