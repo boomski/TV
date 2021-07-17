@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nyINUz.jpg" group-title="Bosnië en Herzegovina",BA | RTRS TV
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f9ajRl5.png" group-title="Bosnië en Herzegovina",BA | Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Bosnië en Herzegovina",BA | Hema Televizija
+http://77.238.209.50:8080/hema1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="Bosnië en Herzegovina",BA | B1 TV
+http://wowza.bihnet.net:88/hls/b1-live.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IKlrt7F.jpg" group-title="Bosnië en Herzegovina",BA | 777 Tehnika TV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1yrEQS.png" group-title="Bosnië en Herzegovina",BA | BN Music
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vLMqAy.jpg" group-title="Bosnië en Herzegovina",BA | N1 
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
