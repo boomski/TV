@@ -70,16 +70,8 @@ https://mdst-boing-live-dash.secure.footprint.net/live/nas_live/boing/dash/boing
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2bxIgQ.jpg" group-title="Spanje",ES | Ten
 http://91.126.141.201:1935/live/ten/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zHnN2Gh.jpg" group-title="Spanje",ES | Libertad Digital
-plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0D4VCG.jpg" group-title="Spanje",ES | Negocios TV
-https://play.gooru.live/playnegocios/5646-1603313320000/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGqrlS2.jpg" group-title="Spanje",ES | Nius
-https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U842Z2c.png" group-title="Spanje",ES | Canal Parlamento
-http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VbxfLY5.png" group-title="Spanje",ES | El Sembrador TV
-https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
+
+
 
 
 
@@ -97,54 +89,20 @@ https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 https://5940924978228.streamlock.net/8161/8161/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="Spanje",ES | País Vasco | Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P9n1g5B.jpg" group-title="Spanje",ES | Communidad Foral de Navarra | Navarra TV
-https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0drrFFN.jpg" group-title="Spanje",ES | Communidad Foral de Navarra | TeleRibera
-http://37.187.7.106/teleribera/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PdrXhom.jpg" group-title="Spanje",ES | Castilla y León | La 7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fFyW0D.jpg" group-title="Spanje",ES | Castilla y León | La 8 Avila
-https://cdnlive.shooowit.net/la8avilalive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IamDS7p.png" group-title="Spanje",ES | Castilla y León | La 8 Bierzo
-https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKgtdTX.jpg" group-title="Spanje",ES | Castilla y León | La 8 Burgos
-https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jv5F8zI.jpg" group-title="Spanje",ES | Castilla y León | La 8 Leon
-https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hsj1NIP.jpg" group-title="Spanje",ES | Castilla y León | La 8 Palencia
-https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/27qOomz.png" group-title="Spanje",ES | Castilla y León | La 8 Salamanca
-https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xBL4HEV.png" group-title="Spanje",ES | Castilla y León | La 8 Segovia
-https://cdnlive.shooowit.net/la8segovialive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Tn3qdO.jpg" group-title="Spanje",ES | Castilla y León | La 8 Soria
-https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LVbv3Ko.png" group-title="Spanje",ES | Castilla y León | La 8 Valladolid
-https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgplxRA.jpg" group-title="Spanje",ES | Castilla y León | La 8 Zamora
-https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B86td7F.jpg" group-title="Spanje",ES | Castilla y León | Canal 54
-https://videocdn.mixer.com/hls/26772748-4d1a153df5cb5d4418ca30bad3049144_source/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sLebShE.png" group-title="Spanje",ES | Castilla y León | TV Benavente
-https://593fa17dec176.streamlock.net/gcm5/gcm5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsh3x16.png" group-title="Spanje",ES | Castilla y León | Televisión Aranda
-https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pjT938.jpg" group-title="Spanje",ES | Castilla y León | Junta Castilla y León
-https://secuoya-live2.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KP6NG5K.png" group-title="Spanje",ES | Andalucia | Canal Sur Andalucía
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KP6NG5K.png" group-title="Spanje",ES | Andalucia | Canal Sur 1 Andalucía
-https://cdnlive.shooowit.net/rtvalive/smil:channel3.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KP6NG5K.png" group-title="Spanje",ES | Andalucia | Canal Sur 2 Andalucía
-https://eg128.tmira.com/rtvalive/canal2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KP6NG5K.png" group-title="Spanje",ES | Andalucia | Andalucía TV
-https://cdnlive.shooowit.net/rtvalive/smil:channel2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q71jewZ.jpg" group-title="Spanje",ES | Andalucia | TV Centro Andalucía
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SSP19z.jpg" group-title="Spanje",ES | Andalucia | Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Spanje",ES | Andalucia | Canal Málaga
-http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jRGa1GK.jpg" group-title="Spanje",ES | Andalucia | 101TV Malaga
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z173m1j.jpg" group-title="Spanje",ES | Andalucia | PTV Malaga
@@ -243,8 +201,6 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TaS8JC.jpg" group-title="Spanje",ES | Communidad Valenciana | 7 TeleValencia
 https://live-edge-lon-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0OWqNv.png" group-title="Spanje",ES | Communidad Valenciana | La 8 Mediterráneo
-https://live-edge-lon-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8|Referer=http://www.laocho.tv/es/directo/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjPncFP.jpg" group-title="Spanje",ES | Communidad Valenciana | Elche 7 TV 
 https://streaming.elche7tv.es/hls/canal2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laEKihH.jpg" group-title="Spanje",ES | Communidad Valenciana | Canal 56
@@ -269,8 +225,7 @@ https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="Spanje",ES | Castilla-La Mancha | Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GQJzR4x.png" group-title="Spanje",ES | Ceuta | RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kI1iNvY.jpg" group-title="Spanje",ES | Principado de Asturias | TPA7
 https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lnteNyV.jpg" group-title="Spanje",ES | Principado de Asturias | EsAsturiasTV
@@ -286,5 +241,4 @@ https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M750qqO.jpg" group-title="Spanje",ES | Melilla | Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kzedlEr.jpg" group-title="Sport",ES | PLUTO TV | PLUTO TV Deportes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+
