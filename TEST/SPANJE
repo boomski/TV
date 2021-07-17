@@ -68,9 +68,8 @@ https://mdst-fdf-live-dash.secure.footprint.net/live/nas_live/fdf/dash/fdf.mpd?b
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://mdst-boing-live-dash.secure.footprint.net/live/nas_live/boing/dash/boing.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0eabfb73fbe4d0e9dc74a0895b4c627d60cc2e4b0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2bxIgQ.jpg" group-title="Spanje",ES | Ten
-http://91.126.141.201:1935/live/ten/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upKWdDt.jpg" group-title="Spanje",ES | El Toro TV
-https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
+http://91.126.141.201:1935/live/ten/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zHnN2Gh.jpg" group-title="Spanje",ES | Libertad Digital
 plugin://plugin.video.dailymotion_com/?url=xnm032&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0D4VCG.jpg" group-title="Spanje",ES | Negocios TV
@@ -91,7 +90,7 @@ https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06mbumL.jpg" group-title="Spanje",ES | País Vasco | TeleDonosti
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FD4Ebu2.png" group-title="Spanje",ES | País Vasco | Tele 7
-https://59c8647978660.streamlock.net/8128/8128/chunklist_w577230184.m3u8
+https://59c8647978660.streamlock.net/8128/8128/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SPauVSQ.jpg" group-title="Spanje",ES | País Vasco | Hamaika Telebista
 https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qps5MiN.png" group-title="Spanje",ES | País Vasco | Oizmendi Telebista
