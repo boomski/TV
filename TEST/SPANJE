@@ -11,20 +11,10 @@ https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp1V9JJ.jpg" group-title="Sport",ES | Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0mAYnw.png" group-title="Sport",ES | Teledeporte
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8|X-Forwarded-For=88.26.241.23
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/koxbASS.png" group-title="Sport",ES | Fight Time
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rv0cVR7.png" group-title="Spanje",ES | La 1
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MYjFpEh.png" group-title="Spanje",ES | La 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="Spanje",ES | 24 Horas
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3mtW94M.jpg" group-title="Spanje",ES | Clan
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.23
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AlE2n7Z.jpg" group-title="Spanje",ES | mtmad 24h 
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/master.m3u8|X-Forwarded-For=88.26.241.23
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mR9c6r7.jpg" group-title="Spanje",ES | Antena 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -91,34 +81,13 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbxfLY5.png" group-title="Spanje",ES | El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Spanje",ES | Cataluña | TV3 
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/chunklist.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="Spanje",ES | Cataluña | TV3 Catalunya
-https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="Spanje",ES | Cataluña | 324 
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LPHwlhx.png" group-title="Spanje",ES | Cataluña | Super 3
-https://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist.m3u8|X-Forwarded-For=88.26.241.242
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pY8zxN3.png" group-title="Spanje",ES | Cataluña | Bon Dia TV
-https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/szFw7MG.png" group-title="Sport",ES | Cataluña | Esport3
-http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8|X-Forwarded-For=88.26.241.242
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="Spanje",ES | Cataluña | 25 TV
-http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KeBXBJE.png" group-title="Spanje",ES | País Vasco | ETB 1
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SYkOBKP.png" group-title="Spanje",ES | País Vasco | ETB 2
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Spanje",ES | País Vasco | EITB
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oB0sVOc.jpg" group-title="Sport",ES | País Vasco | ETB Deportes
-https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8|X-Forwarded-For=88.26.241.242
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ncvPzdj.png" group-title="Spanje",ES | País Vasco | Goiena
-https://zuzenean.goienamedia.eus:8443/telebista.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1eMKV9.jpg" group-title="Spanje",ES | País Vasco | TeleBilbao
-https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2YUhVkZ.jpg" group-title="Spanje",ES | País Vasco | 28 Kanala
-https://5940924978228.streamlock.net/8157/8157/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06mbumL.jpg" group-title="Spanje",ES | País Vasco | TeleDonosti
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FD4Ebu2.png" group-title="Spanje",ES | País Vasco | Tele 7
@@ -311,20 +280,7 @@ https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yDYkSQH.png" group-title="Spanje",ES | Extremadura | Cáceres Tevé
 https://ce2019100818001.dnssw.net/hls/ceres.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="Spanje",ES | Galicia | TVG América
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Spanje",ES | Galicia | TVG Infantil
-http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Spanje",ES | Galicia | TVG Cultural
-http://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Spanje",ES | Galicia | TVG Musigal
-http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Spanje",ES | Galicia | TVG Evento 1
-http://events1-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Spanje",ES | Galicia | TVG Evento 2
-http://events2-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="Spanje",ES | Galicia | TVG Momento
-http://momentog-crtvg.flumotion.com/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WeXhC2f.jpg" group-title="Spanje",ES | Galicia | Hermes TV
 https://cdn01.yowi.tv/1H23S04G4M/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/48FFpRJ.jpg" group-title="Spanje",ES | Melilla | Popular TV Melilla
