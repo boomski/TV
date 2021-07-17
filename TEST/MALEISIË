@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9uPPgo.jpg" group-title="Maleisië",MY | RTM 1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AGPdE5U.jpg" group-title="Maleisië",MY | RTM 2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iv2a6FD.png" group-title="Maleisië",MY | Berita RTM 
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n5Y04TL.png" group-title="Maleisië",MY | RTM Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdH5Tx9.png" group-title="Maleisië",MY | 8TV
+plugin://plugin.video.dailymotion_com/?url=x7a7ru1&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7ZhCPn.png" group-title="Maleisië",MY | TV9
+plugin://plugin.video.dailymotion_com/?url=x7a7rf7&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHdFNyP.jpg" group-title="Maleisië",MY | Drama Sangat
+plugin://plugin.video.dailymotion_com/?url=x6zvnex&mode=playLiveVideo 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMOWiuG.png" group-title="Maleisië",MY | Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52JsuOB.png" group-title="Maleisië",MY | Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52JsuOB.png" group-title="Maleisië",MY | Astro Go Shop Malay
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNRNZnG.png" group-title="Maleisië",MY | Astro Gaaya
+http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52JsuOB.png" group-title="Maleisië",MY | Astro Go Shop 
+https://agplayback03.aotg-video.astro.com.my/CH2/master_GOSHOP2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJ9sZJy.png" group-title="Maleisië",MY | Astro Naura
+https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RbLzDg.png" group-title="Maleisië",MY | Channel V
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DdjMfd6.png" group-title="Maleisië",MY | KIX 
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQeufLt.jpg" group-title="Maleisië",MY | Hello HD
+https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YYXvfqw.png" group-title="Maleisië",MY | Bernama
