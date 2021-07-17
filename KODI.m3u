@@ -1343,6 +1343,8 @@ https://live.tv.c.is/n4/index.m3u8
 https://169lawskfzaua3opl.hlscdn.obs-server.com/hls/puc9djrh2cg7wjqw8v9was5fu5kh4a_src.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UYoAFNE.png" group-title="Spanje",ES | EITB Basque
 plugin://plugin.video.youtube/play/?channel_id=UCOHCRQDAr9HC5d59XvziJFQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lUbqJVt.jpg" group-title="Spanje",ES | Canal Sur Andalucia
+plugin://plugin.video.youtube/play/?channel_id=UCqwjtgaJflHga2aPWphG5PQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMIGKUa.jpg" group-title="Spanje",ES | Málaga 24h TV Noticias
 plugin://plugin.video.youtube/play/?channel_id=UCoMWImnPAur6JhXDK63dpAg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now
