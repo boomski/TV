@@ -1353,6 +1353,8 @@ https://169lawskfzaua3opl.hlscdn.obs-server.com/hls/puc9djrh2cg7wjqw8v9was5fu5kh
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlE2n7Z.jpg" group-title="Spanje",ES | mtmad 24h 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVJ9G7q.png" group-title="Spanje",ES | El Toro TV
+https://fake-live-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lUbqJVt.jpg" group-title="Spanje",ES | Andalucia | Canal Sur Andalucia
 plugin://plugin.video.youtube/play/?channel_id=UCqwjtgaJflHga2aPWphG5PQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMIGKUa.jpg" group-title="Spanje",ES | Andalucia | Málaga 24h TV Noticias
