@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AR3Snsb.png" group-title="Sport",IR | Varzesh TV Farsi
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDY4Aiq.png" group-title="Sport",IR | Varzesh TV Farsi 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cE6nKMN.png" group-title="Sport",IR | Varzesh TV Farsi 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1e6M2L.png" group-title="Sport",IR | Varzesh TV Farsi 4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVAGOv5.png" group-title="Sport",IR | IRIB Varzesh
+https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hZjj9kH.png" group-title="Iran",IR | IRIB 1
+https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DbHF472.png" group-title="Iran",IR | IRIB 2
+https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpgHNXs.png" group-title="Iran",IR | IRIB 3 
+https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZDRDAf.png" group-title="Iran",IR | IRIB 4
+https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/12x2Z1r.png" group-title="Iran",IR | IRIB 5
+https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05pSCOI.png" group-title="Iran",IR | IRIB Ofogh
+https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1p97zM.png" group-title="Iran",IR | IRIB Amoozesh
+https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJ9UsLT.png" group-title="Iran",IR | IRIB Nasim
+https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJ9UsLT.png" group-title="Iran",IR | IRIB Nasim
+https://live.farsiland.com/nasim/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCmSo9i.png" group-title="Iran",IR | iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Iran",IR | iFILM
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ThcqLbU.png" group-title="Iran",IR | iFILM 2
+http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffFbUmd.jpg" group-title="Iran",IR | Al-Zahra TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGhDim4.png" group-title="Iran",IR | Alahvaz TV
+http://163.172.128.1/hls/stream.m3u8
