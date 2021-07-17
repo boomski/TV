@@ -1341,6 +1341,8 @@ https://ruvruverl-live-hls.secure.footprint.net/fd04fe79e4ebc86ec78b98bcfb14bb3c
 https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1jn0Iv.jpg" group-title="Ijsland",IS | Gospel Channel Scandinavia
 https://169lawskfzaua3opl.hlscdn.obs-server.com/hls/puc9djrh2cg7wjqw8v9was5fu5kh4a_src.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYoAFNE.png" group-title="Spanje",ES | EITB Basque
+plugin://plugin.video.youtube/play/?channel_id=UCOHCRQDAr9HC5d59XvziJFQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
@@ -1975,6 +1977,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCBhFPYpX9WBxYRMGzqLjoMA&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCN059eei7oaJad-OxHNqsfA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tbiPgj.jpg" group-title="Sport",Wit-Rusland | Belarus Football Channel
 plugin://plugin.video.youtube/play/?channel_id=UCzZTOa7CVWGYjUh1G4if2AQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R0EuANY.jpg" group-title="Sport",Singapore | 1 Play Sports
+plugin://plugin.video.youtube/play/?channel_id=UCYP5Uo2AyhrxbWlV4gQMdHA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",Dominicaanse Republiek | Liga Dominicana de Fútbol 1
 plugin://plugin.video.youtube/play/?channel_id=UCyTqCrAq1n3HF0W7dRNTArA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",Dominicaanse Republiek | Liga Dominicana de Fútbol 2
