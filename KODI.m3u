@@ -1357,10 +1357,14 @@ https://rtvelivestreamv3.akamaized.net/tdp_main_dvr.m3u8|User-Agent=VLC
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlE2n7Z.jpg" group-title="Spanje",ES | mtmad 24h 
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2bxIgQ.jpg" group-title="Spanje",ES | Ten
+http://91.126.141.201:1935/live/ten/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogzF2wt.jpg" group-title="Spanje",ES | TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69yX9Zz.jpg" group-title="Spanje",ES | UHD Spain
 http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JwDN7F1.png" group-title="Spanje",ES | COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UVJ9G7q.png" group-title="Spanje",ES | El Toro TV
 https://fake-live-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0orasFY.png" group-title="Spanje",ES | Libertad Digital
@@ -1469,6 +1473,10 @@ https://zuzenean.goienamedia.eus:8443/goiena-telebista.m3u8
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x45gv46.jpg" group-title="Spanje",ES | El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV WEB
+https://videos.rtva.ad/live/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
