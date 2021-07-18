@@ -1135,6 +1135,10 @@ http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnaDLOb.png" group-title="Italië",IT | Tiziana Lotto
 https://gigastream.tizianalotto.it/hls/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upXXgJ5.png" group-title="San Marino",SM | RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeO2gUg.png" group-title="San Marino",SM | RTV San Marino Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JALM2Ts.png" group-title="Denemarken",DK | DR 1 [Geo]
 https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master3200.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A7PoaeB.png" group-title="Denemarken",DK | DR 2 [Geo]
@@ -1987,6 +1991,32 @@ https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8|Referer=https://
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Canada",CA | The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympics Channel [Geo]
+https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
+https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dL3hcC.png" group-title="Australië",AU | Adelaide | 10 Bold
+https://i.mjh.nz/au/Adelaide/tv.101406050651.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyQHGVz.png" group-title="Australië",AU | Adelaide | 10 Peach
+https://i.mjh.nz/au/Adelaide/tv.101406050658.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Sydney | 10 [Geo]
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dL3hcC.png" group-title="Australië",AU | Sydney | 10 Bold [Geo]
+https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyQHGVz.png" group-title="Australië",AU | Sydney | 10 Peach [Geo]
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyMvMI6.jpg" group-title="Australië",AU | Sydney | 10 Shake [Geo]
+https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ISP1Wwq.jpg" group-title="Australië",AU | ACCTV Adelaide
+https://iptv-all.lanesh4d0w.codes/australia/acctv-adelaide
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ISP1Wwq.jpg" group-title="Australië",AU | ACCTV Melbourne
+https://iptv-all.lanesh4d0w.codes/australia/acctv-melbourne
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOqY8x0.png" group-title="Australië",AU | Arcana HD
+http://api.new.livestream.com/accounts/25119151/events/7392689/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RN8yTCZ.jpg" group-title="Australië",AU | Aus Tamil TV
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s67amyk.png" group-title="Australië",AU | Horse & Country TV
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
