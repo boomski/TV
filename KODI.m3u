@@ -1381,6 +1381,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCqwjtgaJflHga2aPWphG5PQ&live=1
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMIGKUa.jpg" group-title="Spanje",ES | Andalucia | Málaga 24h TV Noticias
 plugin://plugin.video.youtube/play/?channel_id=UCoMWImnPAur6JhXDK63dpAg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQoyoL8.jpg" group-title="Spanje",ES | Andalucia | 8 TV Jerez
+plugin://plugin.video.youtube/play/?channel_id=UC_Z78uo-XNGbE57X2QUZWbQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdrXhom.jpg" group-title="Spanje",ES | Castilla y León | La 7
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fFyW0D.jpg" group-title="Spanje",ES | Castilla y León | La 8 Avila
