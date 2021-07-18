@@ -1353,10 +1353,22 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8|User-Agen
 https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBzYzx9.jpg" group-title="Spanje",ES | Teledeporte [Geo]
 https://rtvelivestreamv3.akamaized.net/tdp_main_dvr.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Spanje",ES | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Spanje",ES | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Spanje",ES | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Spanje",ES | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Spanje",ES | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2L8ErNr.jpg" group-title="Spanje",ES | Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlE2n7Z.jpg" group-title="Spanje",ES | mtmad 24h 
 https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ztMZoSp.png" group-title="Spanje",ES | FDF
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2bxIgQ.jpg" group-title="Spanje",ES | Ten
 http://91.126.141.201:1935/live/ten/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogzF2wt.jpg" group-title="Spanje",ES | TRECE
@@ -1365,6 +1377,12 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JwDN7F1.png" group-title="Spanje",ES | COSMO TV
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82evjp8.jpg" group-title="Spanje",ES | SONY Comedias
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82evjp8.jpg" group-title="Spanje",ES | SONY Competencias
+https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/82evjp8.jpg" group-title="Spanje",ES | SONY Novelas
+https://sony-novelas-1.roku.wurl.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UVJ9G7q.png" group-title="Spanje",ES | El Toro TV
 https://fake-live-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0orasFY.png" group-title="Spanje",ES | Libertad Digital
@@ -1383,6 +1401,15 @@ http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCoMWImnPAur6JhXDK63dpAg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQoyoL8.jpg" group-title="Spanje",ES | Andalucia | 8 TV Jerez
 plugin://plugin.video.youtube/play/?channel_id=UC_Z78uo-XNGbE57X2QUZWbQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SSP19z.jpg" group-title="Spanje",ES | Andalucia | Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaW0lUu.png" group-title="Spanje",ES | Andalucia | Canal Sierra de Cádiz
+http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlcLQMO.jpg" group-title="Spanje",ES | Andalucia | TVM Córdoba
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MaAc6Bj.png" group-title="Spanje",ES | Andalucia | Marbella TV
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdrXhom.jpg" group-title="Spanje",ES | Castilla y León | La 7
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fFyW0D.jpg" group-title="Spanje",ES | Castilla y León | La 8 Avila
@@ -1471,6 +1498,22 @@ https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8|X-Forwarded-For=88
 https://5940924978228.streamlock.net/8157/8157/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ncvPzdj.png" group-title="Spanje",ES | País Vasco | Goiena
 https://zuzenean.goienamedia.eus:8443/goiena-telebista.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjC6KyV.jpg" group-title="Spanje",ES | País Vasco | Durangaldeko TV
+https://cdn01.yowi.tv/AAAAAAAAAA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPauVSQ.jpg" group-title="Spanje",ES | País Vasco | Hamaika Telebista
+https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qps5MiN.png" group-title="Spanje",ES | País Vasco | Oizmendi Telebista
+https://5940924978228.streamlock.net/8161/8161/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="Spanje",ES | País Vasco | Urola Telebista
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ie2rsqP.jpg" group-title="Spanje",ES | País Vasco | Xaloa Telebista
+https://streaming.mediacast.pro:9443/hls/xaloa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FD4Ebu2.png" group-title="Spanje",ES | País Vasco | Tele 7
+https://5df8a678a3840.streamlock.net/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aUex0T.jpg" group-title="Spanje",ES | País Vasco | Erlo TV
+https://5940924978228.streamlock.net/8159/8159/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1eMKV9.jpg" group-title="Spanje",ES | País Vasco | TeleBilbao
+https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8|Referer=https://www.telebilbao.es/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aE9NPXL.png" group-title="Spanje",ES | Canal Parlamento
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x45gv46.jpg" group-title="Spanje",ES | El Sembrador TV
@@ -2087,6 +2130,18 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruXN2HE.png" group-title="Sport",Nederland | ZIGGO Sports Select
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBzYzx9.jpg" group-title="Sport",Spanje | Teledeporte [Geo]
+https://rtvelivestreamv3.akamaized.net/tdp_main_dvr.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Sport",Spanje | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125698/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Sport",Spanje | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125699/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Sport",Spanje | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Sport",Spanje | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Sport",Spanje | +tdp [Geo]
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",Canada | TSN Sports 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",Frankrijk | Africa Sports TV
