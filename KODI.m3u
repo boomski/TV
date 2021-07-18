@@ -1342,17 +1342,25 @@ https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R1jn0Iv.jpg" group-title="Ijsland",IS | Gospel Channel Scandinavia
 https://169lawskfzaua3opl.hlscdn.obs-server.com/hls/puc9djrh2cg7wjqw8v9was5fu5kh4a_src.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwbZH60.png" group-title="Spanje",ES | La 1
-
+https://rtvelivestreamv3.akamaized.net/la1_main_dvr.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DwbZH60.png" group-title="Spanje",ES | La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xICX9JK.jpg" group-title="Spanje",ES | La 2
-
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xICX9JK.jpg" group-title="Spanje",ES | La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okL9DHI.png" group-title="Spanje",ES | 24 Horas
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VBzYzx9.jpg" group-title="Spanje",ES | Teledeporte
-
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBzYzx9.jpg" group-title="Spanje",ES | Teledeporte [Geo]
+https://rtvelivestreamv3.akamaized.net/tdp_main_dvr.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2L8ErNr.jpg" group-title="Spanje",ES | Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8|X-Forwarded-For=88.26.241.23
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlE2n7Z.jpg" group-title="Spanje",ES | mtmad 24h 
-
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogzF2wt.jpg" group-title="Spanje",ES | TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69yX9Zz.jpg" group-title="Spanje",ES | UHD Spain
+http://18.168.248.67/webdav/UHDSpain_SDR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UVJ9G7q.png" group-title="Spanje",ES | El Toro TV
 https://fake-live-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0orasFY.png" group-title="Spanje",ES | Libertad Digital
@@ -1416,7 +1424,7 @@ https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0drrFFN.jpg" group-title="Spanje",ES | Communidad Foral de Navarra | TeleRibera
 http://37.187.7.106/teleribera/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DspiiCG.png" group-title="Spanje",ES | Communidad Valenciana | La 8 Mediterráneo
-https://live-edge-lon-2.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live1500/index.m3u8|Referer=https://shares.enetres.net
+https://play.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/0226/playlist.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1ifKCi.jpg" group-title="Spanje",ES | Galicia | Televisión de Galicia
 plugin://plugin.video.youtube/play/?channel_id=UCz46p3cffUXUSGUtcnw_Ouw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tpanxB6.png" group-title="Spanje",ES | Galicia | TVG América
@@ -1435,6 +1443,8 @@ http://musigal-crtvg.flumotion.com/playlist.m3u8
 http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sWni5Xr.png" group-title="Spanje",ES | Illes Balears | IB3
 plugin://plugin.video.youtube/play/?channel_id=UCff_CBVJDTHP4wOHPjP5BMg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EWoWIA.jpg" group-title="Spanje",ES | Illes Balears | Esports IB3
+plugin://plugin.video.youtube/play/?channel_id=UCOmWJETLyAlFrHkmccOQ-3w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XNm10oW.png" group-title="Spanje",ES | Illes Balears | TEF
 https://cdn01.yowi.tv/36MLCJRAR2/36MLCJRAR2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdPAuWl.jpg" group-title="Spanje",ES | Illes Balears | Canal 4
@@ -2009,6 +2019,8 @@ https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https:/
 plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yauVKgZ.jpg" group-title="Sport",Nieuw-Zeeland | Sky Sports Next
 plugin://plugin.video.youtube/play/?channel_id=UCaOvfE-4N9pm_36a2NYB8yw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EWoWIA.jpg" group-title="Sport",Spanje | Esports IB3
+plugin://plugin.video.youtube/play/?channel_id=UCOmWJETLyAlFrHkmccOQ-3w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg" group-title="Sport",België | CYFO 1
 http://45.134.21.13/live/s1/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo1.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg" group-title="Sport",België | CYFO 2
