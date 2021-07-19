@@ -2095,6 +2095,8 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://i.mjh.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWa1kQk.png" group-title="Nieuw-Zeeland",NZ | Juice TV
 https://i.mjh.nz/nz/tv.juice.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
+plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
