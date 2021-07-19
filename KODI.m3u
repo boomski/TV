@@ -1703,6 +1703,12 @@ https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/prima
 https://wxxidt.lls.cdn.pbs.org/wxxidt/d518ca7e-a094-4362-832b-ae1d426d3729/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5pl7u2.jpg" group-title="USA",US | St. Louis | KSDK NBC 5 
 https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRUNRok.jpg" group-title="USA",US | San Diego | KPBS-DT1
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt1.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRUNRok.jpg" group-title="USA",US | San Diego | KPBS-DT2
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt2.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRUNRok.jpg" group-title="USA",US | San Diego | KPBS-DT4
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt4.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sL0LkVl.jpg" group-title="USA",US | Scranton | WVIA [Geo]
 https://wviadt.lls.cdn.pbs.org/wviadt/951e97d7-7c2c-45c0-abff-261c852fcb7d/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t9YaRc.jpg" group-title="USA",US | Syracuse | WCNY [Geo] 
