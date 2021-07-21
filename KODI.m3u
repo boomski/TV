@@ -169,6 +169,8 @@ http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/chunklist.m3u8
 http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="Nederland",NL | TV Valkenburg
 http://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p47hUYh.jpg" group-title="Nederland",NL | RTVA
+https://live.rtva.nl/live/zender.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWxgJTj.jpg" group-title="Nederland",NL | Studio 040
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1576,7 +1578,7 @@ https://5df8a678a3840.streamlock.net/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4aUex0T.jpg" group-title="Spanje",ES | País Vasco | Erlo TV
 https://5940924978228.streamlock.net/8159/8159/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M1eMKV9.jpg" group-title="Spanje",ES | País Vasco | TeleBilbao
-https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8|Referer=https://www.telebilbao.es/
+https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lnteNyV.jpg" group-title="Spanje",ES | Principado de Asturias | EsAsturiasTV
 https://cloud.streamingconnect.tv:455/asturiastv/asturiastv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aE9NPXL.png" group-title="Spanje",ES | Canal Parlamento
@@ -1586,9 +1588,9 @@ https://streamtv.mediasector.es/hls/spektratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x45gv46.jpg" group-title="Spanje",ES | El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV
-https://videos.rtva.ad/live/rtva/playlist.m3u8|Referer=https://www.andorradifusio.ad
+https://videos.rtva.ad/live/rtva/chunklist_w1893616281_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjI2ODc1NTMxJndvd3phdG9rZW5lbmR0aW1lPTE2MjY4NzkxMzEmd293emF0b2tlbmhhc2g9N1p0MUtMeTVCZk1Bekw3b3ZBbGxwcVdfMmtPbk84Y0RpWDQzT0tLYW9uVT0=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV WEB
-https://videos.rtva.ad/live/web/playlist.m3u8|Referer=https://www.andorradifusio.ad
+https://videos.rtva.ad/live/rtva/chunklist_w187511630_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjI2ODc1NjcyJndvd3phdG9rZW5lbmR0aW1lPTE2MjY4NzkyNzImd293emF0b2tlbmhhc2g9VnlLby1VS1R3ZVRRUFB1QW1oSVF6c2NDdjJSdHlFOVJvVldoLS13bC1uND0=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loamza3.png" group-title="Portugal",PT | RTP1 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjtqdV9.png" group-title="Portugal",PT | RTP2 
@@ -1601,11 +1603,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Age
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsAY24r.png" group-title="Portugal",PT | RTP África 
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OL6f7Z7.jpg" group-title="Sport",PT | Eurosport 1 Portugal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OL6f7Z7.jpg" group-title="Portugal",PT | Eurosport 1 Portugal
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ4MnoZ.jpg" group-title="Sport",PT | Sport TV 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ4MnoZ.jpg" group-title="Portugal",PT | Sport TV 5
 http://185.236.229.21:9981/play/a03n
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ORLBCZL.png" group-title="Sport",PT | Sport TV+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORLBCZL.png" group-title="Portugal",PT | Sport TV+
 http://185.236.229.21:9981/play/a03c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mJUWAlD.png" group-title="Portugal",PT | TVI
 
@@ -2349,6 +2351,10 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125702/master.m3u8
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyqQBS4.jpg" group-title="Sport",Spanje | +tdp [Geo]
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ4MnoZ.jpg" group-title="Sport",Portugal | Sport TV 5
+http://185.236.229.21:9981/play/a03n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORLBCZL.png" group-title="Sport",Portugal | Sport TV+
+http://185.236.229.21:9981/play/a03c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",Canada | TSN Sports 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",Frankrijk | Africa Sports TV
@@ -2448,8 +2454,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xf67U9K.jpg" group-title="Sport",Zweden | ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Sport",Bulgarije | Sportal.bg
-plugin://plugin.video.live.streamspro/?url=https://sportal.bg/video-2021031416243499998&mode=19
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Sport",Bulgarije | Sportal.bg
-plugin://plugin.video.live.streamspro/?url=https://sportal.bg/video-2021031416243499998
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LG4LSCD.jpg" group-title="Sport",India | Doordarshan Sports
 plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
