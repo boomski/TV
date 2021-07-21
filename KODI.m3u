@@ -1603,6 +1603,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Age
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsAY24r.png" group-title="Portugal",PT | RTP África 
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O7g7DQx.png" group-title="Portugal",PT | RTP Açores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OL6f7Z7.jpg" group-title="Portugal",PT | Eurosport 1 Portugal
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJ4MnoZ.jpg" group-title="Portugal",PT | Sport TV 5
@@ -1629,6 +1631,8 @@ http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CWuwNMV.jpg" group-title="Portugal",PT | Kuriakos Music
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CbDwSWh.png" group-title="Portugal",PT | NOS Studios HD
+http://185.236.229.21:9981/play/a054
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
@@ -1639,6 +1643,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
 https://crackle-plex.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL5ICwR.jpg" group-title="USA",US | Shout! Factory TV
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLqjsyg.jpg" group-title="USA",US | Nat Geo Wild
+plugin://plugin.video.live.streamspro/?url=https://www.streamlive.to/view/94662&mode=19
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel
@@ -1649,6 +1655,8 @@ https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fNWZRt.gif" group-title="USA",US | ESPN U
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://ustv247.tv/clappr.php?stream=ESPNU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 Insider
 https://pac12-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQ1LTb.png" group-title="USA",US | Local Now Sports
@@ -2049,7 +2057,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8|Referer=https://
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Canada",CA | The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympics Channel [Geo]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
 https://i.mjh.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
@@ -2207,6 +2215,8 @@ plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Oostenrijk | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Sport",Spanje | Olympic Channel
+plugin://plugin.video.live.streamspro/?url=https://www.streamlive.to/view/76620&mode=19
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSYJuVZ.jpg" group-title="Sport",Italië | Ciclismo Live
 plugin://plugin.video.youtube/play/?channel_id=UCQl1bzhYYXYMROIuvlNDiRQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Sport",Duitsland | Tennis Channel Deutschland
