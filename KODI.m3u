@@ -1607,7 +1607,17 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|Use
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OL6f7Z7.jpg" group-title="Portugal",PT | Eurosport 1 Portugal
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJ4MnoZ.jpg" group-title="Portugal",PT | Sport TV 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9PuTqZS.png" group-title="Portugal",PT | Sport TV 1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dztYywd.png" group-title="Portugal",PT | Sport TV 2
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ax0OGQz.png" group-title="Portugal",PT | Sport TV 3
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv3.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YiUsLaQ.png" group-title="Portugal",PT | Sport TV 4
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Ag0bPh.png" group-title="Portugal",PT | Sport TV 5
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Ag0bPh.png" group-title="Portugal",PT | Sport TV 5
 http://185.236.229.21:9981/play/a03n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORLBCZL.png" group-title="Portugal",PT | Sport TV+
 http://185.236.229.21:9981/play/a03c
@@ -2216,7 +2226,45 @@ plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Oostenrijk | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Sport",Spanje | Olympic Channel
-plugin://plugin.video.live.streamspro/?url=https://www.streamlive.to/view/76620&mode=1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/76620
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg" group-title="Sport",België | CYFO 1
+http://45.134.21.13/live/s1/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo1.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg" group-title="Sport",België | CYFO 2
+http://45.134.21.13/live/s2/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo2.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvGf1BE.jpg" group-title="Sport",België | CYFO 3 
+http://45.134.21.13/live/s3/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo3.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O2WyaHy.jpg" group-title="Sport",België | CYFO 4
+http://45.134.21.13/live/s4/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo4.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65EIZPO.jpg" group-title="Sport",België | CYFO 5
+http://45.134.21.13/live/s5/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo5.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62tcrBV.jpg" group-title="Sport",België | CYFO 6
+http://45.134.21.13/live/s6/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo6.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZRyVq2q.jpg" group-title="Sport",België | CYFO 7
+http://45.134.21.13/live/s7/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo7.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFzsZDp.jpg" group-title="Sport",België | CYFO 8
+http://45.134.21.13/live/s8/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo8.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtbI0tO.jpg" group-title="Sport",België | CYFO 9
+http://45.134.21.13/live/s9/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo9.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGQom76.jpg" group-title="Sport",België | CYFO 10
+http://45.134.21.13/live/s10/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo10.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClHegNS.jpg" group-title="Sport",België | CYFO 11
+http://45.134.21.13/live/s11/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo11.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXYjczF.png" group-title="Sport",USA | Sportzonline HD1
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXYjczF.png" group-title="Sport",USA | Sportzonline HD2
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php
+
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php
+
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd4.php
+
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php
+
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php
+
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd7.php
+
+plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd8.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSYJuVZ.jpg" group-title="Sport",Italië | Ciclismo Live
 plugin://plugin.video.youtube/play/?channel_id=UCQl1bzhYYXYMROIuvlNDiRQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Sport",Duitsland | Tennis Channel Deutschland
@@ -2293,28 +2341,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCaOvfE-4N9pm_36a2NYB8yw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EWoWIA.jpg" group-title="Sport",Spanje | Esports IB3
 plugin://plugin.video.youtube/play/?channel_id=UCOmWJETLyAlFrHkmccOQ-3w&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg" group-title="Sport",België | CYFO 1
-http://45.134.21.13/live/s1/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo1.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg" group-title="Sport",België | CYFO 2
-http://45.134.21.13/live/s2/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo2.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvGf1BE.jpg" group-title="Sport",België | CYFO 3 
-http://45.134.21.13/live/s3/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo3.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2WyaHy.jpg" group-title="Sport",België | CYFO 4
-http://45.134.21.13/live/s4/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo4.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/65EIZPO.jpg" group-title="Sport",België | CYFO 5
-http://45.134.21.13/live/s5/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo5.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62tcrBV.jpg" group-title="Sport",België | CYFO 6
-http://45.134.21.13/live/s6/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo6.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZRyVq2q.jpg" group-title="Sport",België | CYFO 7
-http://45.134.21.13/live/s7/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo7.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFzsZDp.jpg" group-title="Sport",België | CYFO 8
-http://45.134.21.13/live/s8/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo8.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtbI0tO.jpg" group-title="Sport",België | CYFO 9
-http://45.134.21.13/live/s9/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo9.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGQom76.jpg" group-title="Sport",België | CYFO 10
-http://45.134.21.13/live/s10/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo10.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClHegNS.jpg" group-title="Sport",België | CYFO 11
-http://45.134.21.13/live/s11/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo11.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="Sport",USA | Pac-12 Insider
 https://pac12-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQ1LTb.png" group-title="Sport",USA | Local Now Sports
