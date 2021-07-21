@@ -1608,15 +1608,15 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|Use
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OL6f7Z7.jpg" group-title="Portugal",PT | Eurosport 1 Portugal
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9PuTqZS.png" group-title="Portugal",PT | Sport TV 1
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv1.php
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dztYywd.png" group-title="Portugal",PT | Sport TV 2
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv2.php
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ax0OGQz.png" group-title="Portugal",PT | Sport TV 3
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv3.php
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiUsLaQ.png" group-title="Portugal",PT | Sport TV 4
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv4.php
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Ag0bPh.png" group-title="Portugal",PT | Sport TV 5
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/pt/sporttv5.php
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Ag0bPh.png" group-title="Portugal",PT | Sport TV 5
 http://185.236.229.21:9981/play/a03n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORLBCZL.png" group-title="Portugal",PT | Sport TV+
@@ -2226,7 +2226,7 @@ plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Oostenrijk | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Sport",Spanje | Olympic Channel
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/76620
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg" group-title="Sport",België | CYFO 1
 http://45.134.21.13/live/s1/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo1.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg" group-title="Sport",België | CYFO 2
@@ -2250,21 +2250,9 @@ http://45.134.21.13/live/s10/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClHegNS.jpg" group-title="Sport",België | CYFO 11
 http://45.134.21.13/live/s11/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo11.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXYjczF.png" group-title="Sport",USA | Sportzonline HD1
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd1.php
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXYjczF.png" group-title="Sport",USA | Sportzonline HD2
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd2.php
 
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd3.php
-
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd4.php
-
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd5.php
-
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd6.php
-
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd7.php
-
-plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=https://sportzonline.co/channels/hd/hd8.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSYJuVZ.jpg" group-title="Sport",Italië | Ciclismo Live
 plugin://plugin.video.youtube/play/?channel_id=UCQl1bzhYYXYMROIuvlNDiRQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Sport",Duitsland | Tennis Channel Deutschland
