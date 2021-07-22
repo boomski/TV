@@ -2227,28 +2227,30 @@ plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Sport",Spanje | Olympic Channel
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dyjeDvr.jpg" group-title="Sport",België | CYFO 1
-http://45.134.21.13/live/s1/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo1.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPU58H9.jpg" group-title="Sport",België | CYFO 2
-http://45.134.21.13/live/s2/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo2.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvGf1BE.jpg" group-title="Sport",België | CYFO 3 
-http://45.134.21.13/live/s3/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo3.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O2WyaHy.jpg" group-title="Sport",België | CYFO 4
-http://45.134.21.13/live/s4/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo4.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/65EIZPO.jpg" group-title="Sport",België | CYFO 5
-http://45.134.21.13/live/s5/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo5.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62tcrBV.jpg" group-title="Sport",België | CYFO 6
-http://45.134.21.13/live/s6/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo6.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZRyVq2q.jpg" group-title="Sport",België | CYFO 7
-http://45.134.21.13/live/s7/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo7.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFzsZDp.jpg" group-title="Sport",België | CYFO 8
-http://45.134.21.13/live/s8/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo8.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtbI0tO.jpg" group-title="Sport",België | CYFO 9
-http://45.134.21.13/live/s9/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo9.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGQom76.jpg" group-title="Sport",België | CYFO 10
-http://45.134.21.13/live/s10/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo10.html
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClHegNS.jpg" group-title="Sport",België | CYFO 11
-http://45.134.21.13/live/s11/chunks.m3u8|Referer=http://www.cyfostreams.com/cyfo11.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 1
+http://77.247.109.15/live/s1/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 2
+http://77.247.109.15/live/s2/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 3 
+http://77.247.109.15/live/s3/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 4
+http://77.247.109.15/live/s4/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 5
+http://77.247.109.15/live/s5/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 6
+http://77.247.109.15/live/s6/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 7
+http://77.247.109.15/live/s7/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 8
+http://77.247.109.15/live/s8/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 9
+http://77.247.109.15/live/s9/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 10
+http://77.247.109.15/live/s10/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 11
+http://77.247.109.15/live/s11/playlist.m3u8|Referer=http://www.cyfostreams.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 12
+http://77.247.109.15/live/s12/playlist.m3u8|Referer=http://www.cyfostreams.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXYjczF.png" group-title="Sport",USA | Sportzonline HD1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXYjczF.png" group-title="Sport",USA | Sportzonline HD2
