@@ -1649,6 +1649,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV
 plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQ2TrDu.png" group-title="USA",US | OAN
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PuZeruz.jpg" group-title="USA",US | Crackle
 https://crackle-plex.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL5ICwR.jpg" group-title="USA",US | Shout! Factory TV
@@ -1677,6 +1679,10 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN
 plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cdc4xDi.jpg" group-title="USA",US | PCN
+https://bozztv.com/teleyupp/teleup-pcnhd/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/44QTNIO.jpg" group-title="USA",US | getTV
+https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Xdw3DJ.jpg" group-title="USA",US | Alaska | Alaska Public Media [Geo]
 https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sJzz99b.jpg" group-title="USA",US | Albany | WHMT [Geo]
