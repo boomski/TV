@@ -234,7 +234,7 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEUPgub.png" group-title="Groot-Brittannië",UK | ITV 3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8p7Jrix.png" group-title="Groot-Brittannië",UK | ITV 4
-
+http://sportportal1.akamaized.net/hls/live/702647/itvlive/ITV4PORTAL2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lDaSs6h.png" group-title="Groot-Brittannië",UK | ITV Be
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXMRRV5.png" group-title="Groot-Brittannië",UK | 5 HD
@@ -247,6 +247,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Groot-Brittannië",UK | Reuters TV
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKSu2am.jpg" group-title="Groot-Brittannië",UK | Go USA
+https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Groot-Brittannië",UK | Inwonder TV
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/58Jljqj.jpg" group-title="Groot-Brittannië",UK | English Club TV
