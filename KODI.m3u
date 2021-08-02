@@ -619,7 +619,23 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8|User-Age
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5wm1c.jpg" group-title="Duitsland",DE | RTL West
 https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH4aA1A.png" group-title="Duitsland",DE | NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_fs/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH4aA1A.png" group-title="Duitsland",DE | NDR International
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_int/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH4aA1A.png" group-title="Duitsland",DE | NDR Weltweiter
+https://ndrfs-lh.akamaihd.net/i/ndrfs_ww@430235/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH4aA1A.png" group-title="Duitsland",DE | NDR Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH4aA1A.png" group-title="Duitsland",DE | NDR Mecklenburg-Vorpommern
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH4aA1A.png" group-title="Duitsland",DE | NDR Schleswig-Holstein
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pH4aA1A.png" group-title="Duitsland",DE | NDR Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTwH3rB.jpg" group-title="Duitsland",DE | NTV [Geo]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pliventv-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Duitsland",DE | ARTE
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
