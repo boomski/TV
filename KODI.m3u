@@ -2185,6 +2185,50 @@ https://i.mjh.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2
 https://i.mjh.nz/nz/tv.juice.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tFDhuM1.jpg" group-title="Mozambique",MZ | STV
+http://62.176.93.137:8002/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQJw8uW.png" group-title="Mozambique",MZ | STV Noticias
+http://62.176.93.137:8002/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
+http://62.176.93.137:8002/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
+https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 2
+http://62.176.93.137:8002/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 3
+http://62.176.93.137:8002/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 4 
+http://62.176.93.137:8002/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 4 
+https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwO9OyF.jpg" group-title="Zambia",ZM | ABN
+http://62.176.93.137:8002/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nlKT4jW.png" group-title="Zambia",ZM | Crown TV
+http://62.176.93.137:8002/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZxGX8R.png" group-title="Zambia",ZM | Diamond TV
+http://62.176.93.137:8002/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LrKCMD.jpg" group-title="Zambia",ZM | Hope Channel Zambia
+http://62.176.93.137:8002/play/a00j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fG21EKZ.jpg" group-title="Zambia",ZM | HCTV
+http://62.176.93.137:8002/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hKNTbMh.png" group-title="Zambia",ZM | KBN
+http://62.176.93.137:8002/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3RCvz0J.png" group-title="Zambia",ZM | Loyola
+http://62.176.93.137:8002/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NmfQ3ei.jpg" group-title="Zambia",ZM | MUVI TV 2
+http://62.176.93.137:8002/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkZqEeO.jpg" group-title="Zambia",ZM | Musanza TV
+http://62.176.93.137:8002/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1skyf2j.png" group-title="Zambia",ZM | POWER TV
+http://62.176.93.137:8002/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63vISXd.jpg" group-title="Zambia",ZM | Parliament TV
+http://62.176.93.137:8002/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZr8y.jpg" group-title="Zambia",ZM | SPRING TV
+http://62.176.93.137:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c0N65Ia.jpg" group-title="Zambia",ZM | Sun FM TV
+http://62.176.93.137:8002/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sS7MfqE.png" group-title="Zambia",ZM | ZED TV
+http://62.176.93.137:8002/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
