@@ -331,8 +331,8 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
-https://s2.tntendirect.com/tf1/live/playlist.m3u8|Referer=https://www.tntendirect.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1 [Geo]
+https://s2.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Frankrijk",FR | TF1 Séries Films
