@@ -2187,10 +2187,16 @@ https://i.mjh.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2
 https://i.mjh.nz/nz/tv.juice.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9ieSCH.png" group-title="Mozambique",MZ | TVM
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ligyuce.png" group-title="Mozambique",MZ | TVM Telescola
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tFDhuM1.jpg" group-title="Mozambique",MZ | STV
 http://62.176.93.137:8002/play/a00m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQJw8uW.png" group-title="Mozambique",MZ | STV Noticias
 http://62.176.93.137:8002/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title="Mozambique",MZ | TV Maná Moçambique
+http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
 http://62.176.93.137:8002/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
