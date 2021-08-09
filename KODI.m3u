@@ -2562,6 +2562,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xf67U9K.jpg" group-title="Sport",Zweden | ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Sport",Bulgarije | Sportal.bg
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://sportal.bg/video-2021031416243499998
+https://clb.cdn.bg/sportal/fls/sportal_fullhd/playlist.m3u8?at=262388aacd613087ebc5c4baa6489db0|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A90.0)%20Gecko%2F20100101%20Firefox%2F90.0&Referer=https%3A%2F%2Fsportal.bg%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LG4LSCD.jpg" group-title="Sport",India | Doordarshan Sports
 plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
