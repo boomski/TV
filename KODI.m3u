@@ -1606,9 +1606,9 @@ https://streamtv.mediasector.es/hls/spektratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x45gv46.jpg" group-title="Spanje",ES | El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV
-https://videos.rtva.ad/live/rtva/chunklist_w1893616281_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjI2ODc1NTMxJndvd3phdG9rZW5lbmR0aW1lPTE2MjY4NzkxMzEmd293emF0b2tlbmhhc2g9N1p0MUtMeTVCZk1Bekw3b3ZBbGxwcVdfMmtPbk84Y0RpWDQzT0tLYW9uVT0=.m3u8
+https://videos.rtva.ad/live/rtva/playlist.m3u8?wowzatokenstarttime=1628495582&wowzatokenendtime=1628499182&wowzatokenhash=2Iu5UO9NW_7maUPGAZ3E4xiy7obMDBGu4mRJFCS1fZ0=|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A90.0)%20Gecko%2F20100101%20Firefox%2F90.0&Referer=https%3A%2F%2Fwww.andorradifusio.ad%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV WEB
-https://videos.rtva.ad/live/rtva/chunklist_w187511630_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjI2ODc1NjcyJndvd3phdG9rZW5lbmR0aW1lPTE2MjY4NzkyNzImd293emF0b2tlbmhhc2g9VnlLby1VS1R3ZVRRUFB1QW1oSVF6c2NDdjJSdHlFOVJvVldoLS13bC1uND0=.m3u8
+https://videos.rtva.ad/live/web/playlist.m3u8?wowzatokenstarttime=1628495582&wowzatokenendtime=1628499182&wowzatokenhash=O_GnbluIibgAdUj5xJhO3NzChJFtFFP-ZjSWyE81Wro=|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A90.0)%20Gecko%2F20100101%20Firefox%2F90.0&Referer=https%3A%2F%2Fwww.andorradifusio.ad%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loamza3.png" group-title="Portugal",PT | RTP1 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjtqdV9.png" group-title="Portugal",PT | RTP2 
@@ -1674,7 +1674,7 @@ https://crackle-plex.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL5ICwR.jpg" group-title="USA",US | Shout! Factory TV
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MLqjsyg.jpg" group-title="USA",US | Nat Geo Wild
-plugin://plugin.video.live.streamspro/?url=https://www.streamlive.to/view/94662&mode=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel
@@ -1773,6 +1773,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCFhbonoFqxg2b9FMRzYAwog&live=1
 https://wliwdt.lls.cdn.pbs.org/wliwdt/a58c2765-7e77-4114-9668-75920022c6bc/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmdPgvk.png" group-title="USA",US | New York | WNET [Geo]
 https://wnetdt.lls.cdn.pbs.org/wnetdt/80f93f7f-9742-47b8-aa58-0c0ceb866d9f/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6tCgsNc.jpg" group-title="USA",US | New York | WNYE-DT3
+https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnye-dt3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJqalAJ.jpg" group-title="USA",US | Oregon | KOBI-TV NBC 5
 plugin://plugin.video.youtube/play/?channel_id=UCDDHvAu-pNOgdzgHha96Qnw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XT0rkpX.jpg" group-title="USA",US | Pennsylvania | WITF [Geo]
