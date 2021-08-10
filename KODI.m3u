@@ -269,7 +269,7 @@ https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/p
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0RMzT5.png" group-title="Groot-Brittannië",UK | Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Groot-Brittannië",UK | Pokerstars
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Groot-Brittannië",UK | Pokerstars [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Groot-Brittannië",UK | Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
@@ -307,7 +307,7 @@ https://25614.global.ssl.fastly.net/edge-en/ngrp:live_5363cc905d8e11eab9a8c11483
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJpYNba.jpg" group-title="Groot-Brittannië",UK | Spotlight TV
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4e2zUg.png" group-title="Groot-Brittannië",UK | Ideal World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4e2zUg.png" group-title="Groot-Brittannië",UK | Ideal World [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCJbgGTpBWuC87VFIKTTO4RQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPU3MR2.jpg" group-title="Groot-Brittannië",UK | TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
@@ -355,19 +355,19 @@ http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Frankrijk",FR | France 24 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCCCPCZNChQdGa9EkATeye4g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTsLy8f.jpg" group-title="Frankrijk",FR | France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eTsLy8f.jpg" group-title="Frankrijk",FR | France 24 Arabic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTsLy8f.jpg" group-title="Frankrijk",FR | France 24 Arabic [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCdTyuXgmJkG_O8_75eqej-w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Io60ZKV.jpg" group-title="Frankrijk",FR | France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Io60ZKV.jpg" group-title="Frankrijk",FR | France 24 English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Io60ZKV.jpg" group-title="Frankrijk",FR | France 24 English [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCQfwfsi5VrQ8yKZ-UWmAEFg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pLoXPha.jpg" group-title="Frankrijk",FR | France 24 Español
 https://contar1.c.s73cdn.net/2252cd36-85b8-42f3-8d50-54b52b50aa9f/elemental/live/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pLoXPha.jpg" group-title="Frankrijk",FR | France 24 Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLoXPha.jpg" group-title="Frankrijk",FR | France 24 Español [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCUdOoVWuWmgo1wByzcsyKDQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Frankrijk",FR | France Info
 https://www.filmon.com/vr-streams/3887.high/playlist.m3u8
@@ -481,7 +481,7 @@ http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="Frankrijk",FR | TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezqC7KQ.png" group-title="Frankrijk",FR | TVPI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ezqC7KQ.png" group-title="Frankrijk",FR | TVPI [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCwVQAPo6tjC5w5yBBh0WEdA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="Frankrijk",FR | TVR
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/playlist.m3u8 
@@ -497,7 +497,7 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/inde
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Frankrijk",FR | ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OARBu5H.jpg" group-title="Frankrijk",FR | Puissance Télévision
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OARBu5H.jpg" group-title="Frankrijk",FR | Puissance Télévision [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCxSUslP_JMH3Bb50oXd1Nnw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Frankrijk",FR | MYComedy
 plugin://plugin.video.dailymotion_com/?url=x7zw8t0&mode=playLiveVideo
@@ -655,11 +655,11 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aT8MSIb.png" group-title="Duitsland",DE | Aristo TV
 http://ma.anixa.tv/clips/stream/aristo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aH3CGO7.png" group-title="Duitsland",DE | WELT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aH3CGO7.png" group-title="Duitsland",DE | WELT [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCZMsvbAhhRblVGXmEXW8TSA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aH3CGO7.png" group-title="Duitsland",DE | WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LoqZRcg.jpg" group-title="Duitsland",DE | BILD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LoqZRcg.jpg" group-title="Duitsland",DE | BILD [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC4zcMHyrT_xyWlgy5WGpFFQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle Deutsch
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
@@ -905,7 +905,7 @@ https://www.filmon.com/vr-streams/4727.high/playlist.m3u8
 https://www.filmon.com/vr-streams/4730.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YPV89dr.png" group-title="Duitsland",DE | Handystar TV HD
 http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/stream1/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dsgrtFC.jpg" group-title="Duitsland",DE | Channel 21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dsgrtFC.jpg" group-title="Duitsland",DE | Channel 21 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCcst6yHdE5Gdisu5YKCgc1g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/piwT1HQ.jpg" group-title="Duitsland",DE | Sonnenklar.TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
@@ -925,15 +925,15 @@ https://bibeltv01.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_all/manifest.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://bibeltv01.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f4izGf3.jpg" group-title="Duitsland",DE | Astro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4izGf3.jpg" group-title="Duitsland",DE | Astro TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCwS3E2NaN3uorr9wf2_i6Cg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 1 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 2 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 3 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 4 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjHHQ3z.png" group-title="Oostenrijk",AT | ORF 1 [Geo]
 #KODIPROP:inputstream=inputstream.adaptive
