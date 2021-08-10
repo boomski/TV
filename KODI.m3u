@@ -2241,6 +2241,8 @@ http://62.176.93.137:8002/play/a00e/index.m3u8
 http://62.176.93.137:8002/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sS7MfqE.png" group-title="Zambia",ZM | ZED TV
 http://62.176.93.137:8002/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4TEVI5T.jpg" group-title="Iran",IR | Press TV
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM English
 https://live1.presstv.ir/live/ifilmen.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM Arabic
