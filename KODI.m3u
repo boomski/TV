@@ -2251,6 +2251,10 @@ https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IcwL0xI.png" group-title="Iran",IR | iFILM 2
 https://live1.presstv.ir/live/ifilm2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrOXolW.jpg" group-title="Iran",IR | Varzesh TV Farsi
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kmyfz5H.png" group-title="Iran",IR | Al-Zahra TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
