@@ -2241,6 +2241,14 @@ http://62.176.93.137:8002/play/a00e/index.m3u8
 http://62.176.93.137:8002/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sS7MfqE.png" group-title="Zambia",ZM | ZED TV
 http://62.176.93.137:8002/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM English
+https://live1.presstv.ir/live/ifilmen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM Arabic
+https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM Persian
+https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IcwL0xI.png" group-title="Iran",IR | iFILM 2
+https://live1.presstv.ir/live/ifilm2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
@@ -2299,10 +2307,6 @@ https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livest
 https://orf2ooe.mdn.ors.at/out/u/orf2ooe/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bhhuocz.png" group-title="Radio",CH | Radio Ticino Channel
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2gSDXat.jpg" group-title="Sport",België | Sporza
-plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Sport",Frankrijk | L'Équipe [GEO]
-plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Oostenrijk | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Sport",Spanje | Olympic Channel
@@ -2351,11 +2355,9 @@ http://77.247.109.15/live/s12/playlist.m3u8|Referer=http://www.cyfostreams.com/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXYjczF.png" group-title="Sport",USA | Sportzonline HD2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iSYJuVZ.jpg" group-title="Sport",Italië | Ciclismo Live
-plugin://plugin.video.youtube/play/?channel_id=UCQl1bzhYYXYMROIuvlNDiRQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Sport",Duitsland | Tennis Channel Deutschland
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",Frankrijk | Sport en France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",Frankrijk | Sport en France HD
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Sport",Frankrijk | Sport en France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
@@ -2363,8 +2365,7 @@ https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",Zwitserland | Swiss Sport TV
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKMfNq3.jpg" group-title="Sport",Spanje | SPORTPUBLIC TV
-plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wuLnvvf.jpg" group-title="Sport",Denemarken | EdgeSport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wuLnvvf.jpg" group-title="Sport",Finland | EdgeSport
@@ -2389,8 +2390,6 @@ https://www.filmon.com/vr-streams/4121.high/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
 https://orfs.mdn.ors.at/out/u/orfs/drmqxa/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mQnhrv2.png" group-title="Sport",Turkije | beIN SPORTS Türkiye [Geo]
-plugin://plugin.video.youtube/play/?channel_id=UCPe9vNjHF1kEExT5kHwc7aw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",Nederland | Fuel TV
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Sport",Frankrijk | Fuel TV
@@ -2421,12 +2420,6 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8|Referer=https://www
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjDpHYp.jpg" group-title="Sport",Thailand | Fox Sports 3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5y1Ll6d.jpg" group-title="Sport",Oostenrijk | K19
-plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yauVKgZ.jpg" group-title="Sport",Nieuw-Zeeland | Sky Sports Next
-plugin://plugin.video.youtube/play/?channel_id=UCaOvfE-4N9pm_36a2NYB8yw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EWoWIA.jpg" group-title="Sport",Spanje | Esports IB3
-plugin://plugin.video.youtube/play/?channel_id=UCOmWJETLyAlFrHkmccOQ-3w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="Sport",USA | Pac-12 Insider
 https://pac12-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQ1LTb.png" group-title="Sport",USA | Local Now Sports
@@ -2443,7 +2436,7 @@ https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i6MUfBA.jpg" group-title="Sport",Finland | Mavtv
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Sport",Bulgarije | Sportal.bg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ruXN2HE.png" group-title="Sport",Nederland | ZIGGO Sports Select
 
@@ -2467,8 +2460,38 @@ http://185.236.229.21:9981/play/a03c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WctAqnI.png" group-title="Sport",Frankrijk | Africa Sports TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SC4Uj1r.jpg" group-title="Sport",Ierland | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SC4Uj1r.jpg" group-title="Sport",Ierland | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SC4Uj1r.jpg" group-title="Sport",Ierland | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Sport",Groot-Brittannië | Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Sport",Frankrijk | Poker TV
+http://51.210.199.17/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRZCO4o.png" group-title="Sport",Rusland | T Sports
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyiyVOo.jpg" group-title="Sport",USA | Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Sport",Canada | Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Sport",Canada | Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xf67U9K.jpg" group-title="Sport",Zweden | ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQnhrv2.png" group-title="Sport",Turkije | beIN SPORTS Türkiye [Geo]
+plugin://plugin.video.youtube/play/?channel_id=UCPe9vNjHF1kEExT5kHwc7aw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKMfNq3.jpg" group-title="Sport",Spanje | SPORTPUBLIC TV
+plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSYJuVZ.jpg" group-title="Sport",Italië | Ciclismo Live
+plugin://plugin.video.youtube/play/?channel_id=UCQl1bzhYYXYMROIuvlNDiRQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5y1Ll6d.jpg" group-title="Sport",Oostenrijk | K19
+plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yauVKgZ.jpg" group-title="Sport",Nieuw-Zeeland | Sky Sports Next
+plugin://plugin.video.youtube/play/?channel_id=UCaOvfE-4N9pm_36a2NYB8yw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EWoWIA.jpg" group-title="Sport",Spanje | Esports IB3
+plugin://plugin.video.youtube/play/?channel_id=UCOmWJETLyAlFrHkmccOQ-3w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQUGztm.jpg" group-title="Sport",Marokko | Arryadia TV
 plugin://plugin.video.youtube/play/?channel_id=UCRN5ho3UGhUi7ZCBe2G2f2w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g4brpmX.jpg" group-title="Sport",Zwitserland | FIFA TV
@@ -2503,69 +2526,53 @@ plugin://plugin.video.youtube/play/?channel_id=UCzZTOa7CVWGYjUh1G4if2AQ&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCYP5Uo2AyhrxbWlV4gQMdHA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",Dominicaanse Republiek | Liga Dominicana de Fútbol 1
 plugin://plugin.video.youtube/play/?channel_id=UCyTqCrAq1n3HF0W7dRNTArA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Sport",Dominicaanse Republiek | Liga Dominicana de Fútbol 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxv1Stx.jpg" group-title="Youtube",Dominicaanse Republiek | Liga Dominicana de Fútbol 2
 plugin://plugin.video.youtube/play/?channel_id=UC2ofYN9e_gnH9CgxnaewhbA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JUeDTn5.jpg" group-title="Sport",Venezuela | Transmisionesenvivo10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JUeDTn5.jpg" group-title="Youtube",Venezuela | Transmisionesenvivo10
 plugin://plugin.video.youtube/play/?channel_id=UCMSIKU7bWdmr1WB501u6zxw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmpxm6T.jpg" group-title="Sport",China | Jayus CSL Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vmpxm6T.jpg" group-title="Youtube",China | Jayus CSL Football
 plugin://plugin.video.youtube/play/?channel_id=UCQJyIbP1UMgt1qjdL6vcQIg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsgvEFW.png" group-title="Sport",Ierland | Sport TG4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsgvEFW.png" group-title="Youtube",Ierland | Sport TG4
 plugin://plugin.video.youtube/play/?channel_id=UCUds-3OqMdVufEjNmdiYL-w&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6OqkIPf.png" group-title="Sport",Groot-Brittannië | ATP Tennis TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6OqkIPf.png" group-title="Youtube",Groot-Brittannië | ATP Tennis TV
 plugin://plugin.video.youtube/play/?channel_id=UCbcxFkd6B9xUU54InHv4Tig&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6oHbwr3.jpg" group-title="Sport",Spanje | World Padel Tour
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6oHbwr3.jpg" group-title="Youtube",Spanje | World Padel Tour
 plugin://plugin.video.youtube/play/?channel_id=UCK59dYVs3Wgwoe73nDTH6jw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bohR4Bq.jpg" group-title="Sport",Mexico | APT Padel Tour
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bohR4Bq.jpg" group-title="Youtube",Mexico | APT Padel Tour
 plugin://plugin.video.youtube/play/?channel_id=UCvMjAL1EYrpOtiht3C3FOoA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SC4Uj1r.jpg" group-title="Sport",Ierland | Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SC4Uj1r.jpg" group-title="Sport",Ierland | Rugby Men's Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SC4Uj1r.jpg" group-title="Sport",Ierland | Rugby Women's Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMlf8lo.jpg" group-title="Sport",Duitsland | FIBA - The Basketball Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMlf8lo.jpg" group-title="Youtube",Duitsland | FIBA - The Basketball Channel
 plugin://plugin.video.youtube/play/?channel_id=UCtInrnU3QbWqFGsdKT1GZtg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Svcv4vi.jpg" group-title="Sport",Duitsland | FIBA - 3x3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Svcv4vi.jpg" group-title="Youtube",Duitsland | FIBA - 3x3
 plugin://plugin.video.youtube/play/?channel_id=UC7LpyJP5fupiJu2CdzRQheg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",Zwitserland | Volleybal World 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Youtube",Zwitserland | Volleybal World 1
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",Zwitserland | Volleybal World 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Youtube",Zwitserland | Volleybal World 2
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Sport",Zwitserland | Volleybal World 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cU6SaOM.jpg" group-title="Youtube",Zwitserland | Volleybal World 3
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Sport",Zwitserland | Beach Volleybal World 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Youtube",Zwitserland | Beach Volleybal World 1
 plugin://plugin.video.youtube/play/?channel_id=UCHQUWveEpeO1KTkwbDn6jNA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Sport",Zwitserland | Beach Volleybal World 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Youtube",Zwitserland | Beach Volleybal World 2
 plugin://plugin.video.youtube/play/?channel_id=UCHQUWveEpeO1KTkwbDn6jNA&live=2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Sport",Zwitserland | Beach Volleybal World 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvYG5yj.jpg" group-title="Youtube",Zwitserland | Beach Volleybal World 3
 plugin://plugin.video.youtube/play/?channel_id=UCHQUWveEpeO1KTkwbDn6jNA&live=3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IDWxz1B.jpg" group-title="Sport",Luxemburg | European Volleyball
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDWxz1B.jpg" group-title="Youtube",Luxemburg | European Volleyball
 plugin://plugin.video.youtube/play/?channel_id=UC8XRC858pOERvclUDb_d7rg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YVgHc2v.jpg" group-title="Sport",Zwitserland | International Federation of Sport Climbing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YVgHc2v.jpg" group-title="Youtube",Zwitserland | International Federation of Sport Climbing
 plugin://plugin.video.youtube/play/?channel_id=UC2MGuhIaOP6YLpUx106kTQw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Sport",Groot-Brittannië | Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Sport",Groot-Brittannië | Pokerstars
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Youtube",Groot-Brittannië | Pokerstars
 plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X0BWZab.jpg" group-title="Sport",Gibraltar | PartyPoker TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X0BWZab.jpg" group-title="Youtube",Gibraltar | PartyPoker TV
 plugin://plugin.video.youtube/play/?channel_id=UCwsWa65jkbHfvAblmmW_Z-Q&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="Sport",USA | World Poker Tour
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="Youtube",USA | World Poker Tour
 plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Sport",Frankrijk | Poker TV
-http://51.210.199.17/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyiyVOo.jpg" group-title="Sport",USA | Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tzBiPbD.jpg" group-title="Sport",USA | Bellator MMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tzBiPbD.jpg" group-title="Youtube",USA | Bellator MMA
 plugin://plugin.video.youtube/play/?channel_id=UCnkMTsKYqhHm6l6GQzg4szg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Sport",Canada | Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Sport",Canada | Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f1vTSCG.png" group-title="Sport",Spanje | PLUTO TV Deportes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xf67U9K.jpg" group-title="Sport",Zweden | ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Sport",Bulgarije | Sportal.bg
-https://clb.cdn.bg/sportal/fls/sportal_fullhd/playlist.m3u8?at=262388aacd613087ebc5c4baa6489db0|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A90.0)%20Gecko%2F20100101%20Firefox%2F90.0&Referer=https%3A%2F%2Fsportal.bg%2F
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LG4LSCD.jpg" group-title="Sport",India | Doordarshan Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LG4LSCD.jpg" group-title="Youtube",India | Doordarshan Sports
 plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1vTSCG.png" group-title="Pluto TV",Spanje | PLUTO TV Deportes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+
+
+
+
