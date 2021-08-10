@@ -1031,9 +1031,9 @@ https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c0W6nvh.png" group-title="Oostenrijk",AT | RTV
 https://stream1.primetv.at/rtvlive/smil:rtvlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5y1Ll6d.jpg" group-title="Oostenrijk",AT | K19 [ONLY LIVE EVENTS]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5y1Ll6d.jpg" group-title="Oostenrijk",AT | K19 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCvgp9yvH-c_L07RBk7iqGaQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6IXkXl.png" group-title="Oostenrijk",AT | Feratel Weather Webcams
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6IXkXl.png" group-title="Oostenrijk",AT | Feratel Weather Webcams [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC9xLSF0SZDbVa70iTpghQBw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxISEZf.png" group-title="Oostenrijk",AT | Go TV
 https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
@@ -1663,11 +1663,11 @@ http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbDwSWh.png" group-title="Portugal",PT | NOS Studios HD
 http://185.236.229.21:9981/play/a054
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wQ2TrDu.png" group-title="USA",US | OAN
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
@@ -1677,9 +1677,9 @@ https://crackle-plex.amagi.tv/playlist720p.m3u8
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MLqjsyg.jpg" group-title="USA",US | Nat Geo Wild
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SIEO61K.png" group-title="USA",US | Weather Gone Viral
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
@@ -1688,16 +1688,16 @@ https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fNWZRt.gif" group-title="USA",US | ESPN U
-plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://freefeds.com/stream/45457.html
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 Insider
 https://pac12-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0RQ1LTb.png" group-title="USA",US | Local Now Sports
 https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyiyVOo.jpg" group-title="USA",US | Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cdc4xDi.jpg" group-title="USA",US | PCN
 https://bozztv.com/teleyupp/teleup-pcnhd/tracks-v2a1/mono.m3u8
@@ -1807,7 +1807,7 @@ https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/prima
 https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnye-dt3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9IT0GXB.jpg" group-title="USA",US | Ohio | WEWS 5 ABC
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EJqalAJ.jpg" group-title="USA",US | Oregon | KOBI-TV NBC 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJqalAJ.jpg" group-title="USA",US | Oregon | KOBI-TV NBC 5 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCDDHvAu-pNOgdzgHha96Qnw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XT0rkpX.jpg" group-title="USA",US | Pennsylvania | WITF [Geo]
 https://witfdt.lls.cdn.pbs.org/witfdt/6b45b1e5-671e-439a-8673-ad21a5e56f32/primary.m3u8
@@ -2043,7 +2043,7 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nX3IbkV.jpg" group-title="Canada",CA | Hyder TV
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Canada",CA | TAG TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Canada",CA | TAG TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCP3zJUZRPyJh4VGiRd9pqgg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGpoHNw.png" group-title="Canada",CA | MAXX
 https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=maxx
@@ -2281,7 +2281,7 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&reba
 http://live-radio-cf.lwc.vrtcdn.be/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Radio",BE | NRJ Hits TV
 https://tv.ngroup.be/live/ngrp:nrj_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Vk1TNf.png" group-title="Radio",BE | Tomorrowland - One World Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Vk1TNf.png" group-title="Radio",BE | Tomorrowland - One World Radio [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCsN8M73DMWa8SPp5o_0IAQQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="Radio",NL | Omroep Brabant Radio
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
