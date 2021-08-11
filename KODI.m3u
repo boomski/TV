@@ -329,12 +329,16 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1 [Geo]
-https://s2.tntendirect.com/tf1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
+https://s6.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
+https://s6.tntendirect.com/nt1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Frankrijk",FR | TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Frankrijk",FR | TF1 Séries Films
+https://s6.tntendirect.com/hd1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="Frankrijk",FR | TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="Frankrijk",FR | LCI
@@ -391,12 +395,6 @@ plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9YIcXX2.png" group-title="Frankrijk",FR | LCP
 plugin://plugin.video.dailymotion_com/?url=xgepjr&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6osyvwh.png" group-title="Frankrijk",FR | Magellan TV
-https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr5OkFH.png" group-title="Frankrijk",FR | Midnight Pulp
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pov70c5.jpg" group-title="Frankrijk",FR | Movies Central
-https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="Frankrijk",FR | Gong
 http://51.254.215.79/appflux/gong/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2EkeQcb.png" group-title="Frankrijk",FR | Gong Max
@@ -404,7 +402,9 @@ http://51.254.215.79/appflux/gongmax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Frankrijk",FR | Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJMjE8y.png" group-title="Frankrijk",FR | M6
-https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
+https://s6.tntendirect.com/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4jgvMX.jpg" group-title="Frankrijk",FR | W9
+https://s6.tntendirect.com/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JuxrH1e.png" group-title="Frankrijk",FR | AB1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="Frankrijk",FR | MDL
@@ -425,18 +425,24 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249
 https://s6.tntendirect.com/bmftv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Frankrijk",FR | BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yO0asrO.jpg" group-title="Frankrijk",FR | BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFaXzwx.png" group-title="Frankrijk",FR | BFM Lyon
-https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJQNEnn.png" group-title="Frankrijk",FR | BFM Grand Lille
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OKFCMr5.png" group-title="Frankrijk",FR | BFM Grand Littoral
-https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5YaV9B.png" group-title="Frankrijk",FR | BFM Côte d'Azur
+https://bfmcotedazur-lh.akamaihd.net/i/BFMCotedAzur_ESYTLS@427520/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgrlRsF.png" group-title="Frankrijk",FR | BFM DICI Alpes du Sud
 https://bfmdicialpes-lh.akamaihd.net/i/BFMDICIAlpes_ESYTLS@67259/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgrlRsF.png" group-title="Frankrijk",FR | BFM DICI Haute-Provence
 https://bfmdiciprovence-lh.akamaihd.net/i/BFMDICIProvence_ESYTLS@327955/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJQNEnn.png" group-title="Frankrijk",FR | BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKFCMr5.png" group-title="Frankrijk",FR | BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFaXzwx.png" group-title="Frankrijk",FR | BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Mdwy3F.png" group-title="Frankrijk",FR | BFM Marseille
+https://bfmmarseille-lh.akamaihd.net/i/BFMMarseille_ESYTLS@427524/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yO0asrO.jpg" group-title="Frankrijk",FR | BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jyPuLkJ.png" group-title="Frankrijk",FR | BFM Var
+https://bfmvar-lh.akamaihd.net/i/BFMVar_ESYTLS@427532/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t1ynZ3x.png" group-title="Frankrijk",FR | France 3 Rhône-Alpes
 https://www.filmon.com/vr-streams/3890.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F8l6eE.jpg" group-title="Frankrijk",FR | France 3 Alpes
@@ -447,12 +453,6 @@ plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1a3uLT.png" group-title="Frankrijk",FR | Wéo Picardie
 plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HKj1V6l.jpg" group-title="Frankrijk",FR | AZUR TV
-plugin://plugin.video.dailymotion_com/?url=x13x1q2&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OQeNlUD.png" group-title="Frankrijk",FR | VAR AZUR TV
-plugin://plugin.video.dailymotion_com/?url=x630wrb&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z1A47vL.png" group-title="Frankrijk",FR | Provence AZUR TV
-plugin://plugin.video.dailymotion_com/?url=x630sku&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvIJxCd.png" group-title="Frankrijk",FR | B Smart
 plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hf6mz9B.jpg" group-title="Frankrijk",FR | Canal 32
@@ -511,14 +511,10 @@ plugin://plugin.video.dailymotion_com/?url=x7zw38l&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x7zw8q9&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lc8UDIj.png" group-title="Frankrijk",FR | Ubiznews TV
 plugin://plugin.video.dailymotion_com/?url=x74ucfd&mode=playLiveVideo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KyXpyEg.jpg" group-title="Frankrijk",FR | Motorvision TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jN5nI01.jpg" group-title="Frankrijk",FR | Juste pour Rire
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1GtJTUh.png" group-title="Frankrijk",FR | Pluto TV Animaux
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="Frankrijk",FR | Amuse Animation
-https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVvRhFS.png" group-title="Frankrijk",FR | MotorSport.TV
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EwAeMny.png" group-title="Frankrijk",FR | Movies Central
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laArg26.png" group-title="Frankrijk",FR | Atelier des chefs
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M37tJsd.jpg" group-title="Frankrijk",FR | Humanity
@@ -527,12 +523,28 @@ https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PUacVoP.jpg" group-title="Frankrijk",FR | Unearth
 https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT7gZWy.png" group-title="Frankrijk",FR | Luxe.tv
+https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c042pVm.png" group-title="Frankrijk",FR | Moods
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xvGPbwn.jpg" group-title="Frankrijk",FR | Stormcast Novelas TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUmPbel.jpg" group-title="Frankrijk",FR | Supertoons TV
 https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PtdSkhd.png" group-title="Frankrijk",FR | Caillou
 https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6osyvwh.png" group-title="Frankrijk",FR | Magellan TV
+https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gr5OkFH.png" group-title="Frankrijk",FR | Midnight Pulp
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="Frankrijk",FR | Amuse Animation
+https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KyXpyEg.jpg" group-title="Frankrijk",FR | Motorvision TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jN5nI01.jpg" group-title="Frankrijk",FR | Juste pour Rire
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1GtJTUh.png" group-title="Frankrijk",FR | Pluto TV Animaux
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYDdyGH.jpg" group-title="Frankrijk",FR | 4 Kurd
 http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AVUqGfh.png" group-title="Frankrijk",FR | Persiana Family
@@ -562,9 +574,11 @@ http://51.210.199.59/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61RAHX2.png" group-title="Frankrijk",FR | Persiana Nostalgia
 http://51.210.199.20/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPGSSSQ.png" group-title="Frankrijk",FR | Persiana Billboard
-
+http://51.210.199.10/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pxMKyuK.png" group-title="Frankrijk",FR | Persiana Documentary
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K59P3H4.png" group-title="Frankrijk",FR | HodHod TV
+http://51.210.199.12/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yB5d5W1.png" group-title="Frankrijk",FR | Fashion TV L'Original
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yB5d5W1.png" group-title="Frankrijk",FR | Fashion TV UHD
@@ -2263,6 +2277,8 @@ https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 https://live1.presstv.ir/live/ifilm2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yrOXolW.jpg" group-title="Iran",IR | Varzesh TV Farsi
 http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K59P3H4.png" group-title="Iran",IR | HodHod TV
+http://51.210.199.12/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmyfz5H.png" group-title="Iran",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
