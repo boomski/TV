@@ -2209,6 +2209,14 @@ plugin://plugin.video.twitch/?mode=play&channel_name=sintesistv
 plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/efaQywK.jpg" group-title="Costa Rica",CR | Telediario Canal 8 Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wlr3KEk.jpg" group-title="Curaçao",CW | DCTV 
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zf95Bmy.png" group-title="Curaçao",CW | TV Direct 13
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KirHMzW.jpg" group-title="Curaçao",CW | Nos Pais
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGz7hfL.png" group-title="Curaçao",CW | VAM
+plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/vam/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
