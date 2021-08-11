@@ -2121,6 +2121,26 @@ https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8|Referer=https://
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Canada",CA | The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6tO8HGB.png" group-title="Mexico",MX | adn40 [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC7k--FhnJzhPTrbtldMSoQQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW1y9LO.jpg" group-title="Mexico",MX | Milenio [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCFxHplbcoJK9m70c4VyTIxg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Monterrey [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCo1nfa1JKNqtcUyLjLwTiIw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzUAR1h.jpg" group-title="Mexico",MX | La Octava
+plugin://plugin.video.dailymotion_com/?url=x80mow9&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkLTr1b.jpg" group-title="Mexico",MX | Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkLTr1b.jpg" group-title="Mexico",MX | Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ioi44L8.jpg" group-title="Mexico",MX | Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/axQbgIc.jpg" group-title="Mexico",MX | Canal 13 Tabasco
+plugin://plugin.video.sendtokodi/?https://vk.com/video593739575_456239095
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UQQsaNn.jpg" group-title="Mexico",MX | AMX Noticias 34.2
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QBNLGSA.jpg" group-title="Mexico",MX | A+ Baja California
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
