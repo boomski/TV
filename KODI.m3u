@@ -2125,10 +2125,34 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6tO8HGB.png" group-title="Mexico",MX | adn40 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC7k--FhnJzhPTrbtldMSoQQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW1y9LO.jpg" group-title="Mexico",MX | Milenio
+https://mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW1y9LO.jpg" group-title="Mexico",MX | Milenio [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCFxHplbcoJK9m70c4VyTIxg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fm4FVpK.png" group-title="Mexico",MX | Imagen Television
+plugin://plugin.video.dailymotion_com/?url=x82z4if&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGuCoyv.jpg" group-title="Mexico",MX | Imagen Multicast [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UClqo4ZAAZ01HQdCTlovCgkA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Bajío 
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Ciudad Juárez
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Monterrey 
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Monterrey [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCo1nfa1JKNqtcUyLjLwTiIw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Puebla
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7n9yVgo.jpg" group-title="Mexico",MX | Multimedios Canal 6 Saltillo
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DhUhX2W.jpg" group-title="Mexico",MX | Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzUAR1h.jpg" group-title="Mexico",MX | La Octava
 plugin://plugin.video.dailymotion_com/?url=x80mow9&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qkLTr1b.jpg" group-title="Mexico",MX | Canal 10
@@ -2139,12 +2163,32 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/axQbgIc.jpg" group-title="Mexico",MX | Canal 13 Tabasco
 plugin://plugin.video.sendtokodi/?https://vk.com/video593739575_456239095
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1X6SwWB.png" group-title="Mexico",MX | ILCE Canal 15 Summa Saberes 
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/_definst_/smil:EVLiveCan15ABRB7t2rpbyQ0WRUxj5N0UVMg.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yPEcC7.jpg" group-title="Mexico",MX | Canal 18 Iberoamericano 
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/smil:EVLiveCan18ABRy4rk76AvPkCLEa0Y5yYMnA.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9oNW5Kc.png" group-title="Mexico",MX | Canal 44
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0UJGrI.png" group-title="Mexico",MX | Foro TV
+https://dai.google.com/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/87e4c157-2592-4579-a54f-6405b837b99b:GRQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FmDXpLP.jpg" group-title="Mexico",MX | Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQQsaNn.jpg" group-title="Mexico",MX | AMX Noticias 34.2
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l1odliD.png" group-title="Mexico",MX | Azteca 7 Baja California
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QBNLGSA.jpg" group-title="Mexico",MX | A+ Baja California
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hjHNoQB.jpg" group-title="Mexico",MX | Tlaxcala TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TMJnroj.jpg" group-title="Mexico",MX | Cepropie
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7rtm6y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDt9pUf.png" group-title="Mexico",MX | CorTV
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DWysF1s.jpg" group-title="Mexico",MX | México Travel Channel
+plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/efaQywK.jpg" group-title="Costa Rica",CR | Telediario Canal 8 Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
