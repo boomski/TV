@@ -9,27 +9,27 @@ plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IfXF6r1.jpg" group-title="België",BE | Ketnet Junior
 plugin://plugin.video.vrt.nu/play/id/ketnet_jr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMdUoR3.png" group-title="België",BE | VTM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLBI62n.png" group-title="België",BE | VTM
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LYSYY5e.png" group-title="België",BE | VTM 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5HaWRY.png" group-title="België",BE | VTM 2
 plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ3LAor.png" group-title="België",BE | VTM 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gi4Dx0i.png" group-title="België",BE | VTM 3
 plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aJbl5np.png" group-title="België",BE | VTM 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hsTkX9n.png" group-title="België",BE | VTM 4
 plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd542d7ceb?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R3RcKkJ.jpg" group-title="België",BE | VTM Gold
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8sJOmv.png" group-title="België",BE | VTM Gold
 plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85dda47458?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Khd93SF.jpg" group-title="België",BE | VTM Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMvSm2Q.jpg" group-title="België",BE | VTM Kids
 plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VvykYlU.png" group-title="België",BE | La Une
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q61vR5B.jpg" group-title="België",BE | La Une
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=laune
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7t4tiyT.png" group-title="België",BE | TIPIK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilv0y3V.png" group-title="België",BE | TIPIK
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=tipiktv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/StttnYz.png" group-title="België",BE | La Trois
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NnHzKTf.png" group-title="België",BE | La Trois
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=latrois
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0gXVzbC.png" group-title="België",BE | AB3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIV8szr.jpg" group-title="België",BE | AB3
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/abbe/get_live_url/?item_id=ab3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lNnVizU.png" group-title="België",BE | ABXPLORE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9LF5Gr3.png" group-title="België",BE | ABXPLORE
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/abbe/get_live_url/?item_id=abxplore
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
@@ -71,7 +71,7 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b450000.m3u8|Referer=https://player.cdn01.rambla.be/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="België",BE | LN24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0xyNzm.png" group-title="België",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="België",BE | Euronews
 https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
@@ -81,9 +81,9 @@ https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
 https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dX569rC.png" group-title="België",BE | Bloomberg TV 
 https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l8ctdBR.jpg" group-title="België",BE | Bloomberg Quicktake
+#EXTINF:-1 tvg-logo="https://i.imgur.com/04xwmZG.png" group-title="België",BE | Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AjtOEQk.png" group-title="België",BE | 21 Bis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJbtokn.jpg" group-title="België",BE | 21 Bis
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
