@@ -699,6 +699,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://insighttv-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Duitsland",DE | Inwonder 
 https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTR1SXE.png" group-title="Duitsland",DE | More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQZQ94D.png" group-title="Duitsland",DE | Derserienkanal 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Duitsland",DE | Rakuten TV Shows 
@@ -909,6 +911,8 @@ https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
 https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcxFoRm.png" group-title="Duitsland",DE | Muxx.tv
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8yyyRh.png" group-title="Duitsland",DE | Khatereh TV
+https://5caf24a595d94.streamlock.net:1937/8130/8130/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bcl73d7.png" group-title="Duitsland",DE | K-TV
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G1mgVMD.png" group-title="Duitsland",DE | Sophia TV
@@ -2209,6 +2213,10 @@ plugin://plugin.video.twitch/?mode=play&channel_name=sintesistv
 plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/efaQywK.jpg" group-title="Costa Rica",CR | Telediario Canal 8 Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Aruba",AW | Tele Aruba
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GA7Yyrq.png" group-title="Aruba",AW | Nos Isla TV
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wlr3KEk.jpg" group-title="Curaçao",CW | DCTV 
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zf95Bmy.png" group-title="Curaçao",CW | TV Direct 13
