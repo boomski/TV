@@ -409,6 +409,10 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="Frankrijk",FR | MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2pZBr1Y.jpg" group-title="Frankrijk",FR | RMC Découverte
+https://s6.tntendirect.com/rmcdecouverte/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sdjKIZ3.png" group-title="Frankrijk",FR | Chérie 25 
+https://s6.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="Frankrijk",FR | TéléToon+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFRsOre.png" group-title="Frankrijk",FR | TZiK
@@ -527,6 +531,8 @@ https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUmPbel.jpg" group-title="Frankrijk",FR | Supertoons TV
 https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PtdSkhd.png" group-title="Frankrijk",FR | Caillou
+https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYDdyGH.jpg" group-title="Frankrijk",FR | 4 Kurd
 http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AVUqGfh.png" group-title="Frankrijk",FR | Persiana Family
