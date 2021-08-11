@@ -1773,6 +1773,10 @@ https://wgtvdt.lls.cdn.pbs.org/wgtvdt/a4907776-c769-452f-ab2f-74bb1f86676f/prima
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pGowwN.jpg" group-title="USA",US | Georgia | WSB-TV
 https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ieK5FX.jpg" group-title="USA",US | Georgia | WATC 57.1
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ieK5FX.jpg" group-title="USA",US | Georgia | WATC 57.2
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o2YxtxF.png" group-title="USA",US | Hawaii | PBS Hawaii [Geo]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rh1uckh.png" group-title="USA",US | Idaho | KAID [Geo]
@@ -1851,6 +1855,8 @@ https://whyydt.lls.cdn.pbs.org/whyydt/6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed/prima
 https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sL0LkVl.jpg" group-title="USA",US | Pennsylvania | WVIA [Geo]
 https://wviadt.lls.cdn.pbs.org/wviadt/951e97d7-7c2c-45c0-abff-261c852fcb7d/primary.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwNWj3g.png" group-title="USA",US | Texas | KAVU-TV ABC 25
+https://dai.google.com/linear/hls/pa/event/IxO7sTUKSJyXfpdT_zJAXA/stream/6bfaa1d8-2a8d-4476-bd15-672d685e7054:GRQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/afidFCO.jpg" group-title="USA",US | Texas | Texas Weather Tracker TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCMZiahOsO-Ad4IgrD6x4E1A&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjcrBN1.jpg" group-title="USA",US | Washington | Bellevue Television [YOUTUBE]
