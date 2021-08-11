@@ -1683,6 +1683,8 @@ http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbDwSWh.png" group-title="Portugal",PT | NOS Studios HD
 http://185.236.229.21:9981/play/a054
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Bulgaije",BG | Sportal.bg
+plugin://plugin.video.sendtokodi/?https://sportal.bg/video-2021031416243499998
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
@@ -2137,10 +2139,14 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/axQbgIc.jpg" group-title="Mexico",MX | Canal 13 Tabasco
 plugin://plugin.video.sendtokodi/?https://vk.com/video593739575_456239095
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oNW5Kc.png" group-title="Mexico",MX | Canal 44
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQQsaNn.jpg" group-title="Mexico",MX | AMX Noticias 34.2
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QBNLGSA.jpg" group-title="Mexico",MX | A+ Baja California
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
+plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
@@ -2233,11 +2239,9 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://i.mjh.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWa1kQk.png" group-title="Nieuw-Zeeland",NZ | Juice TV
 https://i.mjh.nz/nz/tv.juice.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
-plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u9ieSCH.png" group-title="Mozambique",MZ | TVM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVzBIz5.jpg" group-title="Mozambique",MZ | TVM
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ligyuce.png" group-title="Mozambique",MZ | TVM Telescola
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hkbdGHw.png" group-title="Mozambique",MZ | TVM Telescola
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tFDhuM1.jpg" group-title="Mozambique",MZ | STV
 http://62.176.93.137:8002/play/a00m/index.m3u8
@@ -2532,7 +2536,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xf67U9K.jpg" group-title="Sport",Zweden | ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mQnhrv2.png" group-title="Sport",Turkije | beIN SPORTS Türkiye [Geo]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQnhrv2.png" group-title="Youtube",Turkije | beIN SPORTS Türkiye [Geo]
 plugin://plugin.video.youtube/play/?channel_id=UCPe9vNjHF1kEExT5kHwc7aw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKMfNq3.jpg" group-title="Youtube",Spanje | SPORTPUBLIC TV
 plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
