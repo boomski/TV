@@ -2241,6 +2241,10 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCba3hpU7EFBSk817y9qZkiA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKhEGN9.jpg" group-title="Argentinië",AR | DeporTV
