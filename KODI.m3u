@@ -2228,7 +2228,7 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Aruba",AW | Tele Aruba
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GA7Yyrq.png" group-title="Aruba",AW | Nos Isla TV
-https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftelearuba.aw%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wlr3KEk.jpg" group-title="Curaçao",CW | DCTV 
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zf95Bmy.png" group-title="Curaçao",CW | TV Direct 13
@@ -2245,10 +2245,10 @@ plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
 plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCba3hpU7EFBSk817y9qZkiA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EX3q7ua.jpg" group-title="Argentinië",AR | DeporTV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCSmh3DFxBwFurMttT60PQ1g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xKhEGN9.jpg" group-title="Argentinië",AR | DeporTV
-https://contar-lh.akamaihd.net/i/deporttv_1@155742/master.m3u8|X-Forwarded-For=13.227.80.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
