@@ -2237,8 +2237,14 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VGz7hfL.png" group-title="Curaçao",CW | VAM
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/vam/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vmA3yWs.png" group-title="Antigua en Barbuda",AG | ABS
+plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
+plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xKhEGN9.jpg" group-title="Argentinië",AR | DeporTV
+https://contar-lh.akamaihd.net/i/deporttv_1@155742/master.m3u8|X-Forwarded-For=13.227.80.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
