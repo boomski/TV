@@ -1638,9 +1638,7 @@ https://streamtv.mediasector.es/hls/spektratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x45gv46.jpg" group-title="Spanje",ES | El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV
-https://videos.rtva.ad/live/rtva/playlist.m3u8?wowzatokenstarttime=1628495582&wowzatokenendtime=1628499182&wowzatokenhash=2Iu5UO9NW_7maUPGAZ3E4xiy7obMDBGu4mRJFCS1fZ0=|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A90.0)%20Gecko%2F20100101%20Firefox%2F90.0&Referer=https%3A%2F%2Fwww.andorradifusio.ad%2F
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV WEB
-https://videos.rtva.ad/live/web/playlist.m3u8?wowzatokenstarttime=1628495582&wowzatokenendtime=1628499182&wowzatokenhash=O_GnbluIibgAdUj5xJhO3NzChJFtFFP-ZjSWyE81Wro=|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A90.0)%20Gecko%2F20100101%20Firefox%2F90.0&Referer=https%3A%2F%2Fwww.andorradifusio.ad%2F
+https://iptv-all.lanesh4d0w.codes/andorra/atv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loamza3.png" group-title="Portugal",PT | RTP1 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjtqdV9.png" group-title="Portugal",PT | RTP2 
@@ -2397,6 +2395,10 @@ https://live1.presstv.ir/live/ifilm2.m3u8
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K59P3H4.png" group-title="Iran",IR | HodHod TV
 http://51.210.199.12/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9Yrtem.png" group-title="Iran",IR | Mono TV
+http://51.210.227.137/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4xeiRi.jpg" group-title="Iran",IR | ITN
+http://51.210.199.31/hls/stream.m3u8  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmyfz5H.png" group-title="Iran",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
