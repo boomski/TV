@@ -663,8 +663,6 @@ https://pliventv-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.mpd
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ADCiOHX.png" group-title="Duitsland",DE | ServusTV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GJApWEn.png" group-title="Duitsland",DE | Sport 1 Deutschland
-https://www.filmon.com/vr-streams/4121.high/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oitJsZU.png" group-title="Duitsland",DE | EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXkIqPG.png" group-title="Duitsland",DE | RiC
@@ -699,6 +697,16 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://insighttv-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Duitsland",DE | Inwonder 
 https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GJApWEn.png" group-title="Duitsland",DE | Sport 1 Deutschland
+https://www.filmon.com/vr-streams/4121.high/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BJY26X6.png" group-title="Duitsland",DE | Sport 1+ HD
+http://185.97.150.19:8082/376
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8eUT0O.png" group-title="Duitsland",DE | Sky Sport 1
+http://185.97.150.19:8082/380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZgwuiH.png" group-title="Duitsland",DE | Sky Sport 2
+http://185.97.150.19:8082/381
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tz2rYr8.png" group-title="Duitsland",DE | Sky Bundesliga 1 
+http://185.97.150.19:8082/382
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTR1SXE.png" group-title="Duitsland",DE | More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQZQ94D.png" group-title="Duitsland",DE | Derserienkanal 
@@ -1055,8 +1063,12 @@ https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c0W6nvh.png" group-title="Oostenrijk",AT | RTV
 https://stream1.primetv.at/rtvlive/smil:rtvlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxISEZf.png" group-title="Oostenrijk",AT | Go TV
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OX1C8Jw.png" group-title="Oostenrijk",AT | Go TV
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OX1C8Jw.png" group-title="Oostenrijk",AT | Go TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://nstream17.gotv.at:1443/live/gotvlive_576p/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="Oostenrijk",AT | Teins TV
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="Oostenrijk",AT | K-TV
@@ -1778,28 +1790,16 @@ https://t2.tvmak.com/tv/TVART.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010
 https://t2.tvmak.com/tv/TVKOHA.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Bulgarije",BG | Sportal.bg
 plugin://plugin.video.sendtokodi/?https://sportal.bg/video-2021031416243499998
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
-https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wQ2TrDu.png" group-title="USA",US | OAN
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PuZeruz.jpg" group-title="USA",US | Crackle
-https://crackle-plex.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oL5ICwR.jpg" group-title="USA",US | Shout! Factory TV
-https://shoutfactory-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLqjsyg.jpg" group-title="USA",US | Nat Geo Wild
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SIEO61K.png" group-title="USA",US | Weather Gone Viral
-https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbOWcpk.png" group-title="USA",US | QuaHZ
-https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N42IFU4.jpg" group-title="Estland",EE | ETV
+https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OvJCYVH.png" group-title="Estland",EE | ETV 2 [Geo]
+https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ItNTTXP.png" group-title="Estland",EE | ETV + [Geo]
+https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cdn2.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
@@ -1812,14 +1812,36 @@ https://pac12-localnow.amagi.tv/playlist.m3u8
 https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyiyVOo.jpg" group-title="USA",US | Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PuZeruz.jpg" group-title="USA",US | Crackle
+https://crackle-plex.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oL5ICwR.jpg" group-title="USA",US | Shout! Factory TV
+https://shoutfactory-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLqjsyg.jpg" group-title="USA",US | Nat Geo Wild
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SIEO61K.png" group-title="USA",US | Weather Gone Viral
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbOWcpk.png" group-title="USA",US | QuaHZ
+https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cdc4xDi.jpg" group-title="USA",US | PCN
 https://bozztv.com/teleyupp/teleup-pcnhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/44QTNIO.jpg" group-title="USA",US | getTV
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wQ2TrDu.png" group-title="USA",US | OAN
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="USA",US | CNBC Arabiya
+https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Xdw3DJ.jpg" group-title="USA",US | Alaska | Alaska Public Media [Geo]
 https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lC16zKy.png" group-title="USA",US | Arizona | KAET [Geo]
@@ -1961,7 +1983,19 @@ https://cdn88.theus6tv.tk/united-states/locals/madison/wisc-dt2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crYZH7T.jpg" group-title="USA",US | SurvivorNetTV
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SdoY8QJ.jpg" group-title="USA",US | Cooking Panda
-https://stream-us-east-1.getpublica.com/cl/623879bb-1758-4cd2-be3f-b35e3223cf6a/1280x720_1518690_3_false.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SdoY8QJ.jpg" group-title="USA",US | Cooking Panda
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGGO3ij.jpg" group-title="USA",US | Harmonic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://testlowlat.harmonicinc.com/Content/DASH/Live/channel(cbr)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGGO3ij.jpg" group-title="USA",US | Harmonic 2
+https://testlowlat.harmonicinc.com/Content/DASH/Live/channel(dash_ll_time)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLNJHHp.jpg" group-title="USA",US | Shop LC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
@@ -2046,10 +2080,22 @@ https://pe-ak-lp02a-9c9media.akamaized.net/live/News3Digi/p/dash/00000001/531849
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pe-ak-lp02a-9c9media.akamaized.net/live/News4Digi/p/dash/00000001/4b36d011b438df10/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg" group-title="Canada",CA | BNN Bloomberg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xLpSezI.png" group-title="Canada",CA | Noovo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CqUeSly.jpg" group-title="Canada",CA | CP24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://capi.9c9media.com/destinations/cp24_web/platforms/desktop/contents/104070/contentpackages/528620/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7iZ4JW.jpg" group-title="Canada",CA | WCGtv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="Canada",CA | Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="Canada",CA | TVO Kids
@@ -2428,6 +2474,8 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://i.mjh.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWa1kQk.png" group-title="Nieuw-Zeeland",NZ | Juice TV
 https://i.mjh.nz/nz/tv.juice.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ww1PTvn.png" group-title="Tahiti",TNTV [Not 24/7]
+https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVzBIz5.jpg" group-title="Mozambique",MZ | TVM
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hkbdGHw.png" group-title="Mozambique",MZ | TVM Telescola
