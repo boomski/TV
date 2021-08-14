@@ -2237,7 +2237,7 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VGz7hfL.png" group-title="Curaçao",CW | VAM
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/vam/kodi/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vmA3yWs.png" group-title="Antigua en Barbuda",AG | ABS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDgxUVS.png" group-title="Antigua en Barbuda",AG | ABS
 plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
