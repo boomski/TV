@@ -1750,6 +1750,8 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwebsocket.ekranet.com%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dz2fE4d.png" group-title="Albanië",AL | Klan Macedonia
 https://t2.tvmak.com/tv/TVART.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dU5Ecg.jpg" group-title="Albanië",AL | TV Koha
+https://t2.tvmak.com/tv/TVKOHA.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XX4HH9x.jpg" group-title="Albanië",AL | Euronews Albania [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UChR-A__NS_C5kHDWj3PeAhw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPFHj8d.png" group-title="Albanië",AL | Top News 
@@ -1765,13 +1767,15 @@ plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oranews.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72P6v2h.jpg" group-title="Kosovo",XK | TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Kosovo",XK | Kohavision TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xuZBh2.png" group-title="Kosovo",XK | Syri TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qzTDKYC.jpg" group-title="Kosovo",XK | RTV Ilirida [Not 24/7]
 https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dz2fE4d.png" group-title="Noord-Macedonië",MK | Klan Macedonia
 https://t2.tvmak.com/tv/TVART.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dU5Ecg.jpg" group-title="Noord-Macedonië",MK | TV Koha
+https://t2.tvmak.com/tv/TVKOHA.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Bulgarije",BG | Sportal.bg
 plugin://plugin.video.sendtokodi/?https://sportal.bg/video-2021031416243499998
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
@@ -2052,6 +2056,8 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IojZ24.jpg" group-title="Canada",CA | Peachtree TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oF4ZFUB.png" group-title="Canada",CA | Ovation
+https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Canada",CA | NTV
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NVzGMIZ.png" group-title="Canada",CA | ICI TV
