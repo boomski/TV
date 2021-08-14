@@ -1722,8 +1722,52 @@ https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rCTH2iP.png" group-title="Albanië",AL | RTSH Sport
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Albanië",AL | Euronews [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UC_Z78uo-XNGbE57X2QUZWbQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BTgSMrs.png" group-title="Albanië",AL | News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8DLGSv3.jpg" group-title="Albanië",AL | ABC News
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwpsyFd.png" group-title="Albanië",AL | Nesër TV
+https://nesertv.live/ntv/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VmJz0wC.jpg" group-title="Albanië",AL | Frame TV
+http://195.154.252.221:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E2Aq4b0.jpg" group-title="Albanië",AL | ALPO
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CabbKa1.jpg" group-title="Albanië",AL | TV 7 Albania
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4RuV4v1.jpg" group-title="Albanië",AL | Fax News
+http://edge01eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTFIr92.png" group-title="Albanië",AL | AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gJKEI12.png" group-title="Albanië",AL | RTV Syri Blue
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90RBoAO.jpg" group-title="Albanië",AL | Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2GCL3sC.jpg" group-title="Albanië",AL | MCN TV
+http://edge01eu.ekranet.com/mcntv_720p/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwebsocket.ekranet.com%2F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dz2fE4d.png" group-title="Albanië",AL | Klan Macedonia
+https://t2.tvmak.com/tv/TVART.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XX4HH9x.jpg" group-title="Albanië",AL | Euronews Albania [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UChR-A__NS_C5kHDWj3PeAhw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPFHj8d.png" group-title="Albanië",AL | Top News 
+plugin://plugin.video.dailymotion_com/?url=x6inuzo&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sSj2NrP.jpg" group-title="Albanië",AL | Apollon TV
+plugin://plugin.video.sendtokodi/?https://apollon.tv/apollon-stream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wO6of5N.png" group-title="Albanië",AL | Ora 
+plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oratv.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aLL7VZg.png" group-title="Albanië",AL | Ora News
+plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oranews.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Albanië",AL | Zjarr TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72P6v2h.jpg" group-title="Kosovo",XK | TV Opoja
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Kosovo",XK | Kohavision TV
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xuZBh2.png" group-title="Kosovo",XK | Syri TV
+https://tv.syri.net/syrilive/webtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzTDKYC.jpg" group-title="Kosovo",XK | RTV Ilirida [Not 24/7]
+https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dz2fE4d.png" group-title="Noord-Macedonië",MK | Klan Macedonia
+https://t2.tvmak.com/tv/TVART.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ArlTcEl.jpg" group-title="Bulgarije",BG | Sportal.bg
 plugin://plugin.video.sendtokodi/?https://sportal.bg/video-2021031416243499998
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
