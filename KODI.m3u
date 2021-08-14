@@ -1800,6 +1800,8 @@ https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn2.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRZCO4o.png" group-title="Rusland",RU | T Sports
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
@@ -2869,7 +2871,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCnkMTsKYqhHm6l6GQzg4szg&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1vTSCG.png" group-title="Pluto TV",Spanje | PLUTO TV Deportes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P8ZuakH.png" group-title="DistroTV",USA | 24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
 
 
 
