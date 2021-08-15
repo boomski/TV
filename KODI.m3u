@@ -1803,13 +1803,15 @@ https://h6le2.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fLhcLJr.png" group-title="Litouwen",LT | LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwyYAFP.png" group-title="Litouwen",LT | KOK Fights
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn2.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gRZCO4o.png" group-title="Rusland",RU | T Sports
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/STP7Vzm.png" group-title="Rusland",RU | 7TV
+https://v4.proofix.ru/7tv-live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4C8QnWO.png" group-title="Rusland",RU | Taina Telekanal
+https://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
