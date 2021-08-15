@@ -1800,6 +1800,10 @@ https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8
 https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7d3wmB.png" group-title="Estland",EE | Riigikogu
 https://h6le2.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLhcLJr.png" group-title="Litouwen",LT | LRT Lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwyYAFP.png" group-title="Litouwen",LT | KOK Fights
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2610,6 +2614,10 @@ https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livest
 https://orf2ooe.mdn.ors.at/out/u/orf2ooe/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bhhuocz.png" group-title="Radio",CH | Radio Ticino Channel
 https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lG3EK7Q.png" group-title="Radio",LT | M-1 
+http://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5ulUxA.jpg" group-title="Radio",LT | Power Hit Radio
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Oostenrijk | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Sport",Spanje | Olympic Channel
