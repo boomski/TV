@@ -2538,6 +2538,26 @@ http://62.176.93.137:8002/play/a00e/index.m3u8
 http://62.176.93.137:8002/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sS7MfqE.png" group-title="Zambia",ZM | ZED TV
 http://62.176.93.137:8002/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cS2vq0c.png" group-title="Kirgizië",KG | КТRК
+http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dOZRZUQ.png" group-title="Kirgizië",KG | КТRК Мusic
+http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kha3doj.png" group-title="Kirgizië",KG | Аlа-Тоо 24 
+http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldv58xy.png" group-title="Kirgizië",KG | КТRК Sport
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9rW6caT.png" group-title="Kirgizië",KG | Madaniyat
+http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mxb9WiP.jpg" group-title="Kirgizië",KG | Balastan
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qR4Nh1c.png" group-title="Kirgizië",KG | TV1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/reYM9yT.png" group-title="Kirgizië",KG | Manas TV
+http://212.42.111.136/hls/manas/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aWvomfm.png" group-title="Kirgizië",KG | Lyubimy HD
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsmIowq.jpg" group-title="Kirgizië",KG | Tumar TV
+plugin://plugin.video.sendtokodi/?https://ok.ru/live/1077325012671
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TEVI5T.jpg" group-title="Iran",IR | Press TV
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM English
