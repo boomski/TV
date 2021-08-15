@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dGWx622.jpg" group-title="Letland",LV | Visiem LTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W9RtBZN.jpg" group-title="Letland",LV | Chau TV
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png" group-title="Letland",LV | TVNET
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A6szQkm.png" group-title="Letland",LV | ReTV
-http://edge-telia2.tiesraides.lv/live/retv.lv.1_2/chunklist.m3u8
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
