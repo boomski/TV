@@ -2558,6 +2558,8 @@ http://212.42.111.136/hls/manas/index.m3u8
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsmIowq.jpg" group-title="Kirgizië",KG | Tumar TV
 plugin://plugin.video.sendtokodi/?https://ok.ru/live/1077325012671
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TuaUbjV.png" group-title="Tadzjikistan",TJ | Xuzur TV
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TEVI5T.jpg" group-title="Iran",IR | Press TV
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM English
