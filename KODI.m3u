@@ -617,6 +617,8 @@ https://bistreaming.online:1936/nazarethmietv-1/ngrp:nazarethmietv-1_all/playlis
 https://rrsatrtmp.tulix.tv/nlmtv/nlmtvmulti.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Frankrijk",FR | Poker TV
 http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KOJMTH.png" group-title="Monaco",MC | Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYj2bPl.png" group-title="Duitsland",DE | ARD
 https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n737O4M.jpg" group-title="Duitsland",DE | WDR [Geo]
@@ -1758,6 +1760,8 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90RBoAO.jpg" group-title="Albanië",AL | Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8Qr5jh.jpg" group-title="Albanië",AL | AlbTV USA
+http://us.bestvideostreaming.is/8711/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2GCL3sC.jpg" group-title="Albanië",AL | MCN TV
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwebsocket.ekranet.com%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dz2fE4d.png" group-title="Albanië",AL | Klan Macedonia
@@ -1776,10 +1780,11 @@ plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oratv.php
 plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oranews.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Albanië",AL | Zjarr TV
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72P6v2h.jpg" group-title="Kosovo",XK | TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Kosovo",XK | Kohavision TV
-
+http://us.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xuZBh2.png" group-title="Kosovo",XK | Syri TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qzTDKYC.jpg" group-title="Kosovo",XK | RTV Ilirida [Not 24/7]
@@ -2008,6 +2013,12 @@ https://testlowlat.harmonicinc.com/Content/DASH/Live/channel(dash_ll_time)/manif
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5dK5Ft.png" group-title="USA",US | 2A Network
+https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uCy2jpP.png" group-title="USA",US | iShe TV
+https://simultv.s.llnwi.net/o058/iSheTV/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ww9qYJZ.jpg" group-title="USA",US | iTown TV
+https://simultv.s.llnwi.net/o064/iTownTV/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyhDyLp.jpg" group-title="Canada",CA | CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yuPFx4K.jpg" group-title="Canada",CA | CBC Toronto
@@ -2374,14 +2385,22 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GA7Yyrq.png" group-title="Aruba",AW | Nos Isla TV
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftelearuba.aw%2F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UuGVwcD.jpg" group-title="Curaçao",CW | TeleCuraçao
+http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wlr3KEk.jpg" group-title="Curaçao",CW | DCTV 
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zf95Bmy.png" group-title="Curaçao",CW | TV Direct 13
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zf95Bmy.png" group-title="Curaçao",CW | TV Direct 13
+https://edge1.tvdirect13.com/live/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KirHMzW.jpg" group-title="Curaçao",CW | Nos Pais
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KirHMzW.jpg" group-title="Curaçao",CW | Nos Pais
+http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VGz7hfL.png" group-title="Curaçao",CW | VAM
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/vam/kodi/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E5gDe72.jpg" group-title="Curaçao",CW | Bonce TV
+https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDgxUVS.png" group-title="Antigua en Barbuda",AG | ABS
 plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
@@ -2486,7 +2505,9 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://i.mjh.nz/nz/tv.13.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWa1kQk.png" group-title="Nieuw-Zeeland",NZ | Juice TV
 https://i.mjh.nz/nz/tv.juice.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ww1PTvn.png" group-title="Tahiti",TNTV [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTHXzc0.jpg" group-title="Fiji",FJ | Fiji TV [Not 24/7]
+https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ww1PTvn.png" group-title="Tahiti",PF | TNTV [Not 24/7]
 https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVzBIz5.jpg" group-title="Mozambique",MZ | TVM
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
@@ -2580,6 +2601,8 @@ http://51.210.227.137/hls/stream.m3u8
 http://51.210.199.31/hls/stream.m3u8  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmyfz5H.png" group-title="Iran",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ0hDru.jpg" group-title="Nepal",NP | Kantipur TV
+https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
 http://live-radio-cf.lwc.vrtcdn.be/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kvZwuRg.png" group-title="Radio",BE | MNM
@@ -2909,6 +2932,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77Yn8QX.png" group-title="DistroTV",Duitsland | Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VK9b4RL.jpg" group-title="DistroTV",USA | Chive TV
+http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8ZuakH.png" group-title="DistroTV",USA | 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
 
