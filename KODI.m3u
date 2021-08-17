@@ -45,7 +45,7 @@ http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b3000000.m3u8|Referer=https://player.clevercast.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist_b3000000.m3u8|Referer=https://player.clevercast.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="België",BE | BX1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyvFt03.png" group-title="België",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJcnXUF.png" group-title="België",BE | Canal C
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
@@ -155,11 +155,11 @@ http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&type=live&service=wowz
 http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&type=live&service=wowza&output=playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="Nederland",NL | Podium.TV 3
 http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&type=live&service=wowza&output=playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UuVwFHP.png" group-title="Nederland",NL | 1Twente
+#EXTINF:-1 tvg-logo="https://i.imgur.com/90tHbS9.png" group-title="Nederland",NL | 1Twente
 https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAsEAoK.jpg" group-title="Nederland",NL | XON
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rkGSh32.png" group-title="Nederland",NL | Kempen TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lEyxj9I.png" group-title="Nederland",NL | Kempen TV
 http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kURvuH.png" group-title="Nederland",NL | TV Ellef
 http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
