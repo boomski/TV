@@ -2077,15 +2077,29 @@ https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master_2500.m3u8|X-Forwa
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master_2500.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ky0Dbzt.png" group-title="Canada",CA | ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Canada",CA | Global News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Canada",CA | Global British Columbia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global British Columbia
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Canada",CA | Global Toronto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global Toronto
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MtSURrQ.png" group-title="Canada",CA | Global Calgary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News Halifax
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News Kingston
+https://live.corusdigitaldev.com/groupa/live/023a9e25-f0cf-4d97-af9f-5c665b7d45b9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News Peterborough
+https://live.corusdigitaldev.com/groupa/live/5eb39b64-58e8-47d2-97ca-25e8cd760b63/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News Regina
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News Saskatoon
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global Calgary
 https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7R10c5i.png" group-title="Canada",CA | Global Edmonton
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global Edmonton
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg" group-title="Canada",CA | CTV News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2125,7 +2139,7 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7IojZ24.jpg" group-title="Canada",CA | Peachtree TV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oF4ZFUB.png" group-title="Canada",CA | Ovation
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOX4RQo.png" group-title="Canada",CA | Ovation
 https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Canada",CA | NTV
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
@@ -2151,17 +2165,14 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gx4ejKm.png" group-title="Canada",CA | Outside TV 
 https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Canada",CA | CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/venPneF.png" group-title="Canada",CA | NAC TV
-http://stream.pivotalelements.com/nactv/stream.m3u8|User-Agent=VLC
-#EXTINF:-1 tvg-logo="https://i.imgur.com/venPneF.png" group-title="Canada",CA | NAC TV
-http://stream.pivotalelements.com/nactv/stream.m3u8|User-Agent=VLC&Referer=http://nactv.tv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/venPneF.png" group-title="Canada",CA | NAC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2o4Sxub.png" group-title="Canada",CA | NAC TV
 http://stream.pivotalelements.com/nactv/stream.m3u8|Referer=http://nactv.tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oRigj9q.jpg" group-title="Canada",CA | Télé Culturelle Médias
 https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
@@ -2237,6 +2248,8 @@ http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nX3IbkV.jpg" group-title="Canada",CA | Hyder TV
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wAoAslp.png" group-title="Canada",CA | Eawaz TV 
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Canada",CA | TAG TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCP3zJUZRPyJh4VGiRd9pqgg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGpoHNw.png" group-title="Canada",CA | MAXX
@@ -2413,6 +2426,12 @@ plugin://plugin.video.youtube/play/?channel_id=UCba3hpU7EFBSk817y9qZkiA&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCSmh3DFxBwFurMttT60PQ1g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WUZ3yqv.png" group-title="Brazilië",BR | All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV
+https://stmv1.srvstm.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
@@ -2936,7 +2955,4 @@ https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8ZuakH.png" group-title="DistroTV",USA | 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
-#EXTINF:-1, Sportzonline 1
-plugin://plugin.video.resolveurl-tester/?action=play&url=https://sportzonline.co/channels/hd/hd1.php
-#EXTINF:-1, Raj Music Malayalam 2
-plugin://plugin.video.sendtokodi/?https://tvstream.space/jtv/jiio.php?c=Raj_Music_Malayalam
+
