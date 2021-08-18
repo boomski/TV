@@ -2528,6 +2528,12 @@ https://i.mjh.nz/nz/tv.juice.m3u8
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ww1PTvn.png" group-title="Tahiti",PF | TNTV [Not 24/7]
 https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CimyTdo.png" group-title="Tunesië",TN | Baya TV
+http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaDoVLD.jpg" group-title="Tunesië",TN | Sahel TV
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GGjbFmX.png" group-title="Tunesië",TN | Tunisie Immobilier TV
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVzBIz5.jpg" group-title="Mozambique",MZ | TVM
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hkbdGHw.png" group-title="Mozambique",MZ | TVM Telescola
