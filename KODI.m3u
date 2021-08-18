@@ -2938,7 +2938,5 @@ http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
 #EXTINF:-1, Sportzonline 1
 plugin://plugin.video.resolveurl-tester/?action=play&url=https://sportzonline.co/channels/hd/hd1.php
-#EXTINF:-1, Raj Music Malayalam
-plugin://plugin.video.streamlink-tester/?action=play&url=https://tvstream.space/jtv/jiio.php?c=Raj_Music_Malayalam
 #EXTINF:-1, Raj Music Malayalam 2
 plugin://plugin.video.sendtokodi/?https://tvstream.space/jtv/jiio.php?c=Raj_Music_Malayalam
