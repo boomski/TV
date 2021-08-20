@@ -233,6 +233,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://sportportal1.akamaized.net/hls/live/702647/itvlive/ITV4PORTAL2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lDaSs6h.png" group-title="Groot-Brittannië",UK | ITV Be
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wq2aAct.png" group-title="Groot-Brittannië",UK | Channel 4
+plugin://plugin.video.sendtokodi/?http://www.giniko.com/watch.php?id=1167
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BXMRRV5.png" group-title="Groot-Brittannië",UK | 5 HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBYaTHt.png" group-title="Groot-Brittannië",UK | 5 Star
