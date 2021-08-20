@@ -1650,6 +1650,8 @@ http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 https://streamtv.mediasector.es/hls/spektratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x45gv46.jpg" group-title="Spanje",ES | El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qRdVquc.png" group-title="Spanje",ES | TaroTVision
+http://149.12.64.81:8080/hls/tarotvision.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV
 https://iptv-all.lanesh4d0w.codes/andorra/atv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loamza3.png" group-title="Portugal",PT | RTP1 
