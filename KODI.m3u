@@ -1817,6 +1817,14 @@ https://h6le2.babahhcdn.com/bb1027/smil:riigikogu_ch1.smil/playlist.m3u8
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwyYAFP.png" group-title="Litouwen",LT | KOK Fights
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HleDDTb.png" group-title="Polen",PL | Echo 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j0r4r7s.png" group-title="Polen",PL | Trwam TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2630,6 +2638,10 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8|Referer=https://www
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjDpHYp.jpg" group-title="Thailand",TH | Fox Sports 3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mFCPbCb.jpg" group-title="Noord-Korea",KP | KCTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cS2vq0c.png" group-title="Kirgizië",KG | КТRК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dOZRZUQ.png" group-title="Kirgizië",KG | КТRК Мusic
