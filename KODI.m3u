@@ -1652,6 +1652,8 @@ https://streamtv.mediasector.es/hls/spektratv/index.m3u8
 https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qRdVquc.png" group-title="Spanje",ES | TaroTVision
 http://149.12.64.81:8080/hls/tarotvision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rypwbqS.jpg" group-title="Spanje",ES | Tarotéame
+https://5b45171a7ade6.streamlock.net/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV
 https://iptv-all.lanesh4d0w.codes/andorra/atv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loamza3.png" group-title="Portugal",PT | RTP1 
@@ -2618,6 +2620,16 @@ http://212.42.111.136/hls/manas/index.m3u8
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsmIowq.jpg" group-title="Kirgizië",KG | Tumar TV
 plugin://plugin.video.sendtokodi/?https://ok.ru/live/1077325012671
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ceFgT2.png" group-title="Tadzjikistan",TJ | Tojikiston
+http://185.121.1.101:1935/live/tvt.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ceFgT2.png" group-title="Tadzjikistan",TJ | TV Sinamo
+http://185.121.1.101:1935/live/tvsinamo.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ANfyhdR.jpg" group-title="Tadzjikistan",TJ | TV Jahonnamo
+http://185.121.1.101:1935/live/tvj.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3phAeHw.png" group-title="Tadzjikistan",TJ | TVB
+http://185.121.1.101:1935/live/tvb.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iUZSbVZ.png" group-title="Tadzjikistan",TJ | TVS
+http://185.121.1.101:1935/live/tvs.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuaUbjV.png" group-title="Tadzjikistan",TJ | Xuzur TV
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfMMwIV.jpg" group-title="Afghanistan",AF | Afghanistan International
