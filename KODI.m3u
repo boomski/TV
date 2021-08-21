@@ -2514,6 +2514,48 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
+https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/66GQGKX.png" group-title="Peru",PE | Canal IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L3nYXvG.png" group-title="Peru",PE | Panamericana TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L3nYXvG.png" group-title="Peru",PE | Panamericana TV
+plugin://plugin.video.dailymotion_com/?url=x774s7s&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBkwrNh.png" group-title="Peru",PE | Best Cable Perú
+https://tv.siete.us/bestcable/bestcable/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPqYIUg.jpg" group-title="Peru",PE | Best Cable Sports Perú
+https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OI75sQi.jpg" group-title="Peru",PE | Best Cable Music 
+https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Auh81C8.jpg" group-title="Peru",PE | Best Cable Más Cumbia
+https://tv.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W4cA0EM.png" group-title="Peru",PE | Cable Netword TV
+https://tv.siete.us/cntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0JQ5aIj.jpg" group-title="Peru",PE | Cable Netword Cumbia TV
+https://tv.siete.us/cumbiatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tC2ehJH.png" group-title="Peru",PE | Cable Netword Belleza Andina TV
+https://tv.siete.us/bellezaandina/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ECIX3f.png" group-title="Peru",PE | Cajamarca TV
+https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JwVWh7y.png" group-title="Peru",PE | BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alguhm1.png" group-title="Peru",PE | Tele2000 Ayacucho
+https://mediastreamm.com:3126/live/tele2000live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QXxpI0d.jpg" group-title="Peru",PE | Ovación TV
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAIsK2v.jpg" group-title="Peru",PE | Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rUq4MmO.png" group-title="Peru",PE | Pax TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q1QzrVa.png" group-title="Peru",PE | Cultura 24 TV
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EE0cLCu.jpg" group-title="Peru",PE | Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nVl8d3g.jpg" group-title="Peru",PE | PBO [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCgR0st4ZLABi-LQcWNu3wnQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOSCHuC.png" group-title="Peru",PE | Nuestra TV
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/nuestratvlima
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
