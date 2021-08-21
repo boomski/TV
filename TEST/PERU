@@ -2,9 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cLItW9C.png" group-title="Peru",PE | CTC TV Cusco
 http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Flcotiv.com%2F
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nmAlmX4.png" group-title="Peru",PE | TV Cosmos
-http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFu5tT7.png" group-title="Peru",PE | Top Latino TV
 http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
