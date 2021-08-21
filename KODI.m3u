@@ -2494,8 +2494,8 @@ http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.s
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/vam/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E5gDe72.jpg" group-title="Curaçao",CW | Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tqsSv8O.png" group-title="Cuba",CU | Cuba Visión
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqsSv8O.png" group-title="Cuba",CU | Cuba Visión International
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fteveo.cu%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDgxUVS.png" group-title="Antigua en Barbuda",AG | ABS
 plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
