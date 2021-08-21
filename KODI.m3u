@@ -2947,3 +2947,5 @@ http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
 #EXTINF:-1,TEST
 plugin://plugin.video.sendtokodi/?https://www.lightcast.com/embed/player.php?&id=26014&type=live
+#EXTINF:-1,TEST 2
+plugin://plugin.video.sendtokodi/?https://polandin.com/sess/TVPlayer2/embed.php?ID=51656539&autoPlay
