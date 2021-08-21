@@ -2181,6 +2181,10 @@ https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d4
 https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VFuE0Uz.png" group-title="Canada",CA | Global News Winnipeg
 https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKATuIf.jpg" group-title="Canada",CA | CityTV Toronto
+https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AX8pJpq.png" group-title="Canada",CA | CTV Toronto
+https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNOUl9V.jpg" group-title="Canada",CA | CTV News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2213,6 +2217,8 @@ https://capi.9c9media.com/destinations/cp24_web/platforms/desktop/contents/10407
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fb4yIKZ.png" group-title="Canada",CA | ONNtv Ontario
+https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="Canada",CA | Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="Canada",CA | TVO Kids
@@ -2319,7 +2325,58 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="Canada",CA | Toronto 360 TV
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="Canada",CA | TV 16 Toronto
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGpoHNw.png" group-title="Canada",CA | MAXX
+https://stream-cdn.gemonline.tv/live/maxx/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=maxx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NtJYqb.png" group-title="Canada",CA | Onyx
+https://stream-cdn.gemonline.tv/live/onyx/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=onyx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsbLIhK.png" group-title="Canada",CA | River
+https://stream-cdn.gemonline.tv/live/river/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=river
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8r9mdl.png" group-title="Canada",CA | Rubix
+https://stream-cdn.gemonline.tv/live/rubix/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=rubix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" group-title="Canada",CA | GEM TV
+https://stream-cdn.gemonline.tv/live/gem/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemtv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" group-title="Canada",CA | GEM AZ
+https://stream-cdn.gemonline.tv/live/gem_az/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_az
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" group-title="Canada",CA | GEM Academy
+https://stream-cdn.gemonline.tv/live/gem_usa/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemusa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" group-title="Canada",CA | GEM Arabia
+https://stream-cdn.gemonline.tv/live/gem_arabia/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_arabia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" group-title="Canada",CA | GEM Fit
+https://stream-cdn.gemonline.tv/live/gem_fit/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_fit
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vp7WmG3.png" group-title="Canada",CA | GEM 24B
+https://stream-cdn.gemonline.tv/live/24b/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=24b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByPLvtx.png" group-title="Canada",CA | GEM Comedy
+https://stream-cdn.gemonline.tv/live/gem_comedy/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_comedy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2QBhOe.png" group-title="Canada",CA | GEM Kids
+https://stream-cdn.gemonline.tv/live/gem_kids/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemkids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GkZRmk.png" group-title="Canada",CA | GEM Junior
+https://stream-cdn.gemonline.tv/live/gem_junior/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemjunior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/onsdgcS.png" group-title="Canada",CA | GEM Drama
+https://stream-cdn.gemonline.tv/live/gem_drama/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemdrama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0gufsP.png" group-title="Canada",CA | GEM Film
+https://stream-cdn.gemonline.tv/live/gem_film/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_film
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJIxU2f.png" group-title="Canada",CA | GEM Life
+https://stream-cdn.gemonline.tv/live/gem_life/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_life
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hbm5VxM.png" group-title="Canada",CA | GEM Food
+https://stream-cdn.gemonline.tv/live/gem_food/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_food
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8OpKp6O.png" group-title="Canada",CA | GEM Travel
+https://stream-cdn.gemonline.tv/live/gem_travel/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_travel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYnkBV8.png" group-title="Canada",CA | GEM Nature
+https://stream-cdn.gemonline.tv/live/gem_nature/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_nature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFNHYJ.png" group-title="Canada",CA | Modern Economy
+https://stream-cdn.gemonline.tv/live/modern_economy/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=modern_economy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XZzmIJ.png" group-title="Canada",CA | GEM Property
+https://stream-cdn.gemonline.tv/live/gem_property/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_property
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGEUHXD.png" group-title="Canada",CA | GEM Latino
+https://stream-cdn.gemonline.tv/live/gem_latino/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_latino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMOlV0J.png" group-title="Canada",CA | GEM Series
+https://stream-cdn.gemonline.tv/live/gem_series/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemseries
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wItGfPe.png" group-title="Canada",CA | GEM Classic
+https://stream-cdn.gemonline.tv/live/gem_classic/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemclassic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9juBI9.png" group-title="Canada",CA | GEM Bollywood
+https://stream-cdn.gemonline.tv/live/gem_bollywood/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gembollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gi2ATG6.png" group-title="Canada",CA | Mifa
+https://stream-cdn.gemonline.tv/live/mifa/index.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=mifa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="Canada",CA | Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="Canada",CA | Urdu TV Toronto
@@ -2332,58 +2389,7 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Canada",CA | TAG TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCP3zJUZRPyJh4VGiRd9pqgg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGpoHNw.png" group-title="Canada",CA | MAXX
-https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=maxx
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6NtJYqb.png" group-title="Canada",CA | Onyx
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=onyx
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lsbLIhK.png" group-title="Canada",CA | River
-https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=river
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B8r9mdl.png" group-title="Canada",CA | Rubix
-https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=rubix
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" group-title="Canada",CA | GEM TV
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemtv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" group-title="Canada",CA | GEM AZ
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_az
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" group-title="Canada",CA | GEM Academy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemusa
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" group-title="Canada",CA | GEM Arabia
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_arabia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" group-title="Canada",CA | GEM Fit
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_fit
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vp7WmG3.png" group-title="Canada",CA | GEM 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=24b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ByPLvtx.png" group-title="Canada",CA | GEM Comedy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_comedy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T2QBhOe.png" group-title="Canada",CA | GEM Kids
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemkids
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5GkZRmk.png" group-title="Canada",CA | GEM Junior
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemjunior
-#EXTINF:-1 tvg-logo="https://i.imgur.com/onsdgcS.png" group-title="Canada",CA | GEM Drama
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemdrama
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J0gufsP.png" group-title="Canada",CA | GEM Film
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_film
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJIxU2f.png" group-title="Canada",CA | GEM Life
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_life
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hbm5VxM.png" group-title="Canada",CA | GEM Food
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_food
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8OpKp6O.png" group-title="Canada",CA | GEM Travel
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_travel
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYnkBV8.png" group-title="Canada",CA | GEM Nature
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_nature
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFNHYJ.png" group-title="Canada",CA | Modern Economy
-https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=modern_economy
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XZzmIJ.png" group-title="Canada",CA | GEM Property
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_property
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGEUHXD.png" group-title="Canada",CA | GEM Latino
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gem_latino
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMOlV0J.png" group-title="Canada",CA | GEM Series
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemseries
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wItGfPe.png" group-title="Canada",CA | GEM Classic
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gemclassic
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o9juBI9.png" group-title="Canada",CA | GEM Bollywood
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=gembollywood
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gi2ATG6.png" group-title="Canada",CA | Mifa
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8|Referer=https://www.gemonline.tv/en-US/Live/Index?channelname=mifa
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Canada",CA | Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Canada",CA | The Shopping Channel
