@@ -2514,6 +2514,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
+https://player-api.new.livestream.com/accounts/29967371/events/9247730/broadcasts/225251676.secure.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
 https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66GQGKX.png" group-title="Peru",PE | Canal IPE
@@ -2548,6 +2550,8 @@ https://mediastreamm.com:3126/live/tele2000live.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAIsK2v.jpg" group-title="Peru",PE | Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NF5zKYs.jpg" group-title="Peru",PE | TV Cosmos
+https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rUq4MmO.png" group-title="Peru",PE | Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q1QzrVa.png" group-title="Peru",PE | Cultura 24 TV
