@@ -1734,6 +1734,8 @@ http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbDwSWh.png" group-title="Portugal",PT | NOS Studios HD
 http://185.236.229.21:9981/play/a054
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vjjpfmd.jpg" group-title="Hongarije",HU | M1 [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCHJ8gW2vKH5R3VohymtBCrQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="Albanië",AL | RTSH 1
 https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jEirJ9x.png" group-title="Albanië",AL | RTSH 2
