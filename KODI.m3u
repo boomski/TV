@@ -1736,8 +1736,34 @@ http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 http://185.236.229.21:9981/play/a054
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vjjpfmd.jpg" group-title="Hongarije",HU | M1 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCHJ8gW2vKH5R3VohymtBCrQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Zzzsi0.png" group-title="Hongarije",HU | FEM3
+plugin://plugin.video.sendtokodi/?https://onlinestream.live/fem3/videoplayer/6455-1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVfNDyu.png" group-title="Hongarije",HU | RTL II
 https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61GvQEp.png" group-title="Hongarije",HU | RTL Klub
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRJatxq.png" group-title="Hongarije",HU | Film+
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bxkS2Si.png" group-title="Hongarije",HU | Cool TV
+https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxZYozS.jpg" group-title="Hongarije",HU | Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ld7Giil.png" group-title="Hongarije",HU | 1mus.com
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naUtAyi.jpg" group-title="Hongarije",HU | 1 Music Channel
+http://1music.hu/1music.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A464by9.jpg" group-title="Hongarije",HU | H!T Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N15Hp7q.jpg" group-title="Hongarije",HU | atv
+http://streamservers.atv.hu/atvliveedge/_definst_//atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tzfjEd0.jpg" group-title="Hongarije",HU | Debrecen Televízió
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c64jQAW.jpg" group-title="Hongarije",HU | Balaton Televízió
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XwaJny.png" group-title="Hongarije",HU | Regio Plusz TV
+https://stream.streaming4u.hu/RegioPluszTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bbpWsj0.jpg" group-title="Hongarije",HU | Apostol TV [Not 24/7]
+https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="Albanië",AL | RTSH 1
 https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jEirJ9x.png" group-title="Albanië",AL | RTSH 2
