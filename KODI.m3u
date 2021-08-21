@@ -583,6 +583,8 @@ http://51.210.199.10/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K59P3H4.png" group-title="Frankrijk",FR | HodHod TV
 http://51.210.199.12/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Frankrijk",FR | Poker TV
+http://51.210.199.17/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yB5d5W1.png" group-title="Frankrijk",FR | Fashion TV L'Original
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yB5d5W1.png" group-title="Frankrijk",FR | Fashion TV UHD
@@ -619,8 +621,8 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 https://bistreaming.online:1936/nazarethmietv-1/ngrp:nazarethmietv-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LkeQgqc.jpg" group-title="Frankrijk",FR | NLM TV
 https://rrsatrtmp.tulix.tv/nlmtv/nlmtvmulti.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jX8woiM.jpg" group-title="Frankrijk",FR | Poker TV
-http://51.210.199.17/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LBLAi4i.png" group-title="Frankrijk",FR | DBM
+https://edge2.vedge.infomaniak.com/livecast/ik:dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KOJMTH.png" group-title="Monaco",MC | Monaco Info
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYj2bPl.png" group-title="Duitsland",DE | ARD
@@ -2440,6 +2442,8 @@ http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.s
 plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/vam/kodi/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E5gDe72.jpg" group-title="Curaçao",CW | Bonce TV
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqsSv8O.png" group-title="Cuba",CU | Cuba Visión
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDgxUVS.png" group-title="Antigua en Barbuda",AG | ABS
 plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
@@ -2554,6 +2558,8 @@ https://i.mjh.nz/nz/tv.juice.m3u8
 https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ww1PTvn.png" group-title="Tahiti",PF | TNTV [Not 24/7]
 https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZFxI8R9.png" group-title="Papoea-Nieuw-Guinea",PG | Kalac TV
+https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CimyTdo.png" group-title="Tunesië",TN | Baya TV
 http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yaDoVLD.jpg" group-title="Tunesië",TN | Sahel TV
@@ -2612,6 +2618,8 @@ http://62.176.93.137:8002/play/a00e/index.m3u8
 http://62.176.93.137:8002/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sS7MfqE.png" group-title="Zambia",ZM | ZED TV
 http://62.176.93.137:8002/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXsB8aU.jpg" group-title="Zimbabwe",ZW | ABJ TV
+https://streaming.viewmedia.tv/viewsatstream02/viewsatstream02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JddJgL1.png" group-title="Zuid-Afrika",ZA | Impact TV Network [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCaZWTzSO0dvQiAbN-4xFYIg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xStyV3r.jpg" group-title="Zuid-Afrika",ZA | GNF TV [YOUTUBE]
@@ -2620,6 +2628,10 @@ plugin://plugin.video.youtube/play/?channel_id=UCVrzPkd7NtZ3tiTU9xipnVQ&live=1
 https://player-api.new.livestream.com/accounts/19491040/events/8258678/broadcasts/225194438.secure.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zidl3wZ.jpg" group-title="Zuid-Afrika",ZA | LoveWorld Sat
 https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIJ4wX2.jpg" group-title="Zuid-Afrika",ZA | Kaya TV
+https://kayatvlive.deod.tv/Kaya/Kaya.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xbkl3Sp.jpg" group-title="Zuid-Afrika",ZA | ROV TV
+https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013564/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD2
