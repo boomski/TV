@@ -271,6 +271,8 @@ https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Groot-Brittannië",UK | Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRBuvRS.png" group-title="Groot-Brittannië",UK | Bid TV
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/keGwYog.png" group-title="Groot-Brittannië",UK | Local TV Birmingham
 plugin://plugin.video.dailymotion_com/?url=x702hnp&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Qriq6R.jpg" group-title="Groot-Brittannië",UK | Local TV Cardiff
@@ -1288,6 +1290,18 @@ https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
 https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf5AFHi.jpg" group-title="Denemarken",DK | Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebJUTME.png" group-title="Finland",FI | YLE TV 1
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XRrTCwr.png" group-title="Finland",FI | YLE TV 2 [Geo]
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BprfhRb.png" group-title="Finland",FI | YLE Teema Fem [Geo]
+https://yletvhdliveworld-lh.akamaihd.net/i/yleteemafemfiw_1@308915/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8SCbf7.png" group-title="Finland",FI | MTV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ywPbQV.png" group-title="Finland",FI | Alfa TV
+https://alfatv.digitacdn.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8
+https://mtv-live-simulcast.cdn.katsomo.fi/live/E39USP/E39USP.isml/E39USP.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Finland",FI | Euronews 
 https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Znu8wCa.jpg" group-title="Finland",FI | AfricaNews 
@@ -1372,6 +1386,12 @@ http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkgPL8L.jpg" group-title="Zweden",SE | SVT2
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCfLeLG.png" group-title="Zweden",SE | TV4
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCfLeLG.png" group-title="Zweden",SE | TV4 Svensk Politik
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5jWMQBn.png" group-title="Zweden",SE | TV4 Nyheterna
+https://lbs-aws-hls.tv4play.se/dailive/bbr-event1-p/master1404.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaBElfq.png" group-title="Zweden",SE | Euronews 
 https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0l2zIJF.png" group-title="Zweden",SE | Oppna Kanalen
@@ -2025,6 +2045,8 @@ https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SdoY8QJ.jpg" group-title="USA",US | Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XdR5EPi.jpg" group-title="USA",US | Runway TV
+https://runway-hls.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UGGO3ij.jpg" group-title="USA",US | Harmonic
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2923,4 +2945,5 @@ https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P8ZuakH.png" group-title="DistroTV",USA | 24 Hour Free Movies
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
-
+#EXTINF:-1,TEST
+plugin://plugin.video.sendtokodi/?https://www.lightcast.com/embed/player.php?&id=26014&type=live
