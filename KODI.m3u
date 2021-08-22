@@ -37,6 +37,8 @@ https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
+https://player-api.new.livestream.com/accounts/27755193/events/8462344/broadcasts/225270846.secure.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="België",BE | TVL
 http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
