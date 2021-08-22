@@ -1799,7 +1799,7 @@ https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rCTH2iP.png" group-title="Albanië",AL | RTSH Sport
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qREEuPx.jpg" group-title="Albanië",AL | A2
-https://kadare.gjirafa.com/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/y11g0y.m3u8
+plugin://plugin.video.sendtokodi/?https://video.gjirafa.com/a2-cnn-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BTgSMrs.png" group-title="Albanië",AL | News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DLGSv3.jpg" group-title="Albanië",AL | ABC News
@@ -1846,7 +1846,6 @@ plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oratv.php
 plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oranews.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Albanië",AL | Zjarr TV
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72P6v2h.jpg" group-title="Kosovo",XK | TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Kosovo",XK | Kohavision TV
@@ -1883,8 +1882,6 @@ https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",Rusland
-https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ru.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2545,9 +2542,7 @@ https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
-http://api.new.livestream.com/accounts/29967371/events/9247730/broadcasts/225293881.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
-https://raw.githubusercontent.com/boomski/TV/master/M3U8/CO/Latam/Latam.strm
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
 https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66GQGKX.png" group-title="Peru",PE | Canal IPE
@@ -2757,7 +2752,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCaZWTzSO0dvQiAbN-4xFYIg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xStyV3r.jpg" group-title="Zuid-Afrika",ZA | GNF TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCVrzPkd7NtZ3tiTU9xipnVQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPIRjhN.jpg" group-title="Zuid-Afrika",ZA | Ezekiel TV
-https://raw.githubusercontent.com/boomski/TV/master/M3U8/ZA/Ezekiel/Ezekiel.strm
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zidl3wZ.jpg" group-title="Zuid-Afrika",ZA | LoveWorld Sat
 https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIJ4wX2.jpg" group-title="Zuid-Afrika",ZA | Kaya TV
