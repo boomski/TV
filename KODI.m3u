@@ -37,8 +37,6 @@ https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
-https://player-api.new.livestream.com/accounts/27755193/events/8462344/broadcasts/225270846.secure.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="België",BE | TVL
 http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
@@ -2545,7 +2543,7 @@ https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
-https://player-api.new.livestream.com/accounts/29967371/events/9247730/broadcasts/225251676.secure.m3u8
+plugin://plugin.video.sendtokodi/?https://livestream.com/accounts/29967371/events/9247730
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
 https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66GQGKX.png" group-title="Peru",PE | Canal IPE
