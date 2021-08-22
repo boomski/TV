@@ -1883,6 +1883,8 @@ https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",Rusland
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ru.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
