@@ -1889,11 +1889,27 @@ https://cdn2.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
 https://v4.proofix.ru/7tv-live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4C8QnWO.png" group-title="Rusland",RU | Taina Telekanal
 https://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rcpuvts.jpg" group-title="Georgië",GE | 1 TV 
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Td8ctWj.png" group-title="Georgië",GE | Imedi HD
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5JE4kka.png" group-title="Georgië",GE | Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exP6la3.png" group-title="Georgië",GE | POS TV
+https://live.postv.media/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5x40Zo3.png" group-title="Georgië",GE | Rioni TV
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eX5zPU.jpg" group-title="Georgië",GE | Mtavari Arkhi
+https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8|Referer=https://live.mtavari.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x8VVaS8.jpg" group-title="Georgië",GE | Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/onidQyH.jpg" group-title="Georgië",GE | Pirveli
+https://hls.t.stream-dns.net/hls/tvpirveli_1/_03bc2eb5c1d8219ba16e6479f90abe67_6124f3a9x0010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0fNWZRt.gif" group-title="USA",US | ESPN U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrWFjb5.jpg" group-title="USA",US | ESPN U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 Insider
 https://pac12-localnow.amagi.tv/playlist.m3u8
@@ -2094,9 +2110,9 @@ https://simultv.s.llnwi.net/o058/iSheTV/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ww9qYJZ.jpg" group-title="USA",US | iTown TV
 https://simultv.s.llnwi.net/o064/iTownTV/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8|X-Forwarded-For=24.37.42.200
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network [Geo]
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsJ9ECq.jpg" group-title="Canada",CA | CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLM9KwS.png" group-title="Canada",CA | CBC Windsor
@@ -2223,9 +2239,9 @@ https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/manifest.mpd
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="Canada",CA | Télé-Québec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="Canada",CA | TVO Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pB9Kx0M.jpg" group-title="Canada",CA | TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7IojZ24.jpg" group-title="Canada",CA | Peachtree TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ncOIoe.jpg" group-title="Canada",CA | Peachtree TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOX4RQo.png" group-title="Canada",CA | Ovation
 https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
