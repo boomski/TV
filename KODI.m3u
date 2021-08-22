@@ -2760,6 +2760,10 @@ https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
 https://kayatvlive.deod.tv/Kaya/Kaya.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xbkl3Sp.jpg" group-title="Zuid-Afrika",ZA | ROV TV
 https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013564/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dKrePT9.png" group-title="Zuid-Afrika",ZA | Rapha TV Channel
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0MuJc5.jpg" group-title="Zuid-Afrika",ZA | UBN TV
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD2
@@ -2806,6 +2810,20 @@ http://212.42.111.136/hls/manas/index.m3u8
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsmIowq.jpg" group-title="Kirgizië",KG | Tumar TV
 plugin://plugin.video.sendtokodi/?https://ok.ru/live/1077325012671
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPMyOtB.png" group-title="Turkmenistan",TM | Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkmenistan",TM | Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="Turkmenistan",TM | Asgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkmenistan",TM | Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkmenistan",TM | Türkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkmenistan",TM | Türkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Turkmenistan",TM | Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ceFgT2.png" group-title="Tadzjikistan",TJ | Tojikiston
 http://185.121.1.101:1935/live/tvt.stream/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ceFgT2.png" group-title="Tadzjikistan",TJ | TV Sinamo
