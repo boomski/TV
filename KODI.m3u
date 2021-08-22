@@ -2543,7 +2543,7 @@ https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
-plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=SE%C3%91AL+EN+VIVO&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F00000000008d1bf2%2F00eb886f-6d29-4639-ae08-409a6142249a_30.jpg&amp;event_id=9247730&amp;owner_id=29967371&amp;video_id=LIVE
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
 https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66GQGKX.png" group-title="Peru",PE | Canal IPE
@@ -2753,7 +2753,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCaZWTzSO0dvQiAbN-4xFYIg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xStyV3r.jpg" group-title="Zuid-Afrika",ZA | GNF TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCVrzPkd7NtZ3tiTU9xipnVQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPIRjhN.jpg" group-title="Zuid-Afrika",ZA | Ezekiel TV
-plugin://plugin.video.livestream/?url=%2Flive_now&amp;mode=104&amp;name=Ezekiel+TV+Channel+24%2F7+Streaming&amp;icon=http%3A%2F%2Fimg.new.livestream.com%2Fevents%2F00000000007e0476%2F5feaa2d3-0009-42d7-be66-0fb9a51ed4ae_1404.jpg&amp;event_id=8258678&amp;owner_id=19491040&amp;video_id=LIVE
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zidl3wZ.jpg" group-title="Zuid-Afrika",ZA | LoveWorld Sat
 https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIJ4wX2.jpg" group-title="Zuid-Afrika",ZA | Kaya TV
