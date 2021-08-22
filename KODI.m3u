@@ -2095,6 +2095,8 @@ https://simultv.s.llnwi.net/o058/iSheTV/interlink.m3u8
 https://simultv.s.llnwi.net/o064/iTownTV/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsJ9ECq.jpg" group-title="Canada",CA | CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8|X-Forwarded-For=24.37.42.200
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLM9KwS.png" group-title="Canada",CA | CBC Windsor
