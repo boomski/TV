@@ -37,6 +37,8 @@ https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
 http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
+plugin://plugin.video.sendtokodi/?https://livestream.com/accounts/27755193/events/8462344/player?width=1024&height=576&enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="België",BE | TVL
 http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
@@ -2753,7 +2755,7 @@ plugin://plugin.video.youtube/play/?channel_id=UCaZWTzSO0dvQiAbN-4xFYIg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xStyV3r.jpg" group-title="Zuid-Afrika",ZA | GNF TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCVrzPkd7NtZ3tiTU9xipnVQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TPIRjhN.jpg" group-title="Zuid-Afrika",ZA | Ezekiel TV
-https://player-api.new.livestream.com/accounts/19491040/events/8258678/broadcasts/225194438.secure.m3u8
+plugin://plugin.video.sendtokodi/?https://livestream.com/accounts/19491040/events/8258678/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zidl3wZ.jpg" group-title="Zuid-Afrika",ZA | LoveWorld Sat
 https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIJ4wX2.jpg" group-title="Zuid-Afrika",ZA | Kaya TV
