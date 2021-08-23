@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
-https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE Kust
-https://dpg-eventstreams.akamaized.net/hlnkustcams-lgw/streamx/hlnkustcams_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/azaIh2W.png" group-title="",Canal Zoom
+#EXTVLCOPT:http-referrer=https://playerembed.iaia.stream/
+https://15306896-8b0c-4319-a479-c29bef5aecbd.iaia.stream/15306896-8b0c-4319-a479-c29bef5aecbd/bcf7b3b2c575/playlist.m3u8
+
