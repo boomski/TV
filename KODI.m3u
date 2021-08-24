@@ -2887,6 +2887,20 @@ http://51.210.227.137/hls/stream.m3u8
 http://51.210.199.31/hls/stream.m3u8  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmyfz5H.png" group-title="Iran",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExvOaLl.jpg" group-title="India",IN | CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VA9cSun.jpg" group-title="India",IN | CNBC 18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4t8a2k.jpg" group-title="India",IN | CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oA1Jo8C.png" group-title="India",IN | NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ytBmQu8.jpg" group-title="India",IN | NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KtcpMj5.jpg" group-title="India",IN | 9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8GyW8F.jpg" group-title="India",IN | IND 24
+https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/abhEKDH.jpg" group-title="India",IN | Star Maa [Geo]
 http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ0hDru.jpg" group-title="Nepal",NP | Kantipur TV
