@@ -2535,6 +2535,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCba3hpU7EFBSk817y9qZkiA&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCSmh3DFxBwFurMttT60PQ1g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jT3d6p1.jpg" group-title="Argentinië",AR | Telesol
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUZ3yqv.png" group-title="Brazilië",BR | All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV
