@@ -317,6 +317,8 @@ https://securecontributions.sechls01.visionip.tv/live/securecontributions-secure
 plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4e2zUg.png" group-title="Groot-Brittannië",UK | Ideal World [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCJbgGTpBWuC87VFIKTTO4RQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O73eoZj.png" group-title="Groot-Brittannië",UK | Fadak TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCBgM-sKkB4ySrdiCsk0ikUA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vb0xA4t.jpg" group-title="Ierland",IE | TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vEctJG.png" group-title="Ierland",IE | Setanta Sports +
@@ -2885,6 +2887,8 @@ http://51.210.227.137/hls/stream.m3u8
 http://51.210.199.31/hls/stream.m3u8  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmyfz5H.png" group-title="Iran",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/abhEKDH.jpg" group-title="India",IN | Star Maa 
+http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8|X-Forwarded-For=125.99.114.130 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ0hDru.jpg" group-title="Nepal",NP | Kantipur TV
 https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGwTQGB.png" group-title="Radio",BE | Radio 1
