@@ -1848,6 +1848,8 @@ plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oratv.php
 plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oranews.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Albanië",AL | Zjarr TV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiCQg26.png" group-title="Kosovo",XK | RTK 1
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/72P6v2h.jpg" group-title="Kosovo",XK | TV Opoja
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Kosovo",XK | Kohavision TV
