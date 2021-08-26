@@ -2550,7 +2550,9 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djpuc1i.jpg" group-title="Colombia",CO | Zoom
-https://15306896-8b0c-4319-a479-c29bef5aecbd.iaia.stream/15306896-8b0c-4319-a479-c29bef5aecbd/bcf7b3b2c575/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fplayerembed.iaia.stream%2F
+https://iptv-all.lanesh4d0w.codes/colombia/zoom|Referer=https://playerembed.iaia.stream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z9C6WXZ.jpg" group-title="Chili",CL | Kanade TV
+http://45.32.74.87:8080/hls/kanadetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DNNUiD8.png" group-title="Ecuador",EC | Ecuador TV
 https://player-api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
