@@ -1910,6 +1910,11 @@ https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8|Referer=https://live
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/onidQyH.jpg" group-title="Georgië",GE | Pirveli
 https://hls.t.stream-dns.net/hls/tvpirveli_1/_03bc2eb5c1d8219ba16e6479f90abe67_6124f3a9x0010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3tdDmkv.jpg" group-title="Turkije",TR | Tele 1 [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCoHnRpOS5rL62jTmSDO5Npw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sLLccU.jpg" group-title="Turkije",TR | Teve 2 
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8|Referer=https://www.teve2.com.tr/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
