@@ -2744,17 +2744,17 @@ http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5WuuaO.jpg" group-title="Tanzania",TZ | IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
+#EXTINF:-1 tvg-id="TV1.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
 http://62.176.93.137:8002/play/a008/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
+#EXTINF:-1 tvg-id="TV1.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
 https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 2
+#EXTINF:-1 tvg-id="TV2.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 2
 http://62.176.93.137:8002/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 3
+#EXTINF:-1 tvg-id="TV3.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 3
 http://62.176.93.137:8002/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 4 
+#EXTINF:-1 tvg-id="TV4.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 4 
 http://62.176.93.137:8002/play/a002/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 4 
+#EXTINF:-1 tvg-id="TV4.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 4 
 https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwO9OyF.jpg" group-title="Zambia",ZM | ABN
 http://62.176.93.137:8002/play/a00c/index.m3u8
