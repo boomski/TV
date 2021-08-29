@@ -2556,11 +2556,11 @@ plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
+#EXTINF:-1 tvg-id="LNplus.ar" tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCba3hpU7EFBSk817y9qZkiA&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EX3q7ua.jpg" group-title="Argentinië",AR | DeporTV [YOUTUBE]
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/EX3q7ua.jpg" group-title="Argentinië",AR | DeporTV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCSmh3DFxBwFurMttT60PQ1g&live=1
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.imgur.com/anrJ69J.jpg" group-title="Argentinië",AR | Telemax
+#EXTINF:-1 tvg-id="Telemax(XEWH).ar" tvg-logo="https://i.imgur.com/anrJ69J.jpg" group-title="Argentinië",AR | Telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fwww.diario26.com%2F
 #EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://i.imgur.com/WvwMV9W.jpg" group-title="Argentinië",AR | TierraMia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fwww.diario26.com%2F
@@ -2568,13 +2568,15 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8|User-Agen
 https://unlimited1-latam.rudo.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/aWX3UXN.jpg" group-title="Argentinië",AR | El Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UA40oLF.png" group-title="Argentinië",AR | Chaco TV 
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jT3d6p1.jpg" group-title="Argentinië",AR | Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QqSJ0EN.png" group-title="Argentinië",AR | Eltres
 https://g4.proy-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_720p.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fvmf.edge-apps.net%2F
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DWp0l7p.jpg" group-title="Argentinië",AR | Canal Luz
+#EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/DWp0l7p.jpg" group-title="Argentinië",AR | Canal Luz
 https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fvmf.edge-apps.net%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUZ3yqv.png" group-title="Brazilië",BR | All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
