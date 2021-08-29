@@ -1692,7 +1692,7 @@ https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8
 http://149.12.64.81:8080/hls/tarotvision.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rypwbqS.jpg" group-title="Spanje",ES | Tarotéame
 https://5b45171a7ade6.streamlock.net/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV
+#EXTINF:-1 tvg-id="ATV.ad" tvg-logo="https://i.imgur.com/zT6Qzbz.png" group-title="Andorra",AD | ATV
 https://iptv-all.lanesh4d0w.codes/andorra/atv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loamza3.png" group-title="Portugal",PT | RTP1 
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
