@@ -1880,6 +1880,8 @@ https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/0VHGrHd.png" group-title="Polen",PL | 4FUN TV 
 https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-logo="https://i.imgur.com/G6C65uM.jpg" group-title="Polen",PL | TV Republika
+http://redir.cache.orange.pl/jupiter/o1-cl7//live/tvrepublika/live.m3u8
 #EXTINF:-1 tvg-id="Echo24.cz" tvg-logo="https://i.imgur.com/HleDDTb.png" group-title="Polen",PL | Echo 24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
