@@ -1882,10 +1882,12 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j0r4r7s.png" group-title="Polen",PL | Trwam TV
+#EXTINF:-1 tvg-id="TrwamTV.pl" tvg-logo="https://i.imgur.com/j0r4r7s.png" group-title="Polen",PL | Trwam TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.mpd
+#EXTINF:-1 tvg-id="TelewizjaPograniczeGlubczyce.pl" tvg-logo="https://i.imgur.com/ilGvIug.jpeg" group-title="Polen",PL | Telewizja Pogranicze
+http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
