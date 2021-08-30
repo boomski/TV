@@ -2592,7 +2592,7 @@ https://iptv-all.lanesh4d0w.codes/colombia/zoom|Referer=https://playerembed.iaia
 http://45.32.74.87:8080/hls/kanadetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DNNUiD8.png" group-title="Ecuador",EC | Ecuador TV
 https://player-api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
 https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/66GQGKX.png" group-title="Peru",PE | Canal IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -2638,6 +2638,30 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCgR0st4ZLABi-LQcWNu3wnQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iOSCHuC.png" group-title="Peru",PE | Nuestra TV
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/nuestratvlima
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/oXTyDn0.png" group-title="Bolivië",BO | Bolivia TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/IGxZAIO.png" group-title="Bolivië",BO | Bolivia TV Deportes 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n6hHEcO.png" group-title="Bolivië",BO | Red ADVenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist.m3u8
+#EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.imgur.com/eZmseex.png" group-title="Bolivië",BO | RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/to0Za8V.jpg" group-title="Bolivië",BO | TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1NqlnOv.jpg" group-title="Bolivië",BO | Cristal Tv
+http://95.211.214.198/bolivia/cristaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/Itivu67.jpg" group-title="Bolivië",BO | Xto TV
+https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/playlist.m3u8
+#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/Itivu67.jpg" group-title="Bolivië",BO | Xto TV
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://i.imgur.com/MKPbGOE.png" group-title="Bolivië",BO | ATB
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+#EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://i.imgur.com/MKPbGOE.png" group-title="Bolivië",BO | ATB
+https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
+#EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://i.imgur.com/MKPbGOE.png" group-title="Bolivië",BO | ATB
+https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
+#EXTINF:-1 tvg-id="TVLatinaCanal42.bo" tvg-logo="https://i.imgur.com/p809qAy.jpg" group-title="Bolivië",BO | TV Latina Canal 42
+https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
