@@ -3167,6 +3167,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCnkMTsKYqhHm6l6GQzg4szg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LG4LSCD.jpg" group-title="Youtube",India | Doordarshan Sports
 plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RzihPx0.jpg" group-title="Pluto TV",USA | TeenNick
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f1vTSCG.png" group-title="Pluto TV",Spanje | PLUTO TV Deportes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/77Yn8QX.png" group-title="DistroTV",Duitsland | Horizon Sports
