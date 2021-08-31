@@ -2842,6 +2842,10 @@ https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013564/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r0MuJc5.jpg" group-title="Zuid-Afrika",ZA | UBN TV
 
+#EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="https://i.imgur.com/C5AVchh.jpg" group-title="Soedan",SD | Sudan TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tkBFpJu.jpg" group-title="Soedan",SD | Sudan Bukra
+http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD2
