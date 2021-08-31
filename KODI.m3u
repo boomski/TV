@@ -2321,9 +2321,7 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8|Referer=https://mir
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Canada",CA | Montreal Greek TV
 http://94.130.180.175:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LdCXfyt.png" group-title="Canada",CA | Uvagut TV
-http://dee7mwgg9dzvl.cloudfront.net/hls/live1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LdCXfyt.png" group-title="Canada",CA | Uvagut TV
-http://dee7mwgg9dzvl.cloudfront.net/hls/live720.m3u8
+http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f9SsqHL.png" group-title="Canada",CA | GH Canada TV
 https://churchchannelstream.tulix.tv/liveticker/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Canada",CA | Pardesi TV
