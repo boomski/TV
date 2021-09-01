@@ -2588,10 +2588,18 @@ https://g4.proy-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_al
 https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fvmf.edge-apps.net%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WUZ3yqv.png" group-title="Brazilië",BR | All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/k3kRmRI.jpg" group-title="Brazilië",BR | Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/dlSr3li.png" group-title="Brazilië",BR | Canal Rural
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="AgromixTV.br" tvg-logo="https://i.imgur.com/BOXgnFu.png" group-title="Brazilië",BR | Agro Brasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgromixTV.br" tvg-logo="https://i.imgur.com/BOXgnFu.png" group-title="Brazilië",BR | Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/djpuc1i.jpg" group-title="Colombia",CO | Zoom
