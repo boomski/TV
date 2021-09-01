@@ -251,6 +251,8 @@ http://sportportal1.akamaized.net/hls/live/702647/itvlive/ITV4PORTAL2/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BylevGX.png" group-title="Groot-Brittannië",UK | 5 USA
 
+#EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/BCN0a8L.png" group-title="Groot-Brittannië",UK | Sofy TV
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/EFaC5uK.png" group-title="Groot-Brittannië",UK | Sky News [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Groot-Brittannië",UK | Reuters TV
@@ -1130,7 +1132,7 @@ https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G030MZb.png" group-title="Zwitserland",CH | Rouge TV
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BCN0a8L.png" group-title="Zwitserland",CH | Sofy TV
+#EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/BCN0a8L.png" group-title="Zwitserland",CH | Sofy TV
 https://sofytv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="Zwitserland",CH | LFM TV
 https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
