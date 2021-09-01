@@ -2574,6 +2574,8 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w620543165_b1
 https://unlimited1-latam.rudo.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/aWX3UXN.jpg" group-title="Argentinië",AR | El Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IpsaZgm.png" group-title="Argentinië",AR | CM
+http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fvmf.edge-apps.net%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UA40oLF.png" group-title="Argentinië",AR | Chaco TV 
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
