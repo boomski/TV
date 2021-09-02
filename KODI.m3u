@@ -2934,8 +2934,12 @@ http://185.121.1.101:1935/live/tvs.stream/playlist.m3u8
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LfMMwIV.jpg" group-title="Afghanistan",AF | Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ai6klbG.png" group-title="Afghanistan",AF | Ariana Afghanistan International TV
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mHH1ndS.png" group-title="Afghanistan",AF | Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mHH1ndS.png" group-title="Afghanistan",AF | Ariana TV US
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mHH1ndS.png" group-title="Afghanistan",AF | Ariana TV US
 http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LlpZzvP.jpg" group-title="Afghanistan",AF | Ariana News
@@ -2948,14 +2952,28 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vdgr12G.jpg" group-title="Afghanistan",AF | Lemar TV
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NXo71mG.jpg" group-title="Afghanistan",AF | Pamir TV
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hM0TYRN.png" group-title="Afghanistan",AF | RTA
 http://51.210.227.133/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BxgouTI.jpg" group-title="Afghanistan",AF | Solh TV
+http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oMhSFxc.jpg" group-title="Afghanistan",AF | Helal TV
 http://51.210.199.54/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BNKN1DH.jpg" group-title="Afghanistan",AF | Barya TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hdayN9I.jpg" group-title="Afghanistan",AF | Hewad TV
+http://51.210.199.58/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XpR1VvZ.png" group-title="Afghanistan",AF | Kayhan TV
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XpR1VvZ.png" group-title="Afghanistan",AF | Kayhan TV
+http://208.93.117.113/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" group-title="Afghanistan",AF | Shamshad TV
 https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MYszOy7.png" group-title="Afghanistan",AF | Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T3KnrvH.jpg" group-title="Afghanistan",AF | Iman TV
+https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4TEVI5T.jpg" group-title="Iran",IR | Press TV
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM English
@@ -2970,6 +2988,8 @@ https://live1.presstv.ir/live/ifilm2.m3u8
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K59P3H4.png" group-title="Iran",IR | HodHod TV
 http://51.210.199.12/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dqEWUC8.png" group-title="Iran",IR | Al Ahvaz TV
+http://51.210.227.131/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i9Yrtem.png" group-title="Iran",IR | Mono TV
 http://51.210.227.137/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l4xeiRi.jpg" group-title="Iran",IR | ITN
