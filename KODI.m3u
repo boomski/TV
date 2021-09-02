@@ -2486,6 +2486,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCjfxDe7In59Jbfw2HmIh_Vg&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCot4t8PVKz8TT5xVM8Eb00w&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a9cK9eM.jpg" group-title="Mexico",MX | Televisa Puebla [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC-HNztluSQSffhIWJTL-LUw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RuAo3lz.png" group-title="Mexico",MX | Televisa Veracruz [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC5EnLdE7ASjYzWt7wvT-QSg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tnItv6Z.jpg" group-title="Mexico",MX | Televisa Zacatecas [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCQb3i7gu9J8A4zzQU7j6C1Q&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qkLTr1b.jpg" group-title="Mexico",MX | Canal 10
@@ -2858,7 +2860,7 @@ https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013564/master.m3u8
 
 #EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="https://i.imgur.com/C5AVchh.jpg" group-title="Soedan",SD | Sudan TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tkBFpJu.jpg" group-title="Soedan",SD | Sudan Bukra
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rP8INlG.png" group-title="Soedan",SD | Sudan Bukra
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
@@ -2886,6 +2888,24 @@ https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https:/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RphZM6q.jpg" group-title="UAE",AE | Abu Dhabi Aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qNOgJoO.png" group-title="UAE",AE | Abu Dhabi Emirates
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiDrama.ae" tvg-logo="https://i.imgur.com/HeW6cIf.png" group-title="UAE",AE | Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/81MqOab.jpg" group-title="UAE",AE | Abu Dhabi Sports 1 
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/81MqOab.jpg" group-title="UAE",AE | Abu Dhabi Sports 2 
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/81MqOab.jpg" group-title="UAE",AE | Abu Dhabi Sports 3 
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/81MqOab.jpg" group-title="UAE",AE | Abu Dhabi Sports 4 [Geo]
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/90qqv9d.png" group-title="UAE",AE | Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZSdMQyw.png" group-title="UAE",AE | 3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cS2vq0c.png" group-title="Kirgizië",KG | КТRК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOZRZUQ.png" group-title="Kirgizië",KG | КТRК Мusic
@@ -2954,6 +2974,8 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NXo71mG.jpg" group-title="Afghanistan",AF | Pamir TV
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JerfIBt.jpg" group-title="Afghanistan",AF | Tuti
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hM0TYRN.png" group-title="Afghanistan",AF | RTA
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BxgouTI.jpg" group-title="Afghanistan",AF | Solh TV
@@ -2974,6 +2996,8 @@ https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playl
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T3KnrvH.jpg" group-title="Afghanistan",AF | Iman TV
 https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ut89x9V.png" group-title="Iran",IR | Iran International TV
+https://livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4TEVI5T.jpg" group-title="Iran",IR | Press TV
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OOACp0g.png" group-title="Iran",IR | iFILM English
@@ -2984,6 +3008,8 @@ https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
 https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IcwL0xI.png" group-title="Iran",IR | iFILM 2
 https://live1.presstv.ir/live/ifilm2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NmNBkxh.png" group-title="Iran",IR | 24/7 Box TV
+https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrOXolW.jpg" group-title="Iran",IR | Varzesh TV Farsi
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K59P3H4.png" group-title="Iran",IR | HodHod TV
