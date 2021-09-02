@@ -2494,8 +2494,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCQb3i7gu9J8A4zzQU7j6C1Q&live=1
 https://canal10.mediaflix.istream.mx/wza_live/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qkLTr1b.jpg" group-title="Mexico",MX | Canal 10
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ioi44L8.jpg" group-title="Mexico",MX | Canal 10 Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sgLN7ZS.jpg" group-title="Mexico",MX | Canal Once Mexico 
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/axQbgIc.jpg" group-title="Mexico",MX | Canal 13 Tabasco
@@ -2513,13 +2511,9 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oNW5Kc.png" group-title="Mexico",MX | Canal 44
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s0UJGrI.png" group-title="Mexico",MX | Foro TV
-https://dai.google.com/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/87e4c157-2592-4579-a54f-6405b837b99b:GRQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FmDXpLP.jpg" group-title="Mexico",MX | Jalisco TV
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+https://dai.google.com/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/7f609df4-216d-468d-92c1-05c9782724a5:GRQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w1Qb7At.png" group-title="Mexico",MX | RCG TV-2
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UQQsaNn.jpg" group-title="Mexico",MX | AMX Noticias 34.2
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l1odliD.png" group-title="Mexico",MX | Azteca 7 Baja California
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QBNLGSA.jpg" group-title="Mexico",MX | A+ Baja California
@@ -2530,10 +2524,32 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x7rtm6y
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qDt9pUf.png" group-title="Mexico",MX | CorTV
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7fVnrbb.jpg" group-title="Mexico",MX | TRC Televisión
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ioi44L8.jpg" group-title="Mexico",MX | Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HCljdyy.jpg" group-title="Mexico",MX | Mexiquense TV 34.1
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3RoBlIT.jpg" group-title="Mexico",MX | AMX Noticias 34.2
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YgAnayD.jpg" group-title="Mexico",MX | Telemax Sonara
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u2iyz2t.jpg" group-title="Mexico",MX | Sistema Michoacano de TV
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9N0u99z.png" group-title="Mexico",MX | Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dG57HvN.jpg" group-title="Mexico",MX | Telemar Campeche
+https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ReWic9q.png" group-title="Mexico",MX | Síntesis TV
 plugin://plugin.video.twitch/?mode=play&channel_name=sintesistv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DWysF1s.jpg" group-title="Mexico",MX | México Travel Channel
 plugin://plugin.video.dailymotion_com/?url=x7v76vf&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Miel94.png" group-title="Mexico",MX | Canal del Congreso 45.1
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados3.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fplayerssl.cdnmedia.tv%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Miel94.png" group-title="Mexico",MX | Canal del Congreso 45.2
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados4.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fplayerssl.cdnmedia.tv%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Miel94.png" group-title="Mexico",MX | Canal del Congreso 45.3
+https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fplayerssl.cdnmedia.tv%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/efaQywK.jpg" group-title="Costa Rica",CR | Telediario Canal 8 Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Aruba",AW | Tele Aruba
