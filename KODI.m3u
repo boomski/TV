@@ -2990,6 +2990,10 @@ https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013564/master.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rP8INlG.png" group-title="Soedan",SD | Sudan Bukra
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/qTeTjq0.png" group-title="Japan",JP | BS TV Tokyo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e2H52O0.png" group-title="Japan",JP | TV Tokyo 
+plugin://plugin.video.sendtokodi/?https://ok.ru/video/3012593917556
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD2
