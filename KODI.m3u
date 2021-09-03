@@ -3021,6 +3021,8 @@ https://nhk1.mov3.co/hls/nhk.m3u8
 https://fujitv1.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://i.imgur.com/7rBNFtB.png" group-title="Japan",JP | Nippon TV
 https://ntv1.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/1ZvQFpA.png" group-title="Japan",JP | NTV News24
+https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://i.imgur.com/hamkx9N.png" group-title="Japan",JP | TBS
 https://tbs.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/qTeTjq0.png" group-title="Japan",JP | BS TV Tokyo
@@ -3039,6 +3041,10 @@ https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://i.imgur.com/02IyDpW.png" group-title="Japan",JP | AT-X
 https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Japan",JP | Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I1pToBD.png" group-title="Japan",JP | Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD2
