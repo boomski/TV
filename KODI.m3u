@@ -2990,10 +2990,40 @@ https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013564/master.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rP8INlG.png" group-title="Soedan",SD | Sudan Bukra
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/6GFrZ0t.jpg" group-title="Japan",JP | NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/6GFrZ0t.jpg" group-title="Japan",JP | NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/6GFrZ0t.jpg" group-title="Japan",JP | NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="Japan",JP | NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="Japan",JP | NHK Chinese Vision
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/VOdmdAD.png" group-title="Japan",JP | NHK General TV
+https://nhk1.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://i.imgur.com/qt6Cx00.png" group-title="Japan",JP | Fuji TV
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://i.imgur.com/7rBNFtB.png" group-title="Japan",JP | Nippon TV
+https://ntv1.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="TBS.jp" tvg-logo="https://i.imgur.com/hamkx9N.png" group-title="Japan",JP | TBS
+https://tbs.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/qTeTjq0.png" group-title="Japan",JP | BS TV Tokyo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e2H52O0.png" group-title="Japan",JP | TV Tokyo 
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://i.imgur.com/e2H52O0.png" group-title="Japan",JP | TV Tokyo 
 plugin://plugin.video.sendtokodi/?https://ok.ru/video/3012593917556
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-logo="https://i.imgur.com/6SaTKmj.png" group-title="Japan",JP | New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="https://i.imgur.com/08xtxZl.png" group-title="Japan",JP | WNI
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-logo="https://i.imgur.com/qoGZdwq.jpg" group-title="Japan",JP | Tokyo MX
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-logo="https://i.imgur.com/qoGZdwq.jpg" group-title="Japan",JP | Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://i.imgur.com/qoGZdwq.jpg" group-title="Japan",JP | Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://i.imgur.com/02IyDpW.png" group-title="Japan",JP | AT-X
+https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ydIfS2A.jpg" group-title="Thailand",TH | True Sport HD2
