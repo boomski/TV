@@ -2856,10 +2856,18 @@ plugin://plugin.video.youtube/play/?channel_id=UC65F33K2cXk9hGDbOQYhTOw&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCH4UNKBHSNwstan99YDoCVg&live=1
 #EXTINF:-1 tvg-id="MESat.eg" tvg-logo="https://i.imgur.com/PRf5iQx.jpg" group-title="Egypte",EG | MESat [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCg5uHOxrP5GkMWldOavPKGQ&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/txwMIFO.png" group-title="Egypte",EG | Al Kahera Wal Nas [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCzWdc0aUo0IDk5ysLrt04hw&live=2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nz3gmvF.png" group-title="Egypte",EG | Al Kahera Wal Nas 2 [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCzWdc0aUo0IDk5ysLrt04hw&live=1
 #EXTINF:-1 tvg-id="TenTV.eg" tvg-logo="https://i.imgur.com/g8GjH1c.png" group-title="Egypte",EG | TeN TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/kxk0a65.png" group-title="Egypte",EG | The Kingdom Sat
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vKdZUzo.jpg" group-title="Egypte",EG | Al Hayat
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vKdZUzo.jpg" group-title="Egypte",EG | Al Hayat
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://i.imgur.com/Cwy1ZZe.png" group-title="Egypte",EG | Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-logo="https://i.imgur.com/wyj9vFQ.jpg" group-title="Egypte",EG | Mekameleen TV
@@ -2868,6 +2876,10 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/5hVtkuK.jpg" group-title="Egypte",EG | Watan TV
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Alrafidain.eg" tvg-logo="https://i.imgur.com/kT5233s.jpg" group-title="Egypte",EG | Alrafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/playlist.m3u8
+#EXTINF:-1 tvg-id="Alrafidain.eg" tvg-logo="https://i.imgur.com/kT5233s.jpg" group-title="Egypte",EG | Alrafidain
+http://51.255.84.28:8081/arrafidaintv/source2/playlist.m3u8
 #EXTINF:-1 tvg-id="CopticTV.eg" tvg-logo="https://i.imgur.com/ncXp37Y.jpg" group-title="Egypte",EG | Coptic TV
 https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CopticTV.eg" tvg-logo="https://i.imgur.com/ncXp37Y.jpg" group-title="Egypte",EG | Coptic TV
@@ -2896,6 +2908,10 @@ https://msertupoc.streaming.mediaservices.windows.net/09620ad8-9973-4c9a-aa97-e5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://msertupoc.streaming.mediaservices.windows.net/da032b79-6fd5-4b4d-b6c2-5312d50b288f/366d31d8-2f7b-47ed-a37e-f45cab50f8ee.ism/manifest(format=mpd-time-csf)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/14EjTS3.png" group-title="",ATVSat
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Huda.eg" tvg-logo="https://i.imgur.com/7dnjDgw.jpg" group-title="Egypte",EG | Huda
+https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
 #EXTINF:-1 tvg-id="NobleTV.eg" tvg-logo="https://i.imgur.com/q2DTZba.png" group-title="Egypte",EG | Noble TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pVzBIz5.jpg" group-title="Mozambique",MZ | TVM
@@ -3108,6 +3124,10 @@ https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playl
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T3KnrvH.jpg" group-title="Afghanistan",AF | Iman TV
 https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
+#EXTINF:-1 tvg-id="Alrafidain.eg" tvg-logo="https://i.imgur.com/kT5233s.jpg" group-title="Irak",IQ | Alrafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/playlist.m3u8
+#EXTINF:-1 tvg-id="Alrafidain.eg" tvg-logo="https://i.imgur.com/kT5233s.jpg" group-title="Irak",IQ | Alrafidain
+http://51.255.84.28:8081/arrafidaintv/source2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ut89x9V.png" group-title="Iran",IR | Iran International TV
 https://livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4TEVI5T.jpg" group-title="Iran",IR | Press TV
