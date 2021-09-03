@@ -1928,11 +1928,26 @@ https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8|Referer=https://live
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/onidQyH.jpg" group-title="Georgië",GE | Pirveli
 https://hls.t.stream-dns.net/hls/tvpirveli_1/_03bc2eb5c1d8219ba16e6479f90abe67_6124f3a9x0010/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3tdDmkv.jpg" group-title="Turkije",TR | Tele 1 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCoHnRpOS5rL62jTmSDO5Npw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5sLLccU.jpg" group-title="Turkije",TR | Teve 2 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nGG2QbW.png" group-title="Turkije",TR | Star TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCsFINj3y7SjBaeUxiSdRjlA&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SIvdqTb.png" group-title="Turkije",TR | Show TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC9JMe_We017gYrRc7kZHgmg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TBgg46E.jpg" group-title="Turkije",TR | Show Turk [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC9JMe_We017gYrRc7kZHgmg&live=2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RSsGiaQ.jpg" group-title="Turkije",TR | Show Max [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC9JMe_We017gYrRc7kZHgmg&live=3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ghPrwKp.jpg" group-title="Turkije",TR | FOX [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCJe13zu6MyE6Oueac41KAqg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1lJUm6u.png" group-title="Turkije",TR | Kral Pop [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCEAW_kmPVjxTC50vuLyKOQA&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LBuFfuO.png" group-title="Turkije",TR | Kral [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCEAW_kmPVjxTC50vuLyKOQA&live=2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GCTO8WX.jpg" group-title="Turkije",TR | A Spor [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCJElRTCNEmLemgirqvsW63Q&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GCTO8WX.jpg" group-title="Turkije",TR | A Spor
 https://europe2.livetv.az/turkey/sportr2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
@@ -2066,7 +2081,7 @@ https://wlrndt.lls.cdn.pbs.org/wlrndt/8f70a678-a636-4dfa-873e-699f0212f78b/prima
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6hGH702.png" group-title="USA",US | Miami | WPBT [Geo]
 https://wpbtdt.lls.cdn.pbs.org/wpbtdt/b2c0d4c6-4544-4bb3-8d2d-bc803c5d7381/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LMjnC8a.jpg" group-title="USA",US | Minnesota | KSTP-TV
-
+https://iptv-all.lanesh4d0w.codes/united-states/kstp-tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m5pl7u2.jpg" group-title="USA",US | Missouri | KSDK NBC 5 
 https://livevideo01.ksdk.com/hls/live/2014965/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XqALAAZ.png" group-title="USA",US | New York | News 12 [YOUTUBE]
