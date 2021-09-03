@@ -2606,6 +2606,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fvmf.edge-apps.net%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UA40oLF.png" group-title="Argentinië",AR | Chaco TV 
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8|User-Agent=VLC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NU7jvwv.jpg" group-title="Argentinië",AR | CANAL TDC
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jT3d6p1.jpg" group-title="Argentinië",AR | Telesol
@@ -2618,8 +2620,12 @@ https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/cana
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/k3kRmRI.jpg" group-title="Brazilië",BR | Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/U7kbLdW.jpg" group-title="Brazilië",BR | TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="https://i.imgur.com/dlSr3li.png" group-title="Brazilië",BR | Canal Rural
 https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-logo="https://i.imgur.com/SmEjAuF.png" group-title="Brazilië",BR | TV Pantanal MS
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV
 https://stmv1.srvstm.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FsezPRi.png" group-title="Brazilië",BR | Classique TV 2
@@ -2628,12 +2634,18 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgromixTV.br" tvg-logo="https://i.imgur.com/BOXgnFu.png" group-title="Brazilië",BR | Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTVManaus.br" tvg-logo="https://i.imgur.com/KkbQuKL.png" group-title="Brazilië",BR | RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/djpuc1i.jpg" group-title="Colombia",CO | Zoom
 https://iptv-all.lanesh4d0w.codes/colombia/zoom|Referer=https://playerembed.iaia.stream/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z9C6WXZ.jpg" group-title="Chili",CL | Kanade TV
 http://45.32.74.87:8080/hls/kanadetv.m3u8
+#EXTINF:-1 tvg-id="UATV.cl" tvg-logo="https://i.imgur.com/p8juQ1P.jpg" group-title="Chili",CL | Universidad Autónoma Temuco
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UTVSanClemente.cl" tvg-logo="https://i.imgur.com/j71baxA.png" group-title="Chili",CL | UTV San Clemente
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DNNUiD8.png" group-title="Ecuador",EC | Ecuador TV
 https://player-api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
@@ -2812,6 +2824,80 @@ http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mz1pHa2.jpg" group-title="Tunesië",TN | Hannibal
 http://217.182.137.206/hannibal.m3u8|User-Agent=TNAgexpl212C
+#EXTINF:-1 tvg-id="NileTVSport.eg" tvg-logo="https://i.imgur.com/144pyVl.jpg" group-title="Egypte",EG | Nile TV Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://msertupoc.streaming.mediaservices.windows.net/3195c420-627d-4d09-9419-906cfe552a1f/04fab75b-8d4a-4052-9422-fdb7d261e7e8.ism/manifest(format=mpd-time-csf)
+#EXTINF:-1 tvg-id="NileTVSport.eg" tvg-logo="https://i.imgur.com/144pyVl.jpg" group-title="Egypte",EG | Nile TV Sport
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
+#EXTINF:-1 tvg-id="NileTVLife.eg" tvg-logo="https://i.imgur.com/tB4o0FX.png" group-title="Egypte",EG | Nile TV Life 
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
+#EXTINF:-1 tvg-id="NileTVCinema.eg" tvg-logo="https://i.imgur.com/zAiwLOS.png" group-title="Egypte",EG | Nile TV Cinema 
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
+#EXTINF:-1 tvg-id="NileTVDrama.eg" tvg-logo="https://i.imgur.com/NythxXO.png" group-title="Egypte",EG | Nile TV Drama
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileDrama/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
+#EXTINF:-1 tvg-id="NileTVComedy.eg" tvg-logo="https://i.imgur.com/mYB6Ice.png" group-title="Egypte",EG | Nile TV Comedy
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileComedy/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
+#EXTINF:-1 tvg-id="NileTVFamily.eg" tvg-logo="https://i.imgur.com/VXG1Ifp.png" group-title="Egypte",EG | Nile TV Family
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
+#EXTINF:-1 tvg-id="NileTVCulture.eg" tvg-logo="https://i.imgur.com/xM6Vjmg.png" group-title="Egypte",EG | Nile TV Culture
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCulture/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
+#EXTINF:-1 tvg-id="NileTVEducational.eg" tvg-logo="https://i.imgur.com/NTXRpVs.jpg" group-title="Egypte",EG | Nile TV Educational
+https://livestreaming5.onlinehorizons.net/hls-live/Learning1/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
+#EXTINF:-1 tvg-id="CBC.eg" tvg-logo="https://i.imgur.com/6C2ohKc.jpg" group-title="Egypte",EG | CBC [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCUHq39HXLyAjjMPIjsNRLpw&live=1
+#EXTINF:-1 tvg-id="CBCDrama.eg" tvg-logo="https://i.imgur.com/9TzxBur.jpg" group-title="Egypte",EG | CBC Drama [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC6vnBggs5mkGu7dMaGso_rw&live=1
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/UwELcus.jpg" group-title="Egypte",EG | CBC Sofra [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC--UtxrU7FWNCp0l7AG9EIw&live=1
+#EXTINF:-1 tvg-id="eXtraNews.eg" tvg-logo="https://i.imgur.com/m846wTo.png" group-title="Egypte",EG | eXtra News [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC65F33K2cXk9hGDbOQYhTOw&live=1
+#EXTINF:-1 tvg-id="AlGhad.eg" tvg-logo="https://i.imgur.com/nNIquIp.jpg" group-title="Egypte",EG | Alghad TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCH4UNKBHSNwstan99YDoCVg&live=1
+#EXTINF:-1 tvg-id="MESat.eg" tvg-logo="https://i.imgur.com/PRf5iQx.jpg" group-title="Egypte",EG | MESat [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCg5uHOxrP5GkMWldOavPKGQ&live=1
+#EXTINF:-1 tvg-id="TenTV.eg" tvg-logo="https://i.imgur.com/g8GjH1c.png" group-title="Egypte",EG | TeN TV
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/kxk0a65.png" group-title="Egypte",EG | The Kingdom Sat
+https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://i.imgur.com/Cwy1ZZe.png" group-title="Egypte",EG | Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-logo="https://i.imgur.com/wyj9vFQ.jpg" group-title="Egypte",EG | Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/5hVtkuK.jpg" group-title="Egypte",EG | Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="WatanTV.eg" tvg-logo="https://i.imgur.com/5hVtkuK.jpg" group-title="Egypte",EG | Watan TV
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CopticTV.eg" tvg-logo="https://i.imgur.com/ncXp37Y.jpg" group-title="Egypte",EG | Coptic TV
+https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CopticTV.eg" tvg-logo="https://i.imgur.com/ncXp37Y.jpg" group-title="Egypte",EG | Coptic TV
+https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AghapyTV.eg" tvg-logo="https://i.imgur.com/zIcya1C.png" group-title="Egypte",EG | Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I5A1mMZ.jpg" group-title="Egypte",EG | Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iNzPvBi.png" group-title="Egypte",EG | Al Masriya
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://msertupoc.streaming.mediaservices.windows.net/f3a3f6bf-3d84-4609-8aac-30c30d85cf08/09e4ffe8-cb5e-480b-ad67-69f1331d04dd.ism/manifest(format=mpd-time-csf)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kH9xsJd.jpg" group-title="Egypte",EG | ERTU 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://msertupoc.streaming.mediaservices.windows.net/25d6f897-fa69-4746-8c1d-63bb9d2b902c/36ce3317-3f36-48b8-8323-4129eca4e2ae.ism/manifest(format=mpd-time-csf)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HGNZu9i.png" group-title="Egypte",EG | ERTU 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://msertupoc.streaming.mediaservices.windows.net/6266588c-06fd-4344-a05f-b04cd923a26d/d9aeeb7d-3ebf-4b09-bd78-1ddf114b15fc.ism/manifest(format=mpd-time-csf)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ymINZvM.jpg" group-title="Egypte",EG | Al Nile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://msertupoc.streaming.mediaservices.windows.net/09620ad8-9973-4c9a-aa97-e52f2a84ee2d/45f4cc46-de89-4f49-873e-9e6c1e1d9209.ism/manifest(format=mpd-time-csf)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ExAWEKf.png" group-title="Egypte",EG | NileTV International
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://msertupoc.streaming.mediaservices.windows.net/da032b79-6fd5-4b4d-b6c2-5312d50b288f/366d31d8-2f7b-47ed-a37e-f45cab50f8ee.ism/manifest(format=mpd-time-csf)
+#EXTINF:-1 tvg-id="NobleTV.eg" tvg-logo="https://i.imgur.com/q2DTZba.png" group-title="Egypte",EG | Noble TV
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pVzBIz5.jpg" group-title="Mozambique",MZ | TVM
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hkbdGHw.png" group-title="Mozambique",MZ | TVM Telescola
