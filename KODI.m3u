@@ -2639,6 +2639,10 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 https://g4.proy-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_720p.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fvmf.edge-apps.net%2F
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/DWp0l7p.jpg" group-title="Argentinië",AR | Canal Luz
 https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fvmf.edge-apps.net%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aXhtiW0.png" group-title="Brazilië",BR | CNN Brasil [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCvdwhh_fDyWccR42-rReZLw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDCPrlV.jpg" group-title="Brazilië",BR | SBT Interior
+https://5a1c76baf08c0.streamlock.net/sbtinterior/5zh9uodi13msma1k88k05qz9nrc2bg1q/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WUZ3yqv.png" group-title="Brazilië",BR | All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/k3kRmRI.jpg" group-title="Brazilië",BR | Rede Brasil
