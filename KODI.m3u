@@ -2166,6 +2166,8 @@ https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
 https://simultv.s.llnwi.net/o058/iSheTV/interlink.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ww9qYJZ.jpg" group-title="USA",US | iTown TV
 https://simultv.s.llnwi.net/o064/iTownTV/interlink.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iYaH8A6.png" group-title="USA",US | Cutlery Corner Network [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCj3dt20MAZcvDN8GKeT2FBg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network [Geo]
@@ -3073,10 +3075,12 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8|Referer=https://www
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bjDpHYp.jpg" group-title="Thailand",TH | Fox Sports 3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DLmZStN.png" group-title="Filipijnen",PH | Sonshine Media Network International
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/DLmZStN.png" group-title="Filipijnen",PH | Sonshine Media Network International
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UGVKCz9.png" group-title="Filipijnen",PH | CLTV 36
 https://tna5.bozztv.com/cltv36/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fssh101.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zZN4UTb.jpg" group-title="Filipijnen",PH | CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4JdLqKk.jpg" group-title="Filipijnen",PH | TV Shop Philippines
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wis8fVO.jpg" group-title="Filipijnen",PH | Pilipinas HD
@@ -3085,18 +3089,28 @@ http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i5G9fpD.jpg" group-title="Filipijnen",PH | Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+#EXTINF:-1 tvg-id="GreatCommissionTVGCTV.ph" tvg-logo="https://i.imgur.com/wJFtrEj.png" group-title="Filipijnen",PH | Great Commission TV
+http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hy0aDSP.jpg" group-title="Filipijnen",PH | Hope Channel Philippines
 https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://i.imgur.com/FcLAaMT.png" group-title="Filipijnen",PH | INC TV
 https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
 #EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/CAlBD49.png" group-title="Filipijnen",PH | UNTV
 https://cdn.untvweb.com/live-stream/untvweb.m3u8
+#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/CAlBD49.png" group-title="Filipijnen",PH | UNTV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC3XaG-7UVi2vD8ZZEMNnnpw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OniqB0E.png" group-title="Filipijnen",PH | People's TV
 plugin://plugin.video.dailymotion_com/?url=x5cr6b9&mode=playLiveVideo
+#EXTINF:-1 tvg-id="CTV3CentralLuzon.ph" tvg-logo="https://i.imgur.com/BhTSFnR.png" group-title="Filipijnen",PH | CTV3 Central Luzon
+plugin://plugin.video.twitch/?mode=play&channel_name=communitytv3
+#EXTINF:-1 tvg-id="NET25.ph" tvg-logo="https://i.imgur.com/yXpxOhr.jpg" group-title="Filipijnen",PH | NET 25 [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC5IF8NlxMW1GkEUUqWJJBIw&live=1
 #EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qr0w2eZ.jpg" group-title="Filipijnen",PH | DZRH News [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCcTiBX8js_djhSSlmJRI99A&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H2kiL4X.png" group-title="Filipijnen",PH | Ang Dating Daan [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCFRj7FPKTthzA_gfE2PsGJQ&live=1
+#EXTINF:-1 tvg-id="TVMaria.ph" tvg-logo="https://i.imgur.com/eEVNUzx.jpg" group-title="Filipijnen",PH | TV Maria [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCDXPB23ws_T0rVvrXVCYqyA&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mFCPbCb.jpg" group-title="Noord-Korea",KP | KCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
