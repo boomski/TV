@@ -2152,11 +2152,17 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XdR5EPi.jpg" group-title="USA",US | Runway TV
 https://runway-hls.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SRXTY4K.png" group-title="USA",US | Heartland East
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slPAeUb.jpg" group-title="USA",US | Rev'n TV
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UGGO3ij.jpg" group-title="USA",US | Harmonic
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://testlowlat.harmonicinc.com/Content/DASH/Live/channel(cbr)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UGGO3ij.jpg" group-title="USA",US | Harmonic 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://testlowlat.harmonicinc.com/Content/DASH/Live/channel(dash_ll_time)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fLNJHHp.jpg" group-title="USA",US | Shop LC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
