@@ -2613,6 +2613,43 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o5TnL2b.png" group-title="Honduras",HN | Waldivisión Internacional 
+https://tvdatta.com:3934/live/waldivisionlive.m3u8
+#EXTINF:-1 tvg-id="TENCanal10.hn" tvg-logo="https://i.imgur.com/c0RkVMf.png" group-title="Honduras",HN | TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SercanoTV.hn" tvg-logo="https://i.imgur.com/MQKEcSi.jpg" group-title="Honduras",HN | Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TSI.hn" tvg-logo="https://i.imgur.com/muvJunS.jpg" group-title="Honduras",HN | TSI
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NKCF5qs.png" group-title="Honduras",HN | TeleProgreso
+https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
+#EXTINF:-1 tvg-id="CholusatSur36.hn" tvg-logo="https://i.imgur.com/ObDasov.jpg" group-title="Honduras",HN | Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5620HCa.jpg" group-title="Honduras",HN | Mi Viña Channel
+https://5b50404ec5e4c.streamlock.net/8056/smil:8056.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1MIXANL.jpg" group-title="Honduras",HN | Q'hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Honduras",HN | EDN TV
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5TW4rys.png" group-title="Honduras",HN | CHTV
+https://media.streambrothers.com:1936/8158/8158/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UG6Tq7a.png" group-title="Honduras",HN | Globo TV
+https://panel.dattalive.com/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/De5CSD3.png" group-title="Honduras",HN | UNAH UTV
+https://live-utv.unah.edu.hn/web/salida.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrlArKg.png" group-title="Honduras",HN | JBN
+https://emisoras.hn:8081/jbn/index.m3u8
+#EXTINF:-1 tvg-id="EbenezerTV.hn" tvg-logo="https://i.imgur.com/7BFRpvJ.jpg" group-title="Honduras",HN | Ebenezer TV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/5zRr1EV.png" group-title="Honduras",HN | Campus TV
+http://st2.worldkast.com/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="HCHHonduras.hn" tvg-logo="https://i.imgur.com/ZzZpORp.jpg" group-title="Honduras",HN | HCH
+plugin://plugin.video.dailymotion_com/?url=x81za5c&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bQULQJR.jpg" group-title="Honduras",HN | Hondured 13
+plugin://plugin.video.dailymotion_com/?url=x83axzj&mode=playLiveVideo
+#EXTINF:-1 tvg-id="CCIChannel.hn" tvg-logo="https://i.imgur.com/NoQoAAj.jpg" group-title="Honduras",HN | CCI Channel
+plugin://plugin.video.dailymotion_com/?url=x836wjl&mode=playLiveVideo
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
 #EXTINF:-1 tvg-id="LNplus.ar" tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
