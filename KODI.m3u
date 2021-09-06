@@ -2018,6 +2018,8 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt2.m3u8|User-Agent
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kpbs-dt4.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LPNwrAE.jpg" group-title="USA",US | California | KABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/KABCwatch.m3u8
+#EXTINF:-1 tvg-id="KEROTV.us" tvg-logo="https://i.imgur.com/zBnhelY.jpg" group-title="USA",US | California | 23ABC KERO
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H8nfO3W.png" group-title="USA",US | Colorado | PBS Rocky Mountain [Geo]
 https://krmadt.lls.cdn.pbs.org/krmadt/1cebd1cc-9ca8-49e4-8dfc-40aa63a08c6c/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n6lhnqB.png" group-title="USA",US | Colorado | PBS 12 KBDI [Geo]
@@ -2084,6 +2086,8 @@ https://pbs.lls.cdn.pbs.org/est/index.m3u8
 https://wyesdt.lls.cdn.pbs.org/wyesdt/6c0e9c73-3ad2-45c6-9741-1aa36878006a/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4rWmzqv.jpg" group-title="USA",US | Louisiana | LPB [Geo]
 https://wlpbdt.lls.cdn.pbs.org/wlpbdt/3b9285dd-13b3-4fec-a9b0-02b57dd8c7ba/primary.m3u8
+#EXTINF:-1 tvg-id="WHDH.us" tvg-logo="https://i.imgur.com/BavkC1Y.jpg" group-title="USA",US | Massachusetts | WHDH
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rmjoCsm.jpg" group-title="USA",US | Miami | WLRN [Geo]
 https://wlrndt.lls.cdn.pbs.org/wlrndt/8f70a678-a636-4dfa-873e-699f0212f78b/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6hGH702.png" group-title="USA",US | Miami | WPBT [Geo]
@@ -2112,6 +2116,8 @@ https://wxxidt.lls.cdn.pbs.org/wxxidt/d518ca7e-a094-4362-832b-ae1d426d3729/prima
 https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6tCgsNc.jpg" group-title="USA",US | New York | WNYE-DT3
 https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnye-dt3.m3u8
+#EXTINF:-1 tvg-id="WKYC.us" tvg-logo="https://i.imgur.com/xNun2VZ.jpg" group-title="USA",US | Ohio | WKYC
+https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9IT0GXB.jpg" group-title="USA",US | Ohio | WEWS 5 ABC
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EJqalAJ.jpg" group-title="USA",US | Oregon | KOBI-TV NBC 5 [YOUTUBE]
@@ -2132,6 +2138,8 @@ https://whyydt.lls.cdn.pbs.org/whyydt/6e441aa1-51ab-4ecd-a1dc-bc99da43c3ed/prima
 https://wqeddt.lls.cdn.pbs.org/wqeddt/9f860866-5985-487e-8191-0a2c49d5d6bb/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sL0LkVl.jpg" group-title="USA",US | Pennsylvania | WVIA [Geo]
 https://wviadt.lls.cdn.pbs.org/wviadt/951e97d7-7c2c-45c0-abff-261c852fcb7d/primary.m3u8
+#EXTINF:-1 tvg-id="KBMT.us" tvg-logo="https://i.imgur.com/RK7lsDT.png" group-title="USA",US | Texas | KBMT
+https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gwNWj3g.png" group-title="USA",US | Texas | KAVU-TV ABC 25
 https://dai.google.com/linear/hls/pa/event/IxO7sTUKSJyXfpdT_zJAXA/stream/6bfaa1d8-2a8d-4476-bd15-672d685e7054:GRQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/afidFCO.jpg" group-title="USA",US | Texas | Texas Weather Tracker TV [YOUTUBE]
