@@ -726,13 +726,13 @@ https://inwonder-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1(src02).de" tvg-logo="https://i.imgur.com/GJApWEn.png" group-title="Duitsland",DE | Sport 1 Deutschland
 https://www.filmon.com/vr-streams/4121.high/playlist.m3u8 
 #EXTINF:-1 tvg-id="SPORT1plus.de" tvg-logo="https://i.imgur.com/BJY26X6.png" group-title="Duitsland",DE | Sport 1+ HD
-http://185.97.150.19:8082/376
+
 #EXTINF:-1 tvg-id="SkySport1.de" tvg-logo="https://i.imgur.com/w8eUT0O.png" group-title="Duitsland",DE | Sky Sport 1
-http://185.97.150.19:8082/380
+
 #EXTINF:-1 tvg-id="SkySport2.de" tvg-logo="https://i.imgur.com/QZgwuiH.png" group-title="Duitsland",DE | Sky Sport 2
-http://185.97.150.19:8082/381
+
 #EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-logo="https://i.imgur.com/Tz2rYr8.png" group-title="Duitsland",DE | Sky Bundesliga 1 
-http://185.97.150.19:8082/382
+
 #EXTINF:-1 tvg-id="MorethanSportsTV.de" tvg-logo="https://i.imgur.com/eTR1SXE.png" group-title="Duitsland",DE | More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jQZQ94D.png" group-title="Duitsland",DE | Derserienkanal 
@@ -2969,25 +2969,15 @@ https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I5A1mMZ.jpg" group-title="Egypte",EG | Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iNzPvBi.png" group-title="Egypte",EG | Al Masriya
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://msertupoc.streaming.mediaservices.windows.net/a0a14e08-ec7f-47ec-a3cd-4219630a2cbc/8046f67c-f422-4eb6-8671-4ed1d342f0a8.ism/manifest(format=mpd-time-csf)
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kH9xsJd.jpg" group-title="Egypte",EG | ERTU 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://msertupoc.streaming.mediaservices.windows.net/25d6f897-fa69-4746-8c1d-63bb9d2b902c/36ce3317-3f36-48b8-8323-4129eca4e2ae.ism/manifest(format=mpd-time-csf)
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HGNZu9i.png" group-title="Egypte",EG | ERTU 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://msertupoc.streaming.mediaservices.windows.net/6266588c-06fd-4344-a05f-b04cd923a26d/d9aeeb7d-3ebf-4b09-bd78-1ddf114b15fc.ism/manifest(format=mpd-time-csf)
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ymINZvM.jpg" group-title="Egypte",EG | Al Nile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://msertupoc.streaming.mediaservices.windows.net/09620ad8-9973-4c9a-aa97-e52f2a84ee2d/45f4cc46-de89-4f49-873e-9e6c1e1d9209.ism/manifest(format=mpd-time-csf)
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ExAWEKf.png" group-title="Egypte",EG | NileTV International
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://msertupoc.streaming.mediaservices.windows.net/da032b79-6fd5-4b4d-b6c2-5312d50b288f/366d31d8-2f7b-47ed-a37e-f45cab50f8ee.ism/manifest(format=mpd-time-csf)
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/14EjTS3.png" group-title="Egypte",EG | ATVSat
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Huda.eg" tvg-logo="https://i.imgur.com/7dnjDgw.jpg" group-title="Egypte",EG | Huda
@@ -2999,9 +2989,9 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hkbdGHw.png" group-title="Mozambique",MZ | TVM Telescola
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tFDhuM1.jpg" group-title="Mozambique",MZ | STV
-http://62.176.93.137:8002/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mQJw8uW.png" group-title="Mozambique",MZ | STV Noticias
-http://62.176.93.137:8002/play/a00l/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title="Mozambique",MZ | TV Maná Moçambique
 http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7zMfCC.jpg" group-title="Tanzania",TZ | Channel Ten
@@ -3009,45 +2999,41 @@ http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V5WuuaO.jpg" group-title="Tanzania",TZ | IBN TV
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="TV1.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
-http://62.176.93.137:8002/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="TV1.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 1
 https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8
 #EXTINF:-1 tvg-id="TV2.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 2
-http://62.176.93.137:8002/play/a009/index.m3u8
+
 #EXTINF:-1 tvg-id="TV3.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 3
-http://62.176.93.137:8002/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="TV4.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 4 
-http://62.176.93.137:8002/play/a002/index.m3u8
+
 #EXTINF:-1 tvg-id="TV4.zm" tvg-logo="https://i.imgur.com/Abu1aVV.png" group-title="Zambia",ZM | ZNBC 4 
 https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uwO9OyF.jpg" group-title="Zambia",ZM | ABN
-http://62.176.93.137:8002/play/a00c/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nlKT4jW.png" group-title="Zambia",ZM | Crown TV
-http://62.176.93.137:8002/play/a003/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NZxGX8R.png" group-title="Zambia",ZM | Diamond TV
-http://62.176.93.137:8002/play/a00i/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7LrKCMD.jpg" group-title="Zambia",ZM | Hope Channel Zambia
-http://62.176.93.137:8002/play/a00j/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fG21EKZ.jpg" group-title="Zambia",ZM | HCTV
-http://62.176.93.137:8002/play/a00g/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hKNTbMh.png" group-title="Zambia",ZM | KBN
-http://62.176.93.137:8002/play/a00h/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3RCvz0J.png" group-title="Zambia",ZM | Loyola
-http://62.176.93.137:8002/play/a007/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NmfQ3ei.jpg" group-title="Zambia",ZM | MUVI TV 2
-http://62.176.93.137:8002/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xkZqEeO.jpg" group-title="Zambia",ZM | Musanza TV
-http://62.176.93.137:8002/play/a005/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1skyf2j.png" group-title="Zambia",ZM | POWER TV
-http://62.176.93.137:8002/play/a00d/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/63vISXd.jpg" group-title="Zambia",ZM | Parliament TV
-http://62.176.93.137:8002/play/a00f/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WIeZr8y.jpg" group-title="Zambia",ZM | SPRING TV
-http://62.176.93.137:8002/play/a00e/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c0N65Ia.jpg" group-title="Zambia",ZM | Sun FM TV
-http://62.176.93.137:8002/play/a004/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sS7MfqE.png" group-title="Zambia",ZM | ZED TV
-http://62.176.93.137:8002/play/a006/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZXsB8aU.jpg" group-title="Zimbabwe",ZW | ABJ TV
 https://streaming.viewmedia.tv/viewsatstream02/viewsatstream02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JddJgL1.png" group-title="Zuid-Afrika",ZA | Impact TV Network [YOUTUBE]
