@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/azaIh2W.png" group-title="",Canal Zoom
-#EXTVLCOPT:http-referrer=https://playerembed.iaia.stream/
-https://15306896-8b0c-4319-a479-c29bef5aecbd.iaia.stream/15306896-8b0c-4319-a479-c29bef5aecbd/bcf7b3b2c575/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/XhhzcHn.png" group-title="",Boukè
+#EXTVLCOPT:http-referrer=https://bouke.fcst.tv/
+https://tvl-live.fl.freecaster.net/live/bouke/bouke.m3u8
