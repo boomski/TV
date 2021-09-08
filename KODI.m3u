@@ -687,10 +687,8 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pliventv-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.mpd
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Duitsland",DE | ARTE [OFFLINE]
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Duitsland",DE | ARTE
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8|X-Forwarded-For=91.197.29.78
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Duitsland",DE | ARTE [Geo]
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-logo="https://i.imgur.com/ADCiOHX.png" group-title="Duitsland",DE | ServusTV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="eoTV(src01).de" tvg-logo="https://i.imgur.com/oitJsZU.png" group-title="Duitsland",DE | EOTV
@@ -788,7 +786,7 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y8Qkj0m.png" group-title="Duitsland",DE | Xite 
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVDeutschland.de" tvg-logo="https://i.imgur.com/sbRtqY9.png" group-title="Duitsland",DE | MTV Deutschland [Geo]
-http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8|X-Forwarded-For=91.197.29.78
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" group-title="Duitsland",DE | Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oOYRD6y.jpg" group-title="Duitsland",DE | Kurd Music TV
