@@ -321,6 +321,8 @@ http://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 https://25614.global.ssl.fastly.net/edge-en/ngrp:live_5363cc905d8e11eab9a8c11483dc3ae6_all/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ju0h4s0.png" group-title="Groot-Brittannië",UK | Manoto HD
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7PIh4Qb.jpg" group-title="Groot-Brittannië",UK | Magnavision TV
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TJC(src01).uk" tvg-logo="https://i.imgur.com/bPU3MR2.jpg" group-title="Groot-Brittannië",UK | TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="SpotlightTV.uk" tvg-logo="https://i.imgur.com/EJpYNba.jpg" group-title="Groot-Brittannië",UK | Spotlight TV
@@ -398,7 +400,7 @@ https://www.filmon.com/vr-streams/3887.high/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews.fr" tvg-logo="https://i.imgur.com/UaBElfq.png" group-title="Frankrijk",FR | Euronews
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Frankrijk",FR | L'Équipe
-https://s6.tntendirect.com/lequipe21/live/playlist.m3u8
+https://s7.tntendirect.com/lequipe21/live/playlist.m3u8|Referer=https://www.tntendirect.com
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Frankrijk",FR | L'Équipe [GEO]
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Frankrijk",FR | Sport en France
@@ -1184,6 +1186,8 @@ http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jV60ePj.png" group-title="Italië",IT | Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9fCZ6o4.jpg" group-title="Italië",IT | BIKE
+https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pJs4Ncv.png" group-title="Italië",IT | DMAX
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/unroMdn.jpg" group-title="Italië",IT | MotorTrend
@@ -2730,6 +2734,10 @@ http://45.32.74.87:8080/hls/kanadetv.m3u8
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UTVSanClemente.cl" tvg-logo="https://i.imgur.com/j71baxA.png" group-title="Chili",CL | UTV San Clemente
 
+#EXTINF:-1 tvg-id="TVVision.cl" tvg-logo="https://i.imgur.com/NF2wwvm.jpg" group-title="Chili",CL | Jesus TV
+https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vptiA5h.jpg" group-title="Chili",CL | Visión TV
+https://vivo.solumedia.com:19360/visiontv/visiontv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DNNUiD8.png" group-title="Ecuador",EC | Ecuador TV
 https://player-api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
