@@ -2723,11 +2723,15 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="RecordTVManaus.br" tvg-logo="https://i.imgur.com/KkbQuKL.png" group-title="Brazilië",BR | RecordTV Manaus
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://i.imgur.com/ZXBruLX.png" group-title="Colombia",CO | Win Sports
-https://iptv-all.lanesh4d0w.codes/colombia-test/wins1|Referer=https://www.televisiongratishd.com/
+
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/PLfBTon.png" group-title="Colombia",CO | Canal RCN
+https://iptv-all.lanesh4d0w.codes/colombia/canal-rcn|Referer=https://ssh101.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/djpuc1i.jpg" group-title="Colombia",CO | Zoom
 https://iptv-all.lanesh4d0w.codes/colombia/zoom|Referer=https://playerembed.iaia.stream/
+#EXTINF:-1 tvg-id="Canal29.cl" tvg-logo="https://i.imgur.com/xSQNRvj.png" group-title="Chili",CL | Canal 29 Séries Antigas
+https://59f1cbe63db89.streamlock.net:1443/canal/canal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z9C6WXZ.jpg" group-title="Chili",CL | Kanade TV
 http://45.32.74.87:8080/hls/kanadetv.m3u8
 #EXTINF:-1 tvg-id="UATV.cl" tvg-logo="https://i.imgur.com/p8juQ1P.jpg" group-title="Chili",CL | Universidad Autónoma Temuco
