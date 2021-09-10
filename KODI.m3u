@@ -2735,6 +2735,8 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="RecordTVManaus.br" tvg-logo="https://i.imgur.com/KkbQuKL.png" group-title="Brazilië",BR | RecordTV Manaus
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/j25Et7H.png" group-title="Colombia",CO | Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://i.imgur.com/ZXBruLX.png" group-title="Colombia",CO | Win Sports
 
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/dFwS441.jpg" group-title="Colombia",CO | Teleantioquia
@@ -2747,6 +2749,8 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8|
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-logo="https://i.imgur.com/m7oyiYh.jpg" group-title="Colombia",CO | Telemúsica TV
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MelodyChannelColombia.co" tvg-logo="https://i.imgur.com/3n88cBU.png" group-title="Colombia",CO | Melody Channel Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/fxU7fgY.jpg" group-title="Colombia",CO | Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/xdwl8JE.jpg" group-title="Colombia",CO | Teleislas
@@ -2755,22 +2759,38 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/iJZbHRf.png" group-title="Colombia",CO | Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/PLfBTon.png" group-title="Colombia",CO | Canal RCN
-https://iptv-all.lanesh4d0w.codes/colombia/canal-rcn|Referer=https://ssh101.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-id="Telepetroleo.co" tvg-logo="https://i.imgur.com/H2gsId1.jpg" group-title="Colombia",CO | Telepetróleo
 https://iptv-all.lanesh4d0w.codes/colombia/telepetroleo.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/36Pfpwf.jpg" group-title="Colombia",CO | Telecaribe
+https://iptv-all.lanesh4d0w.codes/colombia/telecaribe_adaptive
+#EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-logo="https://i.imgur.com/BO2mfpU.jpg" group-title="Colombia",CO | Enlace Televisión
+https://iptv-all.lanesh4d0w.codes/colombia/enlace.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/PLfBTon.png" group-title="Colombia",CO | Canal RCN
+https://iptv-all.lanesh4d0w.codes/colombia/canal-rcn|Referer=https://ssh101.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/djpuc1i.jpg" group-title="Colombia",CO | Zoom
-https://iptv-all.lanesh4d0w.codes/colombia/zoom|Referer=https://playerembed.iaia.stream/
+
+#EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-logo="https://i.imgur.com/SOkRZWS.jpg" group-title="Colombia",CO | Noticias Caracol
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-id="MundoMas.co" tvg-logo="https://i.imgur.com/sYWpeJT.png" group-title="Colombia",CO | Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bvUukKJ.jpg" group-title="Colombia",CO | 90 Minutos Noticiero
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://i.imgur.com/qSPtupt.png" group-title="Colombia",CO | TDI Colombia
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/1NEF9Yp.jpg" group-title="Colombia",CO | Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="MiGenteTV.co" tvg-logo="https://i.imgur.com/iAttVpc.jpg" group-title="Colombia",CO | Mi Gente TV
+https://hvtrafico.ddns.net/migente720/migente720.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-logo="https://i.imgur.com/cGuF9oy.jpg" group-title="Colombia",CO | Avivamiento TV
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGracia.co" tvg-logo="https://i.imgur.com/GX460KB.jpg" group-title="Colombia",CO | TVGracia
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MarinaStereo.co" tvg-logo="https://i.imgur.com/qm2kaP7.png" group-title="Colombia",CO | Marina Stereo
+https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/lYHYrkR.jpg" group-title="Colombia",CO | Eduvision
+plugin://plugin.video.sendtokodi/?https://ok.ru/live/3120258686501
 #EXTINF:-1 tvg-id="Canal29.cl" tvg-logo="https://i.imgur.com/xSQNRvj.png" group-title="Chili",CL | Canal 29 Séries Antigas
 https://59f1cbe63db89.streamlock.net:1443/canal/canal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z9C6WXZ.jpg" group-title="Chili",CL | Kanade TV
