@@ -3321,16 +3321,20 @@ https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 https://live1.presstv.ir/live/ifilm2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NmNBkxh.png" group-title="Iran",IR | 24/7 Box TV
 https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrOXolW.jpg" group-title="Iran",IR | Varzesh TV Farsi
-http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K59P3H4.png" group-title="Iran",IR | HodHod TV
 http://51.210.199.12/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dqEWUC8.png" group-title="Iran",IR | Al Ahvaz TV
-http://51.210.227.131/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i9Yrtem.png" group-title="Iran",IR | Mono TV
-http://51.210.227.137/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrOXolW.jpg" group-title="Iran",IR | Varzesh TV Farsi
+http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l4xeiRi.jpg" group-title="Iran",IR | ITN
 http://51.210.199.31/hls/stream.m3u8  
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z5Mo3Ak.png" group-title="Iran",IR | FX
+http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dqEWUC8.png" group-title="Iran",IR | Al Ahvaz TV
+http://51.210.227.131/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TfZpxYw.png" group-title="Iran",IR | Toonix
+http://51.210.227.134/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i9Yrtem.png" group-title="Iran",IR | Mono TV
+http://51.210.227.137/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kmyfz5H.png" group-title="Iran",IR | Al-Zahra TV
 https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ExvOaLl.jpg" group-title="India",IN | CNBC Bajar
@@ -3354,10 +3358,7 @@ https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
 #EXTINF:-1 tvg-id="DocuBayTV.in" tvg-logo="https://i.imgur.com/ZjN7FOw.png" group-title="India",IN | DocuBay TV
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="Rosebowl.in" tvg-logo="https://i.imgur.com/clS3yIc.png" group-title="India",IN | Rosebowl
-#EXTVLCOPT:http-user-agent=stream
-http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8
-#EXTINF:-1 tvg-id="Rosebowl.in" tvg-logo="https://i.imgur.com/clS3yIc.png" group-title="India",IN | Rosebowl
-http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8
+http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8|User-Agent=stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uQ0hDru.jpg" group-title="Nepal",NP | Kantipur TV
 https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="radio1.be" tvg-logo="https://i.imgur.com/Y2LazUe.png" group-title="Radio",BE | Radio 1
