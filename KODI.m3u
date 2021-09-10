@@ -2647,6 +2647,8 @@ https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5620HCa.jpg" group-title="Honduras",HN | Mi Viña Channel
 https://5b50404ec5e4c.streamlock.net/8056/smil:8056.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dprA1P7.png" group-title="Honduras",HN | LTV
+https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1MIXANL.jpg" group-title="Honduras",HN | Q'hubo TV
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Honduras",HN | EDN TV
@@ -2669,7 +2671,6 @@ plugin://plugin.video.dailymotion_com/?url=x81za5c&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x83axzj&mode=playLiveVideo
 #EXTINF:-1 tvg-id="CCIChannel.hn" tvg-logo="https://i.imgur.com/NoQoAAj.jpg" group-title="Honduras",HN | CCI Channel
 plugin://plugin.video.dailymotion_com/?url=x836wjl&mode=playLiveVideo
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
 #EXTINF:-1 tvg-id="LNplus.ar" tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
