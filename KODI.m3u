@@ -2751,8 +2751,10 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8|
 https://liveingesta118.cdnmedia.tv//teleamigatvlive/smil:dvrlive.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fplayer.instantvideocloud.net%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aDEux4A.png" group-title="Colombia",CO | CMB TV
 https://liveingesta118.cdnmedia.tv//bethesdalive/smil:live.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fplayer.instantvideocloud.net%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vLgggfO.jpg" group-title="Colombia",CO | Canal Tro
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gxCymXt.png" group-title="Colombia",CO | Canal Tro Plus
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:radio.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fplayer.cdnmedia.tv%2F
+
 #EXTINF:-1 tvg-id="SuramTV.co" tvg-logo="https://i.imgur.com/XE4qZ7f.jpg" group-title="Colombia",CO | Suram TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-logo="https://i.imgur.com/m7oyiYh.jpg" group-title="Colombia",CO | Telemúsica TV
@@ -2778,7 +2780,7 @@ https://iptv-all.lanesh4d0w.codes/colombia/telecaribe_adaptive
 #EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-logo="https://i.imgur.com/BO2mfpU.jpg" group-title="Colombia",CO | Enlace Televisión
 https://iptv-all.lanesh4d0w.codes/colombia/enlace.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/PLfBTon.png" group-title="Colombia",CO | Canal RCN
-https://iptv-all.lanesh4d0w.codes/colombia/canal-rcn|Referer=https://ssh101.com/
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/djpuc1i.jpg" group-title="Colombia",CO | Zoom
 
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/DStnsuN.png" group-title="Colombia",CO | Canal Capital
@@ -2818,9 +2820,9 @@ https://rtmp02.portalexpress.es/tucanal/tucanal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QXwkMIf.jpg" group-title="Colombia",CO | Vida Nueva TV
 https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F5oDj0a.png" group-title="Colombia",CO | NTN24
-plugin://plugin.video.dailymotion_com/?url=x7w4okl&mode=playLiveVideo
+
 #EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/lYHYrkR.jpg" group-title="Colombia",CO | Eduvision
-plugin://plugin.video.sendtokodi/?https://ok.ru/live/3120258686501
+
 #EXTINF:-1 tvg-id="Canal29.cl" tvg-logo="https://i.imgur.com/xSQNRvj.png" group-title="Chili",CL | Canal 29 Séries Antigas
 https://59f1cbe63db89.streamlock.net:1443/canal/canal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z9C6WXZ.jpg" group-title="Chili",CL | Kanade TV
