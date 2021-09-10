@@ -2767,6 +2767,8 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/iJZbHRf.png" group-title="Colombia",CO | Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1H18V1p.png" group-title="Colombia",CO | Teleboyacá
+https://stmv1.voxtvhd.com.br/teleboyaca/teleboyaca/playlist.m3u8
 #EXTINF:-1 tvg-id="LATAMTV.tv" tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
 https://iptv-all.lanesh4d0w.codes/latam
 #EXTINF:-1 tvg-id="Telepetroleo.co" tvg-logo="https://i.imgur.com/H2gsId1.jpg" group-title="Colombia",CO | Telepetróleo
@@ -2789,6 +2791,14 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://i.imgur.com/qSPtupt.png" group-title="Colombia",CO | TDI Colombia
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRVgcQN.jpg" group-title="Colombia",CO | Canal 2 Cali
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dncjgvz.png" group-title="Colombia",CO | Canal C Cali
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.co" tvg-logo="https://i.imgur.com/Hzy5qyz.png" group-title="Colombia",CO | Canal ATV Soacha
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vO21Dc9.png" group-title="Colombia",CO | Canal Más Televisión
+https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/1NEF9Yp.jpg" group-title="Colombia",CO | Canal Visión Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="MiGenteTV.co" tvg-logo="https://i.imgur.com/iAttVpc.jpg" group-title="Colombia",CO | Mi Gente TV
@@ -2803,6 +2813,10 @@ https://streamyes.alsolnet.com/buturama/live/playlist.m3u8
 https://rtmp02.portalexpress.es/thefchanel/thefchanel/playlist.m3u8
 #EXTINF:-1 tvg-id="MarinaStereo.co" tvg-logo="https://i.imgur.com/qm2kaP7.png" group-title="Colombia",CO | Marina Stereo
 https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sdF2vzy.png" group-title="Colombia",CO | TuCanal
+https://rtmp02.portalexpress.es/tucanal/tucanal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QXwkMIf.jpg" group-title="Colombia",CO | Vida Nueva TV
+https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F5oDj0a.png" group-title="Colombia",CO | NTN24
 plugin://plugin.video.dailymotion_com/?url=x7w4okl&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Eduvision.co" tvg-logo="https://i.imgur.com/lYHYrkR.jpg" group-title="Colombia",CO | Eduvision
