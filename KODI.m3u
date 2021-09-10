@@ -277,7 +277,7 @@ https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-logo="https://i.imgur.com/f9b7f5z.png" group-title="Groot-Brittannië",UK | SportyStuff TV
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsChannelNetwork.uk" tvg-logo="https://i.imgur.com/HqrRK1B.png" group-title="Groot-Brittannië",UK | Sports Channel Network 
+#EXTINF:-1 tvg-id="SportsChannelNetwork.uk" tvg-logo="https://i.imgur.com/hCK52Q0.png" group-title="Groot-Brittannië",UK | Sports Channel Network 
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l0RMzT5.png" group-title="Groot-Brittannië",UK | Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
@@ -285,7 +285,7 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KRBuvRS.png" group-title="Groot-Brittannië",UK | Bid TV
 https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/keGwYog.png" group-title="Groot-Brittannië",UK | Local TV Birmingham
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZdDLM7n.png" group-title="Groot-Brittannië",UK | Local TV Birmingham
 plugin://plugin.video.dailymotion_com/?url=x702hnp&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4Qriq6R.jpg" group-title="Groot-Brittannië",UK | Local TV Cardiff
 plugin://plugin.video.dailymotion_com/?url=x5ev9xg&mode=playLiveVideo 
@@ -347,25 +347,25 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C5Aoo6g.png" group-title="Ierland",IE | Seanad Eireann
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JCQpHuD.png" group-title="Frankrijk",FR | TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Frankrijk",FR | TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/JCQpHuD.png" group-title="Frankrijk",FR | TF1
 https://s6.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/XBPfUnK.png" group-title="Frankrijk",FR | TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Frankrijk",FR | TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://i.imgur.com/XBPfUnK.png" group-title="Frankrijk",FR | TFX
 https://s6.tntendirect.com/nt1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Frankrijk",FR | TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/seTfAsC.jpg" group-title="Frankrijk",FR | TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Frankrijk",FR | TF1 Séries Films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/seTfAsC.jpg" group-title="Frankrijk",FR | TF1 Séries Films
 https://s6.tntendirect.com/hd1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="Frankrijk",FR | TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://i.imgur.com/eTyBcJa.jpg" group-title="Frankrijk",FR | TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="Frankrijk",FR | LCI
+#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://i.imgur.com/f1EGlCh.png" group-title="Frankrijk",FR | LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Frankrijk",FR | ARTE
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://i.imgur.com/3VBC7Fq.png" group-title="Frankrijk",FR | ARTE
 https://www.filmon.com/vr-streams/1729.high/playlist.m3u8 
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Frankrijk",FR | ARTE
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://i.imgur.com/3VBC7Fq.png" group-title="Frankrijk",FR | ARTE
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8|X-Forwarded-For=185.95.8.3
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="Frankrijk",FR | France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
@@ -651,7 +651,7 @@ https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8|User-Agent=VLC
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_subs.m3u8
 #EXTINF:-1 tvg-id="WDRKoln.de" tvg-logo="https://i.imgur.com/n737O4M.jpg" group-title="Duitsland",DE | WDR Koeln
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
-#EXTINF:-1 tvg-id="one.de" tvg-logo="https://i.imgur.com/c9qenzw.png" group-title="Duitsland",DE | One
+#EXTINF:-1 tvg-id="one.de" tvg-logo="https://i.imgur.com/6DbiktT.png" group-title="Duitsland",DE | One
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/Pd3UjdN.jpg" group-title="Duitsland",DE | Tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
@@ -687,7 +687,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pliventv-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.mpd
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Duitsland",DE | ARTE [Geo]
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://i.imgur.com/3VBC7Fq.png" group-title="Duitsland",DE | ARTE [Geo]
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-logo="https://i.imgur.com/ADCiOHX.png" group-title="Duitsland",DE | ServusTV
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8|X-Forwarded-For=91.197.29.78
