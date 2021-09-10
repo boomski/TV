@@ -3352,8 +3352,10 @@ https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8
 https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
 #EXTINF:-1 tvg-id="DocuBayTV.in" tvg-logo="https://i.imgur.com/ZjN7FOw.png" group-title="India",IN | DocuBay TV
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="Rosebowl.in" tvg-logo="https://i.imgur.com/LBQSALM.png" group-title="India",IN | Rosebowl
+#EXTINF:-1 tvg-id="Rosebowl.in" tvg-logo="https://i.imgur.com/clS3yIc.png" group-title="India",IN | Rosebowl
 #EXTVLCOPT:http-user-agent=stream
+http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8
+#EXTINF:-1 tvg-id="Rosebowl.in" tvg-logo="https://i.imgur.com/clS3yIc.png" group-title="India",IN | Rosebowl
 http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uQ0hDru.jpg" group-title="Nepal",NP | Kantipur TV
 https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/playlist.m3u8
