@@ -2000,6 +2000,8 @@ http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6IbRx3q.png" group-title="USA",US | Cartoon Network Latinoamerica [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCQySZQ6rrgJXRuonMwIIGMA&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel [YOUTUBE]
@@ -2190,6 +2192,16 @@ https://simultv.s.llnwi.net/o058/iSheTV/interlink.m3u8
 https://simultv.s.llnwi.net/o064/iTownTV/interlink.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iYaH8A6.png" group-title="USA",US | Cutlery Corner Network [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCj3dt20MAZcvDN8GKeT2FBg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Africa / Asia
+https://live-c348a30.rmbl.ws/slot-18/ngrp:yjnk-afxc_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Asia / Pacific
+https://live-c348a30.rmbl.ws/slot-12/ngrp:q6ms-g1u9_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Canada
+https://live-c348a30.rmbl.ws/slot-34/ngrp:1d1d-wqrm_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Europe
+https://live-fd164e1.rmbl.ws/slot-27/ngrp:ipy0-yeb3_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN España / Latinoamerica
+https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network [Geo]
@@ -2380,7 +2392,7 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cWGGbzr.png" group-title="Canada",CA | Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="Canada",CA | EWTN Canada
-https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
+https://live-c348a30.rmbl.ws/slot-34/ngrp:1d1d-wqrm_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HRqcIcR.png" group-title="Canada",CA | EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Canada",CA | QVTV
@@ -2725,12 +2737,40 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://i.imgur.com/ZXBruLX.png" group-title="Colombia",CO | Win Sports
 
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/dFwS441.jpg" group-title="Colombia",CO | Teleantioquia
+https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fplayer.instantvideocloud.net%2F
+#EXTINF:-1 tvg-id="Teleantioquia2.co" tvg-logo="https://i.imgur.com/bbobMoP.png" group-title="Colombia",CO | Teleantioquia
+https://liveingesta118.cdnmedia.tv//teleantioquialive/smil:dvrlive2.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fplayer.instantvideocloud.net%2F
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://i.imgur.com/wlu8Yws.jpg" group-title="Colombia",CO | Telecafé
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:dvrlive.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fplayer.cdnmedia.tv%2F
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-logo="https://i.imgur.com/XE4qZ7f.jpg" group-title="Colombia",CO | Suram TV
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemusicaTV.co" tvg-logo="https://i.imgur.com/m7oyiYh.jpg" group-title="Colombia",CO | Telemúsica TV
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/fxU7fgY.jpg" group-title="Colombia",CO | Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/xdwl8JE.jpg" group-title="Colombia",CO | Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/xdwl8JE.jpg" group-title="Colombia",CO | Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-logo="https://i.imgur.com/iJZbHRf.png" group-title="Colombia",CO | Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-logo="https://i.imgur.com/PLfBTon.png" group-title="Colombia",CO | Canal RCN
 https://iptv-all.lanesh4d0w.codes/colombia/canal-rcn|Referer=https://ssh101.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KgYGGN5.png" group-title="Colombia",CO | Latam TV
 https://iptv-all.lanesh4d0w.codes/latam
+#EXTINF:-1 tvg-id="Telepetroleo.co" tvg-logo="https://i.imgur.com/H2gsId1.jpg" group-title="Colombia",CO | Telepetróleo
+https://iptv-all.lanesh4d0w.codes/colombia/telepetroleo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/djpuc1i.jpg" group-title="Colombia",CO | Zoom
 https://iptv-all.lanesh4d0w.codes/colombia/zoom|Referer=https://playerembed.iaia.stream/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bvUukKJ.jpg" group-title="Colombia",CO | 90 Minutos Noticiero
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-id="TDIColombia.co" tvg-logo="https://i.imgur.com/qSPtupt.png" group-title="Colombia",CO | TDI Colombia
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-logo="https://i.imgur.com/cGuF9oy.jpg" group-title="Colombia",CO | Avivamiento TV
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGracia.co" tvg-logo="https://i.imgur.com/GX460KB.jpg" group-title="Colombia",CO | TVGracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal29.cl" tvg-logo="https://i.imgur.com/xSQNRvj.png" group-title="Chili",CL | Canal 29 Séries Antigas
 https://59f1cbe63db89.streamlock.net:1443/canal/canal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z9C6WXZ.jpg" group-title="Chili",CL | Kanade TV
