@@ -3352,6 +3352,9 @@ https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8
 https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
 #EXTINF:-1 tvg-id="DocuBayTV.in" tvg-logo="https://i.imgur.com/ZjN7FOw.png" group-title="India",IN | DocuBay TV
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="Rosebowl.in" tvg-logo="https://i.imgur.com/LBQSALM.png" group-title="India",IN | Rosebowl
+#EXTVLCOPT:http-user-agent=stream
+http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uQ0hDru.jpg" group-title="Nepal",NP | Kantipur TV
 https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="radio1.be" tvg-logo="https://i.imgur.com/Y2LazUe.png" group-title="Radio",BE | Radio 1
@@ -3545,10 +3548,10 @@ plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCnkMTsKYqhHm6l6GQzg4szg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LG4LSCD.jpg" group-title="Youtube",India | Doordarshan Sports
 plugin://plugin.video.youtube/play/?channel_id=UCX2eNtU1ZG3x4OpdP2UIlJA&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RzihPx0.jpg" group-title="Pluto TV",Duitsland | TeenNick
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m1ihHXU.png" group-title="Pluto TV",Spanje | PLUTO TV Deportes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RzihPx0.jpg" group-title="Pluto TV",USA | TeenNick
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="PlutoTVElEncantadordePerros.us" tvg-logo="https://i.imgur.com/4pmTypH.png" group-title="Pluto TV",USA | El Encantador de Perros
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?serverSideAds=false&advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVLoveNature.us" tvg-logo="https://i.imgur.com/2l6MuOt.png" group-title="Pluto TV",USA | Pluto TV Love Nature
