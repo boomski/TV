@@ -3413,6 +3413,20 @@ https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playl
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T3KnrvH.jpg" group-title="Afghanistan",AF | Iman TV
 https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
+#EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/3JBYrlZ.png" group-title="Pakistan",PK | ARY Digital
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Flive.arydigital.tv%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Npz6XVM.png" group-title="Pakistan",PK | HK TV  
+https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8?720p
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0csWZOa.jpg" group-title="Pakistan",PK | Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EQUm7ga.png" group-title="Pakistan",PK | PMI TV
+https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://i.imgur.com/Lt85oSz.jpg" group-title="Pakistan",PK | Lahore News
+https://lhrstrm.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://i.imgur.com/Lt85oSz.jpg" group-title="Pakistan",PK | Lahore News
+http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lwaAM0x.jpg" group-title="Pakistan",PK | Tehzeeb TV
+http://node6.tehzeebtv.com/temp/mobile/tehzeeb/playlist.m3u8
 #EXTINF:-1 tvg-id="Alrafidain.eg" tvg-logo="https://i.imgur.com/kT5233s.jpg" group-title="Irak",IQ | Alrafidain
 http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/playlist.m3u8
 #EXTINF:-1 tvg-id="Alrafidain.eg" tvg-logo="https://i.imgur.com/kT5233s.jpg" group-title="Irak",IQ | Alrafidain
@@ -3567,9 +3581,9 @@ http://77.247.109.15/live/s11/playlist.m3u8|Referer=http://www.cyfostreams.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kV1TBYj.png" group-title="Sport",België | CYFO 12
 http://77.247.109.15/live/s12/playlist.m3u8|Referer=http://www.cyfostreams.com/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kPp03uE.png" group-title="Sport",USA | Total HD Sport 10
-plugin://plugin.video.streamlink-tester/?action=play&url=http://totalhdsport.xyz/hd/10.php
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ROp9eO.png" group-title="Sport",USA | Sportzonline HD1
-plugin://plugin.video.streamlink-tester/?action=play&url=https://sportsonline.to/channels/hd/hd1.php
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Oostenrijk | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mQnhrv2.png" group-title="Youtube",Turkije | beIN SPORTS Türkiye [Geo]
