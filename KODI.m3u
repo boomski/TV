@@ -3021,6 +3021,12 @@ https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/58163
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="Algerije",DZ | CNA
 https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-logo="https://i.imgur.com/gXVTCkF.png" group-title="Algerije",DZ | Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://i.imgur.com/zfPk0XK.png" group-title="Algerije",DZ | Echorouk TV
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-logo="https://i.imgur.com/UT1Aayn.jpg" group-title="Algerije",DZ | Echorouk News
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CimyTdo.png" group-title="Tunesië",TN | Baya TV
 http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yaDoVLD.jpg" group-title="Tunesië",TN | Sahel TV
