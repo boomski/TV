@@ -3019,6 +3019,8 @@ https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
 https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZFxI8R9.png" group-title="Papoea-Nieuw-Guinea",PG | Kalac TV
 https://edge9.vedge.infomaniak.com/livecast/ik:kalactv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="Algerije",DZ | CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CimyTdo.png" group-title="Tunesië",TN | Baya TV
 http://37.187.28.55:1935/bayatv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yaDoVLD.jpg" group-title="Tunesië",TN | Sahel TV
@@ -3027,10 +3029,6 @@ http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mz1pHa2.jpg" group-title="Tunesië",TN | Hannibal
 http://217.182.137.206/hannibal.m3u8|User-Agent=TNAgexpl212C
-#EXTINF:-1 tvg-id="NileTVSport.eg" tvg-logo="https://i.imgur.com/144pyVl.jpg" group-title="Egypte",EG | Nile TV Sport
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://msertupoc.streaming.mediaservices.windows.net/3195c420-627d-4d09-9419-906cfe552a1f/04fab75b-8d4a-4052-9422-fdb7d261e7e8.ism/manifest(format=mpd-time-csf)
 #EXTINF:-1 tvg-id="NileTVSport.eg" tvg-logo="https://i.imgur.com/144pyVl.jpg" group-title="Egypte",EG | Nile TV Sport
 https://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwww.niletc.tv%2F
 #EXTINF:-1 tvg-id="NileTVLife.eg" tvg-logo="https://i.imgur.com/tB4o0FX.png" group-title="Egypte",EG | Nile TV Life 
