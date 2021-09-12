@@ -2180,6 +2180,8 @@ https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EJqalAJ.jpg" group-title="USA",US | Oregon | KOBI-TV NBC 5 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCDDHvAu-pNOgdzgHha96Qnw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AY4c29z.jpg" group-title="USA",US | Pennsylvania | WHP 21.3
+https://bozztv.com/teleyupp1/teleup-cw-whp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XT0rkpX.jpg" group-title="USA",US | Pennsylvania | WITF [Geo]
 https://witfdt.lls.cdn.pbs.org/witfdt/6b45b1e5-671e-439a-8673-ad21a5e56f32/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rSMFHix.png" group-title="USA",US | Pennsylvania | WPSU [Geo]
@@ -4167,6 +4169,8 @@ https://bozztv.com/teleyupp/teleup-destinationtv/playlist.m3u8
 https://bozztv.com/teleyupp/e5CGxWp8iU/playlist.m3u8
 #EXTINF:-1 tvg-id="PCN.us" tvg-logo="https://i.imgur.com/cdc4xDi.jpg" group-title="Teleup",USA | Pennsylvania Cable Network
 https://bozztv.com/teleyupp/teleup-pcnhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AY4c29z.jpg" group-title="Teleup",USA | WHP 21.3
+https://bozztv.com/teleyupp1/teleup-cw-whp/playlist.m3u8
 #EXTINF:-1 tvg-id="PetsTV.us" tvg-logo="https://i.imgur.com/XWOrxsw.png" group-title="Teleup",USA | Pets.TV
 https://bozztv.com/teleyupp/teleup-pettv/playlist.m3u8
 #EXTINF:-1 tvg-id="Revolt.us" tvg-logo="https://i.imgur.com/7u14eNW.png" group-title="Teleup",USA | Revolt
