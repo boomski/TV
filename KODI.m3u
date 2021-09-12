@@ -3463,14 +3463,32 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ARYDigital.pk" tvg-logo="https://i.imgur.com/JeVPIwi.png" group-title="Pakistan",PK | ARY Digital
 https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Flive.arydigital.tv%2F
-#EXTINF:-1 tvg-id="ARYNews.pk" tvg-logo="https://i.imgur.com/co7VEVO.png" group-title="Pakistan",PK | ARY News Pakistan [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCMmpLL2ucRHAXbNHiCPyIyg&live=1
 #EXTINF:-1 tvg-id="ARYMusik.pk" tvg-logo="https://i.imgur.com/3Xc30AU.png" group-title="Pakistan",PK | ARY Musik
 http://stream.arylive.com/arymusik/myStream/index.m3u8
 #EXTINF:-1 tvg-id="ARYQTV.pk" tvg-logo="https://i.imgur.com/cHAJDpP.png" group-title="Pakistan",PK | ARY QTV
 https://stream.arylive.com/aryqtv/myStream/index.m3u8
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-logo="https://i.imgur.com/co7VEVO.png" group-title="Pakistan",PK | ARY News Pakistan [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCMmpLL2ucRHAXbNHiCPyIyg&live=1
+#EXTINF:-1 tvg-id="92News.pk" tvg-logo="https://i.imgur.com/Czefg2I.png" group-title="Pakistan",PK | 92 News [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCsgC5cbz3DE2Shh34gNKiog&live=1
+#EXTINF:-1 tvg-id="92NewsUK.pk" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Pakistan",PK | 92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="24News.pk" tvg-logo="https://i.imgur.com/NZdeiVX.jpg" group-title="Pakistan",PK | 24 News HD [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCcmpeVbSSQlZRvHfdC-CRwg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hufT6u0.jpg" group-title="Pakistan",PK | Awaz TV News [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCd0sEeyvD_K9YYw0yPTKDhw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X2tzyv1.jpg" group-title="Pakistan",PK | BOL News [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCz2yxQJZgiB_5elTzqV7FiQ&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vXMhyE3.png" group-title="Pakistan",PK | Dawn News [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCaxR-D8FjZ-2otbU0_Y2grg&live=1
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://i.imgur.com/AfGq35s.png" group-title="Pakistan",PK | Dunya News
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8?dvr
+#EXTINF:-1 tvg-id="ExpressNewsPakistan.pk" tvg-logo="https://i.imgur.com/ZUE3Mit.png" group-title="Pakistan",PK | Express News 
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Npz6XVM.png" group-title="Pakistan",PK | HK TV  
 https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8?720p
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oivISC4.jpg" group-title="Pakistan",PK | Barkat TV
+https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0csWZOa.jpg" group-title="Pakistan",PK | Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EQUm7ga.png" group-title="Pakistan",PK | PMI TV
