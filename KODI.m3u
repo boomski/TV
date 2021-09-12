@@ -75,16 +75,6 @@ https://live.matele.be/hls/live.m3u8
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
 #EXTINF:-1 tvg-id="LN24(src01).be" tvg-logo="https://i.imgur.com/t0xyNzm.png" group-title="België",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-id="Euronews(src02).nl" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="België",BE | Euronews
-https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="africanews(src04).za" tvg-logo="https://i.imgur.com/Znu8wCa.jpg" group-title="België",BE | AfricaNews
-https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I7IX4oY.png" group-title="België",BE | AFV Family
-https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://i.imgur.com/dX569rC.png" group-title="België",BE | Bloomberg TV 
-https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/04xwmZG.png" group-title="België",BE | Bloomberg Quicktake
-https://bloomberg-quicktake-1-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WJbtokn.jpg" group-title="België",BE | 21 Bis
 
 #EXTINF:-1 tvg-id="vrtevents1.be" tvg-logo="https://i.imgur.com/MP9S9yS.png" group-title="België",BE | VRT Events 1
@@ -105,16 +95,6 @@ https://live-edge.rtl.lu/channel2/smil:channel2/720p.m3u8
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DzhlDF6.png" group-title="Luxemburg",LU | TV MCJ
 
-#EXTINF:-1 tvg-id="Euronews(English).lu" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Luxemburg",LU | Euronews 
-https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="africanews(src04).za" tvg-logo="https://i.imgur.com/Znu8wCa.jpg" group-title="Luxemburg",LU | AfricaNews
-https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I7IX4oY.png" group-title="Luxemburg",LU | AFV Family 
-https://futuretoday-afv-family-1-lu.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://i.imgur.com/dX569rC.png" group-title="Luxemburg",LU | Bloomberg TV 
-https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/04xwmZG.png" group-title="Luxemburg",LU | Bloomberg Quicktake 
-https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NPO1(src02).nl" tvg-logo="https://i.imgur.com/MnWoDS3.png" group-title="Nederland",NL | NPO 1
 http://77.163.171.114:9981/stream/channelid/1438758799?profile=pass:NPO1
 #EXTINF:-1 tvg-id="NPO1(src02).nl" tvg-logo="https://i.imgur.com/MnWoDS3.png" group-title="Nederland",NL | NPO 1 [Geo]
@@ -173,6 +153,8 @@ http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
 http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R1UP2cj.png" group-title="Nederland",NL | JENZ
 https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HK13TV.nl" tvg-logo="https://i.imgur.com/ucIDekH.jpg" group-title="Nederland",NL | HK13 TV
+http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4kURvuH.png" group-title="Nederland",NL | TV Ellef
 http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HaPMx2o.png" group-title="Nederland",NL | TV Valkenburg
@@ -183,44 +165,14 @@ https://live.rtva.nl/live/zender.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://olon.ctl.cdn.ebsd.ericsson.net/L9A/ca6b9054/6e5e08ce.isml/.mpd?dvr_window_length=7200
-#EXTINF:-1 tvg-id="Euronews(src02).nl" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Nederland",NL | Euronews
-https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FUELTV(English).fr" tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Nederland",NL | Fuel TV
-http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5yaeBuY.png" group-title="Nederland",NL | People are Awesome 
-https://jukin-peopleareawesome-2-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten Family 
-https://rakuten-family-8-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten Drama 
-https://rakuten-drama-8-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten Spotlight 
-https://rakuten-spotlight-8-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten Comedy 
-https://rakuten-comedy-8-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten Action 
-https://rakuten-action-8-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten Documentaries 
-https://rakuten-documentaries-8-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FailArmy.uk" tvg-logo="https://i.imgur.com/FMLBCO7.jpg" group-title="Nederland",NL | Failarmy International 
-https://failarmy-international-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetKnowledge.uk" tvg-logo="https://i.imgur.com/Wf6beu7.jpg" group-title="Nederland",NL | Planet Knowledge
-https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Nederland",NL | Inwonder TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Nederland",NL | Inwonder TV [Geo]
-https://inwonder-samsungnl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InsightUHD.de" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:-1 tvg-id="InsightUHD.de" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Insight TV [Geo]
-https://insighttv-samsungnl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Nederland",NL | Inwonder TV
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cud1VWY.png" group-title="Nederland",NL | Introuble TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cud1VWY.png" group-title="Nederland",NL | Introuble TV [Geo]
-https://introuble-samsungnl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2IBXEcL.jpg" group-title="Nederland",NL | Kindertijd KRO-NCRV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCOtok8iIlT9k-beq2bpZ4ag&live=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EcG94ZU.jpg" group-title="Nederland",NL | Stingray Karoke  
-https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yv6JJi7.png" group-title="Nederland",NL | MTV Music 24
 
 #EXTINF:-1 tvg-id="TommyTV(src02).nl" tvg-logo="https://i.imgur.com/cNgwmz3.jpg" group-title="Nederland",NL | Tommy Teleshopping
@@ -4213,3 +4165,77 @@ https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 #EXTINF:-1 tvg-id="TVO.ca" tvg-logo="https://i.imgur.com/RGwqnOF.png" group-title="Teleup",CANADA | TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews(src02).nl" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Samsung Plus TV",BE | Euronews
+https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="africanews(src04).za" tvg-logo="https://i.imgur.com/Znu8wCa.jpg" group-title="Samsung Plus TV",BE | AfricaNews
+https://rakuten-africanews-2-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/I7IX4oY.png" group-title="Samsung Plus TV",BE | AFV Family
+https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://i.imgur.com/dX569rC.png" group-title="Samsung Plus TV",BE | Bloomberg TV 
+https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/04xwmZG.png" group-title="Samsung Plus TV",BE | Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews(src02).nl" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Nederland",NL | Euronews
+https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FUELTV(English).fr" tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Nederland",NL | Fuel TV
+http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5yaeBuY.png" group-title="Samsung Plus TV",NL | People are Awesome 
+https://jukin-peopleareawesome-2-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",NL | Rakuten Family 
+https://rakuten-family-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",NL | Rakuten Drama 
+https://rakuten-drama-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",NL | Rakuten Spotlight 
+https://rakuten-spotlight-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",NL | Rakuten Comedy 
+https://rakuten-comedy-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",NL | Rakuten Action 
+https://rakuten-action-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",NL | Rakuten Documentaries 
+https://rakuten-documentaries-8-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy.uk" tvg-logo="https://i.imgur.com/FMLBCO7.jpg" group-title="Samsung Plus TV",NL | Failarmy International 
+https://failarmy-international-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetKnowledge.uk" tvg-logo="https://i.imgur.com/Wf6beu7.jpg" group-title="Samsung Plus TV",NL | Planet Knowledge
+https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EcG94ZU.jpg" group-title="Samsung Plus TV",NL | Stingray Karoke  
+https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews(English).lu" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Samsung Plus TV",LU | Euronews 
+https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="africanews(src04).za" tvg-logo="https://i.imgur.com/Znu8wCa.jpg" group-title="Samsung Plus TV",LU| AfricaNews
+https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/I7IX4oY.png" group-title="Samsung Plus TV",LU | AFV Family 
+https://futuretoday-afv-family-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://i.imgur.com/dX569rC.png" group-title="Samsung Plus TV",LU | Bloomberg TV 
+https://bloomberg-bloomberg-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/04xwmZG.png" group-title="Samsung Plus TV",LU | Bloomberg Quicktake 
+https://bloomberg-quicktake-1-lu.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesAustria.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",AT | Rakuten TV Action Movies 
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesAustria.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",AT | Rakuten TV Comedy Movies 
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaAustria.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",AT | Rakuten TV Drama 
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyAustria.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",AT | Rakuten TV Family
+https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightAustria.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",AT | Rakuten TV Spotlight 
+https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSwitzerland.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",CH | Rakuten TV Action Movies 
+https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSwitzerland.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",CH | Rakuten TV Comedy Movies 
+https://rakuten-comedymovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaSwitzerland.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",CH | Rakuten TV Drama 
+https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilySwitzerland.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",CH | Rakuten TV Family 
+https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightSwitzerland.es" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Samsung Plus TV",CH | Rakuten TV Spotlight 
+https://rakuten-spotlight-4-ch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaNewsEnglish.cg" tvg-logo="https://i.imgur.com/Znu8wCa.jpg" group-title="Samsung Plus TV",IE | AfricaNews English
+https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/I7IX4oY.png" group-title="Samsung Plus TV",IE | AFV Family
+https://futuretoday-afv-family-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/04xwmZG.png" group-title="Samsung Plus TV",IE | Bloomberg Quicktake
+https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVUS.us" tvg-logo="https://i.imgur.com/dX569rC.png" group-title="Samsung Plus TV",IE | Bloomberg TV US
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Samsung Plus TV",IE | Euronews English
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
