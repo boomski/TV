@@ -1150,10 +1150,12 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WW0ftr2.png" group-title="Italië",IT | Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JyuS3hK.png" group-title="Italië",IT | History Lab
-https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="12TVParma.it" tvg-logo="https://i.imgur.com/1wurvna.png" group-title="Italië",IT | 12 TV Parma
+https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkokAdz.png" group-title="Italië",IT | Deejay TV
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JyuS3hK.png" group-title="Italië",IT | History Lab
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7i02o62.png" group-title="Italië",IT | Mojito TV
 http://77.68.40.210:8888/hls/mojitotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N2m4nUg.png" group-title="Italië",IT | Süd Tirol TV
@@ -2849,8 +2851,26 @@ https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vptiA5h.jpg" group-title="Chili",CL | Visión TV
 https://vivo.solumedia.com:19360/visiontv/visiontv.m3u8
+#EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://i.imgur.com/hOgvztP.jpg" group-title="Chili",CL | Zona Latina
+http://38.131.11.9:1080/play/a00x
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DNNUiD8.png" group-title="Ecuador",EC | Ecuador TV
 https://player-api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
+#EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-logo="https://i.imgur.com/HLdcy91.png" group-title="Ecuador",EC | Puruwa TV
+https://srv.panelcast.net/puruwalive/puruwalive/playlist.m3u8
+#EXTINF:-1 tvg-id="RTU.ec" tvg-logo="https://i.imgur.com/z6rEwbU.jpg" group-title="Ecuador",EC | RTU
+https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
+#EXTINF:-1 tvg-id="WuanPlus.ec" tvg-logo="https://i.imgur.com/Oary5lq.png" group-title="Ecuador",EC | Wuan Plus
+https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
+#EXTINF:-1 tvg-id="CanelaTV.ec" tvg-logo="https://i.imgur.com/2KAsWRK.jpg" group-title="Ecuador",EC | Canela TV
+https://video1.getstreamhosting.com:1936/8296/8296/playlist.m3u8
+#EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-logo="https://i.imgur.com/kSf4cs8.jpg" group-title="Ecuador",EC | Hechos Ecuador
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.imgur.com/f6KjqA9.jpg" group-title="Ecuador",EC | Teleamazonas
+
+#EXTINF:-1 tvg-id="EcotelTV.ec" tvg-logo="https://i.imgur.com/g1WDUMC.jpg" group-title="Ecuador",EC | Ecotel TV
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-1 tvg-id="TC.ec" tvg-logo="https://i.imgur.com/BY1de5k.jpg" group-title="Ecuador",EC | TC
+plugin://plugin.video.dailymotion_com/?url=x7wijay&mode=playLiveVideo
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/nJTLcRE.png" group-title="Peru",PE | TVPerú HD
 https://cdnh75.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/66GQGKX.png" group-title="Peru",PE | Canal IPE
