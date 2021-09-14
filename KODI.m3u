@@ -2633,10 +2633,20 @@ https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados4.smil/playlist.m
 https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fplayerssl.cdnmedia.tv%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/efaQywK.jpg" group-title="Costa Rica",CR | Telediario Canal 8 Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Aruba",AW | Tele Aruba
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rDgxUVS.png" group-title="Antigua en Barbuda",AG | ABS
+plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
+#EXTINF:-1 tvg-id="ArubaTV.aw" tvg-logo="https://i.imgur.com/9fWY09U.png" group-title="Aruba",AW | Aruba.TV
+https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
+#EXTINF:-1 tvg-id="Telearuba13.aw" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Aruba",AW | Tele Aruba
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telearuba13.aw" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Aruba",AW | Tele Aruba
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GA7Yyrq.png" group-title="Aruba",AW | Nos Isla TV
+#EXTINF:-1 tvg-id="NosIsla.aw" tvg-logo="https://i.imgur.com/GA7Yyrq.png" group-title="Aruba",AW | Nos Isla TV
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftelearuba.aw%2F
+#EXTINF:-1 tvg-id="ZNSTV.bs" tvg-logo="https://i.imgur.com/2O4ICA1.png" group-title="Bahamas",BS | ZNS TV
+https://cloud.streamcomedia.com/znstv/smil:znstv_streams.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ParliamentaryChannel.bs" tvg-logo="https://i.imgur.com/LUzWLUh.png" group-title="Bahamas",BS | Parliamentary Channel
+https://cloud.streamcomedia.com/parliamentarychannel/smil:parliamentarychannel_streams.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UuGVwcD.jpg" group-title="Curaçao",CW | TeleCuraçao
 http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wlr3KEk.jpg" group-title="Curaçao",CW | DCTV 
@@ -2655,8 +2665,10 @@ plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_s
 https://seswa.bonce.tv/hls/bonceswa_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tqsSv8O.png" group-title="Cuba",CU | Cuba Visión International
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fteveo.cu%2F
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rDgxUVS.png" group-title="Antigua en Barbuda",AG | ABS
-plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
+#EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/hH6htTF.jpg" group-title="Dominicaanse Republiek",DO | Amé 47
+https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/g0bz8t1.png" group-title="Dominicaanse Republiek",DO | Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o5TnL2b.png" group-title="Honduras",HN | Waldivisión Internacional 
@@ -3135,6 +3147,10 @@ https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
 #EXTINF:-1 tvg-id="NobleTV.eg" tvg-logo="https://i.imgur.com/q2DTZba.png" group-title="Egypte",EG | Noble TV
 
+#EXTINF:-1 tvg-id="TPA1.ao" tvg-logo="https://i.imgur.com/dc90RH1.jpg" group-title="Angola",AO | TPA 1
+https://iptv-all.lanesh4d0w.codes/angola/tpa1
+#EXTINF:-1 tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/NdPdXGL.jpg" group-title="Angola",AO | TV Zimbo
+https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pVzBIz5.jpg" group-title="Mozambique",MZ | TVM
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hkbdGHw.png" group-title="Mozambique",MZ | TVM Telescola
