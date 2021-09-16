@@ -1960,7 +1960,7 @@ https://crackle-plex.amagi.tv/playlist720p.m3u8
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MLqjsyg.jpg" group-title="USA",US | Nat Geo Wild
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SIEO61K.png" group-title="USA",US | Weather Gone Viral
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qyZeZ1V.png" group-title="USA",US | Weather Gone Viral
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jbOWcpk.png" group-title="USA",US | QuaHZ
 https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
@@ -2212,6 +2212,8 @@ https://live-c348a30.rmbl.ws/slot-34/ngrp:1d1d-wqrm_all/playlist.m3u8
 https://live-fd164e1.rmbl.ws/slot-27/ngrp:ipy0-yeb3_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN España / Latinoamerica
 https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lccxQNy.jpg" group-title="USA",US | Pax TV
+https://univstream.akamaized.net/hls/live/2025223/PAX/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network [Geo]
@@ -2635,7 +2637,7 @@ https://liveingesta118.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rDgxUVS.png" group-title="Antigua en Barbuda",AG | ABS
 plugin://plugin.video.twitch/?mode=play&channel_name=absliveantigua3
-#EXTINF:-1 tvg-id="ArubaTV.aw" tvg-logo="https://i.imgur.com/9fWY09U.png" group-title="Aruba",AW | Aruba.TV
+#EXTINF:-1 tvg-id="ArubaTV.aw" tvg-logo="https://i.imgur.com/rvHwlfC.png" group-title="Aruba",AW | Aruba.TV
 https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
 #EXTINF:-1 tvg-id="Telearuba13.aw" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Aruba",AW | Tele Aruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
@@ -2643,7 +2645,7 @@ http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1 tvg-id="NosIsla.aw" tvg-logo="https://i.imgur.com/GA7Yyrq.png" group-title="Aruba",AW | Nos Isla TV
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftelearuba.aw%2F
-#EXTINF:-1 tvg-id="ZNSTV.bs" tvg-logo="https://i.imgur.com/2O4ICA1.png" group-title="Bahamas",BS | ZNS TV
+#EXTINF:-1 tvg-id="ZNSTV.bs" tvg-logo="https://i.imgur.com/Oo7vsmX.png" group-title="Bahamas",BS | ZNS TV
 https://cloud.streamcomedia.com/znstv/smil:znstv_streams.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ParliamentaryChannel.bs" tvg-logo="https://i.imgur.com/LUzWLUh.png" group-title="Bahamas",BS | Parliamentary Channel
 https://cloud.streamcomedia.com/parliamentarychannel/smil:parliamentarychannel_streams.smil/playlist.m3u8
@@ -2867,6 +2869,8 @@ https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
 https://vivo.solumedia.com:19360/visiontv/visiontv.m3u8
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-logo="https://i.imgur.com/hOgvztP.jpg" group-title="Chili",CL | Zona Latina
 http://38.131.11.9:1080/play/a00x
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uGo7JLR.png" group-title="Chili",CL | PAXTV Móvil
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DNNUiD8.png" group-title="Ecuador",EC | Ecuador TV
 https://player-api.new.livestream.com/accounts/27228685/events/9764041/live.m3u8
 #EXTINF:-1 tvg-id="PuruwaTV.ec" tvg-logo="https://i.imgur.com/HLdcy91.png" group-title="Ecuador",EC | Puruwa TV
@@ -2959,6 +2963,24 @@ https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
 https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
 #EXTINF:-1 tvg-id="TVLatinaCanal42.bo" tvg-logo="https://i.imgur.com/p809qAy.jpg" group-title="Bolivië",BO | TV Latina Canal 42
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+#EXTINF:-1 tvg-id="teleSUR.ve" tvg-logo="https://i.imgur.com/gdcEYyw.jpg" group-title="Venezuela",VE | TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSUREnglish.ve" tvg-logo="https://i.imgur.com/gdcEYyw.jpg" group-title="Venezuela",VE | TeleSUR English
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Televen.ve" tvg-logo="https://i.imgur.com/G5PjRNH.jpg" group-title="Venezuela",VE | Televen
+https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
+#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-logo="https://i.imgur.com/ixIePRp.png" group-title="Venezuela",VE | TV Familia 
+https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve" tvg-logo="https://i.imgur.com/tLtcDcB.jpg" group-title="Venezuela",VE | Vale TV
+
+#EXTINF:-1 tvg-id="Canali.ve" tvg-logo="https://i.imgur.com/uirGGZs.png" group-title="Venezuela",VE | Canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalNubehTV.ve" tvg-logo="https://i.imgur.com/2tJoQIl.png" group-title="Venezuela",VE | Canal Nubeh TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-logo="https://i.imgur.com/HYWt9B1.jpg" group-title="Venezuela",VE | Vepaco TV
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/tH3YK3F.png" group-title="Venezuela",VE | Globovision [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCfJtBtmhnIyfUB6RqXeImMw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4UGwJtJ.png" group-title="Australië",AU | Adelaide | 10
