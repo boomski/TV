@@ -451,6 +451,8 @@ https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRennes35Bretagne(src01).fr" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="Frankrijk",FR | TVR
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/playlist.m3u8 
+#EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/modeRec.png" group-title="Frankrijk",FR | P2M TV
+https://panel.streamparis.fr:3743/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QmZP1em.png" group-title="Frankrijk",FR | viaATV
 https://streamer03.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018_medium/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kmna9PU.png" group-title="Frankrijk",FR | viàMATÉLÉ
@@ -2711,6 +2713,12 @@ plugin://plugin.video.dailymotion_com/?url=x81za5c&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x83axzj&mode=playLiveVideo
 #EXTINF:-1 tvg-id="CCIChannel.hn" tvg-logo="https://i.imgur.com/NoQoAAj.jpg" group-title="Honduras",HN | CCI Channel
 plugin://plugin.video.dailymotion_com/?url=x836wjl&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z3AeEbJ.png" group-title="Martinique",MQ | Martinique la 1ère [YOUTUBE] 
+plugin://plugin.video.youtube/play/?channel_id=UCgA9V57lQlZFXkDfhVGTWSg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AevqPWD.png" group-title="Martinique",MQ | TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6j9VPZ8.jpg" group-title="Martinique",MQ | Espérance TV InterAmérique
+https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fapp.jetstream.studio%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
 #EXTINF:-1 tvg-id="LNplus.ar" tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
