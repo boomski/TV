@@ -2939,6 +2939,16 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rUq4MmO.png" group-title="Peru",PE | Pax TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TPTO.pe" tvg-logo="https://i.imgur.com/8qLneEv.jpg" group-title="Peru",PE | TPTO TV
+http://v4.tustreaming.cl/tpto/index.m3u8
+#EXTINF:-1 tvg-id="RadioPachatusan.pe" tvg-logo="https://i.imgur.com/odCwY2x.jpg" group-title="Peru",PE | Radio Pachatusan
+http://v4.tustreaming.cl/pachatuzan/index.m3u8
+#EXTINF:-1 tvg-id="Quillavision.pe" tvg-logo="https://i.imgur.com/TDZyVh1.png" group-title="Peru",PE | Quilla Vision Canal 27
+http://v4.tustreaming.cl/quillavision/index.m3u8
+#EXTINF:-1 tvg-id="ClipsTV.pe" tvg-logo="https://i.imgur.com/cP5ApW6.jpg" group-title="Peru",PE | ClipsTV
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 tvg-id="SelvaMiaTV.pe" tvg-logo="https://i.imgur.com/7YTQ8m0.jpg" group-title="Peru",PE | SelvaMía TV
+https://inliveserver.com:1936/18022/18022/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q1QzrVa.png" group-title="Peru",PE | Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EE0cLCu.jpg" group-title="Peru",PE | Monterrico TV
