@@ -1902,6 +1902,10 @@ https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8|Referer=https://live
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/onidQyH.jpg" group-title="Georgië",GE | Pirveli
 https://hls.t.stream-dns.net/hls/tvpirveli_1/_03bc2eb5c1d8219ba16e6479f90abe67_6124f3a9x0010/index.m3u8
+#EXTINF:-1 tvg-id="1TV.am" tvg-logo="https://i.imgur.com/u3JEc8Y.jpg" group-title="Armenië",AM | 1 TV
+http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="YerkirMedia.am" tvg-logo="https://i.imgur.com/qOhoRku.jpg" group-title="Armenië",AM | Yerkir Media 
+https://livestream.yerkirmedia.am/www/hdhls/a55r4g47.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zkrpd18.jpg" group-title="Armenië",AM | Panarmenian TV Channel
 https://stream.mediaworldvision.com:8811/PanarmLiveT/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fstream.mediaworldvision.com%3A8811%2FPanarmLiveT%2Fembed.html
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3tdDmkv.jpg" group-title="Turkije",TR | Tele 1 [YOUTUBE]
