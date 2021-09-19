@@ -1902,6 +1902,8 @@ https://bozztv.com/36bay2/mtavariarxi/tracks-v1a1/mono.m3u8|Referer=https://live
 https://live.palitranews.ge/hls/palitratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/onidQyH.jpg" group-title="Georgië",GE | Pirveli
 https://hls.t.stream-dns.net/hls/tvpirveli_1/_03bc2eb5c1d8219ba16e6479f90abe67_6124f3a9x0010/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zkrpd18.jpg" group-title="Armenië",AM | Panarmenian TV Channel
+https://stream.mediaworldvision.com:8811/PanarmLiveT/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fstream.mediaworldvision.com%3A8811%2FPanarmLiveT%2Fembed.html
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3tdDmkv.jpg" group-title="Turkije",TR | Tele 1 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCoHnRpOS5rL62jTmSDO5Npw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5sLLccU.jpg" group-title="Turkije",TR | Teve 2 
@@ -3025,6 +3027,8 @@ http://api.new.livestream.com/accounts/25119151/events/7392689/live.m3u8
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s67amyk.png" group-title="Australië",AU | Horse & Country TV
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Usuh4kw.jpg" group-title="Australië",AU | ABC News Australia [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCVgO39Bk5sMo66-6o6Spn6Q&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FsvUVsd.jpg" group-title="Nieuw-Zeeland",NZ | TVNZ 1
 https://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MWVnCWd.png" group-title="Nieuw-Zeeland",NZ | TVNZ 2
@@ -4293,6 +4297,12 @@ plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCnkMTsKYqhHm6l6GQzg4szg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bohR4Bq.jpg" group-title="Youtube",Mexico | APT Padel Tour
 plugin://plugin.video.youtube/play/?channel_id=UCvMjAL1EYrpOtiht3C3FOoA&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VKB5Lgv.jpg" group-title="Youtube",Australië | BarTV Sports
+plugin://plugin.video.youtube/play/?channel_id=UCjUqki3gPoRcj1RFUKuGthQ&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RjuwwWT.jpg" group-title="Youtube",Australië | Football South Australia
+plugin://plugin.video.youtube/play/?channel_id=UCypkMPX_5RCC_qv6X0TUDmw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/azpN02K.jpg" group-title="Youtube",Australië | Tennis Australia
+plugin://plugin.video.youtube/play/?channel_id=UCgUrLyvzsRqgGSmTBbxL84A&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yauVKgZ.jpg" group-title="Youtube",Nieuw-Zeeland | Sky Sports Next
 plugin://plugin.video.youtube/play/?channel_id=UCaOvfE-4N9pm_36a2NYB8yw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ifaSIyZ.jpg" group-title="Youtube",Rusland | Russian Premier Liga
