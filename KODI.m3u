@@ -317,8 +317,6 @@ https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://i.imgur.com/3VBC7Fq.png" group-title="Frankrijk",FR | ARTE
 https://www.filmon.com/vr-streams/1729.high/playlist.m3u8 
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://i.imgur.com/3VBC7Fq.png" group-title="Frankrijk",FR | ARTE
-http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8|X-Forwarded-For=185.95.8.3
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="Frankrijk",FR | France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/pwzdsvb.png" group-title="Frankrijk",FR | France 3
@@ -350,14 +348,14 @@ https://www.filmon.com/vr-streams/3887.high/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews.fr" tvg-logo="https://i.imgur.com/UaBElfq.png" group-title="Frankrijk",FR | Euronews
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Frankrijk",FR | L'Équipe
-https://s7.tntendirect.com/lequipe21/live/playlist.m3u8|Referer=https://www.tntendirect.com
+
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Frankrijk",FR | L'Équipe [GEO]
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
-#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Frankrijk",FR | Sport en France
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/auFFQDC.png" group-title="Frankrijk",FR | Sport en France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
-#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Frankrijk",FR | Sport en France
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/auFFQDC.png" group-title="Frankrijk",FR | Sport en France
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
-#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/S9yLfWx.png" group-title="Frankrijk",FR | Sport en France
+#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/auFFQDC.png" group-title="Frankrijk",FR | Sport en France
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV(English).fr" tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Frankrijk",FR | Fuel TV
 https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
