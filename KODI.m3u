@@ -1692,6 +1692,10 @@ http://185.236.229.21:9981/play/a03c
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-logo="https://i.imgur.com/3tx9jLA.png" group-title="Portugal",PT | Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8|User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y115XaP.png" group-title="Portugal",PT | ADB TV
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BZhF5P2.jpg" group-title="Portugal",PT | Sobrenatural TV
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="SICMulher(src02).pt" tvg-logo="https://i.imgur.com/qfLbDs5.png" group-title="Portugal",PT | SIC Mulher
 http://185.236.229.21:9981/play/a037
 #EXTINF:-1 tvg-id="CMTV(src01).pt" tvg-logo="https://i.imgur.com/sJjdIZU.jpg" group-title="Portugal",PT | CMTV
@@ -1708,6 +1712,8 @@ http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 #EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-logo="https://i.imgur.com/CbDwSWh.png" group-title="Portugal",PT | NOS Studios HD
 http://185.236.229.21:9981/play/a054
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SnPU1sW.png" group-title="Portugal",PT | Canal Vida
+plugin://plugin.video.twitch/?mode=play&channel_name=vidasobrenatural
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vKbAGj7.png" group-title="Tsjechië",CZ | CNN Prima News
 https://prima-ott-live-sec.ssl.cdn.cra.cz/rsbJFFRfVNCRNWj_ZFJ2XA==,1630879354/channels/prima_cnn/playlist-live_lq-live_mq-live_hq.m3u8
 #EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://i.imgur.com/rSJamLv.png" group-title="Tsjechië",CZ | Praha TV
