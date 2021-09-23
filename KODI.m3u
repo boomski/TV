@@ -3213,6 +3213,28 @@ https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
 https://iptv-all.lanesh4d0w.codes/angola/tpa1
 #EXTINF:-1 tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/NdPdXGL.jpg" group-title="Angola",AO | TV Zimbo
 https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
+#EXTINF:-1 tvg-id="ArkTV.ug" tvg-logo="https://i.imgur.com/319bQlg.png" group-title="Oeganda",UG | Ark TV
+https://arktelevision.org/hlslive/test/test.m3u8
+#EXTINF:-1 tvg-id="Bukedde1.ug" tvg-logo="https://i.imgur.com/CYAMqoU.png" group-title="Oeganda",UG | Bukedde 1
+https://stream.hydeug.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-id="Bukedde2.ug" tvg-logo="https://i.imgur.com/uOL57YE.png" group-title="Oeganda",UG | Bukedde 2
+https://stream.hydeug.com/bukedde2flussonic/index.m3u8
+#EXTINF:-1 tvg-id="TVWest.ug" tvg-logo="https://i.imgur.com/EwWLKxi.png" group-title="Oeganda",UG | TV West
+https://stream.hydeug.com/tvwest-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="WanLuoTV.ug" tvg-logo="https://i.imgur.com/xVMh1y1.png" group-title="Oeganda",UG | Wan Luo TV
+https://stream.hydeug.com/luotv-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="BoraTV.ug" tvg-logo="https://i.imgur.com/Vrr8bFI.png" group-title="Oeganda",UG | Bora TV
+https://stream.hydeug.com/boratv/index.m3u8
+#EXTINF:-1 tvg-id="UrbanTubaale.ug" tvg-logo="https://i.imgur.com/NqIHEUr.png" group-title="Oeganda",UG | Urban Tubaale
+https://stream.hydeug.com/urban-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="NBSTV.ug" tvg-logo="https://i.imgur.com/S7ZEtlz.png" group-title="Oeganda",UG | NBS TV
+https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBSTV_stream_qb/5-20-hls/live.m3u8
+#EXTINF:-1 tvg-id="NBSTV.ug" tvg-logo="https://i.imgur.com/S7ZEtlz.png" group-title="Oeganda",UG | NBS TV
+https://vse-cdn1-readymedia.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/5-20-hls/live.m3u8
+#EXTINF:-1 tvg-id="NBSTV.ug" tvg-logo="https://i.imgur.com/S7ZEtlz.png" group-title="Oeganda",UG | NBS TV 
+https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="SaltTV.ug" tvg-logo="https://i.imgur.com/BncQOsA.jpg" group-title="Oeganda",UG | Salt TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pVzBIz5.jpg" group-title="Mozambique",MZ | TVM
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hkbdGHw.png" group-title="Mozambique",MZ | TVM Telescola
