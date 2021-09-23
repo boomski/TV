@@ -1712,6 +1712,14 @@ http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 #EXTINF:-1 tvg-id="NOSStudios(src01).pt" tvg-logo="https://i.imgur.com/CbDwSWh.png" group-title="Portugal",PT | NOS Studios HD
 http://185.236.229.21:9981/play/a054
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-logo="https://i.imgur.com/neAGBmm.png" group-title="Portugal",PT | TVCine Action 
+http://185.236.229.21:9981/play/a04n
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-logo="https://i.imgur.com/CQNygyF.png" group-title="Portugal",PT | TVCine Edition 
+http://185.236.229.21:9981/play/a061
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-logo="https://i.imgur.com/3WZxonn.png" group-title="Portugal",PT | TVCine Emotion 
+http://185.236.229.21:9981/play/a05z
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-logo="https://i.imgur.com/FJE4BlD.png" group-title="Portugal",PT | TVCine Top 
+http://185.236.229.21:9981/play/a04w
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SnPU1sW.png" group-title="Portugal",PT | Canal Vida
 plugin://plugin.video.twitch/?mode=play&channel_name=vidasobrenatural
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vKbAGj7.png" group-title="Tsjechië",CZ | CNN Prima News
