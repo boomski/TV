@@ -463,6 +463,8 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/inde
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Frankrijk",FR | ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SzStHyc.jpg" group-title="Frankrijk",FR | TV Vendée [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC5BRZBCjOqMO9BqWnubqtJA&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B4i2kq6.png" group-title="Frankrijk",FR | 01 TV
 plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
 #EXTINF:-1 tvg-id="WeoTV(src02).fr" tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" group-title="Frankrijk",FR | Wéo
@@ -471,6 +473,10 @@ plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yEwrmqa.jpg" group-title="Frankrijk",FR | Télévision Locale du Choletais
 plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SzStHyc.jpg" group-title="Frankrijk",FR | TV Vendée [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC5BRZBCjOqMO9BqWnubqtJA&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SzStHyc.jpg" group-title="Frankrijk",FR | TV Vendée
+plugin://plugin.video.dailymotion_com/?url=x38yjeb&mode=playLiveVideo
 #EXTINF:-1 tvg-id="3ATelesudAfrotainmentTelevision.fr" tvg-logo="https://i.imgur.com/2gjmQLK.png" group-title="Frankrijk",FR | Telesud
 plugin://plugin.video.dailymotion_com/?url=x7wrxqb&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nvIJxCd.png" group-title="Frankrijk",FR | B Smart
