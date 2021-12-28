@@ -1796,8 +1796,12 @@ https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rCTH2iP.png" group-title="Albanië",AL | RTSH Sport
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qREEuPx.jpg" group-title="Albanië",AL | A2
-plugin://plugin.video.sendtokodi/?https://video.gjirafa.com/a2-cnn-live
+#EXTINF:-1 tvg-id="Alsat.al" tvg-logo="https://i.imgur.com/D433GOJ.png" group-title="Albanië",AL | Alsat
+http://93.157.62.180/AlsatM/index.m3u8
+#EXTINF:-1 tvg-id="ATD.al" tvg-logo="https://i.imgur.com/MIZALf0.jpg" group-title="Albanië",AL | ATD 
+http://46.99.146.236/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qREEuPx.jpg" group-title="Albanië",AL | A2 CNN
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BTgSMrs.png" group-title="Albanië",AL | News 24
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8DLGSv3.jpg" group-title="Albanië",AL | ABC News
@@ -1843,7 +1847,7 @@ plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oratv.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aLL7VZg.png" group-title="Albanië",AL | Ora News
 plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oranews.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Albanië",AL | Zjarr TV
-
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IiCQg26.png" group-title="Kosovo",XK | RTK 1
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/72P6v2h.jpg" group-title="Kosovo",XK | TV Opoja
