@@ -3435,6 +3435,14 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://i.imgur.com/hvH3wJP.jpg" group-title="UAE",AE | Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://i.imgur.com/GQIKNcb.jpg" group-title="UAE",AE | Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakMix.ae" tvg-logo="https://i.imgur.com/Ob8wLfi.jpg" group-title="UAE",AE | Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1 tvg-id="WeyyakNawaem.ae" tvg-logo="https://i.imgur.com/NDlnYAD.jpg" group-title="UAE",AE | Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-logo="https://i.imgur.com/OZ3FnuY.png" group-title="UAE",AE | Al Hadath TV 
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-logo="https://i.imgur.com/OZ3FnuY.png" group-title="UAE",AE | Al Hadath TV 
@@ -3450,9 +3458,11 @@ https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/YMghCO7.png" group-title="UAE",AE | Al Sharqiya Min Kabla
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Ajman.ae" tvg-logo="https://i.imgur.com/PCJcrQp.png" group-title="UAE",AE | Ajman
-https://iptv-all.lanesh4d0w.codes/emirates/ajman
+https://iptv-all.lanesh4d0w.repl.co/emirates/ajman
 #EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-logo="https://i.imgur.com/7UbxiuC.png" group-title="UAE",AE | Al Dafrah TV
-https://iptv-all.lanesh4d0w.codes/saudiarabia/aldafrah
+https://iptv-all.lanesh4d0w.repl.co/saudiarabia/aldafrah
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/Z3B0H22.png" group-title="UAE",AE | Al Yaum TV
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cS2vq0c.png" group-title="Kirgizië",KG | КТRК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOZRZUQ.png" group-title="Kirgizië",KG | КТRК Мusic
