@@ -954,25 +954,15 @@ plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Taskpi.jpg" group-title="Duitsland",DE | earthTV 4 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCRuyAVeVd7oUwh0LWmxxBBQ&live=4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YjHHQ3z.png" group-title="Oostenrijk",AT | ORF 1 [Geo]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
-https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yiu0Pjd.png" group-title="Oostenrijk",AT | ORF 2 [Geo]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
-https://orf2.mdn.ors.at/out/u/orf2/drmqxa/manifest.mpd
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UT0YhTq.png" group-title="Oostenrijk",AT | ORF 3 [Geo]
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UT0YhTq.png" group-title="Oostenrijk",AT | ORF 3 [Geo]
 https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61JNfgB.png" group-title="Oostenrijk",AT | ORF Sport+ [Geo]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dDPNanhuLu5za%2F152DPxN6iqXyiTpNmv%2FjeoEkrpmjGrE%2FIhy%2Fawgz2OLo%2FaU%2FjeJUuOd0JQDGxDqbMdUqZDfJbn%2FWUt1iTk6y8EcdUxITmawngXkYGzhqbm8WekQY1a5F%2BrFx0y1n00bf2BkmjT8UJO6ximG6lm2CfpWXd6iiLM0YpcPN2Hti4LwwXc0WAv5%2FXUhwPdHHUKLnxaeyC%2BU%2FZzung8jWWTAQHCBkZ9sEvbxHONYbcQWMOoscnEN3AP||R{SSM}|
-https://orfs.mdn.ors.at/out/u/orfs/drmqxa/manifest.mpd
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8|User-Agent=NSPlayer/7.10.0.3059
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Oostenrijk",AT | Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B6QWXt3.jpg" group-title="Oostenrijk",AT | Servus TV Österreich
@@ -980,45 +970,27 @@ https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8|X-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mw9GNmh.png" group-title="Oostenrijk",AT | RTL Austria
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oAySGnl.png" group-title="Oostenrijk",AT | Kabel Eins [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-001.live.p7s1video.net/ba6ffa51/t_001/kabeleins-at/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FlhOpdJ.png" group-title="Oostenrijk",AT | Kabel Eins Doku [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-001.live.p7s1video.net/078e3cec/t_001/kabeleinsdoku-at/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LI7QWe0.png" group-title="Oostenrijk",AT | Sat 1 [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/643TQfc.jpg" group-title="Oostenrijk",AT | Sat 1 Gold [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-001.live.p7s1video.net/11ddbf26/t_001/sat1gold-at/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FEwOXkn.jpg" group-title="Oostenrijk",AT | Puls 4 [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-003.live.p7s1video.net/1b29926a/t_003/puls4-at-sd/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/13UGJwz.jpg" group-title="Oostenrijk",AT | Sixx [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-001.live.p7s1video.net/f114c74e/t_001/sixx-at/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bq7JjxH.jpg" group-title="Oostenrijk",AT | ProSieben [Geo]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://ac-001.live.p7s1video.net/0256e16e/t_001/prosieben-at/cenc-default.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2E8fIxS.png" group-title="Oostenrijk",AT | ProSieben Maxx [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-001.live.p7s1video.net/5dab4de6/t_001/prosiebenmaxx-at/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XqOrkVT.png" group-title="Oostenrijk",AT | ATV [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-003.live.p7s1video.net/6f5c0112/t_003/atv/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XqOrkVT.png" group-title="Oostenrijk",AT | ATV 2 [Geo]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://ac-003.live.p7s1video.net/11b6c3f5/t_003/atv2/cenc-default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="Oostenrijk",AT | oe24.TV
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist.m3u8|X-Forwarded-For=93.82.18.55
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ymjr1zO.png" group-title="Oostenrijk",AT | Krone.tv 
@@ -1878,6 +1850,8 @@ plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oratv.php
 plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oranews.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Albanië",AL | Zjarr TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qzTDKYC.jpg" group-title="Albanië",AL | RTV Ilirida
+https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IiCQg26.png" group-title="Kosovo",XK | RTK 1
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/72P6v2h.jpg" group-title="Kosovo",XK | TV Opoja
@@ -1886,7 +1860,7 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 http://us.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7xuZBh2.png" group-title="Kosovo",XK | Syri TV
 https://tv.syri.net/syrilive/webtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qzTDKYC.jpg" group-title="Kosovo",XK | RTV Ilirida [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qzTDKYC.jpg" group-title="Kosovo",XK | RTV Ilirida
 https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dz2fE4d.png" group-title="Noord-Macedonië",MK | Klan Macedonia
 https://t2.tvmak.com/tv/TVART.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
@@ -1960,6 +1934,10 @@ http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 https://livestream.yerkirmedia.am/www/hdhls/a55r4g47.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zkrpd18.jpg" group-title="Armenië",AM | Panarmenian TV Channel
 https://stream.mediaworldvision.com:8811/PanarmLiveT/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fstream.mediaworldvision.com%3A8811%2FPanarmLiveT%2Fembed.html
+#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-logo="https://i.imgur.com/mKeH8H9.jpg" group-title="Azerbeidzjan",AZ | Naxçıvan TV
+http://streams.livetv.az/azerbaijan/nax/playlist.m3u8
+#EXTINF:-1 tvg-id="MuganTV.az" tvg-logo="https://i.imgur.com/8N88j0o.png" group-title="Azerbeidzjan",AZ | Muğan TV
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3tdDmkv.jpg" group-title="Turkije",TR | Tele 1 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCoHnRpOS5rL62jTmSDO5Npw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5sLLccU.jpg" group-title="Turkije",TR | Teve 2 
@@ -2777,12 +2755,18 @@ plugin://plugin.video.youtube/play/?channel_id=UCgA9V57lQlZFXkDfhVGTWSg&live=1
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6j9VPZ8.jpg" group-title="Martinique",MQ | Espérance TV InterAmérique
 https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fapp.jetstream.studio%2F
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8|User-Agent=iPhone
 #EXTINF:-1 tvg-id="LNplus.ar" tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCba3hpU7EFBSk817y9qZkiA&live=1
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/EX3q7ua.jpg" group-title="Argentinië",AR | DeporTV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCSmh3DFxBwFurMttT60PQ1g&live=1
+#EXTINF:-1 tvg-id="TelpinTV.ar" tvg-logo="https://i.imgur.com/hiOrAIa.png" group-title="Argentinië",AR | Telpin TV
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TelpinCanal2.ar" tvg-logo="https://i.imgur.com/UwKONpm.jpg" group-title="Argentinië",AR | Telpin Canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax(XEWH).ar" tvg-logo="https://i.imgur.com/anrJ69J.jpg" group-title="Argentinië",AR | Telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w787297145_b1828000_sleng.m3u8
 #EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://i.imgur.com/WvwMV9W.jpg" group-title="Argentinië",AR | TierraMia TV
@@ -2797,6 +2781,8 @@ http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8|User-Agent=VLC
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NU7jvwv.jpg" group-title="Argentinië",AR | CANAL TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1 tvg-id="CatacamaTV.ar" tvg-logo="https://i.imgur.com/Gr2cmiB.jpg" group-title="Argentinië",AR | Catamarca TV
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jT3d6p1.jpg" group-title="Argentinië",AR | Telesol
@@ -3467,6 +3453,12 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/90qqv9d.png" group-title="UAE",AE | Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BDDsMcn.png" group-title="UAE",AE | Dubai Racing 
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/SP2PNjg.png" group-title="UAE",AE | Dubai Racing 2 
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/02hbFH2.png" group-title="UAE",AE | Dubai Racing 3 
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya 
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya
@@ -3499,6 +3491,12 @@ https://iptv-all.lanesh4d0w.repl.co/emirates/ajman
 https://iptv-all.lanesh4d0w.repl.co/saudiarabia/aldafrah
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/Z3B0H22.png" group-title="UAE",AE | Al Yaum TV
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CitrussTV.ae" tvg-logo="" group-title="UAE",AE | Citruss TV [Geo-blocked]
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+#EXTINF:-1 tvg-id="QatarTV.qa" tvg-logo="https://i.imgur.com/clNmEYr.png" group-title="Qatar",QA | Qatar TV 
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A95.0)%20Gecko%2F20100101%20Firefox%2F95.0&Referer=https%3A%2F%2Fwww.qtv.qa%2F
+#EXTINF:-1 tvg-id="QatarTV2.qa" tvg-logo="https://i.imgur.com/kMUk7hF.jpg" group-title="Qatar",QA | Qatar TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A95.0)%20Gecko%2F20100101%20Firefox%2F95.0&Referer=https%3A%2F%2Fwww.qtv.qa%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cS2vq0c.png" group-title="Kirgizië",KG | КТRК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOZRZUQ.png" group-title="Kirgizië",KG | КТRК Мusic
