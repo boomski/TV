@@ -3445,6 +3445,36 @@ plugin://plugin.video.youtube/play/?channel_id=UCDXPB23ws_T0rVvrXVCYqyA&live=1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://i.imgur.com/6G5K9rD.jpg" group-title="Zuid-Korea",KR | Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://i.imgur.com/6G5K9rD.jpg" group-title="Zuid-Korea",KR | Arirang
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://i.imgur.com/6G5K9rD.jpg" group-title="Zuid-Korea",KR | Arirang
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://i.imgur.com/6G5K9rD.jpg" group-title="Zuid-Korea",KR | Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+#EXTINF:-1 tvg-id="CBS.kr" tvg-logo="https://i.imgur.com/tfMxq63.png" group-title="Zuid-Korea",KR | CBS 
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTV.kr" tvg-logo="https://i.imgur.com/SQI9PAz.png" group-title="Zuid-Korea",KR | CGNTV
+http://cgntv-glive.ofsdelivery.net/live/cgntv_kr01/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTV.kr" tvg-logo="https://i.imgur.com/SQI9PAz.png" group-title="Zuid-Korea",KR | CGNTV
+http://cgntv-glive.ofsdelivery.net/live/cgntv_kr02/playlist.m3u8
+#EXTINF:-1 tvg-id="BBSBuddhistBroadcasting.kr" tvg-logo="https://i.imgur.com/2fELsUB.png" group-title="Zuid-Korea",KR | BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="gayoTV.kr" tvg-logo="https://i.imgur.com/HSuXUmR.png" group-title="Zuid-Korea",KR | Gayo TV
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
+#EXTINF:-1 tvg-id="gugagbangsong.kr" tvg-logo="https://i.imgur.com/ap35Zym.png" group-title="Zuid-Korea",KR | Gugak
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTSgidoggyoTV.kr" tvg-logo="https://i.imgur.com/AgQfkpj.jpg" group-title="Zuid-Korea",KR | CTS Gidoggyo
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 tvg-id="TVWorkNet.kr" tvg-logo="https://i.imgur.com/Irw0xbw.png" group-title="Zuid-Korea",KR | TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CJBceongjubangsongSBSQingZhou.kr" tvg-logo="https://i.imgur.com/iH3jXwy.jpg" group-title="Zuid-Korea",KR | CJB Ceongjubangsong (SBS QingZhou)
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TJBdaejeonbangsongSBSDaTian.kr" tvg-logo="https://i.imgur.com/n93BNfX.png" group-title="Zuid-Korea",KR | TJB Daejeonbangsong (SBS DaTian)
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="hangugseongeobangsong.kr" tvg-logo="https://i.imgur.com/CUQDmDq.jpg" group-title="Zuid-Korea",Hangugseongeobangsong
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RphZM6q.jpg" group-title="UAE",AE | Abu Dhabi Aloula
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qNOgJoO.png" group-title="UAE",AE | Abu Dhabi Emirates
