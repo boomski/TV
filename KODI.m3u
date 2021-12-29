@@ -50,21 +50,21 @@ https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_defi
 #EXTINF:-1 tvg-id="TeleBruxelles(src01).be" tvg-logo="https://i.imgur.com/MyvFt03.png" group-title="België",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalC(src01).be" tvg-logo="https://i.imgur.com/XhhzcHn.png" group-title="België",BE | Boukè
-https://tvl-live.fl.freecaster.net/live/bouke/bouke.m3u8|Referer=https://bouke.fcst.tv/
+https://bouke-live.freecaster.com/live/bouke/bouke.m3u8|Referer=https://bouke.fcst.tv/
 #EXTINF:-1 tvg-id="TVLux(src01).be" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="België",BE | TV Lux
 https://tvlux-live.freecaster.com/live/tvlux/tvlux.m3u8|Referer=https://www.tvlux.be
 #EXTINF:-1 tvg-id="TVCom(src01).be" tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="België",BE | TVCom
-https://tvl-live.fl.freecaster.net/live/tvcom/tvcom-audio_fre=128000-video=2500000.m3u8|Referer=https://tvcom.fcst.tv
+https://tvcom-live.freecaster.com/live/tvcom/tvcom.m3u8|Referer=https://tvcom.fcst.tv
 #EXTINF:-1 tvg-id="AntenneCentre(src01).be" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="België",BE | Antenne Centre
-https://tvl-live.fl.freecaster.net/live/actv/actv-audio_fre=128000-video=2600000.m3u8|Referer=https://actv.fcst.tv
+https://actv-live.freecaster.com/live/actv/actv.m3u8|Referer=https://actv.fcst.tv
 #EXTINF:-1 tvg-id="Telesambre(src01).be" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="België",BE | Telesambre
-https://tvl-live.fl.freecaster.net/live/telesambre/telesambre-audio_fre=128000-video=2600000.m3u8|Referer=https://telesambre.fcst.tv
+https://telesambre-live.freecaster.com/live/telesambre/telesambre.m3u8|Referer=https://telesambre.fcst.tv
 #EXTINF:-1 tvg-id="TeleMonsBorinage(src01).be" tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="België",BE | Télé MB
-https://tvl-live.fl.freecaster.net/live/telemb/telemb-audio_fre=128000-video=2500000.m3u8|Referer=https://telemb.fcst.tv
+https://telemb-live.freecaster.com/live/telemb/telemb.m3u8|Referer=https://telemb.fcst.tv
 #EXTINF:-1 tvg-id="RTCLiege(src01).be" tvg-logo="https://i.imgur.com/Ne6Tg6d.png" group-title="België",BE | RTC Télé Liège
-https://tvl-live.fl.freecaster.net/live/rtc/rtc-audio_und=128000-video=2500000.m3u8|Referer=https://rtc.fcst.tv
+https://rtc-live.freecaster.com/live/rtc/rtc.m3u8|Referer=https://rtc.fcst.tv
 #EXTINF:-1 tvg-id="Televesdre(src01).be" tvg-logo="https://i.imgur.com/GQl0INW.png" group-title="België",BE | Vedia 
-https://tvl-live.fl.freecaster.net/live/vedia/vedia-audio_fre=128000-video=2500000.m3u8|Referer=https://vedia.fcst.tv
+https://vedia-live.freecaster.com/live/vedia/vedia.m3u8|Referer=https://vedia.fcst.tv
 #EXTINF:-1 tvg-id="CanalZoom(src01).be" tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="België",BE | Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="Notele(src01).be" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="België",BE | Notele
