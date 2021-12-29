@@ -1900,6 +1900,10 @@ https://trwamtv.live.rd.insyscd.net/cl01/out/u/trwam.mpd
 http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaPograniczeGlubczyce.pl" tvg-logo="https://i.imgur.com/ilGvIug.jpeg" group-title="Polen",PL | Telewizja Pogranicze
 https://stream.elzappero.net/tvglubczyce.m3u8
+#EXTINF:-1 tvg-id="Pershiynezalezhniy.ua" tvg-logo="https://i.imgur.com/Sg5zHkv.png" group-title="Oekraïne",UA | PNK
+https://live.pnk.tv/hls/pn/hd.m3u8
+#EXTINF:-1 tvg-id="ukrlive.ua" tvg-logo="https://i.imgur.com/3l92A23.png" group-title="Oekraïne",UA | UKR Live
+https://live.ukrlive.tv/hls/hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1912,6 +1916,8 @@ https://live-1.otcnet.ru/kaleidoskop/index.m3u8
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4C8QnWO.png" group-title="Rusland",RU | Taina Telekanal
 https://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd1.ru" tvg-logo="https://i.imgur.com/q7YnGJZ.jpg" group-title="Rusland",RU | Volgograd 1
+http://213.234.30.38/Live/1000k/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rcpuvts.jpg" group-title="Georgië",GE | 1 TV 
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td8ctWj.png" group-title="Georgië",GE | Imedi HD
@@ -3073,6 +3079,8 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Usuh4kw.jpg" group-title="Australië",AU | ABC News Australia [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCVgO39Bk5sMo66-6o6Spn6Q&live=1
+#EXTINF:-1 tvg-id="NickelodeonAustralia.us" tvg-logo="https://i.imgur.com/QHUmWBi.jpg" group-title="Australië",AU | Nickelodeon Australia
+http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FsvUVsd.jpg" group-title="Nieuw-Zeeland",NZ | TVNZ 1
 https://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MWVnCWd.png" group-title="Nieuw-Zeeland",NZ | TVNZ 2
@@ -3493,6 +3501,8 @@ https://iptv-all.lanesh4d0w.repl.co/saudiarabia/aldafrah
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CitrussTV.ae" tvg-logo="" group-title="UAE",AE | Citruss TV [Geo-blocked]
 https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/KkvLlor.png" group-title="Saudi-Arabië",SA | Al Saudiya
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="QatarTV.qa" tvg-logo="https://i.imgur.com/clNmEYr.png" group-title="Qatar",QA | Qatar TV 
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A95.0)%20Gecko%2F20100101%20Firefox%2F95.0&Referer=https%3A%2F%2Fwww.qtv.qa%2F
 #EXTINF:-1 tvg-id="QatarTV2.qa" tvg-logo="https://i.imgur.com/kMUk7hF.jpg" group-title="Qatar",QA | Qatar TV 2
