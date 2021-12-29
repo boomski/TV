@@ -1766,6 +1766,34 @@ https://stream.streaming4u.hu/RegioPluszTV/tracks-v1a1/index.m3u8
 https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-logo="https://i.imgur.com/z7PhOtR.png" group-title="Roemenië",RO | AntenaSport
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSatTVHD.rs" tvg-logo="https://i.imgur.com/S2VjnfM.png" group-title="Servië",RS | SuperSat TV HD
+https://srv1.adriatelekom.com/SuperSatTV/index.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTV.rs" tvg-logo="https://i.imgur.com/V4jlIMY.jpg" group-title="Servië",RS | Adria Music TV
+https://srv1.adriatelekom.com/AdriaMusicTV/index.m3u8
+#EXTINF:-1 tvg-id="DjakTV.rs" tvg-logo="https://i.imgur.com/frKUtyN.jpg" group-title="Servië",RS | Djak TV
+https://srv1.adriatelekom.com/DjakTV/index.m3u8
+#EXTINF:-1 tvg-id="RTVAS.rs" tvg-logo="https://i.imgur.com/ncRsjYl.png" group-title="Servië",RS | RTV AS 
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-logo="https://i.imgur.com/lK1wD3E.png" group-title="Servië",RS | RTV Novi Pazar
+https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:-1 tvg-id="RTVCityUb.rs" tvg-logo="https://i.imgur.com/cheaOdI.jpg" group-title="Servië",RS | RTV City Ub
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1 tvg-id="belami.rs" tvg-logo="https://i.imgur.com/8AAPzTv.png" group-title="Servië",RS | TV Belle Amie 
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-logo="https://i.imgur.com/hVM2gYn.png" group-title="Servië",RS | TV Duga Plus  
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="redportal.rs" tvg-logo="https://i.imgur.com/0jaSTcv.png" group-title="Servië",RS | Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-logo="https://i.imgur.com/ecLhhfM.jpg" group-title="Servië",RS | Kurir TV
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+#EXTINF:-1 tvg-id="MarsTV.rs" tvg-logo="https://i.imgur.com/L1Tdozd.png" group-title="Servië",RS | Marš TV
+http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
+#EXTINF:-1 tvg-id="MISTelevizija.rs" tvg-logo="https://i.imgur.com/AXAKGxo.png" group-title="Servië",RS | MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="https://i.imgur.com/PVYCokE.jpg" group-title="Servië",RS | TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="TVPiCanal.rs" tvg-logo="https://i.imgur.com/0kTq4Rj.jpg" group-title="Servië",RS | TV Pi Canal Pirot
+http://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="Albanië",AL | RTSH 1
 https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jEirJ9x.png" group-title="Albanië",AL | RTSH 2
