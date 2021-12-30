@@ -187,6 +187,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p563nCW.png" group-title="Groot-Brittannië",UK | BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YBRxhVQ.jpg" group-title="Groot-Brittannië",UK | GB News
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="ITV1(London).uk" tvg-logo="https://i.imgur.com/545cTWL.jpg" group-title="Groot-Brittannië",UK | ITV 1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xzVF5WZ.png" group-title="Groot-Brittannië",UK | ITV 2
@@ -915,6 +917,8 @@ https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 https://www.filmon.com/vr-streams/4721.high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1P5FTuM.jpg" group-title="Duitsland",DE | Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cPE3Z7S.png" group-title="Duitsland",DE | Evenyigba TV
+https://barakyah-hls.secdn.net/barakyah-channel/play/mp4:enyigba/playlist.m3u8
 #EXTINF:-1 tvg-id="HealthTV.de" tvg-logo="https://i.imgur.com/mh2gW1d.png" group-title="Duitsland",DE | Health.tv
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Pearltv.de" tvg-logo="https://i.imgur.com/thH1Agt.jpg" group-title="Duitsland",DE | Pearl.tv
@@ -1922,30 +1926,68 @@ https://stream.elzappero.net/tvglubczyce.m3u8
 https://live.pnk.tv/hls/pn/hd.m3u8
 #EXTINF:-1 tvg-id="ukrlive.ua" tvg-logo="https://i.imgur.com/3l92A23.png" group-title="Oekraïne",UA | UKR Live
 https://live.ukrlive.tv/hls/hd.m3u8
-#EXTINF:-1 tvg-id="rtde.de" tvg-logo="https://i.imgur.com/dsziy1L.png" group-title="Rusland",RU | RT DE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dsziy1L.png" group-title="Rusland",RU | RT DE
 https://rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8
-#EXTINF:-1 tvg-id="rtnews.ru" tvg-logo="https://i.imgur.com/yscAmxT.jpg" group-title="Rusland",RU | RT News [YOUTUBE]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pYIkRBE.png" group-title="Rusland",RU | RT France
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://i.imgur.com/HNcLd74.jpg" group-title="Rusland",RU | RT Documentary
+https://rt-rtd.gcdn.co/live/rtdoc/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.imgur.com/yscAmxT.jpg" group-title="Rusland",RU | RT News [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCpwvZwUam-URkxB7g4USKpg&live=1
-#EXTINF:-1 tvg-id="rtarabic.ru" tvg-logo="https://i.imgur.com/ouLPDbx.jpg" group-title="Rusland",RU | RT Arabic [YOUTUBE]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ouLPDbx.jpg" group-title="Rusland",RU | RT Arabic [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCsP3Clx2qtH2mNZ6KolVoZQ&live=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eOWKTs8.jpg" group-title="Rusland",RU | RT America [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCczrL-2b-gYK3l4yDld4XlQ&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oerGUFl.png" group-title="Rusland",RU | RT Español [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC2mtXUpAYLYJIZ2deSPhlqw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b4gXZuK.jpg" group-title="Rusland",RU | RT UK [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC_ab7FFA2ACk2yTHgNan8lQ&live=1
+#EXTINF:-1 tvg-id="Perviykanal.ru" tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn2.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/STP7Vzm.png" group-title="Rusland",RU | 7TV
+#EXTINF:-1 tvg-id="7TV.ru" tvg-logo="https://i.imgur.com/STP7Vzm.png" group-title="Rusland",RU | 7TV
 https://v4.proofix.ru/7tv-live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qKciBfd.jpg" group-title="Rusland",RU | Kaleidoskop TV
-https://live-1.otcnet.ru/kaleidoskop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7fa3gcb.jpg" group-title="Rusland",RU | 10 Kanal
+plugin://plugin.video.sendtokodi/?https://ok.ru/video/2654886174253
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rGqY61n.jpg" group-title="Rusland",RU | 12 Kanal
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="Arkhyz24.ru" tvg-logo="https://i.imgur.com/0A04tfQ.jpg" group-title="Rusland",RU | Arkhyz 24
+https://light.arkhyz24.ru/stream/live.m3u8
+#EXTINF:-1 tvg-id="NikaTV.ru" tvg-logo="https://i.imgur.com/gSzwa25.jpg" group-title="Rusland",RU | Nika TV
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZFHHxd7.png" group-title="Rusland",RU | Teledom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4C8QnWO.png" group-title="Rusland",RU | Taina Telekanal
-https://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="Volgograd1.ru" tvg-logo="https://i.imgur.com/q7YnGJZ.jpg" group-title="Rusland",RU | Volgograd 1
-http://213.234.30.38/Live/1000k/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jUQ0mAP.jpg" group-title="Rusland",RU | TV BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jUQ0mAP.jpg" group-title="Rusland",RU | TV BRICS EN
+https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jUQ0mAP.jpg" group-title="Rusland",RU | TV BRICS CN
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jUQ0mAP.jpg" group-title="Rusland",RU | TV BRICS PT
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pfavrcg.png" group-title="Rusland",RU | 360° Novosti
+https://balancer.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lBkeOvu.png" group-title="Rusland",RU | AIST TV
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4syYJ1s.png" group-title="Rusland",RU | NNTV
+https://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/66e3zB3.jpg" group-title="Rusland",RU | Izvestia TV
+https://hls-igi.cdnvideo.ru/igi/igi1_lq/playlist.m3u8
 #EXTINF:-1 tvg-id="yakutia24.ru" tvg-logo="https://i.imgur.com/QOerCTu.png" group-title="Rusland",RU | Yakutia 24
 https://live5-saha.cdnvideo.ru/live/2004.m3u8
-#EXTINF:-1 tvg-id="nano.ru" tvg-logo="https://i.imgur.com/FDu8s43.png" group-title="Rusland",RU | Nano TV
+#EXTINF:-1 tvg-id="yamal.ru" tvg-logo="https://i.imgur.com/yXxaqMs.png" group-title="Rusland",RU | Yamal TV
+https://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd1.ru" tvg-logo="https://i.imgur.com/q7YnGJZ.jpg" group-title="Rusland",RU | Volgograd 1
+http://213.234.30.38/Live/1000k/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2t36j5r.jpg" group-title="Rusland",RU | Chuvash En
+https://mhd58.iptv2022.com/ntrk/chavashen/324/variable.m3u8
+#EXTINF:-1 tvg-id="NanoTV.ru" tvg-logo="https://i.imgur.com/FDu8s43.png" group-title="Rusland",RU | Nano TV
 https://nano.teleservice.su/hls/nano.m3u8
+#EXTINF:-1 tvg-id="KaleidoskopTV.ru" tvg-logo="https://i.imgur.com/qKciBfd.jpg" group-title="Rusland",RU | Kaleidoskop TV
+https://live-1.otcnet.ru/kaleidoskop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4C8QnWO.png" group-title="Rusland",RU | Taina Telekanal
+https://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rcpuvts.jpg" group-title="Georgië",GE | 1 TV 
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td8ctWj.png" group-title="Georgië",GE | Imedi HD
