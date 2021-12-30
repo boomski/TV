@@ -675,6 +675,8 @@ https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelleArabic(English).de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Duitsland",DE | Deutsche Welle Arabic
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="rtde.de" tvg-logo="https://i.imgur.com/dsziy1L.png" group-title="Duitsland",DE | RT DE
+https://rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews.de" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Duitsland",DE | Euronews 
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational(English).de" tvg-logo="https://i.imgur.com/p6FCV5l.png" group-title="Duitsland",DE | CNN International 
@@ -1920,6 +1922,8 @@ https://stream.elzappero.net/tvglubczyce.m3u8
 https://live.pnk.tv/hls/pn/hd.m3u8
 #EXTINF:-1 tvg-id="ukrlive.ua" tvg-logo="https://i.imgur.com/3l92A23.png" group-title="Oekraïne",UA | UKR Live
 https://live.ukrlive.tv/hls/hd.m3u8
+#EXTINF:-1 tvg-id="rtde.de" tvg-logo="https://i.imgur.com/dsziy1L.png" group-title="Rusland",RU | RT DE
+https://rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
