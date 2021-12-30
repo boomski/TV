@@ -359,13 +359,15 @@ https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 #EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/auFFQDC.png" group-title="Frankrijk",FR | Sport en France
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0X14H5k.jpg" group-title="Frankrijk",FR | Kozoom [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCOwcct1FjXWzlvmQxaR4Y8Q&live=1
 #EXTINF:-1 tvg-id="FUELTV(English).fr" tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Frankrijk",FR | Fuel TV
 https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Canalplus.fr" tvg-logo="https://i.imgur.com/h5P5UJd.png" group-title="Frankrijk",FR | Canal + [Geo]
 plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
-#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/A5elXFA.png" group-title="Frankrijk",FR | C8
+#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://i.imgur.com/A5elXFA.png" group-title="Frankrijk",FR | C8 [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
-#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/9YIcXX2.png" group-title="Frankrijk",FR | LCP
+#EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/9YIcXX2.png" group-title="Frankrijk",FR | LCP [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=xgepjr&mode=playLiveVideo
 #EXTINF:-1 tvg-id="Gong.fr" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="Frankrijk",FR | Gong
 http://51.254.215.79/appflux/gong/playlist.m3u8
@@ -465,31 +467,29 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/inde
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="Frankrijk",FR | ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SzStHyc.jpg" group-title="Frankrijk",FR | TV Vendée [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UC5BRZBCjOqMO9BqWnubqtJA&live=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B4i2kq6.png" group-title="Frankrijk",FR | 01 TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B4i2kq6.png" group-title="Frankrijk",FR | 01 TV [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x7pctg0&mode=playLiveVideo
-#EXTINF:-1 tvg-id="WeoTV(src02).fr" tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" group-title="Frankrijk",FR | Wéo
+#EXTINF:-1 tvg-id="WeoTV(src02).fr" tvg-logo="https://i.imgur.com/LPlQ1oY.jpg" group-title="Frankrijk",FR | Wéo [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x62islg&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SopYvNt.png" group-title="Frankrijk",FR | Wéo Picardie
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SopYvNt.png" group-title="Frankrijk",FR | Wéo Picardie [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x63085w&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yEwrmqa.jpg" group-title="Frankrijk",FR | Télévision Locale du Choletais
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yEwrmqa.jpg" group-title="Frankrijk",FR | Télévision Locale du Choletais [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x5aarnv&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SzStHyc.jpg" group-title="Frankrijk",FR | TV Vendée [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC5BRZBCjOqMO9BqWnubqtJA&live=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SzStHyc.jpg" group-title="Frankrijk",FR | TV Vendée
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SzStHyc.jpg" group-title="Frankrijk",FR | TV Vendée [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x38yjeb&mode=playLiveVideo
-#EXTINF:-1 tvg-id="3ATelesudAfrotainmentTelevision.fr" tvg-logo="https://i.imgur.com/2gjmQLK.png" group-title="Frankrijk",FR | Telesud
+#EXTINF:-1 tvg-id="3ATelesudAfrotainmentTelevision.fr" tvg-logo="https://i.imgur.com/2gjmQLK.png" group-title="Frankrijk",FR | Telesud [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x7wrxqb&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nvIJxCd.png" group-title="Frankrijk",FR | B Smart
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nvIJxCd.png" group-title="Frankrijk",FR | B Smart [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Frankrijk",FR | MYComedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Frankrijk",FR | MYComedy [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x7zw8t0&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Frankrijk",FR | D5 TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Frankrijk",FR | D5 TV [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x7zw38l&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H2p90eO.jpg" group-title="Frankrijk",FR | D5 Music TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H2p90eO.jpg" group-title="Frankrijk",FR | D5 Music TV [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x7zw8q9&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lc8UDIj.png" group-title="Frankrijk",FR | Ubiznews TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lc8UDIj.png" group-title="Frankrijk",FR | Ubiznews TV [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x74ucfd&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ezqC7KQ.png" group-title="Frankrijk",FR | TVPI [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCwVQAPo6tjC5w5yBBh0WEdA&live=1
