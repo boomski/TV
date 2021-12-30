@@ -189,6 +189,10 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YBRxhVQ.jpg" group-title="Groot-Brittannië",UK | GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YBRxhVQ.jpg" group-title="Groot-Brittannië",UK | GB News [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC0vn8ISa4LKMunLbzaXLnOQ&live=1
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/EFaC5uK.png" group-title="Groot-Brittannië",UK | Sky News [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
 #EXTINF:-1 tvg-id="ITV1(London).uk" tvg-logo="https://i.imgur.com/545cTWL.jpg" group-title="Groot-Brittannië",UK | ITV 1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xzVF5WZ.png" group-title="Groot-Brittannië",UK | ITV 2
@@ -209,8 +213,6 @@ https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/BCN0a8L.png" group-title="Groot-Brittannië",UK | Sofy TV
 https://sofytv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/EFaC5uK.png" group-title="Groot-Brittannië",UK | Sky News [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Groot-Brittannië",UK | Reuters TV
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QKSu2am.jpg" group-title="Groot-Brittannië",UK | Go USA
