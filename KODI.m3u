@@ -3565,12 +3565,22 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/90qqv9d.png" group-title="UAE",AE | Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/itERexP.jpg" group-title="UAE",AE | Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/itERexP.jpg" group-title="UAE",AE | Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/itERexP.jpg" group-title="UAE",AE | Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BDDsMcn.png" group-title="UAE",AE | Dubai Racing 
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/SP2PNjg.png" group-title="UAE",AE | Dubai Racing 2 
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/02hbFH2.png" group-title="UAE",AE | Dubai Racing 3 
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="UAE",AE | Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="UAE",AE | Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya 
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya
@@ -3583,6 +3593,24 @@ https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 #EXTINF:-1 tvg-id="WeyyakNawaem.ae" tvg-logo="https://i.imgur.com/NDlnYAD.jpg" group-title="UAE",AE | Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAflam.ae" tvg-logo="https://i.imgur.com/UNICo2H.jpg" group-title="UAE",AE | Zee Aflam 
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAlwan.ae" tvg-logo="https://i.imgur.com/58NUCV3.jpg" group-title="UAE",AE | Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-id="MBC1USA.ae" tvg-logo="https://i.imgur.com/agUkRwy.png" group-title="UAE",AE | MBC 1 USA
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/zcriKVx.png" group-title="UAE",AE | MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC3EUR.ae" tvg-logo="https://i.imgur.com/zcriKVx.png" group-title="UAE",AE | MBC 3 Europa
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.ae" tvg-logo="https://i.imgur.com/zcriKVx.png" group-title="UAE",AE | MBC 3 USA
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/pKyuSJH.jpg" group-title="UAE",AE | MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="UAE",AE | MBC Drama KSA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="M.ae" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="UAE",AE | MBC Drama USA
+https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-logo="https://i.imgur.com/OZ3FnuY.png" group-title="UAE",AE | Al Hadath TV 
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-logo="https://i.imgur.com/OZ3FnuY.png" group-title="UAE",AE | Al Hadath TV 
