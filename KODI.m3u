@@ -1924,6 +1924,10 @@ https://live.pnk.tv/hls/pn/hd.m3u8
 https://live.ukrlive.tv/hls/hd.m3u8
 #EXTINF:-1 tvg-id="rtde.de" tvg-logo="https://i.imgur.com/dsziy1L.png" group-title="Rusland",RU | RT DE
 https://rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="rtnews.ru" tvg-logo="https://i.imgur.com/yscAmxT.jpg" group-title="Rusland",RU | RT News [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCpwvZwUam-URkxB7g4USKpg&live=1
+#EXTINF:-1 tvg-id="rtarabic.ru" tvg-logo="https://i.imgur.com/ouLPDbx.jpg" group-title="Rusland",RU | RT Arabic [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCsP3Clx2qtH2mNZ6KolVoZQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fXPbX1z.png" group-title="Rusland",RU | 1TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1938,6 +1942,10 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 https://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="Volgograd1.ru" tvg-logo="https://i.imgur.com/q7YnGJZ.jpg" group-title="Rusland",RU | Volgograd 1
 http://213.234.30.38/Live/1000k/stream.m3u8
+#EXTINF:-1 tvg-id="yakutia24.ru" tvg-logo="https://i.imgur.com/QOerCTu.png" group-title="Rusland",RU | Yakutia 24
+https://live5-saha.cdnvideo.ru/live/2004.m3u8
+#EXTINF:-1 tvg-id="nano.ru" tvg-logo="https://i.imgur.com/FDu8s43.png" group-title="Rusland",RU | Nano TV
+https://nano.teleservice.su/hls/nano.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rcpuvts.jpg" group-title="Georgië",GE | 1 TV 
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td8ctWj.png" group-title="Georgië",GE | Imedi HD
