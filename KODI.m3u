@@ -1758,7 +1758,7 @@ http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2XwaJny.png" group-title="Hongarije",HU | Regio Plusz TV
 https://stream.streaming4u.hu/RegioPluszTV/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bbpWsj0.jpg" group-title="Hongarije",HU | Apostol TV [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bbpWsj0.jpg" group-title="Hongarije",HU | Apostol TV
 https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-logo="https://i.imgur.com/z7PhOtR.png" group-title="Roemenië",RO | AntenaSport
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
@@ -2809,7 +2809,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/g0bz8t1.png" group-title="Dominicaanse Republiek",DO | Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/49rcvnk.jpg" group-title="El Salvador",SV | Canal TVX [TWITCH]
 plugin://plugin.video.twitch/?mode=play&channel_name=canaltvx
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o5TnL2b.png" group-title="Honduras",HN | Waldivisión Internacional 
 https://tvdatta.com:3934/live/waldivisionlive.m3u8
@@ -2821,6 +2821,10 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NKCF5qs.png" group-title="Honduras",HN | TeleProgreso
 https://stmv1.zcastbr.com/teleprogresohn/teleprogresohn/playlist.m3u8
+#EXTINF:-1 tvg-id="Catavision.hn" tvg-logo="https://i.imgur.com/s1AGiIJ.jpg" group-title="Honduras",HN | Catavisión
+https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
+#EXTINF:-1 tvg-id="RHC.hn" tvg-country="HN" tvg-logo="https://i.imgur.com/asoGNlX.jpg" group-title="Honduras",HN | Roatán Hable Claro
+https://stmv1.zcastbr.com/roatanhableclaro/roatanhableclaro/playlist.m3u8
 #EXTINF:-1 tvg-id="CholusatSur36.hn" tvg-logo="https://i.imgur.com/ObDasov.jpg" group-title="Honduras",HN | Cholusat Sur 36
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5620HCa.jpg" group-title="Honduras",HN | Mi Viña Channel
@@ -2839,16 +2843,24 @@ https://panel.dattalive.com/8122/8122/playlist.m3u8
 https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrlArKg.png" group-title="Honduras",HN | JBN
 https://emisoras.hn:8081/jbn/index.m3u8
+#EXTINF:-1 tvg-id="KerussoTV.hn" tvg-logo="https://i.imgur.com/NoUbCia.png" group-title="Honduras",HN | Kerusso TV
+https://emisoras.hn:8081/kerussotv/index.m3u8
 #EXTINF:-1 tvg-id="EbenezerTV.hn" tvg-logo="https://i.imgur.com/7BFRpvJ.jpg" group-title="Honduras",HN | Ebenezer TV
 http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/5zRr1EV.png" group-title="Honduras",HN | Campus TV
 http://st2.worldkast.com/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-id="HCHHonduras.hn" tvg-logo="https://i.imgur.com/ZzZpORp.jpg" group-title="Honduras",HN | HCH
+#EXTINF:-1 tvg-id="TelevisionComayaguaCanal40.hn" tvg-logo="https://i.imgur.com/gGmEAAA.jpg" group-title="Honduras",HN | Television Comayagua Canal 40
+http://st2.worldkast.com/8058/8058/playlist.m3u8
+#EXTINF:-1 tvg-id="HCHHonduras.hn" tvg-logo="https://i.imgur.com/ZzZpORp.jpg" group-title="Honduras",HN | HCH [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x81za5c&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bQULQJR.jpg" group-title="Honduras",HN | Hondured 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bQULQJR.jpg" group-title="Honduras",HN | Hondured 13 [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x83axzj&mode=playLiveVideo
-#EXTINF:-1 tvg-id="CCIChannel.hn" tvg-logo="https://i.imgur.com/NoQoAAj.jpg" group-title="Honduras",HN | CCI Channel
+#EXTINF:-1 tvg-id="CCIChannel.hn" tvg-logo="https://i.imgur.com/NoQoAAj.jpg" group-title="Honduras",HN | CCI Channel [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x836wjl&mode=playLiveVideo
+#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-logo="https://i.imgur.com/sWHNLzT.jpg" group-title="Honduras",HN | Teleceiba
+
+#EXTINF:-1 tvg-id="CeibavisionCanal36.hn" tvg-logo="https://i.imgur.com/Z6tb5iu.jpg" group-title="Honduras",HN | Ceibavisión Canal 36
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z3AeEbJ.png" group-title="Martinique",MQ | Martinique la 1ère [YOUTUBE] 
 plugin://plugin.video.youtube/play/?channel_id=UCgA9V57lQlZFXkDfhVGTWSg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AevqPWD.png" group-title="Martinique",MQ | TV Famille
@@ -4491,6 +4503,20 @@ https://bloomberg-quicktake-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/GtQDG6r.png" group-title="Samsung Plus TV",IE | Euronews English
 https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaleEuropa.it" tvg-logo="https://i.imgur.com/45SFnId.jpg" group-title="Samsung Plus TV",IT | Canale Europa
+https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-logo="https://i.imgur.com/dX569rC.png" group-title="Samsung Plus TV",IT | Bloomberg TV Europe UHD
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsItaliano.fr" tvg-logo="https://i.imgur.com/dID5PoS.png" group-title="Samsung Plus TV",IT | Euronews Italiano
+https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DuckTV.sk" tvg-logo="https://i.imgur.com/C4MXFx3.jpg" group-title="Samsung Plus TV",IT | Duck TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVItaly.fr" tvg-logo="https://i.imgur.com/yB5d5W1.png" group-title="Samsung Plus TV",IT | Fashion TV
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Samsung Plus TV",IT | Fuel TV
+https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/DupxpOE.png" group-title="Samsung Plus TV",IT | Sofy TV
+https://sofytv-samsungit.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hiuAi7M.png" group-title="Youtube",België | RSC Anderlecht
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tC2s5MM.png" group-title="Youtube",België | Club Brugge
