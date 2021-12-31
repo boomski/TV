@@ -2012,8 +2012,28 @@ http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 https://livestream.yerkirmedia.am/www/hdhls/a55r4g47.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zkrpd18.jpg" group-title="Armenië",AM | Panarmenian TV Channel
 https://stream.mediaworldvision.com:8811/PanarmLiveT/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fstream.mediaworldvision.com%3A8811%2FPanarmLiveT%2Fembed.html
+#EXTINF:-1 tvg-id="5TV.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/9EY7JTs.png" group-title="Armenië",AM | 5-րդ ալիք
+http://ott-cdn.ucom.am/s6/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0
+#EXTINF:-1 tvg-id="CBC.az" tvg-logo="https://i.imgur.com/kHfBgnp.png" group-title="Azerbeidzjan",AZ | CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/gjOMniw.jpg" group-title="Azerbeidzjan",AZ | İdman TV
+http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://i.imgur.com/MNLLvQp.jpg" group-title="Azerbeidzjan",AZ | Kəpəz TV
+http://streams.livetv.az/arbkepez/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/Ll2t1pH.jpg" group-title="Azerbeidzjan",AZ | Mədəniyyət TV
+http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 #EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-logo="https://i.imgur.com/mKeH8H9.jpg" group-title="Azerbeidzjan",AZ | Naxçıvan TV
 http://streams.livetv.az/azerbaijan/nax/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/Wm72b7A.png" group-title="Azerbeidzjan",AZ | Space TV 
+http://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/RYunVLL.jpg" group-title="Azerbeidzjan",AZ | Xəzər TV 
+http://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="QafqazTV.az" tvg-logo="https://i.imgur.com/kQEvj7I.png" group-title="Azerbeidzjan",AZ | Qafqaz TV
+https://europe2.livetv.az/azerbaijan/qafqaztv/playlist.m3u8
+#EXTINF:-1 tvg-id="QblTV.az" tvg-logo="https://i.imgur.com/h18NAds.jpg" group-title="Azerbeidzjan",AZ | Qəbələ TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/3k16UMI.png" group-title="Azerbeidzjan",AZ | Alvin Channel TV
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="MuganTV.az" tvg-logo="https://i.imgur.com/8N88j0o.png" group-title="Azerbeidzjan",AZ | Muğan TV
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3tdDmkv.jpg" group-title="Turkije",TR | Tele 1 [YOUTUBE]
