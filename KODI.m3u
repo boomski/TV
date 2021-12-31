@@ -2112,6 +2112,8 @@ https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZRVgqQs.jpg" group-title="USA",US | YTA
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wiuy1ez.jpg" group-title="USA",US | BizTV
+https://thegateway.app/BizAndYou/LimeLightBizTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV [YOUTUBE]
@@ -3549,6 +3551,12 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="hangugseongeobangsong.kr" tvg-logo="https://i.imgur.com/CUQDmDq.jpg" group-title="Zuid-Korea",Hangugseongeobangsong
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dZWinlz.png" group-title="Oezbekistan",UZ | BIZ TV
+https://st.biztv.uz/hls/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aYPXzXx.png" group-title="Oezbekistan",UZ | BIZ Cinema
+https://st.biztv.uz/hls/c_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dq1MzB3.png" group-title="Oezbekistan",UZ | BIZ Music
+https://st.biztv.uz/hls/m_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RphZM6q.jpg" group-title="UAE",AE | Abu Dhabi Aloula
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qNOgJoO.png" group-title="UAE",AE | Abu Dhabi Emirates
