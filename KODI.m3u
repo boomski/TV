@@ -1347,6 +1347,8 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jYOhn3q.jpg" group-title="Italië",IT | Lineagem Tv [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC-dZ1irw0kSGVg0VoeKLddw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LPV9RNV.jpg" group-title="Italië",IT | Genius 240 [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCYXANWE9rcb_oo72FEiJafw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ciOkjf.png" group-title="Italië",IT | Telepace 1
 https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ciOkjf.png" group-title="Italië",IT | Telepace 2
