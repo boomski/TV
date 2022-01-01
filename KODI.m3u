@@ -1114,6 +1114,7 @@ https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720.m3u8
 http://source2.primetime.ch:2981/play/royaltv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a9ZSqxz.jpg" group-title="Italië",IT | Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lSdOnF2.jpg" group-title="Italië",IT | Rai News 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VXFZTPx.png" group-title="Italië",IT | Nove
@@ -1138,8 +1139,14 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E6brn9A.jpg" group-title="Italië",IT | m2o TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eyQSvs1.png" group-title="Italië",IT | Radio Capital TiVù
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3E3GOCM.png" group-title="Italië",IT | Radio Italia TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
 #EXTINF:-1 tvg-id="NSL.it" tvg-logo="https://i.imgur.com/lrwylYe.jpg" group-title="Italië",IT | NSL
 https://streannunsec-lh.akamaihd.net/i/tv_1@868496/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1LLZznv.png" group-title="Italië",IT | QVC Italia
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="La5.it" tvg-logo="https://i.imgur.com/mLqDohZ.jpg" group-title="Italië",IT | La 5 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://i.imgur.com/27DJeMS.jpg" group-title="Italië",IT | Mediaset Extra [Geo-blocked]
@@ -1152,24 +1159,32 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH-B/Live.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rXYZeev.jpg" group-title="Italië",IT | La C TV
-https://streamcdnb4-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vrafAF5.png" group-title="Italië",IT | R101 TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(er)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rXYZeev.jpg" group-title="Italië",IT | La C TV
 http://streamcdnc3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sCW1rbr.png" group-title="Italië",IT | La C News 24
-https://streamcdnb2-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sCW1rbr.png" group-title="Italië",IT | La C News 24
 http://streamcdnc3.mainstreaming.tv/cdn/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EOU1mny.png" group-title="Italië",IT | Telecolor
-https://streamcdnb11-1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EOU1mny.png" group-title="Italië",IT | Telecolor
 http://streamcdnc3.mainstreaming.tv/cdn/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0zyiEtC.png" group-title="Italië",IT | RTL 102.5
+http://streamcdnc3.mainstreaming.tv/cdn/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/soFEPNp.png" group-title="Italië",IT | RTL 102.5 News
+http://streamcdnc3.mainstreaming.tv/cdn/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oRbdDcO.jpg" group-title="Italië",IT | Radio Freccia TV
+http://streamcdnc3.mainstreaming.tv/cdn/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wcqIKUx.jpg" group-title="Italië",IT | Radio Zeta Radiovisione
+http://streamcdnc3.mainstreaming.tv/cdn/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KzzCLdo.jpg" group-title="Italië",IT | Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rk5kMfP.png" group-title="Italië",IT | Cafè TV 24
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xJyHybc.jpg" group-title="Italië",IT | Video Mediterraneo
 http://stream.ets-sistemi.it:1935/live.rvm/rvmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rl2UkGJ.jpg" group-title="Italië",IT | ReteSette
+https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YnuC9Q4.png" group-title="Italië",IT | Videonovara
 https://sb.top-ix.org/avtv04/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9fCZ6o4.jpg" group-title="Italië",IT | BIKE
@@ -1194,6 +1209,8 @@ https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 https://tsw.streamingwebtv24.it:1936/artepertutti/artepertutti/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/guh3JJT.jpg" group-title="Italië",IT | Bergamo TV
 http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/139ZiUA.jpg" group-title="Italië",IT | Radio Radio TV
+http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5q7KfLk.jpg" group-title="Italië",IT | Trentino TV
 https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WKRvlwu.png" group-title="Italië",IT | Alto Adige TV
@@ -1202,6 +1219,10 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 https://5ce9406b73c33.streamlock.net/SudTirolTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JyuS3hK.png" group-title="Italië",IT | History Lab
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xeSUOZc.jpg" group-title="Italië",IT | Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2uhsdFt.png" group-title="Italië",IT | Rete Veneta
+https://59d8c0cee6f3d.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/reOP1tN.png" group-title="Italië",IT | Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NRSLNb6.png" group-title="Italië",IT | Well TV
@@ -1218,12 +1239,26 @@ https://5bb65e9de3fdf.streamlock.net/live/Videolina/playlist.m3u8
 https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MGJI5fJ.jpg" group-title="Italië",IT | Tevere TV
 https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZwS3uCq.png" group-title="Italië",IT | Sardegna Uno
+https://5bb65e9de3fdf.streamlock.net/live/Sardegna1/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/amsJAl8.png" group-title="Italië",IT | Giornale Radio TV
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/amsJAl8.png" group-title="Italië",IT | Giornale Radio Ultima Ora TV
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2vYlz0M.png" group-title="Italië",IT | Micio Bau Radio TV
 https://5f204aff97bee.streamlock.net/GR_miciobau_tv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tejgpz6.png" group-title="Italië",IT | Radio Iglesias Visual Radio
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O13wIL7.png" group-title="Italië",IT | Radio Millennium TV
+https://5f204aff97bee.streamlock.net/MillenniumTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PckCxxK.png" group-title="Italië",IT | RN1 TV
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7pCwFmh.jpg" group-title="Italië",IT | Radio Studio Delta TV
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rZMNV1L.png" group-title="Italië",IT | Parole di Vita
+https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lFJLn7q.png" group-title="Italië",IT | Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8Sz1A3u.jpg" group-title="Italië",IT | Tele Chiara
 https://fms.telemar.it:1936/telechiara/diretta/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/14rffmo.png" group-title="Italië",IT | E'TV Marche
@@ -1236,8 +1271,18 @@ https://stream1.aswifi.it/tvyessat/live/index.m3u8
 https://stream1.aswifi.it/tvyes/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t3w1MwR.png" group-title="Italië",IT | Italia Channel
 https://stream1.aswifi.it/italiachannel/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NQxBd4F.jpg" group-title="Italië",IT | RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y5f4JAa.png" group-title="Italië",IT | MediaText 
 https://stream1.xdevel.com/video1s975668-260/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yLZcqUY.jpg" group-title="Italië",IT | Nuova TV Nazionale
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hZQnk0A.jpg" group-title="Italië",IT | Radionorba TV
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dg74rzf.jpg" group-title="Italië",IT | Radio Adige TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://flash7.xdevel.com/veronanetwork/veronanetwork/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/45PyqRY.png" group-title="Italië",IT | Gold TV
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6ZBfKcs.png" group-title="Italië",IT | Lazio TV
@@ -1246,6 +1291,8 @@ https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZWYjWrN.png" group-title="Italië",IT | GM 24
 https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MIAdfct.jpg" group-title="Italië",IT | Partenope TV
+https://streamlive.arcapuglia.it:8080/live/partenope/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QdfSofl.png" group-title="Italië",IT | Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WIfXS6Z.png" group-title="Italië",IT | IT Channel
@@ -1256,6 +1303,10 @@ https://gigastream.tizianalotto.it/hls/live/index.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?latency=low
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3X4WtHu.jpg" group-title="Italië",IT | LoveWorld Italia
 https://cdnstack.internetmultimediaonline.org/auxano/italianlanx/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RwWJ0Sn.png" group-title="Italië",IT | Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rhxQ12e.jpg" group-title="Italië",IT | Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jYOhn3q.jpg" group-title="Italië",IT | Lineagem Tv [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC-dZ1irw0kSGVg0VoeKLddw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/upXXgJ5.png" group-title="San Marino",SM | RTV San Marino
@@ -1414,7 +1465,7 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 https://frikanalen.no/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iviMrbO.jpg" group-title="Noorwegen",NO | MTV Norge
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ip1xG5.jpg" group-title="Noorwegen",NO | Canal Motor
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hUnBApI.png" group-title="Noorwegen",NO | Motors TV
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t6tRFPm.jpg" group-title="Noorwegen",NO | Kanal 10 Norge
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
@@ -1450,8 +1501,10 @@ https://d3cpwdijdpum6e.cloudfront.net/edge/_lo9yf4l5_/lo9yf4l5/manifest.mpd
 http://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1vLQxVG.png" group-title="Zweden",SE | Dagens Industri TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/50B8mhG.png" group-title="Zweden",SE | Expressen TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XTZel2U.png" group-title="Zweden",SE | Expressen TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ku2KSlQ.jpg" group-title="Zweden",SE | SportExpressen TV
+https://httpcache0-03837-cachelive6.dna.ip-only.net/03837-cachelive6/smil:03837_tx6_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xf67U9K.jpg" group-title="Zweden",SE | ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Zweden",SE | Insight TV
@@ -2084,6 +2137,8 @@ https://stream.mediaworldvision.com:8811/PanarmLiveT/index.m3u8|User-Agent=Mozil
 http://ott-cdn.ucom.am/s6/index.m3u8|User-Agent=Mozilla%2F5.0%20(iPhone%3B%20CPU%20iPhone%20OS%2012_2%20like%20Mac%20OS%20X)%20AppleWebKit%2F605.1.15%20(KHTML%2C%20like%20Gecko)%20Mobile%2F15E148
 #EXTINF:-1 tvg-id="CBC.az" tvg-logo="https://i.imgur.com/kHfBgnp.png" group-title="Azerbeidzjan",AZ | CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3Lg2Pe7.png" group-title="Azerbeidzjan",AZ | Azerbaijan News TV
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IdmanTV.az" tvg-logo="https://i.imgur.com/gjOMniw.jpg" group-title="Azerbeidzjan",AZ | İdman TV
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://i.imgur.com/MNLLvQp.jpg" group-title="Azerbeidzjan",AZ | Kəpəz TV
