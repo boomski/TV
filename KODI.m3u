@@ -3770,7 +3770,7 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/81MqOab.jpg" group-title="UAE",AE | Abu Dhabi Sports 3 
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/81MqOab.jpg" group-title="UAE",AE | Abu Dhabi Sports 4 [Geo]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/81MqOab.jpg" group-title="UAE",AE | Abu Dhabi Sports 4 [Geo-blocked]
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/90qqv9d.png" group-title="UAE",AE | Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
@@ -3790,10 +3790,10 @@ https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playli
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="UAE",AE | Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya 
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya
-https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/dmaMb2U.jpg" group-title="UAE",AE | Dubai One HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/dmaMb2U.jpg" group-title="UAE",AE | Dubai One
+https://www.elahmad.com/tv/m3u8/online_live_2_tv.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="WeyyakAction.ae" tvg-logo="https://i.imgur.com/hvH3wJP.jpg" group-title="UAE",AE | Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://i.imgur.com/GQIKNcb.jpg" group-title="UAE",AE | Weyyak Drama
@@ -3820,28 +3820,42 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="M.ae" tvg-logo="https://i.imgur.com/R4ZAefT.jpg" group-title="UAE",AE | MBC Drama USA
 https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index.m3u8
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="UAE",AE | Al Arabiya 
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-logo="https://i.imgur.com/OZ3FnuY.png" group-title="UAE",AE | Al Hadath TV
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-logo="https://i.imgur.com/OZ3FnuY.png" group-title="UAE",AE | Al Hadath TV 
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-logo="https://i.imgur.com/OZ3FnuY.png" group-title="UAE",AE | Al Hadath TV 
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-logo="https://i.imgur.com/OZ3FnuY.png" group-title="UAE",AE | Al Hadath TV
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZSdMQyw.png" group-title="UAE",AE | 3eesh Al Aan TV
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QPZo9O.jpg" group-title="UAE",AE | Al Aan TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0QPZo9O.jpg" group-title="UAE",AE | Al Aan TV [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x74wje5&mode=playLiveVideo
 #EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-logo="https://i.imgur.com/qXgxAhr.jpg" group-title="UAE",AE | Al Qamar TV
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-logo="https://i.imgur.com/YMghCO7.png" group-title="UAE",AE | Al Sharqiya Min Kabla
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-logo="https://i.imgur.com/tuo23J3.png" group-title="UAE",AE | Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Ajman.ae" tvg-logo="https://i.imgur.com/PCJcrQp.png" group-title="UAE",AE | Ajman
 https://iptv-all.lanesh4d0w.repl.co/emirates/ajman
 #EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-logo="https://i.imgur.com/7UbxiuC.png" group-title="UAE",AE | Al Dafrah TV
 https://iptv-all.lanesh4d0w.repl.co/saudiarabia/aldafrah
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-logo="https://i.imgur.com/Z3B0H22.png" group-title="UAE",AE | Al Yaum TV
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CitrussTV.ae" tvg-logo="" group-title="UAE",AE | Citruss TV [Geo-blocked]
+#EXTINF:-1 tvg-id="CitrussTV.ae" tvg-logo="https://i.imgur.com/Y6AOl1b.jpg" group-title="UAE",AE | Citruss TV [Geo-blocked]
 https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+#EXTINF:-1 tvg-id="Asharq.ae" tvg-logo="https://i.imgur.com/z35zkhe.png" group-title="UAE",AE | Asharq News
+https://bcovlive-a.akamaihd.net/b5239bbefb7a486f9a771c58438bc338/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o70yMsS.png" group-title="UAE",AE | Space Toon Arabic
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BeeMovies.ae" tvg-logo="https://i.imgur.com/aWYwczI.jpg" group-title="UAE",AE | Bee Movies [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCuaMJTqQ_W7qztqZ_zyErJg&live=1
+#EXTINF:-1 tvg-id="BeeTheater.ae" tvg-logo="https://i.imgur.com/92C1x4W.jpg" group-title="UAE",AE | Bee Theater [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC32M9DWf0zgMhBYGd_MOiIw&live=1
 #EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/KkvLlor.png" group-title="Saudi-Arabië",SA | Al Saudiya
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="QatarTV.qa" tvg-logo="https://i.imgur.com/clNmEYr.png" group-title="Qatar",QA | Qatar TV 
