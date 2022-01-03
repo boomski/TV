@@ -1121,6 +1121,8 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CG63QbM.png" group-title="Italië",IT | Sportitalia Live 24 [Geo-blocked]
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9fCZ6o4.jpg" group-title="Italië",IT | BIKE
+https://it.fms2.premio.link/bike/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a9ZSqxz.jpg" group-title="Italië",IT | Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lSdOnF2.jpg" group-title="Italië",IT | Rai News 24
@@ -1160,21 +1162,13 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://i.imgur.com/27DJeMS.jpg" group-title="Italië",IT | Mediaset Extra [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
 #EXTINF:-1 tvg-id="La7.it" tvg-logo="https://i.imgur.com/Se88Z3X.png" group-title="Italië",IT | La 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH-B/Live.mpd
+
 #EXTINF:-1 tvg-id="La7d.it" tvg-logo="https://i.imgur.com/8cL2WDL.jpg" group-title="Italië",IT | La 7 d
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vrafAF5.png" group-title="Italië",IT | R101 TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(er)/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wgeKmMB.jpg" group-title="Italië",IT | Virgin Radio TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://live3.msr.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ew)/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rXYZeev.jpg" group-title="Italië",IT | La C TV
 http://streamcdnc3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sCW1rbr.png" group-title="Italië",IT | La C News 24
@@ -1205,8 +1199,6 @@ http://stream.ets-sistemi.it:1935/live.rvm/rvmtv/playlist.m3u8
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YnuC9Q4.png" group-title="Italië",IT | Videonovara
 https://sb.top-ix.org/avtv04/streaming/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9fCZ6o4.jpg" group-title="Italië",IT | BIKE
-https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DHicdMq.png" group-title="Italië",IT | Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/q0B0Kli.jpg" group-title="Italië",IT | teleMonteneve
