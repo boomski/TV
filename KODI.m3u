@@ -4040,6 +4040,12 @@ https://lhrstrm.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
 http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lwaAM0x.jpg" group-title="Pakistan",PK | Tehzeeb TV
 http://node6.tehzeebtv.com/temp/mobile/tehzeeb/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-logo="https://i.imgur.com/vy65ZGT.png" group-title="Koeweit",KW | KTV Sport
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://i.imgur.com/2xP1QFj.png" group-title="Koeweit",KW | KTV Sport Plus
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fEaYpSA.jpg" group-title="Koeweit",KW | Al-Mahdi Satellite Channel
+https://stream.al-mahdi.tv/hls/1234.m3u8
 #EXTINF:-1 tvg-id="Alrafidain.eg" tvg-logo="https://i.imgur.com/kT5233s.jpg" group-title="Irak",IQ | Alrafidain
 http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/playlist.m3u8
 #EXTINF:-1 tvg-id="Alrafidain.eg" tvg-logo="https://i.imgur.com/kT5233s.jpg" group-title="Irak",IQ | Alrafidain
