@@ -3284,8 +3284,10 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTP.bo" tvg-logo="https://i.imgur.com/eZmseex.png" group-title="Bolivië",BO | RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/to0Za8V.jpg" group-title="Bolivië",BO | TVU
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8G7F6v6.jpg" group-title="Bolivië",BO | TVU Mayor de San Andrés
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/to0Za8V.jpg" group-title="Bolivië",BO | TV Universitaria
+https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1NqlnOv.jpg" group-title="Bolivië",BO | Cristal Tv
 http://95.211.214.198/bolivia/cristaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlegriaTV.bo" tvg-logo="https://i.imgur.com/vTRgiwb.png" group-title="Bolivië",BO | Alegria TV
@@ -3302,6 +3304,18 @@ https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
 https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
 #EXTINF:-1 tvg-id="TVLatinaCanal42.bo" tvg-logo="https://i.imgur.com/p809qAy.jpg" group-title="Bolivië",BO | TV Latina Canal 42
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B9oNP4j.jpg" group-title="Bolivië",BO | Seo TV
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B9oNP4j.jpg" group-title="Bolivië",BO | Seo TV Kids
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B9oNP4j.jpg" group-title="Bolivië",BO | Seo TV Novelas
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnq7I4r.jpg" group-title="Bolivië",BO | Red Uno Cochabamba [DAILYMOTION]
+plugin://plugin.video.dailymotion_com/?url=x827j2y&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnq7I4r.jpg" group-title="Bolivië",BO | Red Uno La Paz [DAILYMOTION]
+plugin://plugin.video.dailymotion_com/?url=x828xvr&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnq7I4r.jpg" group-title="Bolivië",BO | Red Uno Santa Cruz [DAILYMOTION]
+plugin://plugin.video.dailymotion_com/?url=x825whp&mode=playLiveVideo
 #EXTINF:-1 tvg-id="teleSUR.ve" tvg-logo="https://i.imgur.com/gdcEYyw.jpg" group-title="Venezuela",VE | TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSUREnglish.ve" tvg-logo="https://i.imgur.com/gdcEYyw.jpg" group-title="Venezuela",VE | TeleSUR English
@@ -3700,9 +3714,9 @@ https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
 https://cdn.untvweb.com/live-stream/untvweb.m3u8
 #EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/CAlBD49.png" group-title="Filipijnen",PH | UNTV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC3XaG-7UVi2vD8ZZEMNnnpw&live=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OniqB0E.png" group-title="Filipijnen",PH | People's TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OniqB0E.png" group-title="Filipijnen",PH | People's TV [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x5cr6b9&mode=playLiveVideo
-#EXTINF:-1 tvg-id="CTV3CentralLuzon.ph" tvg-logo="https://i.imgur.com/BhTSFnR.png" group-title="Filipijnen",PH | CTV3 Central Luzon
+#EXTINF:-1 tvg-id="CTV3CentralLuzon.ph" tvg-logo="https://i.imgur.com/BhTSFnR.png" group-title="Filipijnen",PH | CTV3 Central Luzon [TWITCH]
 plugin://plugin.video.twitch/?mode=play&channel_name=communitytv3
 #EXTINF:-1 tvg-id="NET25.ph" tvg-logo="https://i.imgur.com/yXpxOhr.jpg" group-title="Filipijnen",PH | NET 25 [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC5IF8NlxMW1GkEUUqWJJBIw&live=1
