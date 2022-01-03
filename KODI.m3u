@@ -3908,6 +3908,10 @@ plugin://plugin.video.youtube/play/?channel_id=UCuaMJTqQ_W7qztqZ_zyErJg&live=1
 plugin://plugin.video.youtube/play/?channel_id=UC32M9DWf0zgMhBYGd_MOiIw&live=1
 #EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/KkvLlor.png" group-title="Saudi-Arabië",SA | Al Saudiya
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4rkhTwp.jpg" group-title="Qatar",QA | AlJazeera Arabic [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCfiwzLy-8yKzIbsmZTzxDgw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2Y55uKy.png" group-title="Qatar",QA | AlJazeera English [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCNye-wNBqNL5ZzHSJj3l8Bg&live=1
 #EXTINF:-1 tvg-id="QatarTV.qa" tvg-logo="https://i.imgur.com/clNmEYr.png" group-title="Qatar",QA | Qatar TV 
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A95.0)%20Gecko%2F20100101%20Firefox%2F95.0&Referer=https%3A%2F%2Fwww.qtv.qa%2F
 #EXTINF:-1 tvg-id="QatarTV2.qa" tvg-logo="https://i.imgur.com/kMUk7hF.jpg" group-title="Qatar",QA | Qatar TV 2
@@ -4760,6 +4764,53 @@ https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://sofytv-samsungit.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1LaJshh.jpg" group-title="Samsung Plus TV",IT | Yamato Animation
 
+
+#EXTINF:-1 tvg-id="TodayAD.us" tvg-logo="https://i.imgur.com/gcMR6v8.png" group-title="Tubi TV",US | Today All Day 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8
+#EXTINF:-1 tvg-id="USAToday.us" tvg-logo="https://i.imgur.com/GUv59ov.png" group-title="Tubi TV",US | USA Today
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://i.imgur.com/LVuBOp0.jpg" group-title="Tubi TV",US | Weathernation [Geo-blocked]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:-1 tvg-id="WXII.us" tvg-logo="https://i.imgur.com/gbO0Rhq.jpg" group-title="Tubi TV",US | WXII-TV News Winston-Salem NC 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8
+#EXTINF:-1 tvg-id="News12NewYork.us" tvg-logo="https://i.imgur.com/2E55vAt.jpg" group-title="Tubi TV",US | News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://i.imgur.com/mchfYVI.png" group-title="Tubi TV",US | Newsy 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Newsy.m3u8
+#EXTINF:-1 tvg-id="pattrn.us" tvg-logo="https://i.imgur.com/2dDL7tm.jpg" group-title="Tubi TV",US | Pattrn 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:-1 tvg-id="PeopleTV.us" tvg-logo="https://i.imgur.com/FbDdjRM.png" group-title="Tubi TV",US | People TV
+https://lnc-people-tv.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-logo="https://i.imgur.com/Ly1pbPE.png" group-title="Tubi TV",US | Black News Channel 
+https://lnc-black-news.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/04xwmZG.png" group-title="Tubi TV",US | Bloomberg Quicktake
+
+#EXTINF:-1 tvg-id="CBCNewsHighlights.ca" tvg-logo="https://i.imgur.com/zcbaD67.png" group-title="Tubi TV",CA | CBC News Highlights 
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/wXzxLHf.jpg" group-title="Tubi TV",US | Estrella News 
+https://csm-e-eb.csm.tubi.video/csm/live/247083838.m3u8
+#EXTINF:-1 tvg-id="WTAETV.us" tvg-logo="https://i.imgur.com/Ns9iKSr.jpg" group-title="Tubi TV",US | ABC 4 Pittsburg PA (WTAE) 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 tvg-id="WEWSTV.us" tvg-logo="https://i.imgur.com/xDgpuXN.jpg" group-title="Tubi TV",US | ABC 5 Cleveland OH (WEWS-TV) 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WEWS.m3u8
+#EXTINF:-1 tvg-id="KOCOTV.us" tvg-logo="https://i.imgur.com/vMMBgEO.jpg" group-title="Tubi TV",US | ABC 5 Oklahoma City OK (KOCO)  
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 tvg-id="WXYZTV.us" tvg-logo="https://i.imgur.com/uUYKIzt.jpg" group-title="Tubi TV",US | ABC 7 Detroit MI (WXYZ-TV)  
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+#EXTINF:-1 tvg-id="KETVTV.us" tvg-logo="https://i.imgur.com/z399rKW.jpg" group-title="Tubi TV",US | ABC 7 Omaha NE (KETV)  
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 tvg-id="KMBCTV.us" tvg-logo="https://i.imgur.com/JwemgLT.jpg" group-title="Tubi TV",US | ABC 9 Kansas City MO (KMBC-TV) 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 tvg-id="WMURTV.us" tvg-logo="https://i.imgur.com/fv7EG4Q.png" group-title="Tubi TV",US | ABC 9 Manchester NH (WMUR-TV) 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Tubi TV",US | Fox Soul 
+https://lnc-fox-soul-scte.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://i.imgur.com/72paNfc.png" group-title="Tubi TV",US | Fox Weather 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8
+#EXTINF:-1 tvg-id="foxweather.us" tvg-logo="https://i.imgur.com/72paNfc.png" group-title="Tubi TV",US | Fox Weather 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Weather.m3u8
+#EXTINF:-1 tvg-id="VeryAlabama.us" tvg-logo="https://i.imgur.com/yc3i5pX.jpg" group-title="Tubi TV",US | Very Alabama 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hiuAi7M.png" group-title="Youtube",België | RSC Anderlecht
 plugin://plugin.video.youtube/play/?channel_id=UCNMg6XDhRZI2QzL4pWOvP_w&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tC2s5MM.png" group-title="Youtube",België | Club Brugge
