@@ -3058,6 +3058,8 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8|User-Agent=V
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-id="CatacamaTV.ar" tvg-logo="https://i.imgur.com/Gr2cmiB.jpg" group-title="Argentinië",AR | Catamarca TV
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="FenixTV.ar" tvg-logo="https://i.imgur.com/2uckGtX.jpg" group-title="Argentinië",AR | Fenix TV
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EgTMALv.png" group-title="Argentinië",AR | Canal Showsport
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jT3d6p1.jpg" group-title="Argentinië",AR | Telesol
@@ -4108,6 +4110,30 @@ https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="Rosebowl.in" tvg-logo="https://i.imgur.com/clS3yIc.png" group-title="India",IN | Rosebowl
 http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fUudPii.png" group-title="Bangladesh",BD | Gazi TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCXuHIkEezOy_b1pnkN0-TIg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3VozzGz.jpg" group-title="Bangladesh",BD | Ekattor TV
+https://live.bongobd.com/hls/u75FhtRZrn2BH6HA-w6paw/1641292684/ekattur_tv_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/phvkUEO.png" group-title="Bangladesh",BD | Probashi Bangla TV
+https://live.tvdhaka.com:30443/live/probashi/playlist.m3u8
+#EXTINF:-1 tvg-id="SomoyNewsTV.bd" tvg-logo="https://i.imgur.com/ogIpNc5.jpg" group-title="Bangladesh",BD | Somoy News TV
+https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-logo="https://i.imgur.com/wJbQt9y.jpg" group-title="Bangladesh",BD | ATN News
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNBanglaUK.bd" tvg-logo="https://i.imgur.com/f2Uq4Mb.jpg" group-title="Bangladesh",BD | ATN Bangla UK
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TimeTelevision.us" tvg-logo="https://i.imgur.com/arMC2an.jpg" group-title="Bangladesh",BD | Time Television
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BijoyTV.bd" tvg-logo="https://i.imgur.com/DdTO57V.jpg" group-title="Bangladesh",BD | Bijoy TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-logo="https://i.imgur.com/UbtHELU.jpg" group-title="Bangladesh",BD | Boishakhi TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVChittagong.bd" tvg-logo="https://i.imgur.com/wsOQNj3.png" group-title="Bangladesh",BD | BTV Chittagong 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/sCiHtHd.png" group-title="Bangladesh",BD | BTV World 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RqzVDN5.jpg" group-title="Bangladesh",BD | Bangla TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uQ0hDru.jpg" group-title="Nepal",NP | Kantipur TV
 https://ktvhdnpicc.ekantipur.com/ktv_desktop_02347834/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="radio1.be" tvg-logo="https://i.imgur.com/Y2LazUe.png" group-title="Radio",BE | Radio 1
