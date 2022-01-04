@@ -2239,54 +2239,20 @@ https://120sports-accdn-1.plex.wurl.com/manifest/3000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 Insider
 https://pac12-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U5UoW0C.png" group-title="USA",US | Local Now Sports
-https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MyiyVOo.jpg" group-title="USA",US | Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://i.imgur.com/aV4OtKn.jpg" group-title="USA",US | Fox News Channel
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-logo="https://i.imgur.com/NQMwqB6.jpg" group-title="USA",US | C-SPAN
-https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
-#EXTINF:-1 tvg-id="FreeformEast.us" tvg-logo="https://i.imgur.com/LY9fSxh.jpg" group-title="USA",US | Freeform East 
-https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
-#EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://i.imgur.com/E32ISMV.png" group-title="USA",US | FX East
-https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" tvg-logo="https://i.imgur.com/M4OhoXc.png" group-title="USA",US | SYFY
-https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PuZeruz.jpg" group-title="USA",US | Crackle
 https://crackle-plex.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oL5ICwR.jpg" group-title="USA",US | Shout! Factory TV
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MLqjsyg.jpg" group-title="USA",US | Nat Geo Wild
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U5UoW0C.png" group-title="USA",US | Local Now Sports
+https://linear-86.frequency.stream/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qyZeZ1V.png" group-title="USA",US | Weather Gone Viral
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jbOWcpk.png" group-title="USA",US | QuaHZ
 https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-logo="https://i.imgur.com/qJvca8U.jpg" group-title="USA",US | AXS TV 
-https://bozztv.com/teleyupp/teleup-axshd/playlist.m3u8
-#EXTINF:-1 tvg-id="Bounce.us" tvg-logo="https://i.imgur.com/6epVYXb.png" group-title="USA",US | Bounce
-https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
-#EXTINF:-1 tvg-id="MavTV.us" tvg-logo="https://i.imgur.com/i6MUfBA.jpg" group-title="USA",US | MavTV 
-https://bozztv.com/teleyupp/teleup-mavtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyDestinationTV.us" tvg-logo="https://i.imgur.com/lB93FGY.png" group-title="USA",US | My Destination.TV 
-https://bozztv.com/teleyupp/teleup-destinationtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PetsTV.us" tvg-logo="https://i.imgur.com/XWOrxsw.png" group-title="USA",US | Pets.TV
-https://bozztv.com/teleyupp/teleup-pettv/playlist.m3u8
-#EXTINF:-1 tvg-id="CarsTV.us" tvg-logo="https://i.imgur.com/tCCiK1P.png" group-title="USA",US | Cars.TV
-https://bozztv.com/teleyupp/teleup-carstv/playlist.m3u8
-#EXTINF:-1 tvg-id="CourtTVMystery.us" tvg-logo="https://i.imgur.com/OtsBXLG.png" group-title="USA",US | Court TV Mystery
-https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
-#EXTINF:-1 tvg-id="PCN.us" tvg-logo="https://i.imgur.com/cdc4xDi.jpg" group-title="USA",US | PCN
-https://bozztv.com/teleyupp/teleup-pcnhd/playlist.m3u8
-#EXTINF:-1 tvg-id="GetTV.us" tvg-logo="https://i.imgur.com/44QTNIO.jpg" group-title="USA",US | getTV
-https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
-#EXTINF:-1 tvg-id="Grit.us" tvg-logo="https://i.imgur.com/61yoZPn.jpg" group-title="USA",US | Grit 
-https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
-#EXTINF:-1 tvg-id="Laff.us" tvg-logo="https://i.imgur.com/OlcY1ly.png" group-title="USA",US | Laff 
-https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
-#EXTINF:-1 tvg-id="Revolt.us" tvg-logo="https://i.imgur.com/7u14eNW.png" group-title="USA",US| Revolt
-https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wQ2TrDu.png" group-title="USA",US | OAN
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUQsmTX.png" group-title="USA",US | CNBC Arabiya
@@ -2297,6 +2263,8 @@ http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wiuy1ez.jpg" group-title="USA",US | BizTV
 https://thegateway.app/BizAndYou/LimeLightBizTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Peachtree.us" tvg-logo="https://i.imgur.com/Bc1vlxu.jpg" group-title="USA",US | Peachtree TV
+http://encodercdn1.frontline.ca/encoder181/output/Peachtree_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV [YOUTUBE]
@@ -4668,6 +4636,10 @@ https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
 https://bozztv.com/teleyupp/teleup-carstv/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTVMystery.us" tvg-logo="https://i.imgur.com/OtsBXLG.png" group-title="Teleup",USA | Court TV Mystery
 https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
+#EXTINF:-1 tvg-id="PCN.us" tvg-logo="https://i.imgur.com/cdc4xDi.jpg" group-title="Teleup",USA | PCN
+https://bozztv.com/teleyupp/teleup-pcnhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Revolt.us" tvg-logo="https://i.imgur.com/7u14eNW.png" group-title="Teleup",USA | Revolt
+https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
 #EXTINF:-1 tvg-id="WSVNTV.us" tvg-logo="https://i.imgur.com/KIQ9BPz.png" group-title="Teleup",USA | FOX 7 Miami FL (WSVN)
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://i.imgur.com/aV4OtKn.jpg" group-title="Teleup",USA | Fox News Channel
@@ -4676,7 +4648,7 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
 #EXTINF:-1 tvg-id="FXEast.us" tvg-logo="https://i.imgur.com/E32ISMV.png" group-title="Teleup",USA | FX East
 https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-#EXTINF:-1 tvg-id="GetTV.us" tvg-logo="https://i.imgur.com/44QTNIO.jpg" group-title="Teleup",USA | GetTV 
+#EXTINF:-1 tvg-id="GetTV.us" tvg-logo="https://i.imgur.com/44QTNIO.jpg" group-title="Teleup",USA | getTV 
 https://bozztv.com/teleyupp/teleup-gettv/playlist.m3u8
 #EXTINF:-1 tvg-id="Grit.us" tvg-logo="https://i.imgur.com/61yoZPn.jpg" group-title="Teleup",USA | Grit 
 https://bozztv.com/teleyupp/teleup-grit/playlist.m3u8
