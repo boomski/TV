@@ -2617,8 +2617,6 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-id="TVO.ca" tvg-logo="https://i.imgur.com/RGwqnOF.png" group-title="Canada",CA | TVO
 https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ncOIoe.jpg" group-title="Canada",CA | Peachtree TV
-
 #EXTINF:-1 tvg-id="Ovation.ca" tvg-logo="https://i.imgur.com/3rSlsqN.png" group-title="Canada",CA | Ovation
 https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RUd6rAn.png" group-title="Canada",CA | NTV
@@ -2786,6 +2784,8 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mz5hMdL.png" group-title="Canada",CA | TAG TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCP3zJUZRPyJh4VGiRd9pqgg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FmHGIvT.png" group-title="Canada",CA | Télé-Mag Québec [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCNKXYT-Nng5LBMUQrZJ9zWA&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mdu0cmg.png" group-title="Canada",CA | Legislative Assembly of Ontario
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BQXC6P6.png" group-title="Canada",CA | The Shopping Channel
