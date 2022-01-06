@@ -1989,49 +1989,59 @@ https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rCTH2iP.png" group-title="Albanië",AL | RTSH Sport
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsat.al" tvg-logo="https://i.imgur.com/D433GOJ.png" group-title="Albanië",AL | Alsat
-http://93.157.62.180/AlsatM/index.m3u8
 #EXTINF:-1 tvg-id="ATD.al" tvg-logo="https://i.imgur.com/MIZALf0.jpg" group-title="Albanië",AL | ATD 
 http://46.99.146.236/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qREEuPx.jpg" group-title="Albanië",AL | A2 CNN
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BTgSMrs.png" group-title="Albanië",AL | News 24
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8DLGSv3.jpg" group-title="Albanië",AL | ABC News
-https://tv2.abcnews.al/live/abcnews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IwpsyFd.png" group-title="Albanië",AL | Nesër TV
-https://nesertv.live/ntv/livestream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkZmv33.png" group-title="Albanië",AL | Report TV
-https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f7rIBrF.png" group-title="Albanië",AL | Vizion Plus
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VmJz0wC.jpg" group-title="Albanië",AL | Frame TV
-http://195.154.252.221:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E2Aq4b0.jpg" group-title="Albanië",AL | ALPO
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CabbKa1.jpg" group-title="Albanië",AL | TV 7 Albania
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4RuV4v1.jpg" group-title="Albanië",AL | Fax News
-http://edge01eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OTFIr92.png" group-title="Albanië",AL | AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gJKEI12.png" group-title="Albanië",AL | RTV Syri Blue
-http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/90RBoAO.jpg" group-title="Albanië",AL | Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0fI1zAq.jpg" group-title="Albanië",AL | Çufo
 http://93.157.62.180/Cufo/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u8Qr5jh.jpg" group-title="Albanië",AL | AlbTV USA
-http://us.bestvideostreaming.is/8711/index.m3u8
+#EXTINF:-1 tvg-id="Alsat.al" tvg-logo="https://i.imgur.com/2Wre6Bn.png" group-title="Albanië",AL | Alsat M
+http://93.157.62.180/AlsatM/index.m3u8
+#EXTINF:-1 tvg-id="SofiaHD.al" tvg-logo="https://i.imgur.com/KWXVJJF.png" group-title="Albanië",AL | Sofia HD 
+http://93.157.62.180/Sofia/index.m3u8
+#EXTINF:-1 tvg-id="SyriHD.al" tvg-logo="https://i.imgur.com/kp6MjoL.jpg" group-title="Albanië",AL | Syri HD
+http://93.157.62.180/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IAIblNw.png" group-title="Albanië",AL | Tring International
+http://93.157.62.180/TringInternational/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f7rIBrF.png" group-title="Albanië",AL | Vizion Plus
+http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VmJz0wC.jpg" group-title="Albanië",AL | Frame TV
+http://195.154.252.221:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qzTDKYC.jpg" group-title="Albanië",AL | RTV Ilirida
+https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
+#EXTINF:-1 tvg-id="ALPO.al" tvg-logo="https://i.imgur.com/BGPwhkV.png" group-title="Albanië",AL | ALPO
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qREEuPx.jpg" group-title="Albanië",AL | A2 CNN
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NkZmv33.png" group-title="Albanië",AL | Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4RuV4v1.jpg" group-title="Albanië",AL | Fax News
+http://edge01eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yMGTwcz.png" group-title="Albanië",AL | Zjarr TV
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2GCL3sC.jpg" group-title="Albanië",AL | MCN TV
 http://edge01eu.ekranet.com/mcntv_720p/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=http%3A%2F%2Fwebsocket.ekranet.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CabbKa1.jpg" group-title="Albanië",AL | TV 7 Albania
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BTgSMrs.png" group-title="Albanië",AL | News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8DLGSv3.jpg" group-title="Albanië",AL | ABC News
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dz2fE4d.png" group-title="Albanië",AL | Klan Macedonia
 https://t2.tvmak.com/tv/TVART.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9dU5Ecg.jpg" group-title="Albanië",AL | TV Koha
 https://t2.tvmak.com/tv/TVKOHA.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Ftvmak.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IwpsyFd.png" group-title="Albanië",AL | Nesër TV
+https://nesertv.live/ntv/livestream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OTFIr92.png" group-title="Albanië",AL | AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gJKEI12.png" group-title="Albanië",AL | RTV Syri Blue
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u8Qr5jh.jpg" group-title="Albanië",AL | AlbTV USA
+http://us.bestvideostreaming.is/8711/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XX4HH9x.jpg" group-title="Albanië",AL | Euronews Albania [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UChR-A__NS_C5kHDWj3PeAhw&live=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xPFHj8d.png" group-title="Albanië",AL | Top News 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xPFHj8d.png" group-title="Albanië",AL | Top News [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x6inuzo&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sSj2NrP.jpg" group-title="Albanië",AL | Apollon TV
 plugin://plugin.video.sendtokodi/?https://apollon.tv/apollon-stream/
@@ -2039,10 +2049,6 @@ plugin://plugin.video.sendtokodi/?https://apollon.tv/apollon-stream/
 plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oratv.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aLL7VZg.png" group-title="Albanië",AL | Ora News
 plugin://plugin.video.sendtokodi/?https://live1.mediadesk.al/oranews.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Albanië",AL | Zjarr TV
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qzTDKYC.jpg" group-title="Albanië",AL | RTV Ilirida
-https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IiCQg26.png" group-title="Kosovo",XK | RTK 1
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/72P6v2h.jpg" group-title="Kosovo",XK | TV Opoja
