@@ -1,53 +1,666 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q7xHwxd.png" group-title="Sport",AL | SuperSport 1
+#EXTINF:-1 tvg-id="7HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",7 HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8889/playlist.m3u8
+#EXTINF:-1 tvg-id="21Mix.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 Mix (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8756/playlist.m3u8
+#EXTINF:-1 tvg-id="21Plus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 Plus (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8750/playlist.m3u8
+#EXTINF:-1 tvg-id="21PopulloreHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 Popullore HD (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8749/playlist.m3u8
+#EXTINF:-1 tvg-id="21RTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 RTV (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8748/playlist.m3u8
+#EXTINF:-1 tvg-id="21TVMacedonia.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 TV Macedonia (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8790/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",A TV (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8709/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" group-title="News",ABC News (720p) [Not 24/7]
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="AdriaTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Adria TV (480p) [Timeout]
+https://tvlive.rtsh.dev/live/adriamed/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbaniaFolk.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Albania Folk (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8759/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbanianTVAmerica.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Albanian TV America (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8711/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbMusikHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",AlbMusik HD (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8821/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="",AlbUK TV (1080p) [Not 24/7]
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ALPO.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/00hiXCL.png" group-title="",ALPO (720p) [Not 24/7]
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="Alsat.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Alsat (1080p) [Not 24/7]
+http://93.157.62.180/AlsatM/index.m3u8
+#EXTINF:-1 tvg-id="ARTAHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",ARTA HD (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8745/playlist.m3u8
+#EXTINF:-1 tvg-id="ATD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",ATD (720p)
+http://46.99.146.236/0.m3u8
+#EXTINF:-1 tvg-id="BabyTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",BabyTV (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8747/playlist.m3u8
+#EXTINF:-1 tvg-id="BangBang.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TD4J83Q.png" group-title="Kids",Bang Bang (576p) [Not 24/7]
+http://93.157.62.180/BangBang/index.m3u8
+#EXTINF:-1 tvg-id="BBFMusicTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",BBF Music TV (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8795/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel117.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Channel 117 (1080p) [Offline]
+https://shkoder.gjirafa.com/api/media/rgjirafa/t0110y/index.m3u8
+#EXTINF:-1 tvg-id="Cufo.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/cjVAXnZ.png" group-title="Kids",Çufo (576p)
+http://93.157.62.180/Cufo/index.m3u8
+#EXTINF:-1 tvg-id="DigitalbAktionHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Aktion HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8742/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbAutor.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Autor (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8753/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbBigBrotherVIP1.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Big Brother VIP 1 (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8803/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbBigBrotherVIP2.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Big Brother VIP 2 (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8804/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbDrame.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Dramë (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8727/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbDYHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb DY HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8731/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbEurofilm.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Eurofilm (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8758/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbFamilyHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Family HD (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8754/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8746/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbHistori.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Histori (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8729/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbHitsHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Hits HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8755/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbKomedi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Komedi (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8752/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbNatyra.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Natyra (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8739/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbNjeHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Një HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8730/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbShkense.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Shkensë (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8726/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbStinet.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Stinët (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8751/playlist.m3u8
+#EXTINF:-1 tvg-id="DigitalbThriller.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Thriller (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8757/playlist.m3u8
+#EXTINF:-1 tvg-id="Drame.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Drame (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8883/playlist.m3u8
+#EXTINF:-1 tvg-id="dTVHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",dTV HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8793/playlist.m3u8
+#EXTINF:-1 tvg-id="ElrodiTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Elrodi TV (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8718/playlist.m3u8
+#EXTINF:-1 tvg-id="FaxNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Fax News (360p) [Not 24/7]
+http://edge01eu.ekranet.com/faxnews/index.m3u8
+#EXTINF:-1 tvg-id="FirstChannel.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",First Channel (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8717/playlist.m3u8
+#EXTINF:-1 tvg-id="FrameTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Frame TV (1080p) [Not 24/7]
+http://195.154.252.221:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="KHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",K HD (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8710/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanali7.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/dark/ios/small/retina/145526.png" group-title="",Kanali 7 (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8761/playlist.m3u8
+#EXTINF:-1 tvg-id="KLAN.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="",KLAN [Timeout]
+http://79.106.73.244:4040/live/klanhdmob/playlist.m3u8
+#EXTINF:-1 tvg-id="KlanHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Klan HD (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8704/playlist.m3u8
+#EXTINF:-1 tvg-id="KlanMakedonia.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Klan Makedonia (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8789/playlist.m3u8
+#EXTINF:-1 tvg-id="KLANNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/NMtr8Z4.jpg" group-title="News",KLAN News [Offline]
+http://51.195.88.12:4050/live/klannewsmobpp3/playlist.m3u8
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Klan Plus (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8720/playlist.m3u8
+#EXTINF:-1 tvg-id="KLANPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="News",KLAN Plus [Offline]
+http://51.195.88.12:4050/live/klanplusmobpp3/playlist.m3u8
+#EXTINF:-1 tvg-id="Komedi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Komedi (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8881/playlist.m3u8
+#EXTINF:-1 tvg-id="Kosova.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Kosova (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8706/playlist.m3u8
+#EXTINF:-1 tvg-id="KTVHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",KTV HD (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8705/playlist.m3u8
+#EXTINF:-1 tvg-id="Max.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Max (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8882/playlist.m3u8
+#EXTINF:-1 tvg-id="MPT2.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",MPT 2 (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8728/playlist.m3u8
+#EXTINF:-1 tvg-id="Muse.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringMuse_logo.png" group-title="",Muse (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8778/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24 (392p) [Not 24/7]
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="News24AL.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",News24 AL (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8724/playlist.m3u8
+#EXTINF:-1 tvg-id="Novela.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Novela (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8884/playlist.m3u8
+#EXTINF:-1 tvg-id="Opoja.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Opoja (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8723/playlist.m3u8
+#EXTINF:-1 tvg-id="Oranews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Oranews (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8715/playlist.m3u8
+#EXTINF:-1 tvg-id="PeaceTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Peace TV (360p)
+http://93.157.62.180/PeaceTV/index.m3u8
+#EXTINF:-1 tvg-id="PeaceTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Peace TV (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8792/playlist.m3u8
+#EXTINF:-1 tvg-id="PendimiTVHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Pendimi TV HD (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8786/playlist.m3u8
+#EXTINF:-1 tvg-id="QSportNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Q Sport News (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8785/playlist.m3u8
+#EXTINF:-1 tvg-id="ReportTVHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Report TV HD (576p) [Not 24/7]
+http://93.157.62.180/ReportTV/index.m3u8
+#EXTINF:-1 tvg-id="RitaTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Rita TV (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8890/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="",RTSH 1 (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH1HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="",RTSH 1 HD (1080p)
+http://93.157.62.180/RTSH1/index.m3u8
+#EXTINF:-1 tvg-id="RTSH2.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/jEirJ9x.png" group-title="",RTSH 2 (406p) [Timeout]
+https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH2HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="",RTSH 2 HD (406p)
+http://93.157.62.180/RTSH2/index.m3u8
+#EXTINF:-1 tvg-id="RTSH3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TNNYFYj.png" group-title="",RTSH 3 (406p)
+http://93.157.62.180/RTSH3/index.m3u8
+#EXTINF:-1 tvg-id="RTSH3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TNNYFYj.png" group-title="",RTSH 3 (406p) [Timeout]
+https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qLlUkn8.png" group-title="",RTSH 24 (406p)
+http://93.157.62.180/RTSH24/index.m3u8
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qLlUkn8.png" group-title="",RTSH 24 (406p) [Timeout]
+https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHAgro.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Vh5MgY8.png" group-title="",RTSH Agro (480p) [Not 24/7]
+http://93.157.62.180/RTSHAgro/index.m3u8
+#EXTINF:-1 tvg-id="RTSHAgro.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Vh5MgY8.png" group-title="",RTSH Agro (480p) [Timeout]
+https://tvlive.rtsh.dev/live/rtsh_agro_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHFemije.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/K7uClaf.png" group-title="",RTSH Femijë (480p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHFilm.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/CB2zett.png" group-title="",RTSH Film (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHGjirokastra.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/lXq6WsR.png" group-title="",RTSH Gjirokastra (480p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKorca.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/RtJnrvm.jpg" group-title="",RTSH Korça (480p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKukesi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gNhoDAX.png" group-title="",RTSH Kukësi (360p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHKuvend.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k83keY8.png" group-title="",RTSH Kuvend (360p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/AXXlIgR.png" group-title="",RTSH Muzike (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UiDzIUN.png" group-title="",RTSH Plus (480p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHSatelit.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTSH Satelit (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8701/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShkolle.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/e8KhDGp.png" group-title="",RTSH Shkollë (360p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IBpZiuO.png" group-title="",RTSH Shqip (406p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/rCTH2iP.png" group-title="",RTSH Sport (720p) [Not 24/7]
+https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVDukagjini.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTV Dukagjini (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8788/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVFontana.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTV Fontana (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8852/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVIlirida.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTV Ilirida (360p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVislam.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTVislam (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8714/playlist.m3u8
+#EXTINF:-1 tvg-id="Shenja.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Shenja (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8850/playlist.m3u8
+#EXTINF:-1 tvg-id="SofiaHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Sofia HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8820/playlist.m3u8
+#EXTINF:-1 tvg-id="SofiaHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Sofia HD (576p) [Not 24/7]
+http://93.157.62.180/Sofia/index.m3u8
+#EXTINF:-1 tvg-id="StarHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Star HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8781/playlist.m3u8
+#EXTINF:-1 tvg-id="SyriHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Syri HD (720p)
+http://93.157.62.180/SyriTV/index.m3u8
+#EXTINF:-1 tvg-id="SyriHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Syri HD (1080p) [Geo-blocked]
+http://us.bestvideostreaming.is/8784/playlist.m3u8
+#EXTINF:-1 tvg-id="SyriTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="http://www.albepg.com/tvlogi/Syri%20Blue.png" group-title="",Syri TV (720p) [Not 24/7]
+http://live.syri.tv:6969/live/syriblue/hd/23.ts
+#EXTINF:-1 tvg-id="TipTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TipTV.png" group-title="",Tip TV (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8776/playlist.m3u8
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/top-channel-logo.png" group-title="",Top Channel (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8708/playlist.m3u8
+#EXTINF:-1 tvg-id="Tring3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring 3 (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8773/playlist.m3u8
+#EXTINF:-1 tvg-id="TringActionHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring Action HD (720p) [Not 24/7]
+http://93.157.62.180/TringAction/index.m3u8
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringComedy.png" group-title="",Tring Comedy (1080p) [Geo-blocked]
+http://93.157.62.180/TringComedy/index.m3u8
+#EXTINF:-1 tvg-id="TringFantasy.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://prd-static-mkt.spectar.tv/rev-1636968170/image_transform.php/transform/1/instance_id/1/video_id/126" group-title="",Tring Fantasy (576p) [Geo-blocked]
+http://93.157.62.180/TringFantasy/index.m3u8
+#EXTINF:-1 tvg-id="TringHistory.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringHistory.png" group-title="",Tring History (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8765/playlist.m3u8
+#EXTINF:-1 tvg-id="TringJollyHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring Jolly HD (1080p) [Not 24/7]
+http://93.157.62.180/JollyHD/index.m3u8
+#EXTINF:-1 tvg-id="TringKids.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringKids_logo.png" group-title="",Tring Kids (576p) [Not 24/7]
+http://93.157.62.180/TringKids/index.m3u8
+#EXTINF:-1 tvg-id="TringLife.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring Life (576p)
+http://93.157.62.180/TringLife/index.m3u8
+#EXTINF:-1 tvg-id="TringPlanet.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringPlanet.png" group-title="",Tring Planet (576p)
+http://93.157.62.180/TringPlanet/index.m3u8
+#EXTINF:-1 tvg-id="TringShqip.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringShqip.png" group-title="",Tring Shqip (576p) [Not 24/7]
+http://93.157.62.180/TringShqip/index.m3u8
+#EXTINF:-1 tvg-id="TringSuperHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring Super HD (1080p)
+http://93.157.62.180/TringSuper/index.m3u8
+#EXTINF:-1 tvg-id="TringTring.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringTringTv.png" group-title="",Tring Tring (576p)
+http://93.157.62.180/TringTring/index.m3u8
+#EXTINF:-1 tvg-id="TringWorld.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring World (576p)
+http://93.157.62.180/TringWorld/index.m3u8
+#EXTINF:-1 tvg-id="TurboTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Turbo TV (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8839/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="",TV 7 Albania (540p) [Not 24/7]
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="TVApollon.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",TV Apollon (480p)
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 tvg-id="TVDielli.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",TV Dielli (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8818/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKoha.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="",TV Koha (720p) [Offline]
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:-1 tvg-id="TVLlapi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",TV Llapi (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8823/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOpoja.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/De7sZf6.jpg" group-title="",TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlisi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",TV Plisi (720p) [Geo-blocked]
+http://us.bestvideostreaming.is/8735/playlist.m3u8
+#EXTINF:-1 tvg-id="USmile.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",U Smile (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8772/playlist.m3u8
+#EXTINF:-1 tvg-id="USmile.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",U Smile (576p) [Geo-blocked]
+http://us.bestvideostreaming.is/8802/playlist.m3u8
+#EXTINF:-1 tvg-id="VPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",V Plus (1080p)
+http://93.157.62.180/VizionPlus/index.m3u8
+#EXTINF:-1 tvg-id="ZjarrTelevizion.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="",Zjarr Televizion (360p) [Not 24/7]
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+#EXTINF:-1 tvg-id="ZjarrTelevizion.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="",Zjarr Televizion (1080p) [Timeout]
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/67VfW5z.png" group-title="Sport",AL | SuperSport 2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rk7DOzh.png" group-title="Sport",AL | SuperSport 3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tdN6jLe.png" group-title="Sport",AL | SuperSport 4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nvjY7ue.png" group-title="Sport",AL | SuperSport 5
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qmo5C7Y.png" group-title="Sport",AL | SuperSport 6
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VRoowjg.png" group-title="Sport",AL | SuperSport 7
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring 3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring International
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring World
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring History
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Planet
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Shqip
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Life
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Summertime
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Super
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vj8O2nW.png" group-title="Albanië",AL | Tring Muse
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqIrYqB.png" group-title="Albanië",AL | Tip TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/38BAiGz.png" group-title="Albanië",AL | Living HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3j97mb1.jpg" group-title="Albanië",AL | Scan
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q1UOlkA.png" group-title="Albanië",AL | EUROAL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="Albanië",AL | TV Boin
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VaGEoBo.png" group-title="Albanië",AL | AlbMUSIC
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lBhRiL5.png" group-title="Albanië",AL | Elrodi TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hzEGZEH.png" group-title="Albanië",AL | Tirana TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEtAnpF.png" group-title="Albanië",AL | Fine Living
-
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Ott Shqip",Top Channel HD
+http://93.157.62.180/TopChannel/index.m3u8
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Ott Shqip",Top Channel HD backup
+http://eu-ams.bestvideostreaming.is/8708/mpegts
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Ott Shqip",TV Klan HD
+http://93.157.62.180/TVKlanHD/index.m3u8
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Ott Shqip",TV Klan HD backup
+http://eu-ams.bestvideostreaming.is/8704/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Klan Plus
+http://93.157.62.180/KlanPlus/index.m3u8
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Ott Shqip",Vizion Plus
+http://93.157.62.180/VizionPlus/index.m3u8
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Ott Shqip",Vizion Plus backup
+http://eu-ams.bestvideostreaming.is/8703/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Rtsh 1
+http://93.157.62.180/RTSH1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Rtsh 2
+http://93.157.62.180/RTSH2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Rtsh 3
+http://93.157.62.180/RTSH3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Rtsh 24
+http://93.157.62.180/RTSH24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Rtsh Agro
+http://93.157.62.180/RTSHAgro/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Rtsh Shkollë
+http://93.157.62.180/RTSHShkole/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Rtsh Sport
+http://93.157.62.180/RTSHSport/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Rtsh Kukësi
+http://93.157.62.180/RTSHKukesi/index.m3u8
+#EXTINF:0 tvg-id="Atv.al" group-title="Ott Shqip",ATV
+http://tring.mediazonehd.com:8880/ATV/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",T7 HD
+http://93.157.62.180/T7/index.m3u8
+#EXTINF:0 tvg-id="KTV.al" group-title="Ott Shqip",Ktv Kohavision
+http://93.157.62.180/KTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Klan Macedonia
+http://93.157.62.180/KlanMacedonia/index.m3u8
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Ott Shqip",Alsat M
+http://93.157.62.180/AlsatM/index.m3u8
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Ott Shqip",Klan Kosova
+http://93.157.62.180/KlanKosova/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Kanali 10
+http://93.157.62.180/Kanal10/index.m3u8
+#EXTINF:0 tvg-id="RTV21.al" group-title="Ott Shqip",Rtv 21 HD
+http://93.157.62.180/RTV21/index.m3u8
+#EXTINF:0 tvg-id="RTV21.al" group-title="Ott Shqip",Rtv 21 MiX HD
+http://eu-ams.bestvideostreaming.is/8756/mpegts
+#EXTINF:0 tvg-id="RTV21.al" group-title="Ott Shqip",Rtv 21 Makedoni HD
+http://eu-ams.bestvideostreaming.is/8790/mpegts
+ 
+#EXTINF:0 tvg-id="RTK.al" group-title="Ott Shqip",Rtk Sat
+http://93.157.62.180/RTK1Sat/index.m3u8
+#EXTINF:0 tvg-id="RTK.al" group-title="Ott Shqip",Rtk 1
+http://93.157.62.180/RTK1/index.m3u8
+#EXTINF:0 tvg-id="FaxNews.al" group-title="Ott Shqip",Fax News
+http://93.157.62.180/FaxNews/index.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",In Tv
+http://93.157.62.180/INTV/index.m3u8
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Ott Shqip",Abc News
+http://93.157.62.180/ABCNews/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Klan News
+http://93.157.62.180/KlanNews/index.m3u8
+#EXTINF:0 tvg-id="TopNews.al" group-title="Ott Shqip",Top News
+http://93.157.62.180/TopNews/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Report Tv
+http://93.157.62.180/ReportTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Scan Tv
+http://93.157.62.180/ScanTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Ora Tv
+http://93.157.62.180/RTVOra/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",A2 Cnn
+http://93.157.62.180/A2CNN/index.m3u8
+#EXTINF:0 tvg-id="news24" group-title="Ott Shqip",News 24
+http://93.157.62.180/News24/index.m3u8
+#EXTINF:0 tvg-id="OraNews.al" group-title="Ott Shqip",Ora News
+http://93.157.62.180/OraNews/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Euronews Albania
+http://93.157.62.180/Euronews/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Syri Tv News
+http://eu-ams.bestvideostreaming.is/8759/mpegts
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",BIG BROTHER 1 HD
+https://5.254.81.2:7090/8803/index.m3u8
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",BIG BROTHER 2 HD
+https://5.254.81.2:7090/8803/index.m3u8
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",IPTVShqip Kinema 1HD
+https://rebrand.ly/x3mKINEMA1HD
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",IPTVShqip Kinema 2HD
+https://rebrand.ly/x3mKINEMA2HD
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",IPTVShqip Kinema 3HD
+https://rebrand.ly/iptvshqipPremiere-3
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",IPTVShqip Kinema 4HD
+https://rebrand.ly/x3mKINEMA4HD
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",IPTVShqip Kinema 5HD
+https://rebrand.ly/x3mKINEMA5HD
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",IPTVShqip Kinema 6HD
+https://rebrand.ly/x3mKINEMA6HD
+#EXTINF:0 tvg-id="3plus.ch" group-title="Ott Shqip",3 Plus
+http://93.157.62.180/3Plus/index.m3u8
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Ott Shqip",Jolly HD
+http://93.157.62.180/JollyHD/index.m3u8
+ 
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Ott Shqip",Tring Fantasy
+http://93.157.62.180/TringFantasy/index.m3u8
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Ott Shqip",Tring Comedy
+http://93.157.62.180/TringComedy/index.m3u8
+#EXTINF:0 tvg-id="KanalDDrama.al" group-title="Ott Shqip",KanalD Drama
+http://93.157.62.180/KanalDDrama/index.m3u8
+#EXTINF:0 tvg-id="KanalDDrama.al" group-title="Ott Shqip",KanalD Drama backup
+http://eu-ams.bestvideostreaming.is/6263/mpegts
+ 
+ 
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Ott Shqip",Tring Shqip
+http://93.157.62.180/TringShqip/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Tring Super HD
+http://93.157.62.180/TringSuper/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Tring Action HD
+http://93.157.62.180/TringAction/index.m3u8
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Ott Shqip",Tring History
+http://93.157.62.180/TringHistori/index.m3u8
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Ott Shqip",Tring World
+http://93.157.62.180/TringWorld/index.m3u8
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Ott Shqip",Tring Planet
+http://93.157.62.180/TringPlanet/index.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Tring International
+http://93.157.62.180/TringInternational/index.m3u8
+#EXTINF:0 tvg-id="SkyLiving.uk" group-title="Ott Shqip",Living
+http://93.157.62.180/LivingHD/index.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Explorer Histori
+http://eu-ams.bestvideostreaming.is/8729/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Explorer Nature
+http://eu-ams.bestvideostreaming.is/8739/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Explorer Shkence
+http://eu-ams.bestvideostreaming.is/8726/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",T HD
+http://eu-ams.bestvideostreaming.is/8746/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",T HD 6h
+http://eu-ams.bestvideostreaming.is/8746_6h/mpegts
+ 
+ 
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Family HD
+http://eu-ams.bestvideostreaming.is/8754/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Aksion HD
+http://51.195.176.18:8880/FilmAksion/mpegts?token=test
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Aksion HD +2
+http://51.195.176.18:8880/FilmAksion/timeshift_rel-7200.ts?token=test
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Hits HD
+http://eu-ams.bestvideostreaming.is/8755/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Nje HD
+http://eu-ams.bestvideostreaming.is/8730/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Dy HD
+http://eu-ams.bestvideostreaming.is/8731/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Thriller
+http://eu-ams.bestvideostreaming.is/8757/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Komedi
+http://eu-ams.bestvideostreaming.is/8752/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Autor
+http://eu-ams.bestvideostreaming.is/8753/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Film Drame
+http://51.195.176.18:8880/FilmDrame/mpegts?token=test
+ 
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Euro Film
+http://eu-ams.bestvideostreaming.is/8758/mpegts
+ 
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Stinet
+http://eu-ams.bestvideostreaming.is/8751/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Bang Bang
+http://eu-ams.bestvideostreaming.is/8737/mpegts
+ 
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Cufo TV
+http://eu-ams.bestvideostreaming.is/8738/mpegts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:0 tvg-id="TipTv.al" group-title="Ott Shqip",Tip Tv
+http://93.157.62.180/TipTV/index.m3u8
+#EXTINF:0 tvg-id="TringTring.al" group-title="Ott Shqip",Tring Tring
+http://93.157.62.180/TringTring/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Dasma Tv
+http://93.157.62.180/DasmaTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Elrodi Tv
+http://93.157.62.180/ElrodiTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Adria Net
+http://93.157.62.180/AdriaNet/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Tv Mitrovica
+http://93.157.62.180/TVMitrovica/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Tv Prizreni
+http://93.157.62.180/TVPrizreni/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Dukagjini Tv
+http://93.157.62.180/TVDukagjini/index.m3u8
+#EXTINF:0 tvg-id="Smile.al" group-title="Ott Shqip",Smile
+http://93.157.62.180/TringSmile/index.m3u8
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Ott Shqip",Folk Plus
+http://93.157.62.180/FolkPlus/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Kanali 7 News
+http://93.157.62.180/7TV/index.m3u8
+#EXTINF:0 tvg-id="BBF.al" group-title="Ott Shqip",Bbf
+http://93.157.62.180/BBFMusic/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Apollon Tv
+http://93.157.62.180/ApollonTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Arta News
+http://93.157.62.180/TVArta/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Teuta Tv
+http://93.157.62.180/TeutaTV/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Tv Kopliku
+http://93.157.62.180/KoplikuTV/index.m3u8
+ 
+ 
+ 
+#EXTINF:0 tvg-id="SuperSport1.al" group-title="Ott Shqip",SuperSport 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:0 tvg-id="SuperSport2.al" group-title="Ott Shqip",SuperSport 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:0 tvg-id="SuperSport3.al" group-title="Ott Shqip",SuperSport 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:0 tvg-id="SuperSport4.al" group-title="Ott Shqip",SuperSport 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="Ott Shqip",SuperSport 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:0 tvg-id="SuperSport5.al" group-title="Ott Shqip",SuperSport 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Ott Shqip",Tring Sport 1
+http://93.157.62.180/TringSport1HD/index.m3u8
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Ott Shqip",Tring Sport 2
+http://93.157.62.180/TringSport2HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Kujtesa Sport 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Kujtesa Sport 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Kujtesa Sport 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Ott Shqip",Kujtesa Sport 4
+http://93.157.62.180/KSport4/index.m3u8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",BT SPORT 1 HD
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",BT SPORT 2 HD
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",BT SPORT 3 HD
+http://77.83.117.60:8888/02_BTSPORTHD_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",EURO SPORT 1 HD
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",EURO SPORT 2 HD
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Sky Sports Main Event
+http://31.220.41.87:8081/live/skysports-maineventz.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Match! Football 1
+http://46.174.189.51/m1/tracks-v1a3/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Match! Football 2
+http://46.174.189.51/m2/tracks-v1a3/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Match! Football 3
+http://46.174.189.51/m3/tracks-v1a3/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",SETANTA SPORTS 1 HD
+https://95-213-224-175.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",SETANTA SPORTS 2 HD
+https://95-213-224-175.livesports24.online/setantaplusru.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Спорт 1
+https://sportuslive.ru/sport1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Спорт 2
+https://sportuslive.ru/sport2/index.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Sport TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Sport TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Sport TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Sport TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Sport TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Skynet Sport 1
+http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Skynet Sport 2
+http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Skynet Sport 3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Skynet Sport 4
+http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Skynet Sport 5
+http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Skynet Sport 6
+http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+ 
+ 
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Arena Sport 1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Arena Sport 2
+http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Arena Sport 3
+http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Arena Sport 4
+http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Arena Sport 5
+http://93.157.62.180/ArenaSport5/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport i Huaj",Arena Sport 6
+http://93.157.62.180/ArenaSport6/tracks-v1a1/mono.m3u8
+ 
+#EXTINF: -1 group-title="Turkey", 1bE SPORTS HD 1
+http://188.40.186.158:8484/starspor.ts
+#EXTINF: -1 group-title="Turkey", 2BE SPORTS HD 1
+http://188.40.186.158:8484/starspor.ts
+#EXTINF: -1 group-title="Turkey", S SPORT 1 HD
+http://v2.oldbozcdn1.cc/ssport1/index.m3u8
+#EXTINF: -1 group-title="Turkey", SMARTSPOR HD
+http://8.oldbozcdn1.cc/smartspor/index.m3u8
+#EXTINF: -1 group-title="Turkey", SİNEMA TV HD
+http://vizyontv.yayin.com.tr/vizyon-sinema/vizyon-sinema/chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", SİNEMATÜRK TV 1 HD
+http://vizyontv.yayin.com.tr/vizyon-turksinemasi/vizyon-turksinemasi/chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", SİNEMATÜRK TV 2 HD
+http://cdn1-tr2tv.yayin.com.tr/tr2tv/ngrp:tr2tv/chunklist_w1574130832_b1696000.m3u8
+#EXTINF: -1 group-title="Turkey", YEŞİLÇAM TV HD
+http://vizyontv.yayin.com.tr/vizyon-yesilcam/vizyon-yesilcam/chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", ŞABAN TV 1 HD
+http://145.239.37.125:20458/sabantv/sabantv/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", ŞABAN TV 2 HD
+http://145.239.37.125:20458/sabantv2/sabantv2/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", ŞABAN TV 3 HD
+http://145.239.37.125:20458/sabantv3/sabantv3/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", BELGESEL TV 1 HD
+http://sabantv2020.ozelip.com:8080/belgeseltv/belgeseltv/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", BELGESEL TV 2 HD
+http://vizyontv.yayin.com.tr/vizyon-belgesel/vizyon-belgesel/chunks.m3u8
+#EXTINF: -1 group-title="Turkey", 3CANLI MAÇ İZLE
+http://188.40.186.158:8484/hls/starspor/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", TIVIBU SPOR HD
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF: -1 group-title="Turkey", TRT 1 HD
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF: -1 group-title="Turkey", STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", KANAL D HD
+https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Turkey",Showmax HD
+http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
+#EXTINF: -1 group-title="Turkey", FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF: -1 group-title="Turkey", TV8 HD
+https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/chunklist_b2096000.m3u8
+#EXTINF: -1 group-title="Turkey", NTV HD
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF: -1 group-title="Turkey", CNNTÜRK HD
+https://2122248074.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF: -1 group-title="Turkey", TELE 1 HD
+http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
+ 
+#EXTINF:-1 group-title="Ott Greke",Rise
+http://185.93.1.39:8080/RISE/GR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ott Greke",Alpha
+http://185.93.1.39:8080/Alpha/GR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ott Greke",Skai
+http://185.93.1.39:8080/Skai/GR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ott Greke",ERT 2
+http://185.93.1.39:8080/ERT/2/GR/index.m3u8
+#EXTINF:-1 group-title="Ott Greke",Mega One
+http://185.93.1.39:8080/MegaOne/Cyprus/GR/index.m3u8
+#EXTINF:-1 group-title="Ott Greke",MEGA
+http://185.93.1.39:8080/Omega/TV/GR/index.m3u8
+#EXTINF:-1 group-title="Ott Greke",OTE Cinema 1 HD
+http://185.93.1.39:8080/OTE/Cinema/1/HD/GR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ott Greke",Discovery HD
+http://185.93.1.39:8080/Disco
