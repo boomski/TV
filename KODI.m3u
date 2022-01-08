@@ -2165,6 +2165,10 @@ https://nano.teleservice.su/hls/nano.m3u8
 https://live-1.otcnet.ru/kaleidoskop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4C8QnWO.png" group-title="Rusland",RU | Taina Telekanal
 https://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2fuzf2z.png" group-title="Rusland",RU | Illi TV
+http://illi.fm/illitv_2000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RPEnfA8.png" group-title="Rusland",RU | NNT
+plugin://plugin.video.sendtokodi/?https://vk.com/video304004450_456240230
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Rcpuvts.jpg" group-title="Georgië",GE | 1 TV 
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Td8ctWj.png" group-title="Georgië",GE | Imedi HD
