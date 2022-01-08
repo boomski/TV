@@ -113,6 +113,10 @@ http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
 #EXTINF:-1 tvg-id="BVN(src01).be" tvg-logo="https://i.imgur.com/Vq9PJ3R.png" group-title="Nederland",NL | BVN
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/bvn/get_live_url/?_pickle_=80027d71012858070000006974656d5f69647102580300000062766e710355075f7469746c655f7104580300000042564e71055808000000786d6c74765f696471064e752e
+#EXTINF:-1 tvg-id="BVN(src01).be" tvg-logo="https://i.imgur.com/Vq9PJ3R.png" group-title="Nederland",NL | BVN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://npobvn-prd.cdn.eurovisioncdn.net/live/npo/u/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
 #EXTINF:-1 tvg-id="L1TV(src02).nl" tvg-logo="https://i.imgur.com/8bqkwkG.png" group-title="Nederland",NL | L1mburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabant(src02).nl" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="Nederland",NL | Omroep Brabant
