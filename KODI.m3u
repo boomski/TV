@@ -3528,6 +3528,12 @@ https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
 #EXTINF:-1 tvg-id="NobleTV.eg" tvg-logo="https://i.imgur.com/q2DTZba.png" group-title="Egypte",EG | Noble TV
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/edFJq2z.jpg" group-title="Mauritanië",MU | Elmouritania [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCK3909NQ9meg2KDYKF51Kmg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RWLozm8.png" group-title="Guinée",GN | RTG Koloma
+https://live.kgsols.com/push/356b2b4d720638f67a2ac49d38ae8a34.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGE.gq" tvg-logo="https://i.imgur.com/N1CxEuE.png" group-title="Equatoriaal-Guinea",GQ | TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TPA1.ao" tvg-logo="https://i.imgur.com/dc90RH1.jpg" group-title="Angola",AO | TPA 1
 https://iptv-all.lanesh4d0w.codes/angola/tpa1
 #EXTINF:-1 tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/NdPdXGL.jpg" group-title="Angola",AO | TV Zimbo
@@ -3628,6 +3634,9 @@ https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013564/master.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rP8INlG.png" group-title="Soedan",SD | Sudan Bukra
 http://live.ditve.tv:1935/sudanbukra/sudanbukra.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2A8eDgh.png" group-title="Taiwan",TW | Hwazan Satellite TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCgFr9QSua--Cxx658iJqIcQ&live=1
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/6GFrZ0t.jpg" group-title="Japan",JP | NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.imgur.com/6GFrZ0t.jpg" group-title="Japan",JP | NHK World Japan
