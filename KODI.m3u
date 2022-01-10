@@ -3540,6 +3540,14 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 https://iptv-all.lanesh4d0w.codes/angola/tpa1
 #EXTINF:-1 tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/NdPdXGL.jpg" group-title="Angola",AO | TV Zimbo
 https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
+#EXTINF:-1 tvg-id="3TV.bf" tvg-logo="https://i.imgur.com/nuHACNd.png" group-title="Burkina Faso",BF | 3TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/3tvbf
+#EXTINF:-1 tvg-id="FasoTV.bf" tvg-logo="https://i.imgur.com/NbEAtDe.png" group-title="Burkina Faso",BF | Faso TV 
+https://playtv4kpro.com:5443/LiveApp/streams/163893638025530331068059.m3u8
+#EXTINF:-1 tvg-id="ImpactTV.bf" tvg-logo="https://i.imgur.com/zTnQPvD.png" group-title="Burkina Faso",BF | Impact TV 
+https://edge.vedge.infomaniak.com/livecast/ik:impacttv_1/manifest.m3u8
+#EXTINF:-1 tvg-id="RTB.bf" tvg-logo="https://i.imgur.com/dEM8J29.jpg" group-title="Burkina Faso",BF | RTB  
+https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 #EXTINF:-1 tvg-id="ArkTV.ug" tvg-logo="https://i.imgur.com/319bQlg.png" group-title="Oeganda",UG | Ark TV
 https://arktelevision.org/hlslive/test/test.m3u8
 #EXTINF:-1 tvg-id="Bukedde1.ug" tvg-logo="https://i.imgur.com/CYAMqoU.png" group-title="Oeganda",UG | Bukedde 1
