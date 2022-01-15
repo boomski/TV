@@ -3094,8 +3094,12 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="RecordTVManaus.br" tvg-logo="https://i.imgur.com/KkbQuKL.png" group-title="Brazilië",BR | RecordTV Manaus
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DidKAaq.png" group-title="Brazilië",BR | Aratu On
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lmj5CPM.png" group-title="Brazilië",BR | Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nVHw26O.png" group-title="Brazilië",BR | TV Walter Abrahão
+https://cdn.jmvstream.com/w/LVW-9892/LVW9892_PCIeyMXAKy/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/j25Et7H.png" group-title="Colombia",CO | Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-logo="https://i.imgur.com/M8da1o4.jpg" group-title="Colombia",CO | Canal Institucional
