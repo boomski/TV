@@ -1631,6 +1631,8 @@ https://play.gooru.live/playnegocios/5646-1603313320000/master.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f1vTSCG.png" group-title="Spanje",ES | PLUTO TV Deportes
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lKMfNq3.jpg" group-title="Spanje",ES | SPORTPUBLIC TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lUbqJVt.jpg" group-title="Spanje",ES | Andalucia | Canal Sur Andalucia [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCqwjtgaJflHga2aPWphG5PQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BfF9wY7.png" group-title="Spanje",ES | Andalucia | Canal Málaga
@@ -3030,14 +3032,14 @@ plugin://plugin.video.youtube/play/?channel_id=UCgA9V57lQlZFXkDfhVGTWSg&live=1
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6j9VPZ8.jpg" group-title="Martinique",MQ | Espérance TV InterAmérique
 https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fapp.jetstream.studio%2F
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8|User-Agent=iPhone
 #EXTINF:-1 tvg-id="LNplus.ar" tvg-logo="https://i.imgur.com/CGUKEtQ.jpg" group-title="Argentinië",AR | LN+ [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCba3hpU7EFBSk817y9qZkiA&live=1
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/EX3q7ua.jpg" group-title="Argentinië",AR | DeporTV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCSmh3DFxBwFurMttT60PQ1g&live=1
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCR9120YBAqMfntqgRTKmkjQ&live=1
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/qla2DAv.jpg" group-title="Argentinië",AR | A24 
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8|User-Agent=iPhone
 #EXTINF:-1 tvg-id="TelpinTV.ar" tvg-logo="https://i.imgur.com/hiOrAIa.png" group-title="Argentinië",AR | Telpin TV
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelpinCanal2.ar" tvg-logo="https://i.imgur.com/UwKONpm.jpg" group-title="Argentinië",AR | Telpin Canal 2
@@ -3072,6 +3074,8 @@ https://g1.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/cana
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aXhtiW0.png" group-title="Brazilië",BR | CNN Brasil [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCvdwhh_fDyWccR42-rReZLw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tLfQs2R.jpg" group-title="Brazilië",BR | Shoptime [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCCuYi5AP3gya6C5mdWYS6CQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gDCPrlV.jpg" group-title="Brazilië",BR | SBT Interior
 https://5a1c76baf08c0.streamlock.net/sbtinterior/5zh9uodi13msma1k88k05qz9nrc2bg1q/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WUZ3yqv.png" group-title="Brazilië",BR | All Sports
@@ -4141,6 +4145,40 @@ https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
 https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="Rosebowl.in" tvg-logo="https://i.imgur.com/clS3yIc.png" group-title="India",IN | Rosebowl
 http://cdn.asianetmobiletvplus.com/channels/rosebowl_7eb4dc1f3240c8eb776d41b95bd1d197/playlist.m3u8|User-Agent=stream
+#EXTINF:-1 tvg-id="rupavahini.lk" tvg-logo="https://i.imgur.com/5lWuAGL.jpg" group-title="Sri Lanka",LK | Rupavahini
+https://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
+#EXTINF:-1 tvg-id="channeleye.lk" tvg-logo="https://i.imgur.com/7XbQ5VZ.jpg" group-title="Sri Lanka",LK | Channel Eye
+https://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8
+#EXTINF:-1 tvg-id="hirutv.lk" tvg-logo="https://i.imgur.com/1jV69Gd.png" group-title="Sri Lanka",LK | Hiru TV 
+https://eu10b.serverse.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="itn.lk" tvg-logo="https://i.imgur.com/FhiVPsQ.jpg" group-title="Sri Lanka",LK | ITN
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/cf467ddf13ba30dd3c71435cafa6fd6e.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="itn.lk" tvg-logo="https://i.imgur.com/LCl8bcH.jpg" group-title="Sri Lanka",LK | Vasantham TV
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="SanthoraTV.lk" tvg-logo="https://i.imgur.com/f3OUdBv.jpg" group-title="Sri Lanka",LK | Santhora TV 
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-id="SanthoraTV.lk" tvg-logo="https://i.imgur.com/nkWos6q.png" group-title="Sri Lanka",LK | Santhora Shortfilm
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="VerbumTV.com" tvg-logo="https://i.imgur.com/rnAEcVN.jpg" group-title="Sri Lanka",LK | VerbumTV
+https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8
+#EXTINF:-1 tvg-id="athavantv.com" tvg-logo="https://i.imgur.com/JngsLLS.jpg" group-title="Sri Lanka",LK | Athavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.lk" tvg-logo="https://i.imgur.com/gejcsg0.jpg" group-title="Sri Lanka",LK | Sooriyan TV
+https://59d39900ebfb8.streamlock.net/Sooriyantv/Sooriyantv/playlist.m3u8
+#EXTINF:-1 tvg-id="SriSankaraTV.lk" tvg-logo="https://i.imgur.com/lOUzYfT.jpg" group-title="Sri Lanka",LK | Sri Sankara TV
+https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SiyathaTV.lk" tvg-logo="https://i.imgur.com/wBNzu3H.png" group-title="Sri Lanka",LK | Siyatha TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4hVr6rb.jpg" group-title="Sri Lanka",LK | Shraddha TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UC1WREaxq8LRhdOOmzSFg2pA&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nHmxfGl.jpg" group-title="Sri Lanka",LK | Haritha TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCqgSi-ti2hzyWKSDsL3-MMA&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Lg0sWRU.jpg" group-title="Sri Lanka",LK | Colombo TV [TWITCH]
+plugin://plugin.video.twitch/?mode=play&channel_name=methtvlk
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/akodpZf.jpg" group-title="Sri Lanka",LK | News 1st [TWITCH]
+plugin://plugin.video.twitch/?mode=play&channel_name=newsfirstsl
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7oKIEd6.jpg" group-title="Sri Lanka",LK | Rangiri Sri Lanka TV [TWITCH]
+plugin://plugin.video.twitch/?mode=play&channel_name=rangirisrilanka
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fUudPii.png" group-title="Bangladesh",BD | Gazi TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCXuHIkEezOy_b1pnkN0-TIg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3VozzGz.jpg" group-title="Bangladesh",BD | Ekattor TV
@@ -4986,6 +5024,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCHQUWveEpeO1KTkwbDn6jNA&live=2
 plugin://plugin.video.youtube/play/?channel_id=UCHQUWveEpeO1KTkwbDn6jNA&live=3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YVgHc2v.jpg" group-title="Youtube",Zwitserland | International Federation of Sport Climbing
 plugin://plugin.video.youtube/play/?channel_id=UC2MGuhIaOP6YLpUx106kTQw&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cECFKv5.jpg" group-title="Youtube",Zwitserland | World Table Tennis
+plugin://plugin.video.youtube/play/?channel_id=UC9ckyA_A3MfXUa0ttxMoIZw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lKMfNq3.jpg" group-title="Youtube",Spanje | SPORTPUBLIC TV
 plugin://plugin.video.youtube/play/?channel_id=UC6DBX23fpe9BLLhGFTY9sxw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7EWoWIA.jpg" group-title="Youtube",Spanje | Esports IB3
