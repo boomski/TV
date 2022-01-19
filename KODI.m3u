@@ -2253,6 +2253,10 @@ plugin://plugin.video.youtube/play/?channel_id=UCJElRTCNEmLemgirqvsW63Q&live=1
 plugin://plugin.video.dailymotion_com/?url=x81x3cd&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QmzAkph.png" group-title="Turkije",TR | Number 1 Damar [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x67ch8g&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dYi9Oov.jpg" group-title="Turkije",TR | Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dKtvUng.png" group-title="Turkije",TR | Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z5RS8Df.jpg" group-title="Turkije",TR | Kanal 32
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/byTYxiN.png" group-title="Turkije",TR | TR35
@@ -2267,12 +2271,32 @@ https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 https://waw1.artiyerelmedya.net/astv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qPivcyc.jpg" group-title="Turkije",TR | Kanal Firat
 https://waw1.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qRJjILo.png" group-title="Turkije",TR | Kanal 3
+https://waw1.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k9DI6qv.png" group-title="Turkije",TR | Kanal 15
+https://waw1.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w0xtgGj.jpg" group-title="Turkije",TR | Kanal 23
+https://waw1.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w3S4jtm.png" group-title="Turkije",TR | Kanal 26
+https://waw1.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qkPWn6b.png" group-title="Turkije",TR | Kanal 68
+https://waw1.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k7JmxZg.png" group-title="Turkije",TR | Kanal 33
+https://broadcasttr.com:446/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9IxVXDW.png" group-title="Turkije",TR | Kanal 58
+https://broadcasttr.com:446/kanal58/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iJryv8M.png" group-title="Turkije",TR | ATV Alanya
 https://broadcasttr.com:446/alanyatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WBkFmEd.jpg" group-title="Turkije",TR | Gonca TV
 https://broadcasttr.com:446/tuncerciftci/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oHteenF.jpg" group-title="Turkije",TR | Koza TV
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n3MEoMK.png" group-title="Turkije",TR | Kanal 5
+https://59cba4d34b678.streamlock.net/canlitv/kanal5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qzYxQS5.jpg" group-title="Turkije",TR | Kanal 19
+https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pAu1vmm.jpg" group-title="Turkije",TR | Kanal 34
+https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
