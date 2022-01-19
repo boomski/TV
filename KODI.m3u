@@ -2221,6 +2221,8 @@ https://qebele.tv/live/stream/index.m3u8
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="MuganTV.az" tvg-logo="https://i.imgur.com/8N88j0o.png" group-title="Azerbeidzjan",AZ | Muğan TV
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ng4DXcu.jpg" group-title="Turkije",TR | TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5sLLccU.jpg" group-title="Turkije",TR | Teve 2 
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A92.0)%20Gecko%2F20100101%20Firefox%2F92.0&Referer=https%3A%2F%2Fwww.teve2.com.tr%2F
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3tdDmkv.jpg" group-title="Turkije",TR | Tele 1 [YOUTUBE]
@@ -2251,16 +2253,26 @@ plugin://plugin.video.youtube/play/?channel_id=UCJElRTCNEmLemgirqvsW63Q&live=1
 plugin://plugin.video.dailymotion_com/?url=x81x3cd&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QmzAkph.png" group-title="Turkije",TR | Number 1 Damar [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x67ch8g&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z5RS8Df.jpg" group-title="Turkije",TR | Kanal 32
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/byTYxiN.png" group-title="Turkije",TR | TR35
 https://edge1.socialsmart.tv/tv35/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ivW2kpm.png" group-title="Turkije",TR | NTR TV
+https://edge1.socialsmart.tv/live/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2pArgn9.png" group-title="Turkije",TR | 365 TV
 https://cdn10-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nvQAssB.png" group-title="Turkije",TR | Tatlises TV
 https://waw1.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pz2IcVg.png" group-title="Turkije",TR | ASTV
 https://waw1.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qPivcyc.jpg" group-title="Turkije",TR | Kanal Firat
+https://waw1.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iJryv8M.png" group-title="Turkije",TR | ATV Alanya
 https://broadcasttr.com:446/alanyatv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WBkFmEd.jpg" group-title="Turkije",TR | Gonca TV
+https://broadcasttr.com:446/tuncerciftci/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oHteenF.jpg" group-title="Turkije",TR | Koza TV
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
@@ -3320,6 +3332,8 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B9oNP4j.jpg" group-title="Bolivië",BO | Seo TV Novelas
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ScYqQxy.jpg" group-title="Bolivië",BO | TV Off Travel
+https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnq7I4r.jpg" group-title="Bolivië",BO | Red Uno Cochabamba [DAILYMOTION]
 plugin://plugin.video.dailymotion_com/?url=x827j2y&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rnq7I4r.jpg" group-title="Bolivië",BO | Red Uno La Paz [DAILYMOTION]
