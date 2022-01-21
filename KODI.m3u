@@ -2679,10 +2679,32 @@ https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583db
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://capi.9c9media.com/destinations/cp24_web/platforms/desktop/contents/104070/contentpackages/528620/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D7iZ4JW.jpg" group-title="Canada",CA | WCGtv
+#EXTINF:-1 tvg-id="WCGtv.ca" tvg-logo="https://i.imgur.com/D7iZ4JW.jpg" group-title="Canada",CA | WCGtv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/manifest.mpd
+#EXTINF:-1 tvg-id="WCGtv.ca" tvg-logo="https://i.imgur.com/D7iZ4JW.jpg" group-title="Canada",CA | WCGtv Brandon 
+https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
+#EXTINF:-1 tvg-id="WCGtv.ca" tvg-logo="https://i.imgur.com/D7iZ4JW.jpg" group-title="Canada",CA | WCGtv Brandon Radio Pub Sessions
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/1leCrsj.png" group-title="Canada",CA | TSN 1 
+http://encodercdn1.frontline.ca/encoder183/output/TSN1_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/9oSbeIx.png" group-title="Canada",CA | TSN 2 
+http://encodercdn1.frontline.ca/encoder182/output/TSN2_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/faoy9AV.png" group-title="Canada",CA | TSN 3 
+http://encodercdn1.frontline.ca/encoder183/output/TSN3_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/a9QTjrM.png" group-title="Canada",CA | TSN 4 
+http://encodercdn1.frontline.ca/encoder183/output/TSN4_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5.ca" tvg-logo="https://i.imgur.com/n63AwYY.png" group-title="Canada",CA | TV5
+http://encodercdn1.frontline.ca/vantrix/ltv/ColbaNet_TV5_AtopItci_2015_01_12_SD/hls_sd.m3u8
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-logo="https://i.imgur.com/7Ryotag.png" group-title="Canada",CA | Yes TV
+http://encodercdn1.frontline.ca/kamino/output/YESTV_Hamilton_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Vision.ca" tvg-logo="https://i.imgur.com/HOL1Uxp.jpg" group-title="Canada",CA | Vision TV  
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_VISON_AtopItci_2015_01_12_SD/hls_sd.m3u8
+#EXTINF:-1 tvg-id="WTN.ca" tvg-logo="https://i.imgur.com/5lHn7fK.jpg" group-title="Canada",CA | W Network 
+http://encodercdn1.frontline.ca/kamino/output/W_Network_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="UniTV.ca" tvg-logo="https://i.imgur.com/0athoOH.jpg" group-title="Canada",CA | UnisTV 
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_UNISH_AtopItci_2015_01_12_HD/hls_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Fb4yIKZ.png" group-title="Canada",CA | ONNtv Ontario
 https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="Canada",CA | Télé-Québec
