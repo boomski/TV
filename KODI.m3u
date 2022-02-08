@@ -4021,6 +4021,16 @@ plugin://plugin.video.youtube/play/?channel_id=UCNye-wNBqNL5ZzHSJj3l8Bg&live=1
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A95.0)%20Gecko%2F20100101%20Firefox%2F95.0&Referer=https%3A%2F%2Fwww.qtv.qa%2F
 #EXTINF:-1 tvg-id="QatarTV2.qa" tvg-logo="https://i.imgur.com/kMUk7hF.jpg" group-title="Qatar",QA | Qatar TV 2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A95.0)%20Gecko%2F20100101%20Firefox%2F95.0&Referer=https%3A%2F%2Fwww.qtv.qa%2F
+#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-logo="https://i.imgur.com/I3gLajG.jpg" group-title="Oman",OM | Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Oman TV ARB" tvg-logo="https://i.imgur.com/Qb8C8wI.jpg" group-title="Oman",OM | Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qb8C8wI.jpg" group-title="Oman",OM | Oman TV Cultural
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jN2dajx.jpg" group-title="Oman",OM | Oman TV Mubashir
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DjWebCw.jpg" group-title="Oman",OM | Al Istiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cS2vq0c.png" group-title="Kirgizië",KG | КТRК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dOZRZUQ.png" group-title="Kirgizië",KG | КТRК Мusic
