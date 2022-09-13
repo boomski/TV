@@ -64,7 +64,7 @@ https://telemb-live.freecaster.com/live/telemb/telemb.m3u8|Referer=https://telem
 #EXTINF:-1 tvg-id="RTCLiege(src01).be" tvg-logo="https://i.imgur.com/Ne6Tg6d.png" group-title="België",BE | RTC Télé Liège
 https://rtc-live.freecaster.com/live/rtc/rtc.m3u8|Referer=https://rtc.fcst.tv
 #EXTINF:-1 tvg-id="Televesdre(src01).be" tvg-logo="https://i.imgur.com/GQl0INW.png" group-title="België",BE | Vedia 
-https://vedia-live.freecaster.com/live/vedia/vedia.m3u8|Referer=https://vedia.fcst.tv
+https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.vedia.be%2F
 #EXTINF:-1 tvg-id="CanalZoom(src01).be" tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="België",BE | Canal Zoom
 http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="Notele(src01).be" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="België",BE | Notele
