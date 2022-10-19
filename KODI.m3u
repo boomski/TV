@@ -38,11 +38,11 @@ https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 #EXTINF:-1 tvg-id="ATV(src01).be" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="België",BE | ATV
 http://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8
 #EXTINF:-1 tvg-id="RobTV(src01).be" tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
-http://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
+https://live.zendzend.com/streams/29375_395477/1080n/index.m3u8
 #EXTINF:-1 tvg-id="TVLimburg(src01).be" tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="België",BE | TVL
-http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
+https://live.zendzend.com/streams/29375_395474/1080n/index.m3u8
 #EXTINF:-1 tvg-id="TVOost(src01).be" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
-http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+https://live.zendzend.com/streams/29375_399410/1080n/index.m3u8
 #EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b3000000.m3u8|Referer=https://player.clevercast.com
 #EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
