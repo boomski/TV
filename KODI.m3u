@@ -3430,6 +3430,26 @@ plugin://plugin.video.dailymotion_com/?url=x828xvr&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x825whp&mode=playLiveVideo
 #EXTINF:-1 tvg-id="teleSUR.ve" tvg-logo="https://i.imgur.com/gdcEYyw.jpg" group-title="Venezuela",VE | TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRed.uy" tvg-logo="https://i.imgur.com/JO4jNmn.jpg" group-title="Uruguay",UY | La Red
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
+#EXTINF:-1 tvg-id="Canal10.uy" tvg-logo="https://i.imgur.com/Kjn3CMc.jpg" group-title="Uruguay",UY | Canal 10
+
+#EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/SQzR5Nr.png" group-title="Uruguay",UY | UCL
+http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/K7pTHjs.jpg" group-title="Uruguay",UY | LatinoKids
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8Mercedes.uy" tvg-logo="https://i.imgur.com/7oXweJj.png" group-title="Uruguay",UY | Tele 8 Mercedes
+http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
+#EXTINF:-1 tvg-id="MisionVidaTV.uy" tvg-logo="https://i.imgur.com/hKg2lQk.png" group-title="Uruguay",UY | Misión Vida TV
+
+#EXTINF:-1 tvg-id="RDTV.uy" tvg-logo="https://i.imgur.com/0zN9I5r.jpg" group-title="Uruguay",UY | Raquel Daruech TV
+https://ythls.onrender.com/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8
+#EXTINF:-1 tvg-id="UruguayPresidencia.uy" tvg-logo="https://i.imgur.com/oYF3nXE.png" group-title="Uruguay",UY | Uruguay Presidencia
+https://ythls.onrender.com/channel/UCz1Li9JcQB9XP-HfgN0IYLQ.m3u8
+#EXTINF:-1 tvg-id="ChamberofRepresentatives.uy" tvg-logo="https://i.imgur.com/oYF3nXE.png" group-title="Uruguay",UY | Cámara de Representantes
+https://ythls.onrender.com/channel/UCUxioxgZ7obrP3wVJApAK1w.m3u8
+#EXTINF:-1 tvg-id="CamaradeSenadores.uy" tvg-logo="https://i.imgur.com/oYF3nXE.png" group-title="Uruguay",UY | Cámara de Senadores
+https://ythls.onrender.com/channel/UCyM7oro5NhR5oPyMEFB_rUA.m3u8
 #EXTINF:-1 tvg-id="TeleSUREnglish.ve" tvg-logo="https://i.imgur.com/gdcEYyw.jpg" group-title="Venezuela",VE | TeleSUR English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-logo="https://i.imgur.com/G5PjRNH.jpg" group-title="Venezuela",VE | Televen
