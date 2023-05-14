@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="een.be" tvg-logo="https://i.imgur.com/V19fQm0.jpg" group-title="België",BE | Een
+#EXTINF:-1 tvg-id="een.be" tvg-logo="https://i.imgur.com/5GoTTyl.png" group-title="België",BE | VRT 1
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
 #EXTINF:-1 tvg-id="canvas.be" tvg-logo="https://i.imgur.com/7qPLd93.png" group-title="België",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
@@ -1923,10 +1923,42 @@ https://stream.iptvservice.eu/hls/balatontv.m3u8
 https://stream.streaming4u.hu/RegioPluszTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bbpWsj0.jpg" group-title="Hongarije",HU | Apostol TV
 https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-logo="https://i.imgur.com/z7PhOtR.png" group-title="Roemenië",RO | AntenaSport
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-logo="https://i.imgur.com/geYvOOF.jpg" group-title="Roemenië",RO | TVR International (720p)
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://i.imgur.com/F9PyZFb.png" group-title="Roemenië",RO | Antena 1
+https://rundle.deta.dev/hls/LIVE$Antena1/6.m3u8/Level(19012010)?end=END&start=LIVE
+#EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-logo="https://i.imgur.com/2xV4rbf.png" group-title="Roemenië",RO | Antena International
+https://rundle.deta.dev/hls/LIVE$AntenaInternational/6.m3u8/Level(19012010)?end=END&start=LIVE
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-logo="https://i.imgur.com/z7PhOtR.png" group-title="Roemenië",RO | Antena Sport
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-logo="https://i.imgur.com/XXOrWqt.png" group-title="Roemenië",RO | Realitatea Sportiva
 https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaStar.ro" tvg-logo="https://i.imgur.com/tm4VtrG.jpg" group-title="Roemenië",RO | Realitatea Star 
+https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.imgur.com/d4At2kL.jpg" group-title="Roemenië",RO | Realitatea Plus
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
+#EXTINF:-1 tvg-id="SmartTV.ro" tvg-logo="https://i.imgur.com/36r5Mr3.png" group-title="Roemenië",RO | Smart TV 
+https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-logo="https://i.imgur.com/jZLRn2q.png" group-title="Roemenië",RO | Metropola TV 
+http://81.196.109.35:1935/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-logo="https://i.imgur.com/hctWwvR.png" group-title="Roemenië",RO | Romania TV 
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="https://i.imgur.com/Gcn5Y8d.png" group-title="Roemenië",RO | AgroTV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-id="telestartv.ro" tvg-logo="https://i.imgur.com/0o7oPkk.png" group-title="Roemenië",RO | Telestar 1
+http://89.47.97.15/telestar/telestar.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-logo="https://i.imgur.com/RZuy82Q.jpg" group-title="Roemenië",RO | Super TV 
+http://iptv.supertv.ro:1935/live/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="QubTV.ro" tvg-logo="https://i.imgur.com/HuQbxCG.png" group-title="Roemenië",RO | Qub TV
+https://live.djemba.ro/live/qubtvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-logo="https://i.imgur.com/vvd2xOz.jpg" group-title="Roemenië",RO | Tele7ABC HD
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-logo="https://i.imgur.com/7gqRdff.jpg" group-title="Roemenië",RO | Atomic TV 
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="UTV.ro" tvg-logo="https://i.imgur.com/TP7GLyP.jpg" group-title="Roemenië",RO | UTV
+https://rundle.deta.dev/hls/LIVE$UTV.ro/6.m3u8/Level(19012010)?end=END&start=LIVE
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-logo="https://i.imgur.com/FkAg4Sl.png" group-title="Roemenië",RO | ZU TV
+https://rundle.deta.dev/hls/LIVE$ZuTelevision/6.m3u8/Level(19012010)?end=END&start=LIVE
 #EXTINF:-1 tvg-id="SuperSatTVHD.rs" tvg-logo="https://i.imgur.com/S2VjnfM.png" group-title="Servië",RS | SuperSat TV HD
 https://srv1.adriatelekom.com/SuperSatTV/index.m3u8
 #EXTINF:-1 tvg-id="AdriaMusicTV.rs" tvg-logo="https://i.imgur.com/V4jlIMY.jpg" group-title="Servië",RS | Adria Music TV
