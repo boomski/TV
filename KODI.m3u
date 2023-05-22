@@ -30,9 +30,9 @@ plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_u
 #EXTINF:-1 tvg-id="LaTrois(src01).be" tvg-logo="https://i.imgur.com/NnHzKTf.png" group-title="België",BE | La Trois
 plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=latrois
 #EXTINF:-1 tvg-id="AB3(src01).be" tvg-logo="https://i.imgur.com/xIV8szr.jpg" group-title="België",BE | AB3
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/abbe/get_live_url/?item_id=ab3
+
 #EXTINF:-1 tvg-id="ABXplore(src01).be" tvg-logo="https://i.imgur.com/9LF5Gr3.png" group-title="België",BE | ABXPLORE
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/abbe/get_live_url/?item_id=abxplore
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 #EXTINF:-1 tvg-id="ATV(src01).be" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="België",BE | ATV
@@ -1217,6 +1217,8 @@ https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pKBjctL.png" group-title="Italië",IT | Arte Network Orler 2
 https://tsw.streamingwebtv24.it:1936/artepertutti/artepertutti/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cToKFrg.png" group-title="Italië",IT | Vivaldi TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/guh3JJT.jpg" group-title="Italië",IT | Bergamo TV
 http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/139ZiUA.jpg" group-title="Italië",IT | Radio Radio TV
@@ -1349,6 +1351,7 @@ https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/
 https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ciOkjf.png" group-title="Italië",IT | Telepace 4
 https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/upXXgJ5.png" group-title="San Marino",SM | RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MeO2gUg.png" group-title="San Marino",SM | RTV San Marino Sport
