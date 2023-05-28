@@ -356,11 +356,7 @@ https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/Jdj5OuF.jpg" group-title="Frankrijk",FR | L'Équipe [Geo-Blocked]
 plugin://plugin.video.dailymotion_com/?url=x2lefik&mode=playLiveVideo
 #EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/auFFQDC.png" group-title="Frankrijk",FR | Sport en France
-https://sportenfrance.ziostream.cloud/hls/sp1564435593_hig/index.m3u8
-#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/auFFQDC.png" group-title="Frankrijk",FR | Sport en France
-https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
-#EXTINF:-1 tvg-id="SportEnFrance.fr" tvg-logo="https://i.imgur.com/auFFQDC.png" group-title="Frankrijk",FR | Sport en France
-https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0X14H5k.jpg" group-title="Frankrijk",FR | Kozoom [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCOwcct1FjXWzlvmQxaR4Y8Q&live=1
 #EXTINF:-1 tvg-id="FUELTV(English).fr" tvg-logo="https://i.imgur.com/zm3Gxnn.png" group-title="Frankrijk",FR | Fuel TV
