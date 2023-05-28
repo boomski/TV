@@ -1001,7 +1001,7 @@ https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist.m3u8|X-Forwarded-Fo
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tLwBOtU.jpg" group-title="Oostenrijk",AT | KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sQZfm5e.jpg" group-title="Oostenrijk",AT | Schau TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ojs1JvA.jpg" group-title="Oostenrijk",AT | Kurier TV
 https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0jHWmjL.png" group-title="Oostenrijk",AT | Tirol TV
 https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
@@ -1031,8 +1031,10 @@ https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nstream17.gotv.at:1443/live/gotvlive_576p/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJie1k5.png" group-title="Oostenrijk",AT | Teins TV
-http://live1.markenfunk.com/t1/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="VM1Sehen.at" tvg-logo="https://i.imgur.com/i6zAIvQ.jpg" group-title="Oostenrijk",AT | VM1 Sehen
+https://live1.markenfunk.com/t1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tma0hOI.jpg" group-title="Oostenrijk",AT | Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OyOPRtq.png" group-title="Oostenrijk",AT | K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ioGYz1b.jpg" group-title="Oostenrijk",AT | Swamiji TV Austria 
@@ -3462,15 +3464,29 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-logo="https://i.imgur.com/G5PjRNH.jpg" group-title="Venezuela",VE | Televen
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
 #EXTINF:-1 tvg-id="TVFamilia.ve" tvg-logo="https://i.imgur.com/ixIePRp.png" group-title="Venezuela",VE | TV Familia 
-https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-id="TAMTV.ve" tvg-logo="https://i.imgur.com/mDdein9.jpg" group-title="Venezuela",VE | Televisora Andina de Merida
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve"tvg-logo="https://i.imgur.com/2zFMmyC.png" group-title="Venezuela",VE | Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ValeTV.ve" tvg-logo="https://i.imgur.com/tLtcDcB.jpg" group-title="Venezuela",VE | Vale TV
-
+https://vcp2.myplaytv.com/valetv/valetv/master.m3u8
+#EXTINF:-1 tvg-id="TVFANB.ve" tvg-logo="https://i.imgur.com/uswoCny.jpg" group-title="Venezuela",VE | TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ilpkwIi.jpg" group-title="Venezuela",VE | Televisora del Tachira
+https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-1 tvg-id="Canali.ve" tvg-logo="https://i.imgur.com/uirGGZs.png" group-title="Venezuela",VE | Canal i
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesolTV.ve" tvg-logo="https://i.imgur.com/gybuDJY.jpg" group-title="Venezuela",VE | Telesol
+https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalNubehTV.ve" tvg-logo="https://i.imgur.com/2tJoQIl.png" group-title="Venezuela",VE | Canal Nubeh TV
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-logo="https://i.imgur.com/HYWt9B1.jpg" group-title="Venezuela",VE | Vepaco TV
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
+#EXTINF:-1 tvg-id="ChivacoaTVInternacional.ve" tvg-logo="" group-title="Venezuela",VE | Chivacoa TV Internacional
+https://vdo1.panelstreaming.live:3248/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4B9yO5c.jpg" group-title="Venezuela",VE | Torococo TV (720p)
+https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://i.imgur.com/tH3YK3F.png" group-title="Venezuela",VE | Globovision [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCfJtBtmhnIyfUB6RqXeImMw&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RIDP4eq.png" group-title="Australië",AU | Olympic Channel [Geo]
