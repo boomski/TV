@@ -23,16 +23,6 @@ plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85d
 plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
 #EXTINF:-1 tvg-id="vtmnieuws.be" tvg-logo="https://i.imgur.com/lG0Q2BQ.png" group-title="België",BE | VTM Nieuws
 plugin://plugin.video.vtm.go/play/catalog/channels/221eac7e-f92c-4df0-98e0-e0808d49ccda
-#EXTINF:-1 tvg-id="LaUne(src01).be" tvg-logo="https://i.imgur.com/Q61vR5B.jpg" group-title="België",BE | La Une
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=laune
-#EXTINF:-1 tvg-id="Tipik(LaDeux)(src01).be" tvg-logo="https://i.imgur.com/ilv0y3V.png" group-title="België",BE | TIPIK
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=tipiktv
-#EXTINF:-1 tvg-id="LaTrois(src01).be" tvg-logo="https://i.imgur.com/NnHzKTf.png" group-title="België",BE | La Trois
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=latrois
-#EXTINF:-1 tvg-id="AB3(src01).be" tvg-logo="https://i.imgur.com/xIV8szr.jpg" group-title="België",BE | AB3
-
-#EXTINF:-1 tvg-id="ABXplore(src01).be" tvg-logo="https://i.imgur.com/9LF5Gr3.png" group-title="België",BE | ABXPLORE
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 #EXTINF:-1 tvg-id="ATV(src01).be" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="België",BE | ATV
@@ -47,8 +37,20 @@ https://live.zendzend.com/streams/29375_399410/1080n/index.m3u8
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b3000000.m3u8|Referer=https://player.clevercast.com
 #EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist_b3000000.m3u8|Referer=https://player.clevercast.com
+#EXTINF:-1 tvg-id="TVBrussel(src01).be" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
 #EXTINF:-1 tvg-id="TeleBruxelles(src01).be" tvg-logo="https://i.imgur.com/MyvFt03.png" group-title="België",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LaUne(src01).be" tvg-logo="https://i.imgur.com/Q61vR5B.jpg" group-title="België",BE | La Une
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=laune
+#EXTINF:-1 tvg-id="Tipik(LaDeux)(src01).be" tvg-logo="https://i.imgur.com/ilv0y3V.png" group-title="België",BE | TIPIK
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=tipiktv
+#EXTINF:-1 tvg-id="LaTrois(src01).be" tvg-logo="https://i.imgur.com/NnHzKTf.png" group-title="België",BE | La Trois
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=latrois
+#EXTINF:-1 tvg-id="AB3(src01).be" tvg-logo="https://i.imgur.com/xIV8szr.jpg" group-title="België",BE | AB3
+
+#EXTINF:-1 tvg-id="ABXplore(src01).be" tvg-logo="https://i.imgur.com/9LF5Gr3.png" group-title="België",BE | ABXPLORE
+
 #EXTINF:-1 tvg-id="CanalC(src01).be" tvg-logo="https://i.imgur.com/XhhzcHn.png" group-title="België",BE | Boukè
 https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.bouke.media%2F
 #EXTINF:-1 tvg-id="TVLux(src01).be" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="België",BE | TV Lux
@@ -71,8 +73,6 @@ http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/playlist.m3u8
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Matele(src01).be" tvg-logo="https://i.imgur.com/cKrhIr3.png" group-title="België",BE | Matele
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-id="TVBrussel(src01).be" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
 #EXTINF:-1 tvg-id="LN24(src01).be" tvg-logo="https://i.imgur.com/t0xyNzm.png" group-title="België",BE | LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WJbtokn.jpg" group-title="België",BE | 21 Bis
