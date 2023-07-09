@@ -26,13 +26,13 @@ plugin://plugin.video.vtm.go/play/catalog/channels/221eac7e-f92c-4df0-98e0-e0808
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
 #EXTINF:-1 tvg-id="ATV(src01).be" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="België",BE | ATV
-https://live.zendzend.com/streams/29375_107244/1080n/index.m3u8
+https://live.zendzend.com/cmaf/29375_107244/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.gva.be%2F
 #EXTINF:-1 tvg-id="RobTV(src01).be" tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
-https://live.zendzend.com/streams/29375_395477/1080n/index.m3u8
+https://live.zendzend.com/cmaf/29375_395477/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fplayer.agnoplay.com%2F
 #EXTINF:-1 tvg-id="TVLimburg(src01).be" tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="België",BE | TVL
-https://live.zendzend.com/streams/29375_395474/1080n/index.m3u8
+https://live.zendzend.com/cmaf/29375_395474/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.tvl.be%2F
 #EXTINF:-1 tvg-id="TVOost(src01).be" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
-https://live.zendzend.com/streams/29375_399410/1080n/index.m3u8
+https://live.zendzend.com/cmaf/29375_399410/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fplayer.agnoplay.com%2F
 #EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b3000000.m3u8|Referer=https://player.clevercast.com
 #EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
@@ -1360,7 +1360,9 @@ https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master3200.m3u8|X-Fo
 https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master3200.m3u8|X-Forwarded-For=77.66.34.57
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FYmulOw.png" group-title="Denemarken",DK | DR Ramasjang [Geo]
 https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master3200.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TvwJbGi.png" group-title="Denemarken",DK | TV 2 Lorry
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/P8yRwwJ.png" group-title="Denemarken",DK | DR TV Avisen
+https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.dr.dk%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jAfRopq.jpg" group-title="Denemarken",DK | TV Kosmopol
 https://cdn-lt-live.tv2lorry.dk/env/cluster-1-a.live.nvp1/live/hls/p/2045321/e/1_grusx1zd/tl/main/st/0/t/Tpoil8IUW0Ll-I7MNdvq9w/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aYhB3dm.png" group-title="Denemarken",DK | TV 2 Fyn
 https://cdn-lt-live.tv2fyn.dk/env/cluster-1-b.live.nvp1/live/hls/p/1966291/e/0_vsfrv0zm/tl/main/st/0/t/6YzMg7iC2gGNwEhTTd--Jw/index-s32.m3u8
