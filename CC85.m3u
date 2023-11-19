@@ -13,9 +13,31 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eethkcA.png" group-title="Nederland",NL | AD LIVE
+https://dpg-eventstreams.akamaized.net/aldagclipstreamsrt-pep/streamx/aldagclipstreamsrt_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Action Nederland
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Comedy Nederland
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Documentaries Nederland
+https://rakuten-documentaries-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Drama Nederland
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Family Nederland
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Stories Nederland
+https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LN24(src01).be" tvg-logo="https://i.imgur.com/t0xyNzm.png" group-title="België",BE | LN24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/mndqxbrk/720/chunklist.m3u8
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg(src01).lu" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
+#EXTINF:-1 tvg-id="2tenRTL(src01).lu" tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Verenigd Koninkrijk",UK | Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Verenigd Koninkrijk",UK | Tennis Channel International
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nANWPc0.png" group-title="USA",US | PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ia7RPlO.jpg" group-title="USA",US | Weatherspy
+https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
