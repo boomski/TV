@@ -11,6 +11,8 @@ https://live.zendzend.com/cmaf/29375_399410/master.m3u8
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 #EXTINF:-1 tvg-id="vtm2.be" tvg-logo="https://i.imgur.com/V5HaWRY.png" group-title="België",BE | VTM 2
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
+#EXTINF:-1 group-title="Stream Feeds",HLN Live
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
 #EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
 #EXTVLCOPT:http-referrer=https://player.clevercast.com
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/VyO3OZ.smil/chunklist_b3000000.m3u8
