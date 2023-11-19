@@ -24,7 +24,7 @@ plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f8
 #EXTINF:-1 tvg-id="vtmnieuws.be" tvg-logo="https://i.imgur.com/lG0Q2BQ.png" group-title="België",BE | VTM Nieuws
 plugin://plugin.video.vtm.go/play/catalog/channels/221eac7e-f92c-4df0-98e0-e0808d49ccda
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
-https://dpg-eventstreams.akamaized.net/hlnlive-tzo/streamx/hlnlive.m3u8
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NwpKlYm.png" group-title="België",BE | Play 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -90,7 +90,7 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u
 #EXTINF:-1 tvg-id="Matele(src01).be" tvg-logo="https://i.imgur.com/cKrhIr3.png" group-title="België",BE | Matele
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="LN24(src01).be" tvg-logo="https://i.imgur.com/t0xyNzm.png" group-title="België",BE | LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/mndqxbrk/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WJbtokn.jpg" group-title="België",BE | 21 Bis
 https://media.thomasmore.be/elemental_hls/hls_stream_ipad_high.m3u8
 #EXTINF:-1 tvg-id="vrtevents1.be" tvg-logo="https://i.imgur.com/MP9S9yS.png" group-title="België",BE | VRT Events 1
@@ -182,7 +182,7 @@ https://live.rtva.nl/live/zender.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://olon.ctl.cdn.ebsd.ericsson.net/L9A/ca6b9054/6e5e08ce.isml/.mpd?dvr_window_length=7200
 #EXTINF:-1 tvg-id="InsightUHD.de" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Insight TV
-https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Nederland",NL | Inwonder TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cud1VWY.png" group-title="Nederland",NL | Introuble TV
