@@ -1,2 +1,15 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="ATV(src01).be" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="België",BE | ATV
+https://live.zendzend.com/cmaf/29375_107244/master.m3u8
+#EXTINF:-1 tvg-id="RobTV(src01).be" tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
+https://live.zendzend.com/cmaf/29375_395477/master.m3u8
+#EXTINF:-1 tvg-id="TVLimburg(src01).be" tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="België",BE | TVL
+https://live.zendzend.com/cmaf/29375_395474/master.m3u8
+#EXTINF:-1 tvg-id="TVOost(src01).be" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
+https://live.zendzend.com/cmaf/29375_399410/master.m3u8
+#EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
+#EXTVLCOPT:http-referrer=https://player.clevercast.com
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/VyO3OZ.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-id="TVBrussel(src01).be" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
+#EXTVLCOPT:http-referrer=https://player.cdn01.rambla.be/
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
