@@ -204,7 +204,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p563nCW.png" group-title="Groot-Brittannië",UK | BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YBRxhVQ.jpg" group-title="Groot-Brittannië",UK | GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YBRxhVQ.jpg" group-title="Groot-Brittannië",UK | GB News [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC0vn8ISa4LKMunLbzaXLnOQ&live=1
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/EFaC5uK.png" group-title="Groot-Brittannië",UK | Sky News [YOUTUBE]
@@ -3193,6 +3193,8 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 plugin://plugin.video.twitch/?mode=play&channel_name=canalshowsport
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jT3d6p1.jpg" group-title="Argentinië",AR | Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAokqjI.jpg" group-title="Argentinië",AR | Canal 4 Telecondor
+https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QqSJ0EN.png" group-title="Argentinië",AR | Eltres
 https://g4.proy-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_720p.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A91.0)%20Gecko%2F20100101%20Firefox%2F91.0&Referer=https%3A%2F%2Fvmf.edge-apps.net%2F
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/DWp0l7p.jpg" group-title="Argentinië",AR | Canal Luz
