@@ -50,9 +50,7 @@ https://live.zendzend.com/cmaf/29375_395474/master.m3u8?HLS_version=ts|User-Agen
 #EXTINF:-1 tvg-id="TVOost(src01).be" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
 https://live.zendzend.com/cmaf/29375_399410/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fplayer.agnoplay.com%2F
 #EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist_b3000000.m3u8|Referer=https://player.clevercast.com
-#EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | Focus
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist_b3000000.m3u8|Referer=https://player.clevercast.com
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/WqY7Y3.smil/playlist.m3u8?|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fplayer.clevercast.com%2F
 #EXTINF:-1 tvg-id="TVBrussel(src01).be" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
 #EXTINF:-1 tvg-id="TeleBruxelles(src01).be" tvg-logo="https://i.imgur.com/MyvFt03.png" group-title="België",BE | BX1
