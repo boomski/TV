@@ -168,17 +168,17 @@ http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R1UP2cj.png" group-title="Nederland",NL | JENZ
 https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HK13TV.nl" tvg-logo="https://i.imgur.com/ucIDekH.jpg" group-title="Nederland",NL | HK13 TV
-http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
+https://58c04fb1d143f.streamlock.net/harderwijktv/harderwijktv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4kURvuH.png" group-title="Nederland",NL | TV Ellef
-http://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8
+https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HaPMx2o.png" group-title="Nederland",NL | TV Valkenburg
-http://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p47hUYh.jpg" group-title="Nederland",NL | RTVA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WDvtIAu.jpg" group-title="Nederland",NL | 1Amstelveen
 https://live.rtva.nl/live/zender.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cWxgJTj.jpg" group-title="Nederland",NL | Studio 040
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://olon.ctl.cdn.ebsd.ericsson.net/L9A/ca6b9054/6e5e08ce.isml/.mpd?dvr_window_length=7200
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.mpd
 #EXTINF:-1 tvg-id="InsightUHD.de" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Insight TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Nederland",NL | Inwonder TV
@@ -192,21 +192,23 @@ plugin://plugin.video.youtube/play/?channel_id=UCOtok8iIlT9k-beq2bpZ4ag&live=1
 #EXTINF:-1 tvg-id="TommyTV(src02).nl" tvg-logo="https://i.imgur.com/cNgwmz3.jpg" group-title="Nederland",NL | Tommy Teleshopping
 http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/RNEl9Er.jpg" group-title="Groot-Brittannië",UK | BBC News
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/RNEl9Er.jpg" group-title="Groot-Brittannië",UK | BBC News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-logo="https://i.imgur.com/r2tcVnk.png" group-title="Groot-Brittannië",UK | BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="BBCArabic(English).ca" tvg-logo="https://i.imgur.com/8qm0Omj.jpg" group-title="Groot-Brittannië",UK | BBC Arabic 
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/p563nCW.png" group-title="Groot-Brittannië",UK | BBC Persian
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YBRxhVQ.jpg" group-title="Groot-Brittannië",UK | GB News
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YBRxhVQ.jpg" group-title="Groot-Brittannië",UK | GB News [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UC0vn8ISa4LKMunLbzaXLnOQ&live=1
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/EFaC5uK.png" group-title="Groot-Brittannië",UK | Sky News [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/Hwvn5EP.png" group-title="Groot-Brittannië",UK | Reuters Now
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV1(London).uk" tvg-logo="https://i.imgur.com/545cTWL.jpg" group-title="Groot-Brittannië",UK | ITV 1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xzVF5WZ.png" group-title="Groot-Brittannië",UK | ITV 2
@@ -227,8 +229,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
 
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/BCN0a8L.png" group-title="Groot-Brittannië",UK | Sofy TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Groot-Brittannië",UK | Reuters TV
-https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QKSu2am.jpg" group-title="Groot-Brittannië",UK | Go USA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Groot-Brittannië",UK | Inwonder TV
@@ -249,6 +249,10 @@ https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l0RMzT5.png" group-title="Groot-Brittannië",UK | Sports Tonight
 
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Groot-Brittannië",UK | Tennis Channel UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Groot-Brittannië",UK | Tennis Channel International
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Groot-Brittannië",UK | Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KRBuvRS.png" group-title="Groot-Brittannië",UK | Bid TV
