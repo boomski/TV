@@ -53,6 +53,8 @@ https://live.zendzend.com/cmaf/29375_399410/master.m3u8?HLS_version=ts|User-Agen
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/WqY7Y3.smil/playlist.m3u8?|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fplayer.clevercast.com%2F
 #EXTINF:-1 tvg-id="TVBrussel(src01).be" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D9cyac0.jpg" group-title="België",BE | Zoo Media
+https://media.thomasmore.be/elemental_hls/hls_stream_ipad_high.m3u8
 #EXTINF:-1 tvg-id="TeleBruxelles(src01).be" tvg-logo="https://i.imgur.com/MyvFt03.png" group-title="België",BE | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaUne(src01).be" tvg-logo="https://i.imgur.com/Q61vR5B.jpg" group-title="België",BE | La Une
@@ -89,8 +91,6 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="LN24(src01).be" tvg-logo="https://i.imgur.com/t0xyNzm.png" group-title="België",BE | LN24
 https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/mndqxbrk/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WJbtokn.jpg" group-title="België",BE | 21 Bis
-https://media.thomasmore.be/elemental_hls/hls_stream_ipad_high.m3u8
 #EXTINF:-1 tvg-id="vrtevents1.be" tvg-logo="https://i.imgur.com/MP9S9yS.png" group-title="België",BE | VRT Events 1
 plugin://plugin.video.vrt.nu/play/id/vualto_events1_geo
 #EXTINF:-1 tvg-id="vrtevents2.be" tvg-logo="https://i.imgur.com/MP9S9yS.png" group-title="België",BE | VRT Events 2
