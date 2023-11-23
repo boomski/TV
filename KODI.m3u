@@ -226,35 +226,33 @@ plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BylevGX.png" group-title="Groot-Brittannië",UK | 5 USA
 
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/BCN0a8L.png" group-title="Groot-Brittannië",UK | Sofy TV
-https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="Groot-Brittannië",UK | Reuters TV
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QKSu2am.jpg" group-title="Groot-Brittannië",UK | Go USA
-https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Groot-Brittannië",UK | Inwonder TV
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/58Jljqj.jpg" group-title="Groot-Brittannië",UK | English Club TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EeU8AxU.jpg" group-title="Groot-Brittannië",UK | Filmzie
-https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LondonLive.uk" tvg-logo="https://i.imgur.com/SzwncZ6.jpg" group-title="Groot-Brittannië",UK | London Live [Geo-Blocked]
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FMLBCO7.jpg" group-title="Groot-Brittannië",UK | Failarmy International 
-https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YaoNFN1.jpg" group-title="Groot-Brittannië",UK | Go USA
-https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/MG3C3WZ.jpg" group-title="Groot-Brittannië",UK | Free Sports
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
 #EXTINF:-1 tvg-id="SportystuffTV.uk" tvg-logo="https://i.imgur.com/f9b7f5z.png" group-title="Groot-Brittannië",UK | SportyStuff TV
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="SportsChannelNetwork.uk" tvg-logo="https://i.imgur.com/hCK52Q0.png" group-title="Groot-Brittannië",UK | Sports Channel Network 
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l0RMzT5.png" group-title="Groot-Brittannië",UK | Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N478YXt.png" group-title="Groot-Brittannië",UK | Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KRBuvRS.png" group-title="Groot-Brittannië",UK | Bid TV
-https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZdDLM7n.png" group-title="Groot-Brittannië",UK | Local TV Birmingham
 plugin://plugin.video.dailymotion_com/?url=x702hnp&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4Qriq6R.jpg" group-title="Groot-Brittannië",UK | Local TV Cardiff
@@ -271,18 +269,24 @@ plugin://plugin.video.dailymotion_com/?url=x702fmv&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x702g7a&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIFuZIz.jpg" group-title="Groot-Brittannië",UK | Local TV Tyne & Wear
 plugin://plugin.video.dailymotion_com/?url=x5eva8m&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VJsnauI.png" group-title="Groot-Brittannië",UK | Hala London
-https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yx5R6de.jpg" group-title="Groot-Brittannië",UK | Hala London International
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/program/playlist/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yx5R6de.jpg" group-title="Groot-Brittannië",UK | Hala London Series
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yx5R6de.jpg" group-title="Groot-Brittannië",UK | Hala London Cartoon
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yx5R6de.jpg" group-title="Groot-Brittannië",UK | Hala London Movies
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yx5R6de.jpg" group-title="Groot-Brittannië",UK | Hala London Production
+https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LdYpVjB.jpg" group-title="Groot-Brittannië",UK | Time Line
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeInternational.uk" tvg-logo="https://i.imgur.com/Xb5rerE.png" group-title="Groot-Brittannië",UK | Tastemade
-https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aAog3ak.jpg" group-title="Groot-Brittannië",UK | MoonBug
-https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QAxQUj6.png" group-title="Groot-Brittannië",UK | Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N375znC.png" group-title="Groot-Brittannië",UK | Pocket Watch
-https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VoxAfrica.uk" tvg-logo="https://i.imgur.com/WU398xs.jpg" group-title="Groot-Brittannië",UK | Voxafrica
 http://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/j5pA9BD.jpg" group-title="Groot-Brittannië",UK | LCBN
