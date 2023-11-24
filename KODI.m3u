@@ -11,8 +11,12 @@ plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
 plugin://plugin.video.vrt.nu/play/id/ketnet_jr
 #EXTINF:-1 tvg-id="vtm.be" tvg-logo="https://i.imgur.com/wLBI62n.png" group-title="België",BE | VTM
 plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
+#EXTINF:-1 tvg-id="vtm.be" tvg-logo="https://i.imgur.com/wLBI62n.png" group-title="België",BE | VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 #EXTINF:-1 tvg-id="vtm2.be" tvg-logo="https://i.imgur.com/V5HaWRY.png" group-title="België",BE | VTM 2
 plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
+#EXTINF:-1 tvg-id="vtm2.be" tvg-logo="https://i.imgur.com/V5HaWRY.png" group-title="België",BE | VTM 2
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 #EXTINF:-1 tvg-id="vtm3.be" tvg-logo="https://i.imgur.com/gi4Dx0i.png" group-title="België",BE | VTM 3
 plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
 #EXTINF:-1 tvg-id="vtm4.be" tvg-logo="https://i.imgur.com/hsTkX9n.png" group-title="België",BE | VTM 4
