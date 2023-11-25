@@ -372,8 +372,10 @@ https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUQsmTX.png" group-title="USA",US | CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XzItZ1C.png" group-title="USA",US | Dabl
+#EXTINF:-1 tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/XzItZ1C.png" group-title="USA",US | Dabl
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+#EXTINF:-1 tvg-id="Go2Travel.us" tvg-logo="https://i.imgur.com/7m2NOCO.png" group-title="USA",US | Go2ravel
+https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZRVgqQs.jpg" group-title="USA",US | YTA
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wiuy1ez.jpg" group-title="USA",US | BizTV
@@ -521,9 +523,11 @@ https://wxxidt.lls.cdn.pbs.org/wxxidt/d518ca7e-a094-4362-832b-ae1d426d3729/prima
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O2ySIbp.jpg" group-title="USA",US | New York | WPBS [Geo]
 https://wpbsdt.lls.cdn.pbs.org/wpbsdt/c17cb584-9efe-46fc-ac91-3fb453714069/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6tCgsNc.jpg" group-title="USA",US | New York | WNYE-DT3
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnye-dt3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8f0suCQ.png" group-title="USA",US | North Carolina | WCCB
+https://dai.google.com/linear/hls/pa/event/pyU3fu_aTzSGVZrUvBodaQ/stream/d7e4a5b8-68fc-4dfb-8992-0394c04fbb7e:GRQ/master.m3u8
 #EXTINF:-1 tvg-id="WKYC.us" tvg-logo="https://i.imgur.com/xNun2VZ.jpg" group-title="USA",US | Ohio | WKYC
-https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9IT0GXB.jpg" group-title="USA",US | Ohio | WEWS 5 ABC
 https://wews-syndication.ewscloud.com/out/v1/72729e3f4dbe4aafbab93d6b1117e5f1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EJqalAJ.jpg" group-title="USA",US | Oregon | KOBI-TV NBC 5 [YOUTUBE]
@@ -584,26 +588,53 @@ https://testlowlat.harmonicinc.com/Content/DASH/Live/channel(dash_ll_time)/manif
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i5dK5Ft.png" group-title="USA",US | 2A Network
-https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uCy2jpP.png" group-title="USA",US | iShe TV
-https://simultv.s.llnwi.net/o058/iSheTV/interlink.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ww9qYJZ.jpg" group-title="USA",US | iTown TV
-https://simultv.s.llnwi.net/o064/iTownTV/interlink.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/anVbJqN.png" group-title="USA",US | Guinness World Records
+https://stream.ads.ottera.tv/cl/231125clh112osunu8cf1hcfkg/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VqBg4kb.png" group-title="USA",US | Toon Goggles
+https://stream.ads.ottera.tv/cl/231125clh0sklbg19tn65hgoh0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UCoXUaE.png" group-title="USA",US | TG Junior
+https://stream.ads.ottera.tv/cl/231125clh0tm37gu38gq2t1btg/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/og091Sg.png" group-title="USA",US | TG Movies
+https://stream.ads.ottera.tv/cl/231125clh134ts9tjl5q0tg3vg/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w240SWr.png" group-title="USA",US | Smurf TV
+https://stream.ads.ottera.tv/cl/231125clh0q2f9r39qlhkvr5m0/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meeRtOp.png" group-title="USA",US | Boonie Cubs TV
+https://stream.ads.ottera.tv/cl/231125clh18k5s9tjl5q0thbpg/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aJTecvr.png" group-title="USA",US | Camp Spoopy
+https://stream.ads.ottera.tv/cl/231125clh17q9fsrcpoumr2hsg/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ampK5Wk.png" group-title="USA",US | Gross Out TV
+https://stream.ads.ottera.tv/cl/231125clh14pdkt7ko3om86aqg/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z0fpqBF.png" group-title="USA",US | Sparkle Power
+https://stream.ads.ottera.tv/cl/231125clh16o37gu38gq2t2sk0/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TMSKl7U.png" group-title="USA",US | Eddie's Wonderland
+https://stream.ads.ottera.tv/cl/231125clh19e293tkan3iqk68g/1280x720_2300000_0_f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HXwpD1q.png" group-title="USA",US | Zoo Moo
+https://stream.ads.ottera.tv/cl/231125clh1a9jnp20k0fbi1hlg/1280x720_2300000_0_f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iYaH8A6.png" group-title="USA",US | Cutlery Corner Network [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCj3dt20MAZcvDN8GKeT2FBg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i5dK5Ft.png" group-title="USA",US | 2A Network
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uCy2jpP.png" group-title="USA",US | iShe TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ww9qYJZ.jpg" group-title="USA",US | iTown TV
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Africa / Asia
-https://live-c348a30.rmbl.ws/slot-18/ngrp:yjnk-afxc_all/playlist.m3u8
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Asia / Pacific
-https://live-c348a30.rmbl.ws/slot-12/ngrp:q6ms-g1u9_all/playlist.m3u8
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Canada
-https://live-c348a30.rmbl.ws/slot-34/ngrp:1d1d-wqrm_all/playlist.m3u8
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Europe
-https://live-fd164e1.rmbl.ws/slot-27/ngrp:ipy0-yeb3_all/playlist.m3u8
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN España / Latinoamerica
-https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="USA",US | EWTN Hungary
+https://hls.iptvservice.eu/hls/ewtn-sd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lccxQNy.jpg" group-title="USA",US | Pax TV
 https://univstream.akamaized.net/hls/live/2025223/PAX/master.m3u8
+#EXTINF:-1 tvg-id="TMTV.us" tvg-logo="https://i.imgur.com/1Wvu0Ic.png" group-title="USA",US | TM TV
+https://hls.tmtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBgGA8H.png" group-title="Canada",CA | CBC News Network [Geo]
@@ -1563,6 +1594,8 @@ http://mediaspar-live.hls.adaptive.level3.net/ses/mediaspar/stream1/streamPlayli
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7EeExjN.jpg" group-title="Duitsland",DE | ERF
 https://bcovlive-a.akamaihd.net/77c33860eef740e894a97c6d6c21898d/eu-central-1/6194387526001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XZZAFJp.jpg" group-title="Duitsland",DE | EWTN Deutschland
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BibelTV.de" tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV [Geo-Blocked]
 https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="BibelTV.de" tvg-logo="https://i.imgur.com/MMSlhhQ.png" group-title="Duitsland",DE | Bibel TV [Geo-Blocked]
