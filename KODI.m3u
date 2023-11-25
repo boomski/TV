@@ -205,10 +205,14 @@ plugin://plugin.video.youtube/play/?channel_id=UC0vn8ISa4LKMunLbzaXLnOQ&live=1
 plugin://plugin.video.youtube/play/?channel_id=UCoMdktPbSTixAyNGwb-UYkQ&live=1
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/Hwvn5EP.png" group-title="Groot-Brittannië",UK | Reuters Now
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/3ACZAht.png" group-title="Groot-Brittannië",UK | The Guardian
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fex6hJE.png" group-title="Groot-Brittannië",UK | Ocean News UK
 https://sscsott.com/oceannews/live/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/veFufOw.png" group-title="Groot-Brittannië",UK | Viaplay Xtra
 https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/qeQE0C8.jpg" group-title="Groot-Brittannië",UK | EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV1(London).uk" tvg-logo="https://i.imgur.com/545cTWL.jpg" group-title="Groot-Brittannië",UK | ITV 1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xzVF5WZ.png" group-title="Groot-Brittannië",UK | ITV 2
@@ -302,7 +306,7 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 #EXTINF:-1 tvg-id="TJC(src01).uk" tvg-logo="https://i.imgur.com/bPU3MR2.jpg" group-title="Groot-Brittannië",UK | TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="SpotlightTV.uk" tvg-logo="https://i.imgur.com/EJpYNba.jpg" group-title="Groot-Brittannië",UK | Spotlight TV
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ckZ6y9e.jpg" group-title="Groot-Brittannië",UK | Pokerstars [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCGWkDcYbDKP9r--ym28YwAQ&live=1
 #EXTINF:-1 tvg-id="IdealWorld.uk" tvg-logo="https://i.imgur.com/Q4e2zUg.png" group-title="Groot-Brittannië",UK | Ideal World [YOUTUBE]
