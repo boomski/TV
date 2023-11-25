@@ -370,8 +370,12 @@ https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wQ2TrDu.png" group-title="USA",US | OAN
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUQsmTX.png" group-title="USA",US | CNBC Arabiya
-https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lx6u58l.jpg" group-title="USA",US | CNBC Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUQsmTX.png" group-title="USA",US | CNBC Arabiya [DAILYMOTION]
+plugin://plugin.video.dailymotion_com/?url=x7zjeht&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QN9tMfA.png" group-title="USA",US | CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/XzItZ1C.png" group-title="USA",US | Dabl
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:-1 tvg-id="Go2Travel.us" tvg-logo="https://i.imgur.com/7m2NOCO.png" group-title="USA",US | Go2ravel
@@ -388,6 +392,8 @@ https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LOnaDgp.jpg" group-title="USA",US | Channel Fight
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=6290
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1DN6gaW.png" group-title="USA",US | Royal Time Television
+https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV [YOUTUBE]
@@ -2016,7 +2022,8 @@ https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/
 https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ciOkjf.png" group-title="Italië",IT | Telepace 4
 https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FjhAjTx.png" group-title="Italië",IT | Class CNBC
+https://streamcdnb1-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S57048752/8raQqCXozN1H/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/upXXgJ5.png" group-title="San Marino",SM | RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MeO2gUg.png" group-title="San Marino",SM | RTV San Marino Sport
