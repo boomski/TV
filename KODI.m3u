@@ -351,9 +351,10 @@ https://120sports-accdn-1.plex.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrWFjb5.jpg" group-title="USA",US | ESPN U
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 International [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=pac12networksintl&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 Insider
-https://pac12-localnow.amagi.tv/playlist.m3u8
+https://pac12-ono.amagi.tv/playlist/pac12-ono-pac12-hls/cb553e1f786c678f93d43e60d5ef42a1d82402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9ab265d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42b555db84b2a056b8fec0ff97553d88858d97a348aac88342474595d9b4009e7f308a4fae65b13da6ea9bb1872af7e11a49c02c8d65fe2d4f64da457857ff517cb91f48bce18d0d4947ea856e731445a722dcbcd2991995eb7d8cd386898737a1c583f8ea297ed003f874e472e8295b3ee32af4397db77d53867f627b778d569da3bf8288ac06989f7eab52a403db78a58722ea497e5e0b82532be37a99de7d8676b96e41f4741c87ecc1d3c3d92c2cf1197c80199a61c89bd7f186295fb2e9a99a1cde9a79b49952198b5b2f27911173750538708f2d735d92b8835f99f1624114f14fdc8189484895d316018d7d15ad64141fab1e382db1d75da72145c9a17b32e503d99643b2abf1dd8b96d3eb6110f870a2de95731b2be9dd2589d7e3e2e674bd4a4a560da2d88970fdef10bbc604e2868d1d7192f89c8e0b2940028256bcc55e1a9a489d5e2cb8d85aadfce472f022b071078e32e5edbfafca31f3131bb3b006c751e139316c52ba368e9ebe5a86cb09a285aff760023f2b03a4f4a2ca6dabe978ed8c941ff19b9abaf697e630b26d5617406aa6c68e3a5d418326e453a2e7695329d4d3567ff87c6f59ccf4cdc8977b93d6e075935917d71245d696a069791278210b2d3558e92c458c3f89e526bb17cf2515ece8b9c5bf1e3d793144f88fc03422785c57d94217d89479d6bafd773d3bf1a544c6d101893de05bf79b0cd9fc1248263fc1d5330ba0acef68984df6852e8865973625927705166367d5cf68aaf216a1cc1b33def51eaea2fd8645d213a41d19a4013c6df7e12983a6973e7c7ef8ebec1171fda6497249a32e945f336c57fb23514804f2ca13a2f8e/132/1920x1080_5253600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MyiyVOo.jpg" group-title="USA",US | Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PuZeruz.jpg" group-title="USA",US | Crackle
@@ -376,16 +377,20 @@ https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/master.m3u8
 plugin://plugin.video.dailymotion_com/?url=x7zjeht&mode=playLiveVideo
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QN9tMfA.png" group-title="USA",US | CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4AqYslB.png" group-title="USA",US | Outdoor America
+https://20c39793f21842f0988c41529efaff20.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/Linear-600-Outdoor-America-Obsession-Media/f6f8e00b-98d1-4a3a-817a-461e2658f13a/0.m3u8
 #EXTINF:-1 tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/XzItZ1C.png" group-title="USA",US | Dabl
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:-1 tvg-id="Go2Travel.us" tvg-logo="https://i.imgur.com/7m2NOCO.png" group-title="USA",US | Go2ravel
 https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FNX.us" tvg-logo="https://i.imgur.com/JfnulOt.jpg" group-title="USA",US | FNX
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZRVgqQs.jpg" group-title="USA",US | YTA
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wiuy1ez.jpg" group-title="USA",US | BizTV
-https://thegateway.app/BizAndYou/LimeLightBizTV/playlist.m3u8
+https://2-fss-1.streamhoster.com/pl_122/205722-2407996-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Peachtree.us" tvg-logo="https://i.imgur.com/Bc1vlxu.jpg" group-title="USA",US | Peachtree TV
-http://encodercdn1.frontline.ca/encoder181/output/Peachtree_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/82YQHW1.jpg" group-title="USA",US | Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/wPvG446.jpg" group-title="USA",US | MovieSphere
