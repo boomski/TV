@@ -35,6 +35,10 @@ https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/live/playlist.m3u8
 https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
 #EXTINF:-1 tvg-id="2tenRTL(src01).lu" tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/veFufOw.png" group-title="Groot-Brittannië",UK | Viaplay Xtra
+https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/qeQE0C8.jpg" group-title="Groot-Brittannië",UK | EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Verenigd Koninkrijk",UK | Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/7ikJJVd.jpg" group-title="Verenigd Koninkrijk",UK | Tennis Channel International
