@@ -133,6 +133,14 @@ https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Stories Nederland
 https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Insight TV 
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Nederland",NL | Inwonder TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cud1VWY.png" group-title="Nederland",NL | Introuble TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ml4wbLz.jpg" group-title="Nederland",NL | Kozoom TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="L1TV(src02).nl" tvg-logo="https://i.imgur.com/8bqkwkG.png" group-title="Nederland",NL | L1mburg
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabant(src02).nl" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="Nederland",NL | Omroep Brabant
@@ -177,12 +185,6 @@ https://live.rtva.nl/live/zender.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.mpd
-#EXTINF:-1 tvg-id="InsightUHD.de" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Insight TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Nederland",NL | Inwonder TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cud1VWY.png" group-title="Nederland",NL | Introuble TV
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2IBXEcL.jpg" group-title="Nederland",NL | Kindertijd KRO-NCRV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCOtok8iIlT9k-beq2bpZ4ag&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yv6JJi7.png" group-title="Nederland",NL | MTV Music 24
@@ -249,8 +251,6 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/EgxudUc.png" group-title="Groot-Brittannië",UK | Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Groot-Brittannië",UK | Insight TV
-https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-logo="https://i.imgur.com/L0XoUf6.jpg" group-title="Groot-Brittannië",UK | Wonder TV
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealStories.uk" tvg-logo="https://i.imgur.com/HjoAQI8.jpg" group-title="Groot-Brittannië",UK | Real Stories
@@ -352,20 +352,52 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PuZeruz.jpg" group-title="USA",US | Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lx6u58l.jpg" group-title="USA",US | CNBC Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUQsmTX.png" group-title="USA",US | CNBC Arabiya [DAILYMOTION]
+plugin://plugin.video.dailymotion_com/?url=x7zjeht&mode=playLiveVideo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QN9tMfA.png" group-title="USA",US | CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e4346DM.jpg" group-title="USA",US | Newsmax2 TV 
+https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e4346DM.jpg" group-title="USA",US | Newsmax2 TV [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dO0z92l.jpg" group-title="USA",US | ACCDN
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrWFjb5.jpg" group-title="USA",US | ESPN U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 International [YOUTUBE]
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u29KTQR.jpg" group-title="USA",US | Pac-12 International [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCx0IoH70qVp11Qkv1pa0phQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 Insider
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/pac12-ono-pac12-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/8jWxJmM.jpg" group-title="USA",US | SportsGrid
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4mJobON.png" group-title="USA",US | Sports Connect
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DlogyvC.png" group-title="USA",US | Billiard TV
+https://pubads.g.doubleclick.net/ssai/event/rzUfbID8QZC1iWIgk0ThuA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DlogyvC.png" group-title="USA",US | Billiard TV
+https://a1a69a13b68f44f4aff604dd4cdee5cd.mediatailor.us-west-2.amazonaws.com/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5WaeHVf.png" group-title="USA",US | Court Sports Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/playlist.m3u8
+#EXTINF:-1 tvg-id="MTRSPT1.us" tvg-logo="https://i.imgur.com/oT72zmk.png" group-title="USA",US | MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LYt2UfL.png" group-title="USA",US | Boxing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MyiyVOo.jpg" group-title="USA",US | Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour 
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LOnaDgp.jpg" group-title="USA",US | Channel Fight
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=6290
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xKcqgsf.png" group-title="USA",US | ACL Cornhole TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/CORNHOLETV_SCTE.m3u8
 #EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/bPqEacw.jpg" group-title="USA",US | AFV 
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/bPqEacw.jpg" group-title="USA",US | AFV Family
@@ -374,6 +406,8 @@ https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-logo="https://i.imgur.com/ERvFdws.jpg" group-title="USA",US | The Film Detective
 https://filmdetective-plex.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/wPvG446.jpg" group-title="USA",US | MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/orD6qLq.jpg" group-title="USA",US | Nat Geo [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MLqjsyg.jpg" group-title="USA",US | Nat Geo Wild [YOUTUBE]
@@ -392,16 +426,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-sam
 https://quahztv-pull.secure.footprint.net/quahztv1/stream_1250_20230618T204336.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wQ2TrDu.png" group-title="USA",US | OAN
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ClgyWH8.jpg" group-title="USA",US | NBC News Now [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCeY0bbntWzzVIaj2z3QigXg&live=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CsKDAln.jpg" group-title="USA",US | Newsmax TV [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lx6u58l.jpg" group-title="USA",US | CNBC Africa
-https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VUQsmTX.png" group-title="USA",US | CNBC Arabiya [DAILYMOTION]
-plugin://plugin.video.dailymotion_com/?url=x7zjeht&mode=playLiveVideo
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QN9tMfA.png" group-title="USA",US | CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryNews.us" tvg-logo="https://i.imgur.com/hlfzMiT.png" group-title="USA",US | Revry News
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://i.imgur.com/AfwvXJg.png" group-title="USA",US | Revry
@@ -414,28 +438,26 @@ https://20c39793f21842f0988c41529efaff20.mediatailor.us-west-2.amazonaws.com/v1/
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:-1 tvg-id="Go2Travel.us" tvg-logo="https://i.imgur.com/7m2NOCO.png" group-title="USA",US | Go2Travel
 https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/82YQHW1.jpg" group-title="USA",US | Gusto TV
+https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="UsWeeklyTV.us" tvg-logo="https://i.imgur.com/DQlRMK0.png" group-title="USA",US | US Weekly TV
+https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FNX.us" tvg-logo="https://i.imgur.com/JfnulOt.jpg" group-title="USA",US | FNX
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/crYZH7T.jpg" group-title="USA",US | SurvivorNetTV
+https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZRVgqQs.jpg" group-title="USA",US | YTA
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wiuy1ez.jpg" group-title="USA",US | BizTV
 https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wiuy1ez.jpg" group-title="USA",US | BizTV
 https://2-fss-1.streamhoster.com/pl_122/205722-2407996-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Peachtree.us" tvg-logo="https://i.imgur.com/Bc1vlxu.jpg" group-title="USA",US | Peachtree TV
-
-#EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/82YQHW1.jpg" group-title="USA",US | Gusto TV
-https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="UsWeeklyTV.us" tvg-logo="https://i.imgur.com/DQlRMK0.png" group-title="USA",US | US Weekly TV
-https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/wPvG446.jpg" group-title="USA",US | MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Schwab.us"tvg-logo="https://i.imgur.com/QL6J39E.jpg" group-title="USA",US | Schwab Network
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://i.imgur.com/KyDqiJ8.png" group-title="USA",US | Yahoo! Finance
 https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MuseumTVFast.us" tvg-logo="https://i.imgur.com/MreFhBD.jpg" group-title="USA",US | Museum TV Fast
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LOnaDgp.jpg" group-title="USA",US | Channel Fight
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=6290
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1DN6gaW.png" group-title="USA",US | Royal Time Television
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
 #EXTINF:-1 tvg-id="HiYAH.us" tvg-logo="https://i.imgur.com/K2ObaDQ.jpg" group-title="USA",US | Hi-YAH! 
@@ -444,18 +466,41 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
 #EXTINF:-1 tvg-id="FreebieTV.us" tvg-logo="https://i.imgur.com/5zZKsb4.png" group-title="USA",US | Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
-#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-logo="https://i.imgur.com/C8bapJN.jpg" group-title="USA",US | AMC Absolute Reality
-https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6IbRx3q.png" group-title="USA",US | Cartoon Network Latinoamerica [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCQySZQ6rrgJXRuonMwIIGMA&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jKkKuUJ.jpg" group-title="USA",US | NASA TV Media Channel [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCLA_DiR1FfKNvjuUpBHmylQ&live=2
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9nvZyxt.jpg" group-title="USA",US | World Poker Tour [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCEUGxpG2rkyJlCvr46PBr6g&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xNN7PxN.jpg" group-title="USA",US | ISN [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCoGJH4hyokR0Xyto0sfT3sA&live=1
+#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-logo="https://i.imgur.com/C8bapJN.jpg" group-title="USA",US | AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-logo="https://i.imgur.com/yCL0G0K.png" group-title="USA",US | Humor Mill 
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/anVbJqN.png" group-title="USA",US | Guinness World Records
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=567&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700989546&id=267345&ip=213.219.165.213&override_expiration=1500&sign=%2FNoUmf2DbNYA7f6Do3On017XsROuIjb2XDcLRibV2rQ%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VqBg4kb.png" group-title="USA",US | Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=33&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700989436&id=261205&ip=213.219.165.213&override_expiration=1500&sign=%2BI8clK09Fqv9dz8GBn18fUsFB5xiX7GJW9wnzR2JKuU%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UCoXUaE.png" group-title="USA",US | TG Junior
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=31&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700989843&id=259980&ip=213.219.165.213&override_expiration=1500&sign=FZfgOr77MD6xSj%2BrTVlSHuWY3P%2BSwy%2B1%2FKM6jVVfwPw%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/og091Sg.png" group-title="USA",US | TG Movies
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=286&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700989880&id=264524&ip=213.219.165.213&override_expiration=1500&sign=aGc28ZVa2YMZhzl%2B7TWZXcm2x7S1JjrCLW%2B1g94rT4M%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w240SWr.png" group-title="USA",US | Smurf TV
+https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=35&device_type=desktop&platform=web&partner=internal&language=nl&connection=wifi&max_bitrate=10000&getads=getads&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700989958&ip=213.219.165.213&override_expiration=1500&sign=ZwRIUiT30pwV64Cnyo1br3kw%2Fe4hxVkra2m80N26qMI%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meeRtOp.png" group-title="USA",US | Boonie Cubs TV
+https://api-ott-fwa-fw.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=60&device_type=desktop&platform=web&partner=internal&language=nl&connection=wifi&max_bitrate=10000&getads=getads&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700989994&ip=213.219.165.213&override_expiration=1500&sign=nyDGtj2Jcy2085k3C0k%2Fmyf6RrqFhcGr%2F9QCNEJgcao%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aJTecvr.png" group-title="USA",US | Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=264&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700990033&id=264167&ip=213.219.165.213&override_expiration=1500&sign=C5T8XfYTy9pU%2BxcNaBRe%2FCgjRaay%2BkRRH6g6WjqYwws%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ampK5Wk.png" group-title="USA",US | Gross Out TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=41&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700990071&id=261883&ip=213.219.165.213&override_expiration=1500&sign=3e343bzJWvQY5FMFv%2BkGYw1KZJhgmOcYsusnWgAwFoo%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z0fpqBF.png" group-title="USA",US | Sparkle Power
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=35&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700990103&id=261897&ip=213.219.165.213&override_expiration=1500&sign=20MUa5s08jN8b8pnxoED4yUvA46R38Ow8XKEBoquql8%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TMSKl7U.png" group-title="USA",US | Eddie's Wonderland
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=294&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700990119&id=264557&ip=213.219.165.213&override_expiration=1500&sign=06x1XCjURA7speJSKsaDmthoHpTcsjZB8JvBpj5mzgk%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HXwpD1q.png" group-title="USA",US | Zoo Moo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=40&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700990151&id=259930&ip=213.219.165.213&override_expiration=1500&sign=jETrgF1rET%2FdzR7V6SoXO09Wy1gxkA5CSdTuK7U8qwk%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iYaH8A6.png" group-title="USA",US | Cutlery Corner Network [YOUTUBE]
+plugin://plugin.video.youtube/play/?channel_id=UCj3dt20MAZcvDN8GKeT2FBg&live=1
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8Xdw3DJ.jpg" group-title="USA",US | Alaska | Alaska Public Media [Geo]
 https://kakmdt.lls.cdn.pbs.org/kakmdt/241f6bfb-7b98-4cbd-af3a-3bf219bdb80f/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lC16zKy.png" group-title="USA",US | Arizona | KAET [Geo]
@@ -618,14 +663,13 @@ https://wetadt5.lls.cdn.pbs.org/wetadt5/92d89794-5ff0-4fe6-a443-cc888104e021/pri
 https://whutdt.lls.cdn.pbs.org/whutdt/722b847a-5e2a-4d14-9429-2d430b10b1ee/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9aEdh6b.png" group-title="USA",US | Wisconsin | WISC-DT2
 https://cdn88.theus6tv.tk/united-states/locals/madison/wisc-dt2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/crYZH7T.jpg" group-title="USA",US | SurvivorNetTV
-https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SdoY8QJ.jpg" group-title="USA",US | Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SdoY8QJ.jpg" group-title="USA",US | Cooking Panda
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XdR5EPi.jpg" group-title="USA",US | Runway TV
-https://runway-hls.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SRXTY4K.png" group-title="USA",US | Heartland East
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/slPAeUb.jpg" group-title="USA",US | Rev'n TV
@@ -642,30 +686,9 @@ https://testlowlat.harmonicinc.com/Content/DASH/Live/channel(dash_ll_time)/manif
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/anVbJqN.png" group-title="USA",US | Guinness World Records
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=567&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=0&gdpr=1&custom_12=0&custom_15=nl&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Western%2520Europe&timestamp=1700989546&id=267345&ip=213.219.165.213&override_expiration=1500&sign=%2FNoUmf2DbNYA7f6Do3On017XsROuIjb2XDcLRibV2rQ%3D|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.toongoggles.com%2F
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VqBg4kb.png" group-title="USA",US | Toon Goggles
-https://stream.ads.ottera.tv/cl/231125clh0sklbg19tn65hgoh0/1280x720_3071200_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UCoXUaE.png" group-title="USA",US | TG Junior
-https://stream.ads.ottera.tv/cl/231125clh0tm37gu38gq2t1btg/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/og091Sg.png" group-title="USA",US | TG Movies
-https://stream.ads.ottera.tv/cl/231125clh134ts9tjl5q0tg3vg/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w240SWr.png" group-title="USA",US | Smurf TV
-https://stream.ads.ottera.tv/cl/231125clh0q2f9r39qlhkvr5m0/1280x720_3071200_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/meeRtOp.png" group-title="USA",US | Boonie Cubs TV
-https://stream.ads.ottera.tv/cl/231125clh18k5s9tjl5q0thbpg/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aJTecvr.png" group-title="USA",US | Camp Spoopy
-https://stream.ads.ottera.tv/cl/231125clh17q9fsrcpoumr2hsg/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ampK5Wk.png" group-title="USA",US | Gross Out TV
-https://stream.ads.ottera.tv/cl/231125clh14pdkt7ko3om86aqg/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z0fpqBF.png" group-title="USA",US | Sparkle Power
-https://stream.ads.ottera.tv/cl/231125clh16o37gu38gq2t2sk0/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TMSKl7U.png" group-title="USA",US | Eddie's Wonderland
-https://stream.ads.ottera.tv/cl/231125clh19e293tkan3iqk68g/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HXwpD1q.png" group-title="USA",US | Zoo Moo
-https://stream.ads.ottera.tv/cl/231125clh1a9jnp20k0fbi1hlg/1280x720_2300000_0_f.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iYaH8A6.png" group-title="USA",US | Cutlery Corner Network [YOUTUBE]
-plugin://plugin.video.youtube/play/?channel_id=UCj3dt20MAZcvDN8GKeT2FBg&live=1
+#EXTINF:-1 tvg-id="Peachtree.us" tvg-logo="https://i.imgur.com/Bc1vlxu.jpg" group-title="USA",US | Peachtree TV
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i5dK5Ft.png" group-title="USA",US | 2A Network
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uCy2jpP.png" group-title="USA",US | iShe TV
@@ -863,19 +886,10 @@ https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M3WYqvn.jpg" group-title="Canada",CA | Players TV 
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2InpIPH.jpg" group-title="Canada",CA | FTF For the Fans 
-https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Canada",CA | Insight TV 
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Canada",CA | Inwonder 
-https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gx4ejKm.png" group-title="Canada",CA | Outside TV 
-https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f43C9MV.jpg" group-title="Canada",CA | Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4XYBbES.png" group-title="Canada",CA | CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2o4Sxub.png" group-title="Canada",CA | NAC TV
