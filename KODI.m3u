@@ -392,6 +392,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCx6h-dWzJ5NpAlja1YsApdg&live=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JrWFjb5.jpg" group-title="USA",US | ESPN U
 
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/whv7X92.jpg" group-title="USA",US | Fubo Sports Network
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u29KTQR.jpg" group-title="USA",US | Pac-12 International [YOUTUBE]
 plugin://plugin.video.youtube/play/?channel_id=UCx0IoH70qVp11Qkv1pa0phQ&live=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1VnQkbS.jpg" group-title="USA",US | Pac-12 Insider
