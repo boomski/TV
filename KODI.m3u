@@ -348,6 +348,28 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C5Aoo6g.png" group-title="Ierland",IE | Seanad Eireann
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Baltimore 
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Chicago
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Colorado
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDFW.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Dallas Ft Worth
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Detroit 
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Los Angeles 
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Miami 
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News National
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News New York 
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Pittsburgh
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-logo="https://i.imgur.com/maI8xIt.png" group-title="USA",US | CBS News Sacramento 
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nANWPc0.png" group-title="USA",US | PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PuZeruz.jpg" group-title="USA",US | Crackle
@@ -426,10 +448,20 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-sam
 https://quahztv-pull.secure.footprint.net/quahztv1/stream_1250_20230618T204336.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wQ2TrDu.png" group-title="USA",US | OAN
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-id="Journy.us" tvg-logo="https://i.imgur.com/VfOQ36i.jpg" group-title="USA",US | Journy
+https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Journy.us" tvg-logo="https://i.imgur.com/VfOQ36i.jpg" group-title="USA",US | Journy 
+https://linear-291.frequency.stream/mt/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://i.imgur.com/l4wsrVh.png" group-title="USA",US | Newsy
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryNews.us" tvg-logo="https://i.imgur.com/hlfzMiT.png" group-title="USA",US | Revry News
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-logo="https://i.imgur.com/AfwvXJg.png" group-title="USA",US | Revry
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryQueer.us" tvg-logo="https://i.imgur.com/rAQVoKf.jpg" group-title="USA",US | Revry Queer
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RevryQueer.us" tvg-logo="https://i.imgur.com/rAQVoKf.jpg" group-title="USA",US | Revry Queer
+https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4AqYslB.png" group-title="USA",US | Outdoor America
 https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4AqYslB.png" group-title="USA",US | Outdoor America
