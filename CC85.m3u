@@ -31,6 +31,30 @@ https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Stories Nederland
 https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ml4wbLz.jpg" group-title="Nederland",NL | Kozoom TV
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIzZGRlZjM5NzkzYjhmNjIwMDBlOTgyNWY2Mzk3NWE3NSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzAxMTk5NjAyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.W98QH9PEQ5duDUQr_V_DGqb8AMgjOQGhrfQAhDw-1tJ8caQOIFJosnMJiDX6wzKcBA_MKsCHxcpP4htbV4qumAwOqGh9rV-1p4NHCfROV1KKOkIFpIXg5IBz7UfUTgdT6ZW1eA1CYucPbVL80CBudpICHqcr5euK01MIEJcbISSpeRpWcefqJd3nuSg66A-VVhnmmFWyQu6JggCBP3zI6K7cOhK3LFwj-o4V-Hr8SZMuxJJCaaC5E0qyYLLf0fM2vzvhgofCfqgshsVkqC0PdRu8MaGoeHXmTY9jVFHdYJy68FPRMbYMgw9Z4cKzaIHIQ8aDjWl9DUnMJcEOIDwpZA/manifest/stream_t1_r1080001.m3u8
+#EXTINF:-1 tvg-id="RTVDrenthe(src01).nl" tvg-logo="https://i.imgur.com/DsD7Tsu.png" group-title="Nederland",NL | RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-id="L1TV(src02).nl" tvg-logo="https://i.imgur.com/8bqkwkG.png" group-title="Nederland",NL | L1mburg
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepBrabant(src02).nl" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="Nederland",NL | Omroep Brabant
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-id="TVGelderland(src02).nl" tvg-logo="https://i.imgur.com/nuf3rEv.png" group-title="Nederland",NL | Omroep Gelderland
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:-1 tvg-id="OmroepFlevoland(src01).nl" tvg-logo="https://i.imgur.com/hLkh2kH.png" group-title="Nederland",NL | Omroep Flevoland
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoord(src01).nl" tvg-logo="https://i.imgur.com/yZEsfsv.png" group-title="Nederland",NL | RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-id="OmroepZeeland(src02).nl" tvg-logo="https://i.imgur.com/zWrTDWu.png" group-title="Nederland",NL | Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVUtrecht(src02).nl" tvg-logo="https://i.imgur.com/LwFb6xG.jpg" group-title="Nederland",NL | RTV Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-id="OmropFryslan(src01).nl" tvg-logo="https://i.imgur.com/1hChwi8.png" group-title="Nederland",NL | Omrop Fryslan
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/1080p/prog_index.m3u8
+#EXTINF:-1 tvg-id="TVOost(src01).nl" tvg-logo="https://i.imgur.com/PvR4U88.jpg" group-title="Nederland",NL | RTV Oost
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-id="TVRijnmond(src02).nl" tvg-logo="https://i.imgur.com/WrJ2pwK.jpg" group-title="Nederland",NL | RTV Rijnmond
+https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 #EXTINF:-1 tvg-id="RTLTeleLetzebuerg(src01).lu" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
 #EXTINF:-1 tvg-id="2tenRTL(src01).lu" tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | RTL Zwee
