@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="een.be" tvg-logo="https://i.imgur.com/5GoTTyl.png" group-title="België",BE | VRT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VRT%201.png" group-title="België",BE | VRT 1
 plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-id="canvas.be" tvg-logo="https://i.imgur.com/7qPLd93.png" group-title="België",BE | Canvas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VRT%20CANVAS.png" group-title="België",BE | Canvas
 plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-id="sporza.be" tvg-logo="https://i.imgur.com/2gSDXat.jpg" group-title="België",BE | Sporza
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Sporza.png" group-title="België",BE | Sporza
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-id="ketnet.be" tvg-logo="https://i.imgur.com/YyI9DPR.jpg" group-title="België",BE | Ketnet
 plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
