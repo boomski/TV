@@ -7,8 +7,20 @@ plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
 plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM.png" group-title="België",BE | VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM.png" group-title="België",BE | VTM
+plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%202.png" group-title="België",BE | VTM 2
-https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
+plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%203.png" group-title="België",BE | VTM 3
+plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%204.png" group-title="België",BE | VTM 4
+plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd542d7ceb?.pvr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%20Gold.png" group-title="België",BE | VTM Gold
+plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85dda47458?.pvr
+#EXTINF:-1 tvg-logo="" group-title="België",BE | VTM Kids
+plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%20Nieuws.png" group-title="België",BE | VTM Nieuws
+plugin://plugin.video.vtm.go/play/catalog/channels/221eac7e-f92c-4df0-98e0-e0808d49ccda
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/HLN%20LIVE.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ATV.png" group-title="België",BE | ATV
@@ -18,7 +30,7 @@ https://live.zendzend.com/cmaf/29375_395477/master.m3u8?HLS_version=ts|User-Agen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TVL.png" group-title="België",BE | TVL
 https://live.zendzend.com/cmaf/29375_395474/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.tvl.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TV%20Oost.png" group-title="België",BE | TV Oost
-https://live.zendzend.com/cmaf/29375_399410/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fwww.tvoost.be%2F
+https://live.zendzend.com/mpegts/29375_399410/media_mpegts_0.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fwww.tvoost.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/WTV.png" group-title="België",BE | WTV
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/WqY7Y3.smil/playlist.m3u8?|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fplayer.clevercast.com%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bruzz.png" group-title="België",BE | Bruzz
