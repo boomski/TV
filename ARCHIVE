@@ -1,96 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VRT%201.png" group-title="België",BE | VRT 1
-plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VRT%20CANVAS.png" group-title="België",BE | Canvas
-plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Sporza.png" group-title="België",BE | Sporza
-plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
-#EXTINF:-1 tvg-id="ketnet.be" tvg-logo="https://i.imgur.com/YyI9DPR.jpg" group-title="België",BE | Ketnet
-plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
-#EXTINF:-1 tvg-id="ketnetjr.be" tvg-logo="https://i.imgur.com/WR6qbDA.jpg" group-title="België",BE | Ketnet Junior
-plugin://plugin.video.vrt.nu/play/id/ketnet_jr
-#EXTINF:-1 tvg-id="vtm.be" tvg-logo="https://i.imgur.com/wLBI62n.png" group-title="België",BE | VTM
-plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
-#EXTINF:-1 tvg-id="vtm.be" tvg-logo="https://i.imgur.com/wLBI62n.png" group-title="België",BE | VTM
-https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
-#EXTINF:-1 tvg-id="vtm2.be" tvg-logo="https://i.imgur.com/V5HaWRY.png" group-title="België",BE | VTM 2
-plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
-#EXTINF:-1 tvg-id="vtm2.be" tvg-logo="https://i.imgur.com/V5HaWRY.png" group-title="België",BE | VTM 2
-https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
-#EXTINF:-1 tvg-id="vtm3.be" tvg-logo="https://i.imgur.com/gi4Dx0i.png" group-title="België",BE | VTM 3
-plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
-#EXTINF:-1 tvg-id="vtm4.be" tvg-logo="https://i.imgur.com/hsTkX9n.png" group-title="België",BE | VTM 4
-plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd542d7ceb?.pvr
-#EXTINF:-1 tvg-id="vtmgold.be" tvg-logo="https://i.imgur.com/l8sJOmv.png" group-title="België",BE | VTM Gold
-plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85dda47458?.pvr
-#EXTINF:-1 tvg-id="vtmkids.be" tvg-logo="https://i.imgur.com/PMvSm2Q.jpg" group-title="België",BE | VTM Kids
-plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
-#EXTINF:-1 tvg-id="vtmnieuws.be" tvg-logo="https://i.imgur.com/lG0Q2BQ.png" group-title="België",BE | VTM Nieuws
-plugin://plugin.video.vtm.go/play/catalog/channels/221eac7e-f92c-4df0-98e0-e0808d49ccda
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/l6NKWlA.png" group-title="België",BE | HLN LIVE
-https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
-#EXTINF:-1 tvg-id="ATV(src01).be" tvg-logo="https://i.imgur.com/iWXUmje.jpg" group-title="België",BE | ATV
-https://live.zendzend.com/cmaf/29375_107244/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.gva.be%2F
-#EXTINF:-1 tvg-id="RobTV(src01).be" tvg-logo="https://i.imgur.com/CzQe0q2.png" group-title="België",BE | ROB TV
-https://live.zendzend.com/cmaf/29375_395477/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fplayer.agnoplay.com%2F
-#EXTINF:-1 tvg-id="TVLimburg(src01).be" tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="België",BE | TVL
-https://live.zendzend.com/cmaf/29375_395474/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.tvl.be%2F
-#EXTINF:-1 tvg-id="TVOost(src01).be" tvg-logo="https://i.imgur.com/JFVEcEA.png" group-title="België",BE | TV Oost
-https://live.zendzend.com/cmaf/29375_399410/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fplayer.agnoplay.com%2F
-#EXTINF:-1 tvg-id="WTV(src01).be" tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="België",BE | WTV
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/WqY7Y3.smil/playlist.m3u8?|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fplayer.clevercast.com%2F
-#EXTINF:-1 tvg-id="TVBrussel(src01).be" tvg-logo="https://i.imgur.com/rcfUiWV.jpg" group-title="België",BE | Bruzz
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D9cyac0.jpg" group-title="België",BE | Zoo Media
-https://media.thomasmore.be/elemental_hls/hls_stream_ipad_high.m3u8
-#EXTINF:-1 tvg-id="TeleBruxelles(src01).be" tvg-logo="https://i.imgur.com/MyvFt03.png" group-title="België",BE | BX1
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-id="LaUne(src01).be" tvg-logo="https://i.imgur.com/Q61vR5B.jpg" group-title="België",BE | La Une
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=laune
-#EXTINF:-1 tvg-id="Tipik(LaDeux)(src01).be" tvg-logo="https://i.imgur.com/ilv0y3V.png" group-title="België",BE | TIPIK
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=tipiktv
-#EXTINF:-1 tvg-id="LaTrois(src01).be" tvg-logo="https://i.imgur.com/NnHzKTf.png" group-title="België",BE | La Trois
-plugin://plugin.video.catchuptvandmore/resources/lib/channels/be/rtbf/set_live_url/?item_id=latrois
-#EXTINF:-1 tvg-id="AB3(src01).be" tvg-logo="https://i.imgur.com/xIV8szr.jpg" group-title="België",BE | AB3
-
-#EXTINF:-1 tvg-id="ABXplore(src01).be" tvg-logo="https://i.imgur.com/9LF5Gr3.png" group-title="België",BE | ABXPLORE
-
-#EXTINF:-1 tvg-id="CanalC(src01).be" tvg-logo="https://i.imgur.com/XhhzcHn.png" group-title="België",BE | Boukè
-https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.bouke.media%2F
-#EXTINF:-1 tvg-id="TVLux(src01).be" tvg-logo="https://i.imgur.com/p2eKv46.jpg" group-title="België",BE | TV Lux
-https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.tvlux.be%2F
-#EXTINF:-1 tvg-id="TVCom(src01).be" tvg-logo="https://i.imgur.com/cRTCPo1.png" group-title="België",BE | TVCom
-https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.tvcom.be%2F
-#EXTINF:-1 tvg-id="AntenneCentre(src01).be" tvg-logo="https://i.imgur.com/wLCwmnr.jpg" group-title="België",BE | Antenne Centre
-https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.antennecentre.tv%2F
-#EXTINF:-1 tvg-id="Telesambre(src01).be" tvg-logo="https://i.imgur.com/hMdMaEx.png" group-title="België",BE | Telesambre
-https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.telesambre.be%2F
-#EXTINF:-1 tvg-id="TeleMonsBorinage(src01).be" tvg-logo="https://i.imgur.com/e7xUgDm.png" group-title="België",BE | Télé MB
-https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.telemb.be%2F
-#EXTINF:-1 tvg-id="RTCLiege(src01).be" tvg-logo="https://i.imgur.com/Ne6Tg6d.png" group-title="België",BE | RTC Télé Liège
-https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.rtc.be%2F
-#EXTINF:-1 tvg-id="Televesdre(src01).be" tvg-logo="https://i.imgur.com/GQl0INW.png" group-title="België",BE | Vedia 
-https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.vedia.be%2F
-#EXTINF:-1 tvg-id="CanalZoom(src01).be" tvg-logo="https://i.imgur.com/uoSMNnr.png" group-title="België",BE | Canal Zoom
-https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.canalzoom.be%2F
-#EXTINF:-1 tvg-id="Notele(src01).be" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="België",BE | Notele
-https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Matele(src01).be" tvg-logo="https://i.imgur.com/cKrhIr3.png" group-title="België",BE | Matele
-https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-id="LN24(src01).be" tvg-logo="https://i.imgur.com/t0xyNzm.png" group-title="België",BE | LN24
-https://live.digiteka.com/1/bEg0RmFLb1JMYXRI/dGhqbmIw/hls/mndqxbrk/720/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6IkO1vX.png" group-title="België",BE | Tomorrowland - One World Radio
 plugin://plugin.video.youtube/play/?channel_id=UCsN8M73DMWa8SPp5o_0IAQQ&live=1
-#EXTINF:-1 tvg-id="RTLTeleLetzebuerg(src01).lu" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
-https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
-#EXTINF:-1 tvg-id="RTLTeleLetzebuerg(src01).lu" tvg-logo="https://i.imgur.com/bJrUjIC.png" group-title="Luxemburg",LU | RTL
-https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
-#EXTINF:-1 tvg-id="2tenRTL(src01).lu" tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | RTL Zwee
-https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
-#EXTINF:-1 tvg-id="2tenRTL(src01).lu" tvg-logo="https://i.imgur.com/7KZuFEG.png" group-title="Luxemburg",LU | RTL Zwee
-https://live-edge.rtl.lu/channel2/smil:channel2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YldMnap.jpg" group-title="Luxemburg",LU | Chamber TV
-https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DzhlDF6.png" group-title="Luxemburg",LU | TV MCJ
 
 #EXTINF:-1 tvg-id="NPO1(src02).nl" tvg-logo="https://i.imgur.com/MnWoDS3.png" group-title="Nederland",NL | NPO 1 [Geo-Blocked]
@@ -105,8 +16,7 @@ http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24
 http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/politiek24.m3u8
 #EXTINF:-1 tvg-id="BVN(src01).be" tvg-logo="https://i.imgur.com/Vq9PJ3R.png" group-title="Nederland",NL | BVN
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eethkcA.png" group-title="Nederland",NL | AD LIVE
-https://dpg-eventstreams.akamaized.net/aldagclipstreamsrt-pep/streamx/aldagclipstreamsrt_720p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Action Nederland
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Comedy Nederland
@@ -117,8 +27,7 @@ https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6z9nVG.png" group-title="Nederland",NL | Rakuten TV Stories Nederland
 https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IexUICA.png" group-title="Nederland",NL | Insight TV 
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lG7JPW7.png" group-title="Nederland",NL | Inwonder TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cud1VWY.png" group-title="Nederland",NL | Introuble TV
