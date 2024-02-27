@@ -85,18 +85,22 @@ https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/chunklis
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/AD.png" group-title="Nederland",NL | AD LIVE
 https://dpg-eventstreams.akamaized.net/aldagclipstreamsrt-pep/streamx/aldagclipstreamsrt_720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Rakuten%20TV.png" group-title="Nederland",NL | Rakuten TV Action Nederland
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Rakuten%20TV.png" group-title="Nederland",NL | Rakuten TV Comedy Nederland
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Rakuten%20TV.png" group-title="Nederland",NL | Rakuten TV Drama Nederland
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Rakuten%20TV.png" group-title="Nederland",NL | Rakuten TV Family Nederland
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Rakuten%20TV.png" group-title="Nederland",NL | Rakuten TV Stories Nederland
+https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Insight%20TV.png" group-title="Nederland",NL | Insight TV 
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Omroep%20Brabant.png" group-title="Nederland",NL | Omroep Brabant 
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/L1MBURG.png" group-title="Nederland",NL | L1mburg 
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
 
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
@@ -117,8 +121,10 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
 
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/AT5.png" group-title="Nederland",NL | AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL |
 
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Sport%20en%20France.png" group-title="Frankrijk",FR | Sport en France
+https://sp1564435593-1.mytvchain.info/live/sp1564435593_1080/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fmytvchain.com%2F
 
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
