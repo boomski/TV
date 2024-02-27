@@ -11,18 +11,21 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/HLN%20LIVE.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ATV.png" group-title="België",BE | ATV
+https://live.zendzend.com/cmaf/29375_107244/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.gva.be%2F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ROB%20TV.png" group-title="België",BE | ROB TV
+https://live.zendzend.com/cmaf/29375_395477/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fplayer.agnoplay.com%2F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TVL.png" group-title="België",BE | TVL
+https://live.zendzend.com/cmaf/29375_395474/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fwww.tvl.be%2F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TV%20Oost.png" group-title="België",BE | TV Oost
+https://live.zendzend.com/cmaf/29375_399410/master.m3u8?HLS_version=ts|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fwww.tvoost.be%2F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/WTV.png" group-title="België",BE | WTV
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/WqY7Y3.smil/playlist.m3u8?|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fplayer.clevercast.com%2F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bruzz.png" group-title="België",BE | Bruzz
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/BXL.png" group-title="België",BE | BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="België",BE | 
 
-#EXTINF:-1 tvg-logo="" group-title="België",BE | 
 
-#EXTINF:-1 tvg-logo="" group-title="België",BE | 
 
-#EXTINF:-1 tvg-logo="" group-title="België",BE | 
-
-#EXTINF:-1 tvg-logo="" group-title="België",BE | 
-
-#EXTINF:-1 tvg-logo="" group-title="België",BE | 
-
-#EXTINF:-1 tvg-logo="" group-title="België",BE | 
-
-#EXTINF:-1 tvg-logo="" group-title="België",BE | 
