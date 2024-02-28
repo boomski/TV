@@ -101,30 +101,65 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/L1MBURG.png" group-title="Nederland",NL | L1mburg 
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Omroep Gelderland
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Omroep Flevoland
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Oost
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Rijnmond
+https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Breda Nu
+https://rtmp.bredanu.nl/live/tv_1080p5000kbs/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 1Amstelveen
+https://live.rtva.nl/live/zender.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Studio 040
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Altena TV
+https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | XON
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 1Twente
+https://ms10.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Noordoost Friesland
+https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Omrop Fryslan
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/1080p/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/AT5.png" group-title="Nederland",NL | AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL |
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Kempen TV
+https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | HK13 TV
+https://58c04fb1d143f.streamlock.net/harderwijktv/harderwijktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
 
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
+
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Sport%20en%20France.png" group-title="Frankrijk",FR | Sport en France
 https://sp1564435593-1.mytvchain.info/live/sp1564435593_1080/index.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fmytvchain.com%2F
 
