@@ -121,6 +121,10 @@ https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 https://rtmp.bredanu.nl/live/tv_1080p5000kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/1Amstelveen.png" group-title="Nederland",NL | 1Amstelveen
 https://live.rtva.nl/live/zender.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 1Almere
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/1Twente.png" group-title="Nederland",NL | 1Twente
+https://ms10.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Studio040.png" group-title="Nederland",NL | Studio 040
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -129,8 +133,7 @@ https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.mpd
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/XON.png" group-title="Nederland",NL | XON
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/1Twente.png" group-title="Nederland",NL | 1Twente
-https://ms10.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/RTVNOF.png" group-title="Nederland",NL | RTV Noordoost Friesland
 https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Omrop%20Fryslan.png" group-title="Nederland",NL | Omrop Fryslan
@@ -141,10 +144,8 @@ https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoc
 https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/HK13.png" group-title="Nederland",NL | HK13 TV
 https://58c04fb1d143f.streamlock.net/harderwijktv/harderwijktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
-
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | BR6 TV
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
 
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL | 
