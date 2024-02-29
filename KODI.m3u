@@ -101,17 +101,17 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/L1MBURG.png" group-title="Nederland",NL | L1mburg 
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Drenthe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/RTV%20Drenthe.png" group-title="Nederland",NL | RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Omroep Gelderland
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Omroep%20Gelderland.png" group-title="Nederland",NL | Omroep Gelderland
 https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Omroep Flevoland
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Omroep-Flevoland.png" group-title="Nederland",NL | Omroep Flevoland
 http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Omroep Zeeland
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Omroep%20Zeeland.png" group-title="Nederland",NL | Omroep Zeeland
 https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Noord
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/RTV%20Noord.png" group-title="Nederland",NL | RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Oost
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/RTV%20Oost.png" group-title="Nederland",NL | RTV Oost
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL | RTV Utrecht
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
@@ -125,7 +125,7 @@ https://live.rtva.nl/live/zender.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Altena TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Altena%20TV.jpg" group-title="Nederland",NL | Altena TV
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL | XON
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
@@ -137,7 +137,7 @@ https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/1080p/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/AT5.png" group-title="Nederland",NL | AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL | Kempen TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Kempen%20TV.png" group-title="Nederland",NL | Kempen TV
 https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL | HK13 TV
 https://58c04fb1d143f.streamlock.net/harderwijktv/harderwijktv/playlist.m3u8
