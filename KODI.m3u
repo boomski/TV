@@ -41,6 +41,8 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 plugin://plugin.video.vrt.nu/play/id/vualto_ketnet_geo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Ketnet%20Junior.png" group-title="België",BE | Ketnet Junior
 plugin://plugin.video.vrt.nu/play/id/ketnet_jr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/RTL%20TVI.png" group-title="België",BE | RTL TVI
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bouke.png" group-title="België",BE | Boukè
 https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.bouke.media%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TV%20LUX.png" group-title="België",BE | TV Lux
@@ -67,8 +69,6 @@ https://live.matele.be/hls/live.m3u8
 https://live-ln24.digiteka.com/1911668011/tracks-v2a1/mono.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fwww.ultimedia.com%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ZOO%20MEDIA.png" group-title="België",BE | Zoo Media 
 https://media.thomasmore.be/elemental_hls/hls_stream_ipad_high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="België",BE | 
-
 #EXTINF:-1 tvg-logo="" group-title="België",BE | 
 
 #EXTINF:-1 tvg-logo="" group-title="België",BE | 
@@ -243,10 +243,12 @@ https://sp1564435593-1.mytvchain.info/live/sp1564435593_1080/index.m3u8|User-Age
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/CNEWS.png" group-title="Frankrijk",FR | CNEWS
 https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/CSTAR.png" group-title="Frankrijk",FR | CSTAR
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/cstr/cstr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/M6INT.png" group-title="Frankrijk",FR | M6 International
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Le%20M%C3%A9dia%20TV.jpg" group-title="Frankrijk",FR | Le Média TV
+https://ythlsgo.onrender.com/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Alpe%20d%E2%80%99Huez%20TV.png" group-title="Frankrijk",FR | Alpe d’Huez TV
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Vosges%20TV.png" group-title="Frankrijk",FR | Vosges TV
@@ -255,8 +257,6 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/ViaMat%C3%A9l%C3%A9.png" group-title="Frankrijk",FR | ViàMatélé
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/vi%C3%A0T%C3%A9l%C3%A9Paese.png" group-title="Frankrijk",FR | viàTéléPaese
 https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
@@ -279,8 +279,8 @@ https://srv.webtvmanager.fr:3118/live/viatelepaeselive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
 
-#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/T%C3%A9l%C3%A9vision%20Locale%20du%20Choletais.png" group-title="Frankrijk",FR | Télévision Locale du Choletais
+https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/T%C3%A9l%C3%A9nantes.png" group-title="Frankrijk",FR | Télénantes
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Telenantes.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/TV%20Tarn.png" group-title="Frankrijk",FR | TV Tarn
@@ -289,6 +289,10 @@ https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8
 http://livevideo.vedge.infomaniak.com/livecast/ik:canal32/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/TV78.png" group-title="Frankrijk",FR | TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/7A%20Limoges.jpg" group-title="Frankrijk",FR | 7A Limoges
+https://new.cache-stream.workers.dev/stream/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/TV%20Vendee.png" group-title="Frankrijk",FR | TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923_medium/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
 
 #EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
@@ -299,6 +303,22 @@ https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
 
+#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
+
+#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
+
+#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
+
+#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
+
+#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/MOSAIK%20CRISTAL%20TV.png" group-title="Frankrijk",FR | Mosaïk Cristal TV
+https://new.cache-stream.workers.dev/stream/UCQC0xLG_W0QpqAXQ4-yhwBA/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Tele%20Gohelle.png" group-title="Frankrijk",FR | Tele Gohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Bip%20TV.png" group-title="Frankrijk",FR | Bip TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Maison%20%26%20Travaux%20TV.png" group-title="Frankrijk",FR | Maison & Travaux TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/maisontrvx/maisontrvx.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Antenne%20R%C3%A9union.png" group-title="Frankrijk",FR | Antenne Réunion
@@ -309,5 +329,8 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Museum%20TV.png" group-title="Frankrijk",FR | Museum TV
 https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/%C3%89QUIDIA.png" group-title="Frankrijk",FR | Equidia
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
 
+#EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
