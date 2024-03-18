@@ -339,9 +339,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Oostenrijk/ORF1.png" group-title="Oostenrijk",AT | ORF 1
-#KODIPROP:inputstreamaddon=inputstream.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://orf1.mdn.ors.at/orf/orf1/drmqxa/manifest.mpd?audio=deu
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Oostenrijk/ORF1.png" group-title="Oostenrijk",AT | ORF 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://orf1.mdn.ors.at/orf/orf1/drmqxa/manifest.mpd?audio=deu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Oostenrijk/TV%201%20Ober%C3%B6sterreich.png" group-title="Oostenrijk",AT | TV 1 Oberösterreich
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
