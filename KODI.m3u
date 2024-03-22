@@ -352,3 +352,13 @@ https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_ad
 https://stream.openplayout.org/hls/dorftv/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Oostenrijk/FS1.png" group-title="Oostenrijk",AT | FS1 Salzburg
 https://stream.fs1.tv/hls/webstream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR1.png" group-title="Denemarken",DK | DR1
+https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master8000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR2.png" group-title="Denemarken",DK | DR2
+https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master8000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR%20TVA.png" group-title="Denemarken",DK | DR TVA
+https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master5500.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR%20Ramasjang.png" group-title="Denemarken",DK | DR Ramasjang
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master5500.m3u8
