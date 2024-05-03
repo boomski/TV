@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VRT%201.png" group-title="België",BE | VRT 1
-plugin://plugin.video.vrt.nu/play/id/vualto_een_geo
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VRT%20CANVAS.png" group-title="België",BE | Canvas
-plugin://plugin.video.vrt.nu/play/id/vualto_canvas_geo
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Sporza.png" group-title="België",BE | Sporza
-plugin://plugin.video.vrt.nu/play/id/vualto_sporza_geo
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM.png" group-title="België",BE | VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM.png" group-title="België",BE | VTM
-plugin://plugin.video.vtm.go/play/catalog/channels/d8659669-b964-414c-aa9c-e31d8d15696b?.pvr
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%202.png" group-title="België",BE | VTM 2
-plugin://plugin.video.vtm.go/play/catalog/channels/ea826456-6b19-4612-8969-864d1c818347?.pvr
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%203.png" group-title="België",BE | VTM 3
-plugin://plugin.video.vtm.go/play/catalog/channels/5f8f153a-72cb-476c-9e7b-4802808470b2?.pvr
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%204.png" group-title="België",BE | VTM 4
-plugin://plugin.video.vtm.go/play/catalog/channels/8c1d440a-8b88-4ef8-9026-2acd542d7ceb?.pvr
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%20Gold.png" group-title="België",BE | VTM Gold
-plugin://plugin.video.vtm.go/play/catalog/channels/ded88047-1313-4dd1-b6b1-8f85dda47458?.pvr
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%20Kids.png" group-title="België",BE | VTM Kids
-plugin://plugin.video.vtm.go/play/catalog/channels/1ee09d9c-5c00-4a5d-8bab-438f897eb1a2?.pvr
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/VTM%20Nieuws.png" group-title="België",BE | VTM Nieuws
-plugin://plugin.video.vtm.go/play/catalog/channels/221eac7e-f92c-4df0-98e0-e0808d49ccda
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/HLN%20LIVE.png" group-title="België",BE | HLN LIVE
 https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Play%20Crime.png" group-title="België",BE | Play Crime
@@ -339,7 +339,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 
 #EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Duitsland/FrankenPlus.png" group-title="Duitsland",DE | Franken Plus
+https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Oostenrijk/ORF1.png" group-title="Oostenrijk",AT | ORF 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -356,11 +357,11 @@ https://stream.openplayout.org/hls/dorftv/live.m3u8
 https://stream.fs1.tv/hls/webstream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR1.png" group-title="Denemarken",DK | DR1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR1.png" group-title="Denemarken",DK | DR1 [GEO]
 https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master8000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR2.png" group-title="Denemarken",DK | DR2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR2.png" group-title="Denemarken",DK | DR2 [GEO]
 https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master8000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR%20TVA.png" group-title="Denemarken",DK | DR TVA
 https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master5500.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR%20Ramasjang.png" group-title="Denemarken",DK | DR Ramasjang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR%20Ramasjang.png" group-title="Denemarken",DK | DR Ramasjang [GEO]
 https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master5500.m3u8
