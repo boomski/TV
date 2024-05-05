@@ -374,3 +374,5 @@ https://vidistream.ddns.net/hls/espana.play.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Argentini%C3%AB/IGLGroup%20TV.png" group-title="Argentinië",AR | IGLGroup TV
 https://vd01.streaminghd.net.ar:3049/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Cuba/Prensa%20Latina%20Television.png" group-title="Cuba",CU | Prensa Latina TV
+https://eu1.servers10.com:8081/8192/index.m3u8
