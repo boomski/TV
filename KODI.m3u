@@ -339,6 +339,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 
 #EXTINF:-1 tvg-logo="" group-title="Frankrijk",FR | 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/UK/BBC%20NEWS.png" group-title="Verenigd Koninkrijk",UK | BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Duitsland/FrankenPlus.png" group-title="Duitsland",DE | Franken Plus
 https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Oostenrijk/ORF1.png" group-title="Oostenrijk",AT | ORF 1
