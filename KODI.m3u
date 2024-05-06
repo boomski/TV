@@ -368,10 +368,30 @@ https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master8000.m3u8
 https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master5500.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Denemarken/DR%20Ramasjang.png" group-title="Denemarken",DK | DR Ramasjang [GEO]
 https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master5500.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/La%201.png" group-title="Spanje",ES | La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/La%202.png" group-title="Spanje",ES | La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/24h.png" group-title="Spanje",ES | 24h
+https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/TDP.png" group-title="Spanje",ES | Teledeporte
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/El%20Pais.png" group-title="Spanje",ES | El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/El%20Confidencial.png" group-title="Spanje",ES | El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/TRECE.png" group-title="Spanje",ES | TRECE
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/El%20Toro.png" group-title="Spanje",ES | El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/Negocios%20TV.png" group-title="Spanje",ES | Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/Euronews.png" group-title="Spanje",ES | Euronews
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/Tv%20Famypanc.png" group-title="Spanje",ES | Tv Famypanc
 https://vidistream.ddns.net/hls/espana.play.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Spanje/Futsalmafer.tv.png" group-title="Spanje",ES | Futsalmafer.tv
+https://cloudvideo.servers10.com:8081/8184/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Argentini%C3%AB/IGLGroup%20TV.png" group-title="Argentinië",AR | IGLGroup TV
 https://vd01.streaminghd.net.ar:3049/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Cuba/Cubavision%20Internacional.png" group-title="Cuba",CU | Cubavisión Internacional
