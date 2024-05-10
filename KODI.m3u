@@ -426,5 +426,7 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Cuba/Radio%20y%20Televisi%C3%B3n%20Mart%C3%AD.png" group-title="Cuba",CU | Radio y Televisión Martí
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Peru/Megatvarequipa.png" group-title="Peru",PE | Mega TV Arequipa
+https://mc.servidor.stream:19360/megatv/megatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Peru/PANC%20TV.png" group-title="Peru",PE | Peru Panc TV
 https://vidistream.ddns.net/hls/peru.play.m3u8
