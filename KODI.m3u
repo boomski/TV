@@ -61,13 +61,13 @@ https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f
 https://tvlocales-live.freecaster.com/95d2f480-3c9f-48ba-ba4e-af64b58431ef/95d2f480-3c9f-48ba-ba4e-af64b58431ef.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.vedia.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Canal%20Zoom.png" group-title="🇧🇪",🇧🇪 | Canal Zoom
 https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.canalzoom.be%2F
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Notele.png" group-title="België",🇧🇪 | Notele
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Notele.png" group-title="🇧🇪",🇧🇪 | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Matele.png" group-title="België",🇧🇪 | Matele
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Matele.png" group-title="🇧🇪",🇧🇪 | Matele
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/LN24.png" group-title="België",🇧🇪 | LN24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/LN24.png" group-title="🇧🇪",🇧🇪 | LN24
 https://live-ln24.digiteka.com/1911668011/tracks-v2a1/mono.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fwww.ultimedia.com%2F
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ZOO%20MEDIA.png" group-title="België",🇧🇪 | Zoo Media 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ZOO%20MEDIA.png" group-title="🇧🇪",🇧🇪 | Zoo Media 
 https://media.thomasmore.be/elemental_hls/hls_stream_ipad_high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇧🇪",🇧🇪 | 
 
@@ -145,7 +145,7 @@ https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8
 https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/XON.png" group-title="🇳🇱",🇳🇱 | XON
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Dit%20is%20Helmond.png" group-title="Nederland",NL | Dit is Helmond
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Dit%20is%20Helmond.png" group-title="🇳🇱",🇳🇱 | Dit is Helmond
 https://ms7.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/HK13.png" group-title="🇳🇱",🇳🇱 | HK13 TV
 https://58c04fb1d143f.streamlock.net/harderwijktv/harderwijktv/playlist.m3u8
@@ -243,6 +243,14 @@ https://61451b63d0dfe.streamlock.net/extern/tvri.stream/%20playlist.m3u8
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/AntenaSport.jpg" group-title="🇷🇴",🇷🇴 | AntenaSport 
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/AntenaStars.png" group-title="🇷🇴",🇷🇴 | AntenaStars
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/HelloChef.jpg" group-title="🇷🇴",🇷🇴 | Hello Chef
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Mireasa.jpg" group-title="🇷🇴",🇷🇴 | Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/MediCOOL.jpg" group-title="🇷🇴",🇷🇴 | MediCOOL
+https://stream1.antenaplay.ro/live/MediCOOLTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇷🇴",🇷🇴 |
 
 #EXTINF:-1 tvg-logo="" group-title="🇷🇴",🇷🇴 |
@@ -251,10 +259,26 @@ https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="🇷🇴",🇷🇴 |
 
+#EXTINF:-1 tvg-logo="" group-title="🇷🇴",🇷🇴 |
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Kanal%20D.jpg" group-title="🇷🇴",🇷🇴 | Kanal D
+https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Kanal%20D2.jpg" group-title="🇷🇴",🇷🇴 | Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Rom%C3%A2nia%20TV.jpg" group-title="🇷🇴",🇷🇴 | România TV
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.romaniatv.net%2Flive%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Iasi%20TV%20Life.png" group-title="🇷🇴",🇷🇴 | Iasi TV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/HD365.jpg" group-title="🇷🇴",🇷🇴 | HD 365
 https://testcam.go.ro:8080/hls/hd365.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/SmartTV.png" group-title="🇷🇴",🇷🇴 | Smart TV
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Super%20TV.png" group-title="🇷🇴",🇷🇴 | Super TV
+https://cdn.streamnet.pro/live/supertv/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fsupertv.ro%2F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/A7TV.png" group-title="🇷🇴",🇷🇴 | A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Moldova%20TV.png" group-title="🇷🇴",🇷🇴 | Moldova TV
+https://moldovatv.ro/live-tv/livemoldova.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/L'Equipe.png" group-title="🇫🇷",🇫🇷 | L'Equipe
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Frankrijk/Sport%20en%20France.png" group-title="🇫🇷",🇫🇷 | Sport en France
