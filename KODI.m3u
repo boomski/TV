@@ -32,35 +32,31 @@ https://live.zendzend.com/cmaf/29375_395474/master.m3u8?HLS_version=ts|User-Agen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TV%20Oost.png" group-title="🇧🇪",🇧🇪 | TV Oost
 https://live.zendzend.com/mpegts/29375_399410/media_mpegts_0.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fwww.tvoost.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/WTV.png" group-title="🇧🇪",🇧🇪 | WTV
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/WqY7Y3.smil/playlist.m3u8?|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fplayer.clevercast.com%2F
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AQ5jzw.smil/playlist.m3u8?|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fplayer.clevercast.com%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bruzz.png" group-title="🇧🇪",🇧🇪 | Bruzz
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8|Referer=https://player.cdn01.rambla.be/
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A109.0)%20Gecko%2F20100101%20Firefox%2F114.0&Referer=https%3A%2F%2Fplayer.cdn01.rambla.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/BXL.png" group-title="🇧🇪",🇧🇪 | BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Ketnet.png" group-title="🇧🇪",🇧🇪 | Ketnet
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Ketnet%20Junior.png" group-title="🇧🇪",🇧🇪 | Ketnet Junior
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/RTL%20TVI.png" group-title="🇧🇪",🇧🇪 | RTL TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bouke.png" group-title="🇧🇪",🇧🇪 | Boukè
-https://tvlocales-live.freecaster.com/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.bouke.media%2F
+https://tvlocales-live.freecaster.com/bouke/95d2f70d-fffd-4fd3-ab04-3d5f65cb8c3b/95d2f70d-fffd-4fd3-ab04-3d5f65cb8c3b.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.bouke.media%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TV%20LUX.png" group-title="🇧🇪",🇧🇪 | TV Lux
-https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.tvlux.be%2F
+https://tvlocales-live.freecaster.com/tvlux/95d2f632-0780-4ac1-9895-9e50212dd3b6/95d2f632-0780-4ac1-9895-9e50212dd3b6.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.tvlux.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TVCOM.png" group-title="🇧🇪",🇧🇪 | TVCom
-https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.tvcom.be%2F
+https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.tvcom.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ACTV.png" group-title="🇧🇪",🇧🇪 | Antenne Centre
-https://tvlocales-live.freecaster.com/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.antennecentre.tv%2F
+https://tvlocales-live.freecaster.com/actv/95d2f733-aa03-42be-aa2d-d51264623b24/95d2f733-aa03-42be-aa2d-d51264623b24.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.antennecentre.tv%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Telesambre.png" group-title="🇧🇪",🇧🇪 | Telesambre
-https://tvlocales-live.freecaster.com/95d2f67c-de80-486b-9e60-9c72cb2782e2/95d2f67c-de80-486b-9e60-9c72cb2782e2.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.telesambre.be%2F
+https://tvlocales-live.freecaster.com/telesambre/95d2f67d-8b5e-4edc-950b-e5da651d654f/95d2f67d-8b5e-4edc-950b-e5da651d654f.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.telesambre.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Tele%20MB.png" group-title="🇧🇪",🇧🇪| Télé MB
-https://tvlocales-live.freecaster.com/95d2f6c9-e85f-4388-8e9c-596260a4206f/95d2f6c9-e85f-4388-8e9c-596260a4206f.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.telemb.be%2F
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/RTC%20LIEGE.png" group-title="🇧🇪",🇧🇪 | RTC Télé Liège
-https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A104.0)%20Gecko%2F20100101%20Firefox%2F104.0&Referer=https%3A%2F%2Fwww.rtc.be%2F
+https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.telemb.be%2F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/QU4TRE.png" group-title="🇧🇪",🇧🇪 | QU4TRE
+https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.qu4tre.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Vedia.png" group-title="🇧🇪",🇧🇪 | Vedia
 https://tvlocales-live.freecaster.com/vedia/95d2f480-b0b0-4027-9f4a-057183312305/95d2f480-b0b0-4027-9f4a-057183312305.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.vedia.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Canal%20Zoom.png" group-title="🇧🇪",🇧🇪 | Canal Zoom
-https://tvlocales-live.freecaster.com/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A120.0)%20Gecko%2F20100101%20Firefox%2F120.0&Referer=https%3A%2F%2Fwww.canalzoom.be%2F
+https://tvlocales-live.freecaster.com/canalzoom/95d2e3b0-71ef-4d4f-afeb-aea01b00ca2e/95d2e3b0-71ef-4d4f-afeb-aea01b00ca2e.isml/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.canalzoom.be%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Notele.png" group-title="🇧🇪",🇧🇪 | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Matele.png" group-title="🇧🇪",🇧🇪 | Matele
@@ -69,6 +65,10 @@ https://live.matele.be/hls/live.m3u8
 https://live-ln24.digiteka.com/1911668011/tracks-v2a1/mono.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A123.0)%20Gecko%2F20100101%20Firefox%2F123.0&Referer=https%3A%2F%2Fwww.ultimedia.com%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ZOO%20MEDIA.png" group-title="🇧🇪",🇧🇪 | Zoo Media 
 https://media.thomasmore.be/elemental_hls/hls_stream_ipad_high.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Ketnet.png" group-title="🇧🇪",🇧🇪 | Ketnet
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Ketnet%20Junior.png" group-title="🇧🇪",🇧🇪 | Ketnet Junior
+
 #EXTINF:-1 tvg-logo="" group-title="🇧🇪",🇧🇪 | 
 
 #EXTINF:-1 tvg-logo="" group-title="🇧🇪",🇧🇪 | 
