@@ -257,10 +257,8 @@ https://stream1.antenaplay.ro/live/MediCOOLTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="🇷🇴",🇷🇴 |
 
-#EXTINF:-1 tvg-logo="" group-title="🇷🇴",🇷🇴 |
-
-#EXTINF:-1 tvg-logo="" group-title="🇷🇴",🇷🇴 |
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Pro%20TV%20News.png" group-title="🇷🇴",🇷🇴 | Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Kanal%20D.jpg" group-title="🇷🇴",🇷🇴 | Kanal D
 https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Kanal%20D2.jpg" group-title="🇷🇴",🇷🇴 | Kanal D2
@@ -269,12 +267,16 @@ https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fwww.romaniatv.net%2F
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Iasi%20TV%20Life.png" group-title="🇷🇴",🇷🇴 | Iasi TV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TV%20Arad.png" group-title="🇷🇴",🇷🇴 | TV Arad
+https://live.djemba.ro/live/tvaradlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/HD365.jpg" group-title="🇷🇴",🇷🇴 | HD 365
 https://testcam.go.ro:8080/hls/hd365.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/SmartTV.png" group-title="🇷🇴",🇷🇴 | Smart TV
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Super%20TV.png" group-title="🇷🇴",🇷🇴 | Super TV
 https://cdn.streamnet.pro/live/supertv/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A144.0)%20Gecko%2F20100101%20Firefox%2F144.0&Referer=https%3A%2F%2Fsupertv.ro%2F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Moinesti%20TV.png" group-title="🇷🇴",🇷🇴 | Moinesti TV
+https://flus.moinestifm.ro/ro.moinesti/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/A7TV.png" group-title="🇷🇴",🇷🇴 | A7TV
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Moldova%20TV.png" group-title="🇷🇴",🇷🇴 | Moldova TV
@@ -450,3 +452,17 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Peru/PANC%20TV.png" group-title="🇵🇪",🇵🇪 | Peru Panc TV
 https://vidistream.ddns.net/hls/peru.play.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Indonesi%C3%AB/TVRI%20SPORT.jpg" group-title="🇮🇩",🇮🇩 | TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Indonesi%C3%AB/TVRI%20WORLD.jpeg" group-title="🇮🇩",🇮🇩 | TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+
+
+
