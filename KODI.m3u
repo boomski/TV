@@ -69,12 +69,12 @@ https://media.thomasmore.be/elemental_hls/hls_stream_ipad_high.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Ketnet%20Junior.png" group-title="🇧🇪",🇧🇪 | Ketnet Junior
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Japanime.png" group-title="🇧🇪",🇧🇪 | Japanime TV
+https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇧🇪",🇧🇪 | 
 
-#EXTINF:-1 tvg-logo="" group-title="🇧🇪",🇧🇪 | 
-
-#EXTINF:-1 tvg-logo="" group-title="🇧🇪",🇧🇪 | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Kanaal%20Z.jpeg" group-title="🇧🇪",🇧🇪 | Kanaal Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Luxemburg/RTL.png" group-title="🇱🇺",🇱🇺 | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Luxemburg/RTL%20ZWEE.png" group-title="🇱🇺",🇱🇺 | RTL Zwee
