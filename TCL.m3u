@@ -33,6 +33,8 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Digi24.jpg",🇷🇴 | DIGI 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Pro%20TV%20News.png"🇷🇴 | Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Metropola%20TV.jpg",🇷🇴 | Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Antena1.png",🇷🇴 | Antena 1 HD
@@ -51,9 +53,30 @@ https://stream1.antenaplay.ro/live/MediCOOLTV/playlist.m3u8
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Realitatea%20Star.jpeg",🇷🇴 | Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/A7TV.png",🇷🇴 | A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Iasi%20TV%20Life.png",🇷🇴 | Iasi TV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Rom%C3%A2nia%20TV.png",🇷🇴 | Romania TV
-#EXTHTTP:{"referrer":"https://livestream.romaniatv.net/","user-agent":"Mozilla/5.0"}
+#EXTHTTP:{"referrer":"www.romaniatv.net","user-agent":"Mozilla/5.0"}
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ATV.png",🇧🇪 | ATV
+https://live.zendzend.com/cmaf/29375_107244/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ROB%20TV.png",🇧🇪 | ROB TV
+https://live.zendzend.com/cmaf/29375_395477/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TVL.png",🇧🇪 | TVL
+https://live.zendzend.com/cmaf/29375_395474/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/TV%20Oost.png",🇧🇪 | TV Oost
+https://live.zendzend.com/mpegts/29375_399410/media_mpegts_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/WTV.png",🇧🇪 | WTV
+#EXTHTTP:{"referrer":"https://player.clevercast.com","user-agent":"Mozilla/5.0"}
+https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AQ5jzw.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Insight%20TV.png",🇳🇱 | Insight TV 
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Luxemburg/RTL.png",🇱🇺 | RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Luxemburg/RTL%20ZWEE.png",🇱🇺 | RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/L'Equipe.png",🇫🇷 | L'ÉQUIPE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%20Sport%20HD.png",🇮🇹 | RAI Sport HD
