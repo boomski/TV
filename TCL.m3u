@@ -111,6 +111,8 @@ https://tvlocales-live.freecaster.com/canalzoom/95d2e3b0-71ef-4d4f-afeb-aea01b00
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Matele.png",🇧🇪 | Matele
 https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/AB3.png",🇧🇪 | AB3
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Earth.png",🇧🇪  | BBC Earth
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcearthbenelux-dash-nlziet/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Lifestyle.png",🇧🇪  | BBC Lifestyle
@@ -177,3 +179,5 @@ http://edge1.tvdirect13.com/live/playlist.m3u8
 http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cura%C3%A7ao/Cura%C3%A7ao.nu.png",🇨🇼 | Curaçao.nu
 https://cdn.hostin.cc/curacaonu/curacaonu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Papoea-Nieuw-Guinea/NBC.jpg",🇵🇬 | NBC
+https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
