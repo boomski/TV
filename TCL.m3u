@@ -60,6 +60,8 @@ https://tv.streambox.ro/hls/itv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Rom%C3%A2nia%20TV.png",🇷🇴 | Romania TV
 #EXTHTTP:{"referrer":"www.romaniatv.net","user-agent":"Mozilla/5.0"}
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Play%20Crime.png",🇧🇪 | Play Crime
+https://playmedia-playcrime-goplay.amagi.tv/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ATV.png",🇧🇪 | ATV
 https://live.zendzend.com/cmaf/29375_107244/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ROB%20TV.png",🇧🇪 | ROB TV
@@ -71,6 +73,8 @@ https://live.zendzend.com/mpegts/29375_399410/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/WTV.png",🇧🇪 | WTV
 #EXTHTTP:{"referrer":"https://player.clevercast.com","user-agent":"Mozilla/5.0"}
 https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AQ5jzw.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/HLN%20LIVE.png",🇧🇪 | HLN LIVE
+https://live-streaming.dpgmedia.net/hln-live-srt-mdai62ncqonw1qi0ec81tgeti80mtf/index_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bruzz.png",🇧🇪 | Bruzz
 #EXTHTTP:{"referrer":"https://player.cdn01.rambla.be","user-agent":"Mozilla/5.0"}
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
@@ -105,12 +109,32 @@ https://tvlocales-live.freecaster.com/canalzoom/95d2e3b0-71ef-4d4f-afeb-aea01b00
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Matele.png",🇧🇪 | Matele
 https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Earth.png",🇧🇪  | BBC Earth
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcearthbenelux-dash-nlziet/stream.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Lifestyle.png",🇧🇪  | BBC Lifestyle
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbclifestylebenelux-dash-nlziet/stream.mpd 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Eastenders.jpg",🇧🇪  | BBC Eastenders
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbceastendersbenelux-dash-nlziet/stream.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20First.png",🇧🇪  | BBC Series
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcdramabenelux-dash-nlziet/stream.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Top%20Gear.jpg",🇧🇪  | BBC Top Gear
+https://amg00793-amg00793c16-nlziet-nl-8602.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearbenelux-nlzietnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO1.png",🇳🇱 | NPO1
+https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO2.png",🇳🇱 | NPO2
+https://rbtvlive.cdn.tele2portal.com/live/NPO2/NPO2.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO3.png",🇳🇱 | NPO3
+https://rbtvlive.cdn.tele2portal.com/live/NPO3/NPO3.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/AD.png",🇳🇱 | AD LIVE
+https://live-streaming.dpgmedia.net/aldag-clipstream-srt-zk7kiq36v0lq88zpv1p064/index_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Nederland/Insight%20TV.png",🇳🇱 | Insight TV 
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Luxemburg/RTL.png",🇱🇺 | RTL
 https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Luxemburg/RTL%20ZWEE.png",🇱🇺 | RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ServusTV%20Wetter.jpg",🇩🇪 | Servus TV Wetterpanorama
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/L'Equipe.png",🇫🇷 | L'ÉQUIPE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%20Sport%20HD.png",🇮🇹 | RAI Sport HD
