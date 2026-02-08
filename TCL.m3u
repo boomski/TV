@@ -179,8 +179,14 @@ https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Trek.jpg",🇫🇷 | Trek
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/T18.png",🇫🇷 | T18
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Novo%2019.jpg",🇫🇷 | Novo 19
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/AB1.jpg",🇫🇷 | AB1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/AB3.png",🇫🇷 | AB3
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS%201.png",🇨🇭 | RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%20Sport%20HD.png",🇮🇹 | RAI Sport HD
@@ -191,10 +197,12 @@ https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%203.png",🇮🇹 | RAI 3
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Italia%201.png",🇮🇹 | Italia 1
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Canale%205.png",🇮🇹 | Canale 5
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/La%207.png",🇮🇹 | La 7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
-#EXTINF:-1 tvg-logo="",🇮🇹 | 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Sport%20Italia.jpg",🇮🇹 | Sport Italia
 https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%201.png",🇪🇸 | La 1 Catalunya
