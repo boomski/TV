@@ -155,22 +155,78 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-sam
 https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Luxemburg/RTL%20ZWEE.png",🇱🇺 | RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Luxemburg/RTL%209.png",🇱🇺 | RTL 9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ZDF.png",🇩🇪 | ZDF HD
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL%202.jpg",🇩🇪 | RTL 2
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ServusTV%20Wetter.jpg",🇩🇪 | Servus TV Wetterpanorama
 https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/L'Equipe.png",🇫🇷 | L'ÉQUIPE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TF1.jpg",,🇫🇷 | TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/France2.png",🇫🇷 | France 2
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/France3.png",🇫🇷 | France 3
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/France4.png",🇫🇷 | France 4
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/France5.png",🇫🇷 | France 5
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/M6.png",🇫🇷 | M6
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Trek.jpg",🇫🇷 | Trek
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Novo%2019.jpg",🇫🇷 | Novo 19
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS%201.png",🇨🇭 | RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%20Sport%20HD.png",🇮🇹 | RAI Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Golazo.jpg",🇺🇸 | CBS Golazo
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT%20Sport.jpg",🇨🇿 | CT Sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rai%201.png",🇮🇹 | RAI 1
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rai%202.jpg",🇮🇹 | RAI 2
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%203.png",🇮🇹 | RAI 3
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/La%207.png",🇮🇹 | La 7
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 tvg-logo="",🇮🇹 | 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Sport%20Italia.jpg",🇮🇹 | Sport Italia
+https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%201.png",🇪🇸 | La 1 Catalunya
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%202.png",🇪🇸 | La 2 Catalunya
 https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/24h.png",🇪🇸 | 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/tdp.jpg",🇪🇸 | Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Hola.jpg",🇪🇸 |¡HOLA! Play
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="",🇪🇸 |
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Euronews.png",🇪🇸 | Euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cura%C3%A7ao/TV%20Direct%2013.png",🇨🇼 | TV Direct 13
 http://edge1.tvdirect13.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cura%C3%A7ao/Nos%20Pais.jpg",🇨🇼 | Nos Païs TV
@@ -179,3 +235,7 @@ http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 https://cdn.hostin.cc/curacaonu/curacaonu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/Telesur.jpg",🇻🇪 | Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT%20Sport.jpg",🇨🇿 | CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Golazo.jpg",🇺🇸 | CBS Golazo
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
