@@ -57,8 +57,21 @@ https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Iasi%20TV%20Life.png",🇷🇴 | Iasi TV Life
 https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Dotto%20TV.jpg"🇷🇴 | Dotto TV
+https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Agro%20TV.png",🇷🇴 | Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/ROTV%20Valencia.jpg",🇷🇴 | ROTV Valencia
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Tele7ABC.jpg",🇷🇴 | Tele7ABC
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/telestar1.png",🇷🇴 | Telestar 1
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TV%20SUD.jpg",🇷🇴 | TV SUD
+#EXTHTTP:{"referrer":"https://stream2.live-stream.ro/WebRTCApp/play.html?id=118334672595255049029831","user-agent":"Mozilla/5.0"}
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8%2F%2Fplay.html%3Fid%3D118334672595255049029831
+#EXTINF:-1 tvg-logo="",🇷🇴 |
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Play%20Crime.png",🇧🇪 | Play Crime
 https://playmedia-playcrime-goplay.amagi.tv/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ATV.png",🇧🇪 | ATV
