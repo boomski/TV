@@ -90,6 +90,12 @@ https://live-streaming.dpgmedia.net/hln-live-srt-mdai62ncqonw1qi0ec81tgeti80mtf/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bruzz.png",🇧🇪 | Bruzz
 #EXTHTTP:{"referrer":"https://player.cdn01.rambla.be","user-agent":"Mozilla/5.0"}
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
+#EXTINF:-1 tvg-logo="",🇧🇪 |  RTBF La Une
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-logo="",🇧🇪 |  
+
+#EXTINF:-1 tvg-logo="",🇧🇪 |  
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bouke.png",🇧🇪 | Boukè
 #EXTHTTP:{"referrer":"https://www.bouke.media","user-agent":"Mozilla/5.0"}
 https://tvlocales-live.freecaster.com/bouke/95d2f70d-fffd-4fd3-ab04-3d5f65cb8c3b/95d2f70d-fffd-4fd3-ab04-3d5f65cb8c3b.isml/master.m3u8
@@ -133,6 +139,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbceastenders
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcdramabenelux-dash-nlziet/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Top%20Gear.jpg",🇧🇪  | BBC Top Gear
 https://amg00793-amg00793c16-nlziet-nl-8602.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearbenelux-nlzietnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="",🇧🇪 |  
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO1.png",🇳🇱 | NPO1
 https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO2.png",🇳🇱 | NPO2
@@ -170,7 +178,7 @@ https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Luxemburg/Apart%20TV.png",🇱🇺 | Apart tv
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ARD.png",🇩🇪 | Das Erste
-
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ZDF.png",🇩🇪 | ZDF HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL.png",🇩🇪 | RTL
@@ -238,15 +246,15 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-cha
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Blue%20Zoom%20F.png",🇨🇭 | Blue Zoom F
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Carac%201.jpg",🇨🇭 | Carac 1
-
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Carac%202.jpg",🇨🇭 | Carac 2
-
+https://edge14.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Carac%203.jpg",🇨🇭 | Carac 3
-
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Carac%204.jpg",🇨🇭 | Carac 4
-
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Carac%205.jpg",🇨🇭 | Carac 5
-
+https://edge16.vedge.infomaniak.com/livecast/ik:carac5/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/TV24.png",🇨🇭 | TV24
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/TeleBarn.png",🇨🇭 | TeleBarn
