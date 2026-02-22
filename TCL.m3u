@@ -196,6 +196,8 @@ https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ZDFtelenovela.jpg",🇩🇪 | ZDF Telenovela
 https://jmp2.uk/stvp-DE400011F2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/wdr.jpg",🇩🇪 | WDR Aachen
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL.png",🇩🇪 | RTL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL%202.jpg",🇩🇪 | RTL 2
@@ -257,15 +259,15 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368575&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/AB3.png",🇫🇷 | AB3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS%201.png",🇨🇭 | RTS 1
-
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2444&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS2.png",🇨🇭 | RTS 2
-
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2442&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/SRF1.jpg",🇨🇭 | SRF 1
-
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2450&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/SRF2.jpg",🇨🇭 | SRF 2
-
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2448&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RSI1.png",🇨🇭 | RSI 1
-
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=2454&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RSI2.png",🇨🇭 | RSI 2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Blue%20Zoom%20F.png",🇨🇭 | Blue Zoom F
@@ -341,7 +343,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/tdp.jpg",🇪🇸 | Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/compartir_tve_internacional.jpg",🇪🇸 | TVE Internacional
-
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TVE%20Star.jpg",🇪🇸 | TVE Star
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Hola.jpg",🇪🇸 |¡HOLA! Play
@@ -357,14 +359,13 @@ https://cdn1.etbon.eus/oc1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/EITB.png",🇪🇸 | EITB 2
 https://cdn1.etbon.eus/oc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/EITB%20BASQUE.jpg",🇪🇸 | EITB Basque
-#EXTHTTP:{"referrer":"http-referrer=https://www.eitb.eus/","user-agent":"Mozilla/5.0"}
-https://multimedia.eitb.eus/live-content/etbbasqueeus-hls/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/28%20Kanala.jpg",🇪🇸 | 28 Kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TeleBilbao.jpg",🇪🇸 | TeleBilbao
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/CMM.jpg",🇪🇸 | CMM TV
-https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Tenerife%2B.jpg",🇪🇸 | Tenerife Plus+ TV
 https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Euronews.png",🇪🇸 | Euronews
