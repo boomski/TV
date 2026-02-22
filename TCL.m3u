@@ -90,11 +90,21 @@ https://live-streaming.dpgmedia.net/hln-live-srt-mdai62ncqonw1qi0ec81tgeti80mtf/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bruzz.png",🇧🇪 | Bruzz
 #EXTHTTP:{"referrer":"https://player.cdn01.rambla.be","user-agent":"Mozilla/5.0"}
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
-#EXTINF:-1 tvg-logo="",🇧🇪 |  RTBF La Une
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/La%20Une.jpg",🇧🇪 |  RTBF La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1 tvg-logo="",🇧🇪 |  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Tipik.jpg",🇧🇪 |  RTBF Tipik
+http://nomadstv.live:80/play/live.php?mac=00:1A:79:10:40:19&stream=40347&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTBF_La_Trois.png",🇧🇪 |  RTBF La Trois
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420251&extension=ts
+#EXTINF:-1 tvg-logo="",🇧🇪 | RTL TVI
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368569&extension=ts
+#EXTINF:-1 tvg-logo="",🇧🇪 | RTL Club
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420252&extension=ts
+#EXTINF:-1 tvg-logo="",🇧🇪 | RTL Plug
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420253&extension=ts
+#EXTINF:-1 tvg-logo="",🇧🇪 | 
 
-#EXTINF:-1 tvg-logo="",🇧🇪 |  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/AB3.png",🇧🇪 | AB3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bouke.png",🇧🇪 | Boukè
 #EXTHTTP:{"referrer":"https://www.bouke.media","user-agent":"Mozilla/5.0"}
@@ -127,8 +137,6 @@ https://tvlocales-live.freecaster.com/canalzoom/95d2e3b0-71ef-4d4f-afeb-aea01b00
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Matele.png",🇧🇪 | Matele
 https://live.matele.be/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/AB3.png",🇧🇪 | AB3
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Earth.png",🇧🇪  | BBC Earth
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcearthbenelux-dash-nlziet/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Lifestyle.png",🇧🇪  | BBC Lifestyle
