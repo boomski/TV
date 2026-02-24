@@ -187,7 +187,7 @@ https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Luxemburg/RTL%20ZWEE.png",🇱🇺 | RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Luxemburg/RTL%209.png",🇱🇺 | RTL 9
-
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Luxemburg/Apart%20TV.png",🇱🇺 | Apart tv
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ARD.png",🇩🇪 | Das Erste
@@ -260,16 +260,36 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/M6.png",🇫🇷 | M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/6ter.jpg",🇫🇷 | 6ter
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Trek.jpg",🇫🇷 | Trek
 https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/T18.png",🇫🇷 | T18
 https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Novo%2019.jpg",🇫🇷 | Novo 19
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TMC.png",🇫🇷 | TMC
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/W9.jpg",🇫🇷 | W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/AB1.jpg",🇫🇷 | AB1
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368575&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/AB3.png",🇫🇷 | AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/RMC%20Decouverte.jpg",🇫🇷 | RMC Decouverte
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/RMC%20Life.png",🇫🇷 | RMC Life
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/RMC%20Story.jpg",🇫🇷 | RMC Story
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/CSTAR.png",🇫🇷 | CSTAR
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/CNEWS.png",🇫🇷 | CNEWS
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+#EXTINF:-1 tvg-logo="",🇫🇷 |
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TV%20Monaco.jpg",🇲🇨 | Monaco TV
+https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS%201.png",🇨🇭 | RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS2.png",🇨🇭 | RTS 2
@@ -302,10 +322,18 @@ https://edge16.vedge.infomaniak.com/livecast/ik:carac5/master.m3u8
 https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/TV24.png",🇨🇭 | TV24
 https://viamotionhsi.netplus.ch/live/eds/tv24/browser-dash/tv24.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/latele.png",🇨🇭 | LATELE
+https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/TeleBarn.png",🇨🇭 | TeleBarn
 https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-dash/telebaern.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Leman%20Bleu.jpg",🇨🇭 | Leman Bleu
 http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Canal9.png",🇨🇭 | Canal 9
+https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Canal-Alpha.png",🇨🇭 | Canal Alpha Jura
+https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Canal-Alpha.png",🇨🇭 | Canal Alpha Neuchâtel
+https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/NRTV.png",🇨🇭 | NRTV
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-dash/nrtv.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/Fifa%2B.jpg",🇨🇭 | FIFA+
