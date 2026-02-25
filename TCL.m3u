@@ -518,6 +518,12 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Costa%20Rica/TicaVision.jpg",🇨🇷 | TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Aruba/Aruba%20TV.jpg",🇦🇼 | Aruba TV
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Aruba/Nos%20Isla%20TV.png",🇦🇼 | Nos Isla TV
+https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Aruba/Telearuba.png",🇦🇼 | Telearuba
+https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cura%C3%A7ao/TV%20Direct%2013.png",🇨🇼 | TV Direct 13
 http://edge1.tvdirect13.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cura%C3%A7ao/Nos%20Pais.jpg",🇨🇼 | Nos Païs TV
