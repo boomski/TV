@@ -630,6 +630,48 @@ https://live-fi.tvkaista.net/nelonen/live.m3u8
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT%20Sport.jpg",🇨🇿 | CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport1.png",🇨🇿 | Sport1
+https://estreams.tv.nej.cz/dash/CH_SPORT1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport2.png",🇨🇿 | Sport2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Sport%201.png",🇨🇿 | Nova Sport 1
+https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Sport%202.png",🇨🇿 | Nova Sport 2
+https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT1.png",🇨🇿 | CT1
+https://estreams.tv.nej.cz/dash/CH_CT1_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/%C4%8CT2.png",🇨🇿 | CT2
+https://estreams.tv.nej.cz/dash/CH_CT2_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/ct24.png",🇨🇿 | CT24
+https://estreams.tv.nej.cz/dash/CH_CT24_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova.jpg",🇨🇿 | Nova
+https://estreams.tv.nej.cz/dash/CH_NOVA_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Logo_Nova_Lady_2021.png",🇨🇿 | Nova Lady
+https://estreams.tv.nej.cz/dash/CH_NOVA_LADY_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima.jpg",🇨🇿 | Prima
+https://estreams.tv.nej.cz/dash/CH_PRIMA_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/prima-max.png",🇨🇿 | Prima MAX
+https://estreams.tv.nej.cz/dash/CH_PRIMA_MAX_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20Love.jpg",🇨🇿 | Prima Love
+https://estreams.tv.nej.cz/dash/CH_PRIMA_LOVE_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20zoom.jpg",🇨🇿 | Prima Zoom
+https://estreams.tv.nej.cz/dash/CH_PRIMA_ZOOM_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/TV%20Barrandov.jpg",🇨🇿 | TV Barrandov
+https://estreams.tv.nej.cz/dash/CH_BARRANDOV_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/sporty_tv_logo.jpg",🇨🇿 | Sporty TV
+https://estreams.tv.nej.cz/dash/CH_SPORTYTV_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="",🇨🇿 | 
+
+#EXTINF:-1 tvg-logo="",🇸🇰 | 
+
+#EXTINF:-1 tvg-logo="",🇸🇰 | 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/televiziata3_logo.jpg",🇸🇰 | TA3
+https://estreams.tv.nej.cz/dash/CH_TA3_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV8.jpg",🇸🇰 | TV8
+https://estreams.tv.nej.cz/dash/CH_TV8_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="",🇸🇰 | 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP1.jpg",🇵🇱 | TVP 1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/tvp-polonia.png",🇵🇱 | TVP Polonia
