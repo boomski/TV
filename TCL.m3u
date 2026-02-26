@@ -636,6 +636,12 @@ https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/RTSH%20Sport.png",🇦🇱 | RTSH Sport
 http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Setanta-logo.jpg",🇬🇪 | Setanta Sports 1
+http://3.team.ga/ch1199/mono.m3u8?token=zazann.v2_WND9oeNIcGQAd1sBmvMg2armQy3aOIobPym_Z2KZ5hOeQIB1eJn2e8SRxBohGRfRkUIeBKkl3FQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Setanta-logo.jpg",🇬🇪 | Setanta Sports 2
+http://3.team.ga/ch1206/mono.m3u8?token=zazann.v2_1iKUKXCHIEqGH3yLs_5lG6ICaep3rJGrZ0tndW0aEGdS6q1gJM92IpEnlgkygmuYLU5of7rB2zM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Setanta-logo.jpg",🇬🇪 | Setanta Sports 3
+http://3.team.ga/ch2060/mono.m3u8?token=zazann.v2_Wzt7LcNL_CBw3zTprfSypDxm4KAGZdHRrH9wjnWdSFJKpMvNXQPlnI2w7nDVMT6tj25KpzmhOxc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.jpg",🇷🇺 | Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80.jpg",🇷🇺 | Телеканал Краснодар
