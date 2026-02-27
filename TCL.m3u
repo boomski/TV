@@ -516,6 +516,8 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/MexicoTravelTV.png",🇲🇽 | Mexico Travel TV
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/TYC%20Sports.png",🇦🇷 | TYC Sports
+https://livetrx03.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Telemax.png",🇦🇷 | Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/America%20TV.png",🇦🇷 | America TV
@@ -583,9 +585,9 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/SIC%20Noticias.jpg",🇵🇹 | SIC Noticias
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/TVI.png",🇵🇹 | TVI
-https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8?wowzasessionid=@iprtlk
-
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/TVI_Internacional.png",🇵🇹 | TVI International
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/tviint.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/TVI%20Fic%C3%A7%C3%A3o.jpg",🇵🇹 | TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/TVI%20Reality.jpg",🇵🇹 | TVI Reality
@@ -602,12 +604,24 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?wowzasessionid=@ip
 https://cdn.livespanel.com/portaltvportuguesa6356/live/playlist.m3u8?wowzasessionid=@iprtlk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macau/tdmmacau_logo.jpg",🇲🇴 | TDM Macau
 https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8?wowzasessionid=@iprtlk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Band%20Sports.jpg",🇧🇷 | Band Sports
+https://02.arlivre.online/bandsport/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Sportv.png",🇧🇷 | Sportv
+https://02.arlivre.online/sportv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Sportv.png",🇧🇷 | Sportv 2
+https://02.arlivre.online/sportv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Sportv.png",🇧🇷 | Sportv 3
+https://02.arlivre.online/sportv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Combate.png",🇧🇷 | Combate
+https://02.arlivre.online/combate/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Record.png",🇧🇷 | Record
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Record%20News.jpg",🇧🇷 | Record News
 https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Amazon%20Sat.png",🇧🇷 | Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="",🇧🇷 | 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/TV%20Zimbo.png",🇦🇴 | Zimbo TV
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/Zap%20Viva.jpg",🇦🇴 | Zap Viva
@@ -686,8 +700,12 @@ https://estreams.tv.nej.cz/dash/CH_TV8_Portable.ism/playlist.mpd
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP1.jpg",🇵🇱 | TVP 1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP2.jpg",🇵🇱 | TVP 2
+https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/tvp-polonia.png",🇵🇱 | TVP Polonia
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TV%20ASTA.png",🇵🇱 | TV ASTA
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT.jpg",🇺🇦 | XSPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT%2B.png",🇺🇦 | XSPORT+
@@ -704,10 +722,14 @@ http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19074/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor.jpg",🇹🇷 | Tivibu Spor 3
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19076/index.m3u8
-#EXTINF:-1 tvg-logo="",🇹🇷 |
-
-#EXTINF:-1 tvg-logo="",🇹🇷 |
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="",🇹🇷 |
 
 #EXTINF:-1 tvg-logo="",🇹🇷 |
@@ -818,6 +840,19 @@ https://i.mjh.nz/.r/te-reo.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/tntv_logo.jpg",🇵🇫 | Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/TNT%20Sports.png",🇬🇧 | TNT Sports 1
+https://l.hilay.tv/tnt1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/TNT%20Sports.png",🇬🇧 | TNT Sports 2
+http://58.65.205.171:8000/play/a072
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/TNT%20Sports.png",🇬🇧 | TNT Sports 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/TNT%20Sports.png",🇬🇧 | TNT Sports 4
+https://a1xs.vip/2000024
+#EXTINF:-1 tvg-logo="",🇬🇧 | 
+
+#EXTINF:-1 tvg-logo="",🇬🇧 | 
+
+#EXTINF:-1 tvg-logo="",🇬🇧 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/dazn_ringside_white.png",🇬🇧 | DAZN RINGSIDE
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/BBC2.png",🇬🇧 | BBC 2
