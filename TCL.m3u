@@ -644,6 +644,10 @@ https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/Nelonen.png",🇫🇮 | Nelonen
 https://live-fi.tvkaista.net/nelonen/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/RUV.png",🇮🇸 | RUV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/RUV%202.png",🇮🇸 | RUV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/V%C3%ADsir.jpg",🇮🇸 | Vísir
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT%20Sport.jpg",🇨🇿 | CT Sport
@@ -686,10 +690,10 @@ https://estreams.tv.nej.cz/dash/CH_SPORTYTV_Portable.ism/playlist.mpd
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="",🇨🇿 | 
 
-#EXTINF:-1 tvg-logo="",🇸🇰 | 
-
-#EXTINF:-1 tvg-logo="",🇸🇰 | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Jednotka.png",🇸🇰 | Jednotka
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Dvojka.png",🇸🇰 | Dvojka
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/televiziata3_logo.jpg",🇸🇰 | TA3
 https://estreams.tv.nej.cz/dash/CH_TA3_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV8.jpg",🇸🇰 | TV8
