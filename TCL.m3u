@@ -79,11 +79,11 @@ http://103.161.35.76/RO-117/index.m3u8
 https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 #EXTINF:-1 tvg-logo="",🇷🇴 | 
 
-#EXTINF:-1 tvg-logo="",🇲🇩 | Moldova 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/TV_Moldova_1_2025.svg.png",🇲🇩 | Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1 tvg-logo="",🇲🇩 | Moldova 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/TV_Moldova_2_2025.svg.png",🇲🇩 | Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
-#EXTINF:-1 tvg-logo="",🇲🇩 | Moldova TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/Moldova%20TV.png",🇲🇩 | Moldova TV
 https://moldovatv.ro/live-tv/live.m3u
 #EXTINF:-1 tvg-logo="",🇲🇩 | 
 
@@ -544,6 +544,8 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/rcn-mas.png",🇨🇴 | RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/telepacifico.png",🇨🇴 | Telepacifico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Costa%20Rica/TicaVision.jpg",🇨🇷 | TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Aruba/Aruba%20TV.jpg",🇦🇼 | Aruba TV
