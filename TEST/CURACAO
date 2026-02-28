@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oZkDq0G.png" group-title="Curaçao",CW | DCTV 
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/dctv/kodi/mystream.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kbx9ade.png" group-title="Curaçao",CW | Nos Païs
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/nospais/kodi/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pJxD8Vc.png" group-title="Curaçao",CW | TV Direct 13
-plugin://plugin.video.curwatch/?action=play&amp;video=http://cur.watch/api/get_stream/tvdirect/kodi/mystream.m3u8
