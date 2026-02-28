@@ -732,8 +732,22 @@ https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT%2B.png",🇺🇦 | XSPORT+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M2.png",🇭🇺 | M2
+http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M4%20Sport.png",🇭🇺 | M4 Sport
 http://88.212.15.19/live/m4_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M5.png",🇭🇺 | M5
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="",🇭🇺 | 
+
+#EXTINF:-1 tvg-logo="",🇭🇺 | 
+
+#EXTINF:-1 tvg-logo="",🇭🇺 | 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/Eger.jpg",🇭🇺 | TV Eger
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-logo="",🇭🇺 | 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/rts-sat.png",🇷🇸 | PTC CBET
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Montenegro/tvcgmne.jpg",🇲🇪 | RTCG
