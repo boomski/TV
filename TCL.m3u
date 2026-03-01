@@ -372,10 +372,10 @@ https://canal32.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="",🇫🇷 |
 
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/ScreamIn.png",🇫🇷 | Zylo ScreamIn
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Zylo%20Into%20Crime.png",🇫🇷 | Zylo Into Crime
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/LeMonde24.jpg",🇫🇷 | Le Monde en 24h
 https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Sport%20en%20France.png",🇫🇷 | Sport en France
@@ -573,6 +573,8 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Telecafejpg.jpg",🇨🇴 | Telecafe
 #EXTHTTP:{"referrer":"https://player.instantvideocloud.net/","user-agent":"Mozilla/5.0"}
 https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Zoom.jpg",🇨🇴 | Zoom
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Costa%20Rica/TicaVision.jpg",🇨🇷 | TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Aruba/Aruba%20TV.jpg",🇦🇼 | Aruba TV
@@ -817,6 +819,8 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Neo%20Haber.png",🇹🇷 | Neo Haber
 https://edge2.taksimbilisim.com/neohaber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Xezer%20TV.jpg",🇦🇿 | Xezer TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Setanta-logo.jpg",🇬🇪 | Setanta Sports 1
 http://3.team.ga/ch1199/mono.m3u8?token=zazann.v2_WND9oeNIcGQAd1sBmvMg2armQy3aOIobPym_Z2KZ5hOeQIB1eJn2e8SRxBohGRfRkUIeBKkl3FQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Setanta-logo.jpg",🇬🇪 | Setanta Sports 2
@@ -927,6 +931,10 @@ https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/MTV.jpg",🇱🇧 | MTV Lebanon
 https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/Reshet%2013.jpg",🇮🇱 | Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/Makan%2033.png",🇮🇱 | Makan 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Afrika/Sports%20Connect.jpg",🇿🇦 | Sports Connect
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8?ads.vf=K-yU3EWs_wu
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/Bravo%2B1.png",🇳🇿 | Bravo +1
@@ -984,6 +992,8 @@ https://jmp2.uk/stvp-GB2200002CC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/H%26C.jpg",🇬🇧 | Horse & Country TV
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/WOLI.jpg",🇬🇧 | World of Love Island
+https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",🇬🇧 | 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/CBS%20Sports.png",🇺🇸 | CBS Sports Network
@@ -1008,4 +1018,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Stadium.png",🇺🇸 | Stadium
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Rakuten%20Viki.png",🇺🇸 | Rakuten Viki
+https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="",🇺🇸 | 
