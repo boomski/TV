@@ -1,43 +1,78 @@
 #!/bin/bash
 
+# Input bestand met kanalen
 INPUT_FILE="channels.txt"
-OUTPUT_DIR="outputs"
-FALLBACK="https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
+# Output map
+OUTPUT_DIR="outputs"
 mkdir -p "$OUTPUT_DIR"
 
+# Fallback stream als scraping faalt
+FALLBACK="https://raw.githubusercontent.com/USERNAME/AUTOTV/main/assets/moose_na.m3u"
+
+# Centrale playlist
+CENTRAL_PLAYLIST="$OUTPUT_DIR/TCL.m3u"
+
+# Headers (optioneel, als je die nodig hebt)
+HEADERS="|User-Agent=VLC/3.0.18&Referer=https://www.dailymotion.com/"
+
+########################################
+# Functie: kanaal URL vervangen of toevoegen
+########################################
+update_central_playlist() {
+  NAME="$1"
+  URL="$2"
+
+  # Controleer of kanaal al bestaat in playlist
+  if grep -q "$NAME" "$CENTRAL_PLAYLIST"; then
+    # Vervang alleen de regel direct onder de EXTINF
+    sed -i "/$NAME/{n;s#.*#$URL#;}" "$CENTRAL_PLAYLIST"
+  else
+    # Optioneel: voeg nieuw kanaal toe onderaan
+    echo "" >> "$CENTRAL_PLAYLIST"
+    echo "#EXTINF:-1,$NAME" >> "$CENTRAL_PLAYLIST"
+    echo "$URL" >> "$CENTRAL_PLAYLIST"
+  fi
+}
+
+########################################
+# Loop door alle kanalen in channels.txt
+########################################
 while IFS='|' read -r NAME URL
 do
   echo "Scrapen: $NAME"
 
+  # Haal de stream op met yt-dlp
   BASE_STREAM=$(yt-dlp -g "$URL" 2>/dev/null | head -n 1)
 
+  # Gebruik fallback als niets gevonden
   if [ -z "$BASE_STREAM" ]; then
     FINAL_STREAM="${FALLBACK}${HEADERS}"
   else
     FINAL_STREAM="$BASE_STREAM"
 
-    # 🔹 Speciale regel voor Le Figaro
+    # Speciale regels per kanaal
     if [ "$NAME" = "Le Figaro" ]; then
       FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720@60/g')
     fi
-
-    # 🔹 Speciale regel voor Télénantes
     if [ "$NAME" = "Télénantes" ]; then
       FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-480/g')
     fi
 
-    # 🔹 Algemene regel voor alle kanalen
+    # Algemene vervangingen
     FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-720/g')
     FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720/g')
 
-    # 🔹 Headers toevoegen
+    # Voeg headers toe
     FINAL_STREAM="${FINAL_STREAM}${HEADERS}"
   fi
 
-  OUTPUT_FILE="$OUTPUT_DIR/$NAME.m3u8"
+  # Schrijf individuele kanaal .m3u8 file
+  echo "$FINAL_STREAM" > "$OUTPUT_DIR/$NAME.m3u8"
 
-  # 🔥 BELANGRIJK: overschrijf file i.p.v. append
-  echo "$FINAL_STREAM" > "$OUTPUT_FILE"
+  # Update centrale playlist TCL.m3u
+  update_central_playlist "$NAME" "$FINAL_STREAM"
 
 done < "$INPUT_FILE"
+
+echo "✅ TCL.m3u bijgewerkt met actuele stream links, handmatige EXTINF-posities blijven intact."
