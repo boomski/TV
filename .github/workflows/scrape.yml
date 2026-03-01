@@ -1,4 +1,42 @@
-name: Scrape streams
+name: Update TCL Playlist
+
+# Draai elke uur
+on:
+  schedule:
+    - cron: "0 * * * *"  # elk uur op het uur
+  workflow_dispatch:       # handmatig triggeren mogelijk
+
+jobs:
+  update-tcl:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ Setup Python & yt-dlp dependencies
+      - name: Install yt-dlp
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install yt-dlp
+
+      # 3️⃣ Maak script uitvoerbaar
+      - name: Make scrape.sh executable
+        run: chmod +x ./scrape.sh
+
+      # 4️⃣ Run scrape.sh
+      - name: Run scrape.sh
+        run: ./scrape.sh
+
+      # 5️⃣ Commit en push updates
+      - name: Commit and push updated TCL.m3u
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add TCL.m3u
+          git diff-index --quiet HEAD || git commit -m "Update TCL.m3u via GitHub Actions"
+          git pushname: Scrape streams
 
 on:
   schedule:
