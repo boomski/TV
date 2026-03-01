@@ -3,26 +3,21 @@
 # Input bestand met kanalen
 INPUT_FILE="channels.txt"
 
-# Output map voor losse kanaalbestanden
-OUTPUT_DIR="outputs"
-mkdir -p "$OUTPUT_DIR"
+# Centrale playlist in hoofdmap
+CENTRAL_PLAYLIST="TCL.m3u"
 
 # Fallback stream als scraping faalt
 FALLBACK="https://raw.githubusercontent.com/USERNAME/AUTOTV/main/assets/moose_na.m3u"
 
-# Centrale playlist staat in de hoofdmap
-CENTRAL_PLAYLIST="TCL.m3u"
-
 ########################################
-# Functie: kanaal URL vervangen of toevoegen
+# Functie: kanaal URL vervangen in centrale playlist
 ########################################
 update_central_playlist() {
   NAME="$1"
   URL="$2"
 
-  # Controleer of kanaal al bestaat in playlist
+  # Zoek kanaal in playlist en vervang alleen de regel onder EXTINF
   if grep -q "$NAME" "$CENTRAL_PLAYLIST"; then
-    # Vervang alleen de regel direct onder de EXTINF
     sed -i "/$NAME/{n;s#.*#$URL#;}" "$CENTRAL_PLAYLIST"
   else
     # Optioneel: voeg nieuw kanaal toe onderaan
@@ -57,10 +52,7 @@ do
   FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-720/g')
   FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720/g')
 
-  # Schrijf individuele kanaal .m3u8 file in outputs
-  echo "$FINAL_STREAM" > "$OUTPUT_DIR/$NAME.m3u8"
-
-  # Update centrale playlist TCL.m3u in hoofdmap
+  # Update centrale playlist TCL.m3u
   update_central_playlist "$NAME" "$FINAL_STREAM"
 
 done < "$INPUT_FILE"
