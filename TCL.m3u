@@ -722,7 +722,9 @@ http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
 https://estreams.tv.nej.cz/dash/CH_TA3_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV8.jpg",🇸🇰 | TV8
 https://estreams.tv.nej.cz/dash/CH_TV8_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="",🇸🇰 | 
+#EXTINF:-1 tvg-logo="https://github.com/boomski/TV-LOGO/blob/main/Slowakije/TV9.png",🇸🇰 | TV9
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1 tvg-logo="",🇸🇰 |
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP%20Sport.jpg",🇵🇱 | TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
@@ -738,6 +740,8 @@ https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT%2B.png",🇺🇦 | XSPORT+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Espresso.png",🇺🇦 | Еспресо
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M2.png",🇭🇺 | M2
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M4%20Sport.png",🇭🇺 | M4 Sport
