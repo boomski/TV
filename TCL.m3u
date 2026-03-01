@@ -277,9 +277,9 @@ https://jmp2.uk/stvp-DEBD260000692
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Free-Sportdigital.jpg",🇩🇪 | Sportdigital Free
 https://jmp2.uk/stvp-DEAJ0500429A
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/dazn-darts-x-pluto-tv_qk10bt0vvuky1ubkj0smkpp0g.jpg",🇩🇪 | DAZN Darts
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca3-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=172fcc6d-73c3-48c9-86a8-04885a2af742
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/DAZN%20Heldinnen.jpg",🇩🇪 | DAZN Heldinnen
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69be0114-52dc-4eed-b6e7-c907f1b51e64
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/WOF.jpg",🇩🇪 | World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="",🇩🇪 | 
@@ -377,19 +377,19 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Zylo%20Into%20Crime.png",🇫🇷 | Zylo Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/LeMonde24.jpg",🇫🇷 | Le Monde en 24h
-https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Sport%20en%20France.png",🇫🇷 | Sport en France
-https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Sport en France.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Moselle%20TV.png",🇫🇷 | Moselle TV
-https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Moselle TV.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Le%20Figaro%20IDF.png",🇫🇷 | Le Figaro
-https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Le Figaro.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maritima.png",🇫🇷 | Maritima TV
-https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Maritima TV.m3u8
+https://raw.githubusercontent.com/boomski/AUTOTV/refs/heads/main/outputs/Maritima-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Angers%20T%C3%A9l%C3%A9.jpg",🇫🇷 | Angers Télé
-https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Angers Télé.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/T%C3%A9l%C3%A9nantes.png",🇫🇷 | Télénantes
-https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Télénantes.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TV%20Monaco.jpg",🇲🇨 | Monaco TV
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS%201.png",🇨🇭 | RTS 1
@@ -551,7 +551,7 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/MexicoTravelTV.png",🇲🇽 | Mexico Travel TV
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/NRT.png",🇲🇽 | NRT Internacional
-https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/NRT INTERNACIONAL.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/TYC%20Sports.png",🇦🇷 | TYC Sports
 https://livetrx03.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Telemax.png",🇦🇷 | Telemax
@@ -571,8 +571,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/telepacifico.png",🇨🇴 | Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Telecafejpg.jpg",🇨🇴 | Telecafe
-#EXTHTTP:{"referrer":"https://player.instantvideocloud.net/","user-agent":"Mozilla/5.0"}
-https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Zoom.jpg",🇨🇴 | Zoom
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Costa%20Rica/TicaVision.jpg",🇨🇷 | TicaVision
@@ -590,7 +589,7 @@ http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cura%C3%A7ao/Cura%C3%A7ao.nu.png",🇨🇼 | Curaçao.nu
 https://cdn.hostin.cc/curacaonu/curacaonu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/CDN%20Deportes.png",🇩🇴 | CDN Deportes
-https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/CDN Deportes.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/TOURSPORT.png",🇩🇴 | Tour Sport TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/Telesur.jpg",🇻🇪 | Telesur
@@ -844,7 +843,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80.jpg",🇷🇺 | Телеканал Краснодар
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/MATCH_STRANA.jpg",🇷🇺 | Матч! Страна
-http://31.148.48.15/Match_Strana/index.m3u8
+
 #EXTINF:-1 tvg-logo="",🇷🇺 | 
 
 #EXTINF:-1 tvg-logo="",🇷🇺 | 
