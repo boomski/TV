@@ -380,8 +380,8 @@ https://canal32.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="",🇫🇷 |
 
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/LeMonde24.jpg",🇫🇷 | Le Monde en 24h
+https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maritima.png",🇫🇷 | Maritima TV
 https://raw.githubusercontent.com/boomski/dailymotion/refs/heads/main/MaritimaTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TV%20Monaco.jpg",🇲🇨 | Monaco TV
