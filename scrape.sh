@@ -7,7 +7,7 @@ INPUT_FILE="channels.txt"
 CENTRAL_PLAYLIST="TCL.m3u"
 
 # Fallback stream als scraping faalt
-FALLBACK="https://raw.githubusercontent.com/USERNAME/AUTOTV/main/assets/moose_na.m3u"
+FALLBACK="https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 ########################################
 # Functie: kanaal URL vervangen in centrale playlist
