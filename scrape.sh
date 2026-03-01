@@ -3,18 +3,15 @@
 # Input bestand met kanalen
 INPUT_FILE="channels.txt"
 
-# Output map
+# Output map voor losse kanaalbestanden
 OUTPUT_DIR="outputs"
 mkdir -p "$OUTPUT_DIR"
 
 # Fallback stream als scraping faalt
 FALLBACK="https://raw.githubusercontent.com/USERNAME/AUTOTV/main/assets/moose_na.m3u"
 
-# Centrale playlist
-CENTRAL_PLAYLIST="$OUTPUT_DIR/TCL.m3u"
-
-# Headers (optioneel, als je die nodig hebt)
-HEADERS="|User-Agent=VLC/3.0.18&Referer=https://www.dailymotion.com/"
+# Centrale playlist staat in de hoofdmap
+CENTRAL_PLAYLIST="TCL.m3u"
 
 ########################################
 # Functie: kanaal URL vervangen of toevoegen
@@ -46,31 +43,24 @@ do
   BASE_STREAM=$(yt-dlp -g "$URL" 2>/dev/null | head -n 1)
 
   # Gebruik fallback als niets gevonden
-  if [ -z "$BASE_STREAM" ]; then
-    FINAL_STREAM="${FALLBACK}${HEADERS}"
-  else
-    FINAL_STREAM="$BASE_STREAM"
+  FINAL_STREAM="${BASE_STREAM:-$FALLBACK}"
 
-    # Speciale regels per kanaal
-    if [ "$NAME" = "Le Figaro" ]; then
-      FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720@60/g')
-    fi
-    if [ "$NAME" = "Télénantes" ]; then
-      FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-480/g')
-    fi
-
-    # Algemene vervangingen
-    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-720/g')
-    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720/g')
-
-    # Voeg headers toe
-    FINAL_STREAM="${FINAL_STREAM}${HEADERS}"
+  # Speciale regels per kanaal
+  if [ "$NAME" = "Le Figaro" ]; then
+    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720@60/g')
+  fi
+  if [ "$NAME" = "Télénantes" ]; then
+    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-480/g')
   fi
 
-  # Schrijf individuele kanaal .m3u8 file
+  # Algemene vervangingen
+  FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-720/g')
+  FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720/g')
+
+  # Schrijf individuele kanaal .m3u8 file in outputs
   echo "$FINAL_STREAM" > "$OUTPUT_DIR/$NAME.m3u8"
 
-  # Update centrale playlist TCL.m3u
+  # Update centrale playlist TCL.m3u in hoofdmap
   update_central_playlist "$NAME" "$FINAL_STREAM"
 
 done < "$INPUT_FILE"
