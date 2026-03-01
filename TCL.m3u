@@ -368,6 +368,22 @@ https://canal32.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="",🇫🇷 |
 
+#EXTINF:-1 tvg-logo="",🇫🇷 |
+
+#EXTINF:-1 tvg-logo="",🇫🇷 |
+
+#EXTINF:-1 tvg-logo="",🇫🇷 |
+
+#EXTINF:-1 tvg-logo="",🇫🇷 |
+
+#EXTINF:-1 tvg-logo="",🇫🇷 |
+
+#EXTINF:-1 tvg-logo="",🇫🇷 |
+
+#EXTINF:-1 tvg-logo="",🇫🇷 |
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maritima.png",🇫🇷 | Maritima TV
+https://raw.githubusercontent.com/boomski/dailymotion/refs/heads/main/MaritimaTV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TV%20Monaco.jpg",🇲🇨 | Monaco TV
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS%201.png",🇨🇭 | RTS 1
@@ -524,7 +540,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/Canal%20Once.jpg",🇲🇽 | Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/boomski/TV-LOGO/blob/main/Mexico/TELE10.png",🇲🇽 | TELE 10 Nayarit
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/TELE10.png",🇲🇽 | TELE 10 Nayarit
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/MexicoTravelTV.png",🇲🇽 | Mexico Travel TV
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
@@ -722,7 +738,7 @@ http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
 https://estreams.tv.nej.cz/dash/CH_TA3_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV8.jpg",🇸🇰 | TV8
 https://estreams.tv.nej.cz/dash/CH_TV8_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://github.com/boomski/TV-LOGO/blob/main/Slowakije/TV9.png",🇸🇰 | TV9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV9.png",🇸🇰 | TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="",🇸🇰 |
 
@@ -898,6 +914,8 @@ https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/El%20le'ba%20channel.avif",🇪🇬 | El le'ba
 https://shls-live-ak.akamaized.net/out/v1/d6e1fdee781f4506a6ac147fee5ba715/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/MTV.jpg",🇱🇧 | MTV Lebanon
+https://shls-live-enc.edgenextcdn.net/out/v1/45ad6fbe1f7149ad9f05f8aefc38f6c0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Afrika/Sports%20Connect.jpg",🇿🇦 | Sports Connect
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sports-connect/video.m3u8?ads.vf=K-yU3EWs_wu
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/Bravo%2B1.png",🇳🇿 | Bravo +1
