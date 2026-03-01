@@ -384,6 +384,8 @@ https://canal32.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maritima.png",🇫🇷 | Maritima TV
 https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Maritima TV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Angers%20T%C3%A9l%C3%A9.jpg",🇫🇷 | Angers Télé
+https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Angers Télé.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TV%20Monaco.jpg",🇲🇨 | Monaco TV
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS%201.png",🇨🇭 | RTS 1
@@ -544,6 +546,8 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/MexicoTravelTV.png",🇲🇽 | Mexico Travel TV
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/NRT.png",🇲🇽 | NRT Internacional
+https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/NRT INTERNACIONAL.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/TYC%20Sports.png",🇦🇷 | TYC Sports
 https://livetrx03.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Telemax.png",🇦🇷 | Telemax
