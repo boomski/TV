@@ -378,14 +378,16 @@ https://canal32.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="",🇫🇷 |
 
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/LeMonde24.jpg",🇫🇷 | Le Monde en 24h
 https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Le%20Figaro%20IDF.png",🇫🇷 | Le Figaro
+https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Le Figaro.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maritima.png",🇫🇷 | Maritima TV
 https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Maritima TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Angers%20T%C3%A9l%C3%A9.jpg",🇫🇷 | Angers Télé
 https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Angers Télé.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/T%C3%A9l%C3%A9nantes.png",🇫🇷 | Télénantes
+https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Télénantes.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TV%20Monaco.jpg",🇲🇨 | Monaco TV
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/RTS%201.png",🇨🇭 | RTS 1
@@ -581,7 +583,7 @@ http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cura%C3%A7ao/Cura%C3%A7ao.nu.png",🇨🇼 | Curaçao.nu
 https://cdn.hostin.cc/curacaonu/curacaonu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/CDN%20Deportes.png",🇩🇴 | CDN Deportes
-
+https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/CDN Deportes.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/TOURSPORT.png",🇩🇴 | Tour Sport TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/Telesur.jpg",🇻🇪 | Telesur
