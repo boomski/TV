@@ -376,10 +376,12 @@ https://canal32.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="",🇫🇷 |
 
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/LeMonde24.jpg",🇫🇷 | Le Monde en 24h
 https://stream.berosat.live:19360/monde24h-tv-index/monde24h-tv-index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Sport%20en%20France.png",🇫🇷 | Sport en France
+https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Sport en France.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Moselle%20TV.png",🇫🇷 | Moselle TV
+https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Moselle TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Le%20Figaro%20IDF.png",🇫🇷 | Le Figaro
 https://raw.githubusercontent.com/boomski/AUTOTV/main/outputs/Le Figaro.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maritima.png",🇫🇷 | Maritima TV
