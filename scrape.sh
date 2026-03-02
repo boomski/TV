@@ -47,7 +47,7 @@ do
   if [ "$NAME" = "Télénantes" ]; then
     FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-480/g')
   fi
-  if [ "$NAME" = "" ]; then
+  if [ "$NAME" = "Men's UP TV" ]; then
     FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-480/g')
   fi
 
