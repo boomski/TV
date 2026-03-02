@@ -10,15 +10,12 @@ FALLBACK="https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/asset
 update_central_playlist() {
   local NAME="$1"
   local URL="$2"
-
-  # Escape voor sed (vooral / en &)
-  local SAFE_NAME
-  SAFE_NAME=$(printf '%s\n' "$NAME" | sed 's/[\/&]/\\&/g')
-
+  
+ # Zoek kanaal in playlist en vervang alleen de regel onder EXTINF
   if grep -q "#EXTINF:-1,$NAME" "$CENTRAL_PLAYLIST"; then
-    sed -i "/#EXTINF:-1,$SAFE_NAME/{n;s#.*#$URL#;}" "$CENTRAL_PLAYLIST"
     echo "🔄 Updated: $NAME"
   else
+  # Optioneel: voeg nieuw kanaal toe onderaan
     echo "" >> "$CENTRAL_PLAYLIST"
     echo "#EXTINF:-1,$NAME" >> "$CENTRAL_PLAYLIST"
     echo "$URL" >> "$CENTRAL_PLAYLIST"
