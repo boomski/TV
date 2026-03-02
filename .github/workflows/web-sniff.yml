@@ -2,8 +2,8 @@ name: Web Stream Sniffer
 
 on:
   schedule:
-    - cron: "0 * * * *"   # elk uur
-  workflow_dispatch:       # handmatig starten knop
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   sniff:
@@ -15,6 +15,9 @@ jobs:
 
       - name: Install curl
         run: sudo apt-get update && sudo apt-get install -y curl
+
+      - name: Make script executable
+        run: chmod +x web_sniff.sh
 
       - name: Run web sniff script
         run: bash web_sniff.sh
