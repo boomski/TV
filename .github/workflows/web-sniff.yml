@@ -1,0 +1,28 @@
+name: Web Stream Sniffer
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # elk uur
+  workflow_dispatch:       # handmatig starten knop
+
+jobs:
+  sniff:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install curl
+        run: sudo apt-get update && sudo apt-get install -y curl
+
+      - name: Run web sniff script
+        run: bash web_sniff.sh
+
+      - name: Commit updated TCL.m3u
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add TCL.m3u
+          git commit -m "🔄 Auto update TCL.m3u (web sniff)" || echo "No changes"
+          git push
