@@ -1,63 +1,72 @@
 #!/bin/bash
 
-# Input bestand met kanalen
 INPUT_FILE="channels.txt"
-
-# Centrale playlist in hoofdmap
 CENTRAL_PLAYLIST="TCL.m3u"
-
-# Fallback stream als scraping faalt
 FALLBACK="https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 ########################################
 # Functie: kanaal URL vervangen in centrale playlist
 ########################################
 update_central_playlist() {
-  NAME="$1"
-  URL="$2"
+  local NAME="$1"
+  local URL="$2"
 
-  # Zoek kanaal in playlist en vervang alleen de regel onder EXTINF
-  if grep -q "$NAME" "$CENTRAL_PLAYLIST"; then
-    sed -i "/$NAME/{n;s#.*#$URL#;}" "$CENTRAL_PLAYLIST"
+  # Escape voor sed (vooral / en &)
+  local SAFE_NAME
+  SAFE_NAME=$(printf '%s\n' "$NAME" | sed 's/[\/&]/\\&/g')
+
+  if grep -q "#EXTINF:-1,$NAME" "$CENTRAL_PLAYLIST"; then
+    sed -i "/#EXTINF:-1,$SAFE_NAME/{n;s#.*#$URL#;}" "$CENTRAL_PLAYLIST"
+    echo "🔄 Updated: $NAME"
   else
-    # Optioneel: voeg nieuw kanaal toe onderaan
     echo "" >> "$CENTRAL_PLAYLIST"
     echo "#EXTINF:-1,$NAME" >> "$CENTRAL_PLAYLIST"
     echo "$URL" >> "$CENTRAL_PLAYLIST"
+    echo "➕ Added: $NAME"
   fi
 }
 
 ########################################
-# Loop door alle kanalen in channels.txt
+# Loop door alle kanalen
 ########################################
 while IFS='|' read -r NAME URL
 do
+  # Skip lege regels
+  [ -z "$NAME" ] && continue
+
+  # Skip commentregels
+  [[ "$NAME" =~ ^# ]] && continue
+
   echo "Scrapen: $NAME"
 
-  # Haal de stream op met yt-dlp
   BASE_STREAM=$(yt-dlp -g "$URL" 2>/dev/null | head -n 1)
-
-  # Gebruik fallback als niets gevonden
   FINAL_STREAM="${BASE_STREAM:-$FALLBACK}"
 
-  # Speciale regels per kanaal
-  if [ "$NAME" = "Le Figaro" ]; then
-    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720@60/g')
-  fi
-  if [ "$NAME" = "Télénantes" ]; then
-    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-480/g')
-  fi
-  if [ "$NAME" = "Men's UP TV" ]; then
-    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-480/g')
-  fi
-
-  # Algemene vervangingen
+  ########################################
+  # Algemene vervangingen (eerst!)
+  ########################################
   FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-240/live-720/g')
   FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720/g')
 
-  # Update centrale playlist TCL.m3u
+  ########################################
+  # Kanaal-specifieke overrides
+  ########################################
+  if [ "$NAME" = "Le Figaro" ]; then
+    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-720/live-720@60/g')
+  fi
+
+  if [ "$NAME" = "Télénantes" ]; then
+    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-720/live-480/g')
+  fi
+
+  if [ "$NAME" = "Men's UP TV" ]; then
+    FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-720/live-480/g')
+  fi
+
+  echo "➡️  Stream: $FINAL_STREAM"
+
   update_central_playlist "$NAME" "$FINAL_STREAM"
 
 done < "$INPUT_FILE"
 
-echo "✅ TCL.m3u bijgewerkt met actuele stream links, handmatige EXTINF-posities blijven intact."
+echo "✅ TCL.m3u bijgewerkt met actuele stream links, EXTINF-posities blijven intact."
