@@ -704,23 +704,23 @@ https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 http://37.187.138.41:80/153/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/Muzangala.jpg",🇦🇴 | Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-logo="",🇩🇰 | DR TV Avisen
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV_Avisen.svg.png",🇩🇰 | DR TV Avisen
 https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/tv2b-fallback.png",🇩🇰 | TV2 Bornholm
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="",🇩🇰 | TV2 Fyn
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20Fyn.png",🇩🇰 | TV2 Fyn
 https://livecdn.euw1-0005.jwplive.com/live/sites/LSjEARYN/media/igp9r9oc/live.isml/.mpd
-#EXTINF:-1 tvg-logo="",🇩🇰 | TV2 Øst
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20%C3%98st.jpg",🇩🇰 | TV2 Øst
 https://livecdn.euw1-0005.jwplive.com/live/sites/WLT8BgsI/media/DHG9G8xO/live.isml/.mpd
-#EXTINF:-1 tvg-logo="",🇩🇰 | TV2 Østjylland
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20%C3%98stjylland.png",🇩🇰 | TV2 Østjylland
 https://livecdn.euw1-0005.jwplive.com/live/sites/nkFvCoRA/media/Crk4qpBM/live.isml/.mpd
-#EXTINF:-1 tvg-logo="",🇩🇰 | TV Midtvest
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV%20Midtvest.png",🇩🇰 | TV Midtvest
 https://livecdn.euw1-0005.jwplive.com/live/sites/vIWOmyHO/media/sDxIi9y6/live.isml/.mpd
-#EXTINF:-1 tvg-logo="",🇩🇰 | TV Syd+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/tvs%2B.jpg",🇩🇰 | TV Syd+
 https://livecdn.euw1-0005.jwplive.com/live/sites/ZzdficfW/media/bcZFHqNK/live.isml/.mpd
-#EXTINF:-1 tvg-logo="",🇩🇰 | TV2 Nord Salto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20Nord%20Salto.png",🇩🇰 | TV2 Nord Salto
 https://content.jwplatform.com/live/broadcast/KFXZ5tL6.m3u8
-#EXTINF:-1 tvg-logo="",🇩🇰 | TV Kosmopol
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/Kosmopol.jpg",🇩🇰 | TV Kosmopol
 https://content.jwplatform.com/live/broadcast/H6COi5le.m3u8
 #EXTINF:-1 tvg-logo="",🇩🇰 | 
 
@@ -944,6 +944,8 @@ https://play-qukan.cztv.com/live/1758879019692345.m3u8
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Maleisi%C3%AB/RTM%20TV6.jpg",🇲🇾 | RTM TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/cinex.png",🇮🇷 | Cinex
+https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Ad_sport_1.png",🇦🇪 | Abu Dhabi Sports 1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Ad_sport_2.png",🇦🇪 | Abu Dhabi Sports 2
