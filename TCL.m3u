@@ -704,8 +704,32 @@ https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 http://37.187.138.41:80/153/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/Muzangala.jpg",🇦🇴 | Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-logo="",🇩🇰 | DR TV Avisen
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/tv2b-fallback.png",🇩🇰 | TV2 Bornholm
 https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="",🇩🇰 | TV2 Fyn
+https://livecdn.euw1-0005.jwplive.com/live/sites/LSjEARYN/media/igp9r9oc/live.isml/.mpd
+#EXTINF:-1 tvg-logo="",🇩🇰 | TV2 Øst
+https://livecdn.euw1-0005.jwplive.com/live/sites/WLT8BgsI/media/DHG9G8xO/live.isml/.mpd
+#EXTINF:-1 tvg-logo="",🇩🇰 | TV2 Østjylland
+https://livecdn.euw1-0005.jwplive.com/live/sites/nkFvCoRA/media/Crk4qpBM/live.isml/.mpd
+#EXTINF:-1 tvg-logo="",🇩🇰 | TV Midtvest
+https://livecdn.euw1-0005.jwplive.com/live/sites/vIWOmyHO/media/sDxIi9y6/live.isml/.mpd
+#EXTINF:-1 tvg-logo="",🇩🇰 | TV Syd+
+https://livecdn.euw1-0005.jwplive.com/live/sites/ZzdficfW/media/bcZFHqNK/live.isml/.mpd
+#EXTINF:-1 tvg-logo="",🇩🇰 | TV2 Nord Salto
+https://content.jwplatform.com/live/broadcast/KFXZ5tL6.m3u8
+#EXTINF:-1 tvg-logo="",🇩🇰 | TV Kosmopol
+https://content.jwplatform.com/live/broadcast/H6COi5le.m3u8
+#EXTINF:-1 tvg-logo="",🇩🇰 | 
+
+#EXTINF:-1 tvg-logo="",🇩🇰 | 
+
+#EXTINF:-1 tvg-logo="",🇩🇰 | 
+
+#EXTINF:-1 tvg-logo="",🇩🇰 | 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noorwegen/TV%20%C3%98stfold.jpg",🇳🇴 | TV Østfold
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noorwegen/Canal%20Motor.jpg",🇳🇴 | Canal Motor
