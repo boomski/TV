@@ -696,6 +696,8 @@ https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/re
 https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Amazon%20Sat.png",🇧🇷 | Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="",🇧🇷 | BR8
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="",🇧🇷 | 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/TV%20Zimbo.png",🇦🇴 | Zimbo TV
@@ -722,14 +724,14 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/ZzdficfW/media/bcZFHqNK/live.is
 https://content.jwplatform.com/live/broadcast/KFXZ5tL6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/Kosmopol.jpg",🇩🇰 | TV Kosmopol
 https://content.jwplatform.com/live/broadcast/H6COi5le.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/Kanal%20Hovedstaden.jpg",🇩🇰 | Kanal Hovedstaden
+http://khkbh.dk:8080/hls/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="",🇩🇰 | 
 
 #EXTINF:-1 tvg-logo="",🇩🇰 | 
 
-#EXTINF:-1 tvg-logo="",🇩🇰 | 
-
-#EXTINF:-1 tvg-logo="",🇩🇰 | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TVMarineret.jpg",🇩🇰 | TVMarineret
+http://sdream.info:8080/hls/livestream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noorwegen/TV%20%C3%98stfold.jpg",🇳🇴 | TV Østfold
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noorwegen/Canal%20Motor.jpg",🇳🇴 | Canal Motor
