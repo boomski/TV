@@ -744,6 +744,12 @@ https://live.tvinterior.com.br/hls/0/stream.m3u8
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Geekdot.jpg",🇧🇷 | Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/extremo-oriental-tv.png",🇧🇷 | Extremo Oriental TV
+https://cdn-tiva-video05-logicahost-com-br.smartbit.co/extremotv/extremotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Bem%20Melhor.png",🇧🇷 | Bem Melhor
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TV%20Da%20Pesca.jpg",🇧🇷 | TV Da Pesca
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/tvdapesca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",🇧🇷 | 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Times%20Brasil.png",🇧🇷 | Times Brasil
