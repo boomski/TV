@@ -690,6 +690,12 @@ https://02.arlivre.online/sportv2/index.m3u8
 https://02.arlivre.online/sportv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Combate.png",🇧🇷 | Combate
 https://02.arlivre.online/combate/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RS_SPORTS.png",🇧🇷 | RS Sports
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports01/rssports01/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RS_SPORTS_2.png",🇧🇷 | RS Sports 2
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports02/rssports02/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RS_SPORTS_3.png",🇧🇷 | RS Sports 3
+https://cdn-tiva-video07-logicahost-com-br.smartbit.co/rssports03/rssports03/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Record.png",🇧🇷 | Record
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Record%20News.jpg",🇧🇷 | Record News
