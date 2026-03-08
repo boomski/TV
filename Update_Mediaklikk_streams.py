@@ -12,16 +12,6 @@ CHANNEL_FILE = "mediaklikk_channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-# Mapping MediaKlikk kanaal-ID voor filteren
-CHANNEL_IDS = {
-    "M1": "301",
-    "M2": "302",
-    "Duna": "303",
-    "M4 Sport": "304",
-    "M5": "305",
-    "Duna World": "306"
-}
-
 
 # ===============================
 # Variant → master playlist converter
@@ -30,7 +20,7 @@ def to_master_playlist(url):
     if "connectmedia.hu" not in url:
         return url
     parts = url.split("/")
-    parts[-1] = "index.m3u8"  # altijd master
+    parts[-1] = "index.m3u8"  # altijd master playlist
     return "/".join(parts)
 
 
@@ -105,14 +95,14 @@ with sync_playwright() as p:
 
         print("🔎 Scrapen:", channel)
 
-        stream_url = None
+        # ✅ mutable container in plaats van nonlocal
+        stream_url = [None]
 
         def handle_response(response):
-            nonlocal stream_url
             try:
                 s = extract_mu(response.url)
                 if s:
-                    stream_url = s
+                    stream_url[0] = s
             except:
                 pass
 
@@ -123,21 +113,22 @@ with sync_playwright() as p:
             page.wait_for_timeout(6000)
         except Exception as e:
             print(f"❌ Pagina fout voor {channel}: {e}")
-            stream_url = FALLBACK
+            stream_url[0] = FALLBACK
 
         page.remove_listener("response", handle_response)
 
-        if not stream_url:
-            stream_url = FALLBACK
+        if not stream_url[0]:
+            stream_url[0] = FALLBACK
 
-        # Variant → master
-        master = to_master_playlist(stream_url)
+        # master playlist en hoogste kwaliteit
+        master = to_master_playlist(stream_url[0])
         best = get_best_stream(master)
 
         print("✅ Stream gevonden:", best)
         update_playlist(channel, best)
 
     browser.close()
+
 
 # ===============================
 # Playlist opslaan
