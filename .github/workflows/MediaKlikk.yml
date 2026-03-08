@@ -1,36 +1,35 @@
-name: Update MediaKlikk Playlist
+name: Update MediaKlikk Streams
 
 on:
   schedule:
-    - cron: "0 * * * *"  # elk uur
-  workflow_dispatch:     # handmatig triggeren
+    - cron: '0 * * * *'   # elk uur
+  workflow_dispatch:
 
 jobs:
-  update_playlist:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install playwright m3u8
-          playwright install
+          pip install requests m3u8
 
-      - name: Run MediaKlikk headless script
-        run: python3 Update_Mediaklikk_streams.py
+      - name: Run script
+        run: |
+          python3 Update_Mediaklikk_streams.py
 
-      - name: Commit playlist
+      - name: Commit playlist update
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add TCL.m3u
-          git commit -m "Update MediaKlikk streams" || echo "No changes to commit"
+          git commit -m "Update MediaKlikk streams" || echo "No changes"
           git push
