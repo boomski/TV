@@ -1,97 +1,121 @@
 #!/usr/bin/env python3
 
-import requests
-import re
+from playwright.sync_api import sync_playwright
 import m3u8
 from urllib.parse import urljoin
 
 CHANNEL_FILE = "mediaklikk_channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
+
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 
-# ===============================
-# Playlist laden
-# ===============================
+# ================================
+# hoogste kwaliteit kiezen
+# ================================
+def get_best_stream(master_url):
+
+    try:
+        master = m3u8.load(master_url)
+
+        best = master_url
+        best_bw = 0
+
+        for p in master.playlists:
+
+            bw = p.stream_info.bandwidth
+
+            if bw > best_bw:
+                best_bw = bw
+                best = urljoin(master_url, p.uri)
+
+        return best
+
+    except:
+
+        return master_url
+
+
+# ================================
+# playlist laden
+# ================================
 with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
     playlist_lines = f.readlines()
 
 
 def update_playlist(channel, stream):
-    found = False
+
     for i, line in enumerate(playlist_lines):
+
         if channel in line:
+
             if i + 1 < len(playlist_lines):
                 playlist_lines[i + 1] = stream + "\n"
-            found = True
-            break
-    if not found:
-        playlist_lines.append(f"#EXTINF:-1,{channel}\n")
-        playlist_lines.append(stream + "\n")
+
+            return
+
+    playlist_lines.append(f"#EXTINF:-1,{channel}\n")
+    playlist_lines.append(stream + "\n")
 
 
-# ===============================
-# Beste kwaliteit kiezen
-# ===============================
-def get_best_stream(master_url):
-    try:
-        master = m3u8.load(master_url)
-        best = master_url
-        best_bw = 0
-        for p in master.playlists:
-            bw = p.stream_info.bandwidth
-            if bw > best_bw:
-                best_bw = bw
-                best = urljoin(master_url, p.uri)
-        return best
-    except:
-        return master_url
+# ================================
+# scraper
+# ================================
+with sync_playwright() as p:
 
+    browser = p.chromium.launch(headless=True)
+    page = browser.new_page()
 
-# ===============================
-# Scraper pro
-# ===============================
-with open(CHANNEL_FILE, encoding="utf-8") as f:
+    for line in open(CHANNEL_FILE, encoding="utf-8"):
 
-    for line in f:
         if "|" not in line:
             continue
 
-        channel, page_url = line.strip().split("|")
+        channel, url = line.strip().split("|")
+
         print("🔎 Scrapen:", channel)
 
-        try:
-            headers = {"User-Agent": "Mozilla/5.0"}
-            r = requests.get(page_url, headers=headers, timeout=20)
-            html = r.text
+        streams = []
 
-            # JW Player config vinden
-            match = re.search(r'jwplayer\("player"\)\.setup\((\{.*?\})\);', html, re.DOTALL)
-            if not match:
-                print("⚠️ JW Player config niet gevonden, fallback gebruikt")
-                stream_url = FALLBACK
-            else:
-                config_text = match.group(1)
-                # zoek naar file URL (meestal .m3u8)
-                m3u8_match = re.search(r'"file"\s*:\s*"([^"]+\.m3u8[^"]*)"', config_text)
-                if m3u8_match:
-                    stream_url = m3u8_match.group(1)
-                else:
-                    print("⚠️ Geen m3u8 in config, fallback gebruikt")
-                    stream_url = FALLBACK
+        def handle_response(response):
+
+            if "connectmedia.hu" in response.url and "index.m3u8" in response.url:
+                streams.append(response.url)
+
+        page.on("response", handle_response)
+
+        try:
+
+            page.goto(url, timeout=30000)
+
+            page.wait_for_timeout(7000)
 
         except Exception as e:
-            print("❌ Fout bij ophalen:", e)
+
+            print("❌ Pagina fout:", e)
+
+        page.remove_listener("response", handle_response)
+
+        if streams:
+
+            stream_url = streams[-1]
+
+        else:
+
             stream_url = FALLBACK
 
-        best_stream = get_best_stream(stream_url)
-        print("✅ Stream gevonden:", best_stream)
-        update_playlist(channel, best_stream)
+        best = get_best_stream(stream_url)
+
+        print("✅ Stream gevonden:", best)
+
+        update_playlist(channel, best)
+
+    browser.close()
 
 
-# ===============================
-# Playlist opslaan
-# ===============================
+# ================================
+# playlist opslaan
+# ================================
 with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist_lines)
 
