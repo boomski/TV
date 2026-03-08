@@ -1,9 +1,9 @@
-name: Update MediaKlikk Streams
+name: Update Mediaklikk Streams
 
-# Trigger: elk uur en handmatig
 on:
   schedule:
-    - cron: '0 * * * *'   # elke uur op het hele uur
+    # Elke 1 uur
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,22 +11,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Code uit je repo ophalen
-      - uses: actions/checkout@v3
+      # 1️⃣ Checkout de repo
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      # 2️⃣ Python installeren
+      # 2️⃣ Setup Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.14'
+          python-version: "3.14"
 
-      # 3️⃣ Dependencies installeren
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install playwright m3u8
+          python -m pip install --upgrade pip
+          pip install playwright requests
           playwright install chromium
 
-      # 4️⃣ Scraper runnen
-      - name: Run MediaKlikk scraper
-        run: python3 Update_Mediaklikk_streams.py
+      # 4️⃣ Run scraper script
+      - name: Run Update_Mediaklikk_streams.py
+        run: python Update_Mediaklikk_streams.py
+
+      # 5️⃣ Commit playlist update
+      - name: Commit playlist update
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add TCL.m3u
+          git commit -m "Auto update Mediaklikk streams" || echo "No changes to commit"
+          git push
