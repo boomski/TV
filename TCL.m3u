@@ -1515,7 +1515,8 @@ https://i.mjh.nz/.r/sky-fast3.m3u8
 https://i.mjh.nz/.r/maori-tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/te_reo.jpg",🇳🇿 | Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/HGTV.png",🇳🇿 | HGTV
+https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/CH200.png",🇳🇿 | CH200
 https://i.mjh.nz/.r/ch200.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/J2.png",🇳🇿 | J2
