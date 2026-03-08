@@ -1026,17 +1026,25 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Espresso.png",🇺🇦 | Еспресо
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-logo="",🇭🇺 | M1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M2.png",🇭🇺 | M2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M2.png",🇭🇺 | M2 (Back up)
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M4%20Sport.png",🇭🇺 | M4 Sport
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M4%20Sport.png",🇭🇺 | M4 Sport (Back up)
 http://88.212.15.19/live/m4_hun/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M4%20Sport%2B.png",🇭🇺 | M4 Sport+
-https://c402-node61-cdn.connectmedia.hu/110306/fea0684dfbdff9ffbd07cce4f47eb4fe/69a38a73/index.m3u8?v=5iip:84.193.202.124
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M5.png",🇭🇺 | M5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M5.png",🇭🇺 | M5 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/M5.png",🇭🇺 | M5 (Back up)
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/Duna_logo_2012.png",🇭🇺 | Duna
 https://c201-node61-cdn.connectmedia.hu/110306/75c4c1b52b0679ea82bb8fb8d2dd2120/69a3380f/index.m3u8?v=5iip:84.193.202.124
-#EXTINF:-1 tvg-logo="",🇭🇺 | 
+#EXTINF:-1 tvg-logo="",🇭🇺 | Duna World
 
 #EXTINF:-1 tvg-logo="",🇭🇺 | 
 
