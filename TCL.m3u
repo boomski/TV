@@ -3,6 +3,14 @@
 https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Kanal%20D2.jpg",🇷🇴 | Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live_mid/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Antena1.png",🇷🇴 | Antena 1 HD
+https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/AntenaSport.jpg",🇷🇴 | Antena Sport 
+https://hls.rundletv.eu.org/LIVE$AntenaSport/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/AntenaStars.png",🇷🇴 | Antena Stars
+https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Antena%20Monden.png",🇷🇴 | Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TVRI.jpg",🇷🇴 | TVR International
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TVR1.png",🇷🇴 | TVR 1
@@ -31,16 +39,22 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TVR%20Moldova.png",🇷🇴 | TVR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/DIGI1.png",🇷🇴 | Digi Sport 1
+http://103.161.35.76/RO-115/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/DIGI2.png",🇷🇴 | Digi Sport 2
+http://103.161.35.76/RO-116/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/DIGI3.png",🇷🇴 | Digi Sport 3
+http://103.161.35.76/RO-117/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/DIGI4.png",🇷🇴 | Digi Sport 4
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Digi24.jpg",🇷🇴 | DIGI 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Realitatea%20Sportiva.jpg",🇷🇴 | Realitatea Sportiva
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Realitatea%20Star.jpeg",🇷🇴 | Realitatea Star
+https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Metropola%20TV.jpg",🇷🇴 | Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Antena1.png",🇷🇴 | Antena 1 HD
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/AntenaSport.jpg",🇷🇴 | AntenaSport 
-https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/AntenaStars.png",🇷🇴 | AntenaStars
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/CaTine.jpg",🇷🇴 | CaTine
 https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/HelloChef.jpg",🇷🇴 | Hello Chef
@@ -49,10 +63,8 @@ https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/MediCOOL.jpg",🇷🇴 | MediCOOL
 https://stream1.antenaplay.ro/live/MediCOOLTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Realitatea%20Sportiva.jpg",🇷🇴 | Realitatea Sportiva
-https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Realitatea%20Star.jpeg",🇷🇴 | Realitatea Star
-https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Super%20TV.png",🇷🇴 | Super TV
+https://cdn.streamnet.pro/live/supertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/A7TV.png",🇷🇴 | A7TV
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Iasi%20TV%20Life.png",🇷🇴 | Iasi TV Life
@@ -65,18 +77,10 @@ https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Tele7ABC.jpg",🇷🇴 | Tele7ABC
 https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Super%20TV.png",🇷🇴 | Super TV
-https://cdn.streamnet.pro/live/supertv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TV%20SUD.jpg",🇷🇴 | TV SUD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/DIGI1.png",🇷🇴 | Digi Sport 1
-http://103.161.35.76/RO-115/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/DIGI2.png",🇷🇴 | Digi Sport 2
-http://103.161.35.76/RO-116/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/DIGI3.png",🇷🇴 | Digi Sport 3
-http://103.161.35.76/RO-117/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/DIGI4.png",🇷🇴 | Digi Sport 4
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+
 #EXTINF:-1 tvg-logo="",🇷🇴 | 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/TV_Moldova_1_2025.svg.png",🇲🇩 | Moldova 1
