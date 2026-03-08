@@ -2,7 +2,7 @@
 
 from playwright.sync_api import sync_playwright
 import m3u8
-from urllib.parse import urljoin
+from urllib.parse import urljoin, unquote, parse_qs, urlparse
 
 CHANNEL_FILE = "mediaklikk_channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
@@ -10,9 +10,9 @@ PLAYLIST_FILE = "TCL.m3u"
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 
-# ================================
+# =====================================
 # hoogste kwaliteit kiezen
-# ================================
+# =====================================
 def get_best_stream(master_url):
 
     try:
@@ -32,13 +32,12 @@ def get_best_stream(master_url):
         return best
 
     except:
-
         return master_url
 
 
-# ================================
+# =====================================
 # playlist laden
-# ================================
+# =====================================
 with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
     playlist_lines = f.readlines()
 
@@ -58,9 +57,30 @@ def update_playlist(channel, stream):
     playlist_lines.append(stream + "\n")
 
 
-# ================================
+# =====================================
+# stream uit URL halen
+# =====================================
+def extract_stream(url):
+
+    # JW Player analytics
+    if "jwpltx.com" in url:
+
+        parsed = urlparse(url)
+        params = parse_qs(parsed.query)
+
+        if "mu" in params:
+            return unquote(params["mu"][0])
+
+    # directe stream
+    if "connectmedia.hu" in url and "index.m3u8" in url:
+        return url
+
+    return None
+
+
+# =====================================
 # scraper
-# ================================
+# =====================================
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
@@ -79,15 +99,16 @@ with sync_playwright() as p:
 
         def handle_response(response):
 
-            if "connectmedia.hu" in response.url and "index.m3u8" in response.url:
-                streams.append(response.url)
+            stream = extract_stream(response.url)
+
+            if stream:
+                streams.append(stream)
 
         page.on("response", handle_response)
 
         try:
 
             page.goto(url, timeout=30000)
-
             page.wait_for_timeout(7000)
 
         except Exception as e:
@@ -97,11 +118,8 @@ with sync_playwright() as p:
         page.remove_listener("response", handle_response)
 
         if streams:
-
             stream_url = streams[-1]
-
         else:
-
             stream_url = FALLBACK
 
         best = get_best_stream(stream_url)
@@ -113,9 +131,9 @@ with sync_playwright() as p:
     browser.close()
 
 
-# ================================
+# =====================================
 # playlist opslaan
-# ================================
+# =====================================
 with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist_lines)
 
