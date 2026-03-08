@@ -124,12 +124,15 @@ https://live.nasul.tv/live/stream.m3u8
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/rapsodia.png",🇷🇴 | Rapsodia TV 
 http://92.86.248.141:8080/ram/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TVSat.png",🇷🇴 | TVSat
+http://89.38.8.130:39443
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TV%20Buzau.png",🇷🇴 | TV Buzau 
+http://78.96.33.89:8080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TVPlus%20Suceava.jpg",🇷🇴 | TVPlus Suceava 
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TV%20SUD.jpg",🇷🇴 | TV SUD
 
 #EXTINF:-1 tvg-logo="",🇷🇴 | 
-
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Agro%20TV.png",🇷🇴 | Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
