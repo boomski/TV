@@ -2,7 +2,7 @@ name: Update MediaKlikk Playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/59 * * * *"
   workflow_dispatch:
 
 jobs:
