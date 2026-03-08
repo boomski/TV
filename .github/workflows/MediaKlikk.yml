@@ -20,7 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests m3u8
+          pip install playwright m3u8
+          playwright install chromium
 
       - name: Run script
         run: |
