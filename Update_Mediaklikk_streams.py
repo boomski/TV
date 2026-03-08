@@ -3,29 +3,44 @@
 from playwright.sync_api import sync_playwright
 from urllib.parse import unquote, parse_qs, urlparse
 import os
+import requests
 
-# ===============================
-# Config
-# ===============================
 CHANNEL_FILE = "mediaklikk_channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 
 # ===============================
-# Functie: URL naar master playlist
+# publieke IP ophalen
 # ===============================
-def to_master_playlist(url):
-    """Zorg dat we altijd index.m3u8 krijgen"""
-    if "connectmedia.hu" in url:
-        parts = url.split("/")
-        parts[-1] = "index.m3u8"
-        return "/".join(parts)
-    return url
+def get_public_ip():
+    try:
+        return requests.get("https://api.ipify.org", timeout=10).text.strip()
+    except:
+        return "127.0.0.1"
+
+
+PUBLIC_IP = get_public_ip()
 
 
 # ===============================
-# Playlist laden en bijwerken
+# master playlist + token
+# ===============================
+def build_stream(url):
+
+    if "connectmedia.hu" not in url:
+        return url
+
+    parts = url.split("/")
+    parts[-1] = "index.m3u8"
+
+    base = "/".join(parts)
+
+    return f"{base}?v=5iip:{PUBLIC_IP}"
+
+
+# ===============================
+# playlist laden
 # ===============================
 if not os.path.exists(PLAYLIST_FILE):
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
@@ -36,38 +51,43 @@ with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
 
 
 def update_playlist(channel, stream):
-    """Vervang bestaande stream in playlist, of voeg toe"""
     for i, line in enumerate(playlist_lines):
         if channel in line:
             if i + 1 < len(playlist_lines):
                 playlist_lines[i + 1] = stream + "\n"
             return
-    # nieuw kanaal
+
     playlist_lines.append(f"#EXTINF:-1,{channel}\n")
     playlist_lines.append(stream + "\n")
 
 
 # ===============================
-# JW Player mu-extract
+# JWPlayer mu extractor
 # ===============================
 def extract_mu(url):
-    """Pak echte m3u8 van JW Player mu-parameter"""
+
     if "jwpltx.com" not in url:
         return None
+
     parsed = urlparse(url)
     params = parse_qs(parsed.query)
+
     if "mu" not in params:
         return None
+
     stream = unquote(params["mu"][0])
-    if "index.m3u8" in stream:
+
+    if ".m3u8" in stream:
         return stream
+
     return None
 
 
 # ===============================
-# Playwright scraper
+# scraping
 # ===============================
 with sync_playwright() as p:
+
     browser = p.chromium.launch(headless=True)
     page = browser.new_page()
 
@@ -80,7 +100,6 @@ with sync_playwright() as p:
 
         print("🔎 Scrapen:", channel)
 
-        # ✅ Mutable container voor stream_url
         stream_url = [None]
 
         def handle_response(response):
@@ -95,29 +114,26 @@ with sync_playwright() as p:
 
         try:
             page.goto(url, timeout=30000)
-            page.wait_for_timeout(6000)
+            page.wait_for_timeout(8000)
         except Exception as e:
-            print(f"❌ Pagina fout voor {channel}: {e}")
-            stream_url[0] = FALLBACK
+            print("❌ Pagina fout:", e)
 
         page.remove_listener("response", handle_response)
 
-        # fallback als niets gevonden
         if not stream_url[0]:
             stream_url[0] = FALLBACK
 
-        # altijd master playlist
-        master = to_master_playlist(stream_url[0])
-        best = master
+        final_stream = build_stream(stream_url[0])
 
-        print("✅ Stream gevonden:", best)
-        update_playlist(channel, best)
+        print("✅ Stream gevonden:", final_stream)
+
+        update_playlist(channel, final_stream)
 
     browser.close()
 
 
 # ===============================
-# Playlist opslaan
+# playlist opslaan
 # ===============================
 with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist_lines)
