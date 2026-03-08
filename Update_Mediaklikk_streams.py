@@ -5,12 +5,14 @@ import os
 
 CHANNEL_FILE = "mediaklikk_channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
+
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 
 # ===============================
 # Playlist laden
 # ===============================
+
 if not os.path.exists(PLAYLIST_FILE):
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
@@ -35,9 +37,12 @@ def update_playlist(channel, stream):
 
 
 # ===============================
-# echte m3u8 detecteren
+# Stream detectie
 # ===============================
-def detect_stream(page, url):
+
+def detect_stream(context, url):
+
+    page = context.new_page()
 
     stream_url = [None]
 
@@ -45,42 +50,50 @@ def detect_stream(page, url):
 
         rurl = response.url
 
-        if ".m3u8" in rurl and "connectmedia.hu" in rurl:
+        if "connectmedia.hu" in rurl and ".m3u8" in rurl:
 
             if "index.m3u8" in rurl:
-
                 stream_url[0] = rurl
 
     page.on("response", handle_response)
 
     try:
 
-        page.goto(url, timeout=30000)
+        page.goto(
+            url,
+            timeout=60000,
+            wait_until="domcontentloaded"
+        )
 
-        page.wait_for_timeout(10000)
+        page.wait_for_timeout(12000)
 
     except Exception as e:
 
         print("❌ Page load error:", e)
 
-    page.remove_listener("response", handle_response)
+    page.close()
 
     return stream_url[0]
 
 
 # ===============================
-# scraping
+# Scraper
 # ===============================
+
 with sync_playwright() as p:
 
-    browser = p.chromium.launch(headless=True)
+    browser = p.chromium.launch(
+        headless=True,
+        args=[
+            "--no-sandbox",
+            "--disable-dev-shm-usage"
+        ]
+    )
 
     context = browser.new_context(
         user_agent="Mozilla/5.0",
         locale="en-US"
     )
-
-    page = context.new_page()
 
     for line in open(CHANNEL_FILE, encoding="utf-8"):
 
@@ -91,14 +104,16 @@ with sync_playwright() as p:
 
         print("🔎 Scrapen:", channel)
 
-        stream = detect_stream(page, url)
+        stream = detect_stream(context, url)
 
-        if not stream:
-            print("⚠️ Geen stream gevonden")
-            stream = FALLBACK
+        if stream:
+
+            print("✅ Stream gevonden:", stream)
 
         else:
-            print("✅ Stream gevonden:", stream)
+
+            print("⚠️ Geen stream gevonden")
+            stream = FALLBACK
 
         update_playlist(channel, stream)
 
@@ -106,8 +121,9 @@ with sync_playwright() as p:
 
 
 # ===============================
-# playlist opslaan
+# Playlist opslaan
 # ===============================
+
 with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist_lines)
 
