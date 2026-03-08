@@ -1,88 +1,150 @@
 #!/usr/bin/env python3
+
 from playwright.sync_api import sync_playwright
 import m3u8
 from urllib.parse import urljoin
-import time
-import re
 
 # ========================================
 # Configuratie
 # ========================================
+
 CHANNEL_FILE = "mediaklikk_channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
+
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
+
 # ========================================
-# Lees bestaande playlist
+# Playlist laden
 # ========================================
+
 try:
-    with open(PLAYLIST_FILE, "r") as f:
-        lines = f.readlines()
+    with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
+        playlist_lines = f.readlines()
 except FileNotFoundError:
-    print("❌ Playlist TCL.m3u bestaat niet. Maak eerst een playlist met kanaalnamen.")
+    print("❌ TCL.m3u niet gevonden")
     exit()
 
+
 # ========================================
-# Functie: haal m3u8 via headless Playwright
+# Beste kwaliteit kiezen
 # ========================================
-def get_m3u8_with_playwright(url):
+
+def get_best_stream(master_url):
+
     try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
-            page.goto(url, timeout=15000)
-            time.sleep(5)  # wacht op JW Player
-            content = page.content()
-            browser.close()
 
-            match = re.search(r'(https?://[^"]+\.m3u8[^"]*)', content)
-            if match:
-                master_url = match.group(1)
-                try:
-                    master = m3u8.load(master_url)
-                    best_stream = master_url
-                    best_bw = 0
-                    for p in master.playlists:
-                        if p.stream_info.bandwidth > best_bw:
-                            best_bw = p.stream_info.bandwidth
-                            best_stream = urljoin(master_url, p.uri)
-                    return best_stream
-                except:
-                    return master_url
+        master = m3u8.load(master_url)
+
+        best_stream = master_url
+        best_bw = 0
+
+        for p in master.playlists:
+
+            bw = p.stream_info.bandwidth
+
+            if bw > best_bw:
+                best_bw = bw
+                best_stream = urljoin(master_url, p.uri)
+
+        return best_stream
+
+    except:
+        return master_url
+
+
+# ========================================
+# Playlist updaten
+# ========================================
+
+def update_playlist(channel, stream):
+
+    found = False
+
+    for i, line in enumerate(playlist_lines):
+
+        if channel in line:
+
+            if i + 1 < len(playlist_lines):
+                playlist_lines[i + 1] = stream + "\n"
             else:
-                return FALLBACK
-    except Exception as e:
-        print("❌ Fout bij Playwright:", e)
-        return FALLBACK
+                playlist_lines.append(stream + "\n")
+
+            found = True
+            break
+
+    if not found:
+
+        print("⚠️ Kanaal niet in playlist, toevoegen:", channel)
+
+        playlist_lines.append(f"#EXTINF:-1,{channel}\n")
+        playlist_lines.append(stream + "\n")
+
 
 # ========================================
-# Loop door kanalen
+# Scraping
 # ========================================
-with open(CHANNEL_FILE) as f:
-    for line in f:
+
+with sync_playwright() as p:
+
+    browser = p.chromium.launch(headless=True)
+
+    page = browser.new_page()
+
+    for line in open(CHANNEL_FILE, encoding="utf-8"):
+
         if "|" not in line:
             continue
-        channel_name, page_url = line.strip().split("|")
-        print("🔎 Scrapen:", channel_name)
-        stream_url = get_m3u8_with_playwright(page_url)
-        print("✅ Stream gevonden:", stream_url)
 
-        # Update playlist
-        found = False
-        for i, l in enumerate(lines):
-            if channel_name in l:
-                if i + 1 < len(lines):
-                    lines[i + 1] = stream_url + "\n"
-                else:
-                    lines.append(stream_url + "\n")
-                found = True
-                break
-        if not found:
-            lines.append(f"#EXTINF:-1,{channel_name}\n")
-            lines.append(stream_url + "\n")
+        channel, url = line.strip().split("|")
 
-# Schrijf playlist terug
-with open(PLAYLIST_FILE, "w") as f:
-    f.writelines(lines)
+        print("🔎 Scrapen:", channel)
+
+        stream_url = None
+
+        # network listener
+        def handle_request(request):
+
+            nonlocal stream_url
+
+            if ".m3u8" in request.url and not stream_url:
+                stream_url = request.url
+
+        page.on("request", handle_request)
+
+        try:
+
+            page.goto(url, timeout=30000)
+
+            page.wait_for_timeout(7000)
+
+        except Exception as e:
+
+            print("❌ Pagina fout:", e)
+
+        page.remove_listener("request", handle_request)
+
+        if stream_url:
+
+            best = get_best_stream(stream_url)
+
+        else:
+
+            best = FALLBACK
+
+        print("✅ Stream gevonden:", best)
+
+        update_playlist(channel, best)
+
+    browser.close()
+
+
+# ========================================
+# Playlist opslaan
+# ========================================
+
+with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+
+    f.writelines(playlist_lines)
 
 print("\n🎵 Playlist succesvol bijgewerkt:", PLAYLIST_FILE)
