@@ -71,6 +71,10 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 https://stream1.antenaplay.ro/live/MediCOOLTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Super%20TV.png",🇷🇴 | Super TV
 https://cdn.streamnet.pro/live/supertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Traditional%20TV.png",🇷🇴 | Traditional TV
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Bucovina%20TV.png",🇷🇴 |Bucovina TV
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/A7TV.png",🇷🇴 | A7TV
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Iasi%20TV%20Life.png",🇷🇴 | Iasi TV Life
@@ -81,6 +85,12 @@ https://live.dottotv.ro/index.m3u8
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Tele7ABC.jpg",🇷🇴 | Tele7ABC
 https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Hunedoara%201.png",🇷🇴 | Hunedoara 1
+https://netstreaming.eu/hd1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Arges%20TV.png",🇷🇴 | Arges TV
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Banat%20TV.png",🇷🇴 | Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TV%20SUD.jpg",🇷🇴 | TV SUD
 
 #EXTINF:-1 tvg-logo="",🇷🇴 | 
