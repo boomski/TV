@@ -2,43 +2,17 @@
 
 from playwright.sync_api import sync_playwright
 import m3u8
-from urllib.parse import urljoin, unquote, parse_qs, urlparse
+from urllib.parse import unquote, parse_qs, urlparse
 
 CHANNEL_FILE = "mediaklikk_channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
 
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-# MediaKlikk kanaal ID mapping
-CHANNEL_IDS = {
-    "M1": "301",
-    "M2": "302",
-    "Duna": "303",
-    "M4 Sport": "304",
-    "M5": "305",
-    "Duna World": "306"
-}
 
-
-# =====================================
-# variant → master playlist converter
-# =====================================
-def to_master_playlist(url):
-
-    if "connectmedia.hu" not in url:
-        return url
-
-    parts = url.split("/")
-
-    if parts[-1] != "index.m3u8":
-        parts[-1] = "index.m3u8"
-
-    return "/".join(parts)
-
-
-# =====================================
+# =============================
 # hoogste kwaliteit kiezen
-# =====================================
+# =============================
 def get_best_stream(master_url):
 
     try:
@@ -54,7 +28,7 @@ def get_best_stream(master_url):
 
             if bw > best_bw:
                 best_bw = bw
-                best = urljoin(master_url, p.uri)
+                best = master_url.rsplit("/",1)[0] + "/" + p.uri
 
         return best
 
@@ -63,9 +37,9 @@ def get_best_stream(master_url):
         return master_url
 
 
-# =====================================
+# =============================
 # playlist laden
-# =====================================
+# =============================
 with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
     playlist_lines = f.readlines()
 
@@ -85,30 +59,31 @@ def update_playlist(channel, stream):
     playlist_lines.append(stream + "\n")
 
 
-# =====================================
-# stream uit URL halen
-# =====================================
-def extract_stream(url):
+# =============================
+# mu stream extract
+# =============================
+def extract_mu(url):
 
-    # JW Player analytics
-    if "jwpltx.com" in url:
+    if "jwpltx.com" not in url:
+        return None
 
-        parsed = urlparse(url)
-        params = parse_qs(parsed.query)
+    parsed = urlparse(url)
+    params = parse_qs(parsed.query)
 
-        if "mu" in params:
-            return unquote(params["mu"][0])
+    if "mu" not in params:
+        return None
 
-    # directe connectmedia stream
-    if "connectmedia.hu" in url and ".m3u8" in url:
-        return url
+    stream = unquote(params["mu"][0])
+
+    if "index.m3u8" in stream:
+        return stream
 
     return None
 
 
-# =====================================
+# =============================
 # scraper
-# =====================================
+# =============================
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
@@ -123,21 +98,23 @@ with sync_playwright() as p:
 
         print("🔎 Scrapen:", channel)
 
-        streams = []
+        stream_url = None
 
         def handle_response(response):
 
-            stream = extract_stream(response.url)
+            nonlocal stream_url
 
-            if stream:
-                streams.append(stream)
+            s = extract_mu(response.url)
+
+            if s:
+                stream_url = s
 
         page.on("response", handle_response)
 
         try:
 
             page.goto(url, timeout=30000)
-            page.wait_for_timeout(7000)
+            page.wait_for_timeout(6000)
 
         except Exception as e:
 
@@ -145,27 +122,10 @@ with sync_playwright() as p:
 
         page.remove_listener("response", handle_response)
 
-        # juiste stream kiezen
-        stream_url = None
-        channel_id = CHANNEL_IDS.get(channel)
-
-        if channel_id:
-
-            for s in streams:
-                if f"{channel_id}-" in s:
-                    stream_url = s
-                    break
-
-        if not stream_url and streams:
-            stream_url = streams[-1]
-
         if not stream_url:
             stream_url = FALLBACK
 
-        # variant → master playlist
-        master = to_master_playlist(stream_url)
-
-        best = get_best_stream(master)
+        best = get_best_stream(stream_url)
 
         print("✅ Stream gevonden:", best)
 
@@ -174,9 +134,9 @@ with sync_playwright() as p:
     browser.close()
 
 
-# =====================================
+# =============================
 # playlist opslaan
-# =====================================
+# =============================
 with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist_lines)
 
