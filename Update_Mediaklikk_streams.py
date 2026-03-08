@@ -9,7 +9,7 @@ PLAYLIST_FILE = "TCL.m3u"
 
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-# kanaal ID mapping
+# MediaKlikk kanaal ID mapping
 CHANNEL_IDS = {
     "M1": "301",
     "M2": "302",
@@ -20,12 +20,29 @@ CHANNEL_IDS = {
 }
 
 
-# ================================
-# beste kwaliteit kiezen
-# ================================
+# =====================================
+# variant → master playlist converter
+# =====================================
+def to_master_playlist(url):
+
+    if "connectmedia.hu" not in url:
+        return url
+
+    parts = url.split("/")
+
+    if parts[-1] != "index.m3u8":
+        parts[-1] = "index.m3u8"
+
+    return "/".join(parts)
+
+
+# =====================================
+# hoogste kwaliteit kiezen
+# =====================================
 def get_best_stream(master_url):
 
     try:
+
         master = m3u8.load(master_url)
 
         best = master_url
@@ -42,12 +59,13 @@ def get_best_stream(master_url):
         return best
 
     except:
+
         return master_url
 
 
-# ================================
+# =====================================
 # playlist laden
-# ================================
+# =====================================
 with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
     playlist_lines = f.readlines()
 
@@ -67,11 +85,12 @@ def update_playlist(channel, stream):
     playlist_lines.append(stream + "\n")
 
 
-# ================================
-# stream extract
-# ================================
+# =====================================
+# stream uit URL halen
+# =====================================
 def extract_stream(url):
 
+    # JW Player analytics
     if "jwpltx.com" in url:
 
         parsed = urlparse(url)
@@ -80,15 +99,16 @@ def extract_stream(url):
         if "mu" in params:
             return unquote(params["mu"][0])
 
+    # directe connectmedia stream
     if "connectmedia.hu" in url and ".m3u8" in url:
         return url
 
     return None
 
 
-# ================================
+# =====================================
 # scraper
-# ================================
+# =====================================
 with sync_playwright() as p:
 
     browser = p.chromium.launch(headless=True)
@@ -142,7 +162,10 @@ with sync_playwright() as p:
         if not stream_url:
             stream_url = FALLBACK
 
-        best = get_best_stream(stream_url)
+        # variant → master playlist
+        master = to_master_playlist(stream_url)
+
+        best = get_best_stream(master)
 
         print("✅ Stream gevonden:", best)
 
@@ -151,9 +174,9 @@ with sync_playwright() as p:
     browser.close()
 
 
-# ================================
+# =====================================
 # playlist opslaan
-# ================================
+# =====================================
 with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
     f.writelines(playlist_lines)
 
