@@ -1503,12 +1503,21 @@ https://dunyanhls.wns.live/hls/stream.m3u8
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Afrika/Sports%20Connect.jpg",🇿🇦 | Sports Connect
 https://streamdot.broadpeak.io/cff02a74da64d1459391ce1f72d58f1a/afxpstr/SportsConnect/index.m3u8?ads.dpname=distrotv&ads.rnd=s5xm&ads.env_i=76cb4f04-295e-40b5-a8a1-b2dbb028eb58&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1611&ads.height=906&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=84.193.202.124&ads.geo=BE&ads.lat=51.05630&ads.long=5.27770&ads.dma=&ads.geoType=2&ads.contentid=23181&ads.content_duration=18000&ads.episode_id=98262&ads.show_id=3473&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Sports%20Connect&ads.episodetitle=Sports%20Connect&ads.keywords=sports%2Csports%20connect%2Csoccer%2Cfootball%2Cbasketball%2Cbaseball%2Cgolf%2Cdocumentary%2Chighlights&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=JpMKvqdE4Ma
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/TV3NZ-plus-1-colour.png",🇳🇿 | Three +1
+https://i.mjh.nz/.r/three-plus1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/Bravo%2B1.png",🇳🇿 | Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/Below-Deck-Vault.png",🇳🇿 | Bravo Below Deck Vault
+https://i.mjh.nz/.r/sky-fast3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/Whakaata%20M%C4%81ori.jpg",🇳🇿 | Whakaata Māori
+https://i.mjh.nz/.r/maori-tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/te_reo.jpg",🇳🇿 | Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/CH200.png",🇳🇿 | CH200
+https://i.mjh.nz/.r/ch200.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/J2.png",🇳🇿 | J2
+https://i.mjh.nz/.r/mood-1289.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/tntv_logo.jpg",🇵🇫 | Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/TNT%20Sports.png",🇬🇧 | TNT Sports 1
