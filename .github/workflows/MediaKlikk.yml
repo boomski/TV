@@ -1,5 +1,38 @@
 name: Update MediaKlikk Playlist
 
+# Dit zorgt dat de workflow automatisch draait en handmatig gestart kan worden
+on:
+  schedule:
+    - cron: "*/59 * * * *"   # elke 30 minuten
+  workflow_dispatch:          # handmatig starten via GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run MediaKlikk script
+        run: python3 scripts/Update_Mediaklikk_streams.py
+
+      - name: Commit playlist
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add playlists/TCL.m3u
+          git commit -m "Update MediaKlikk streams" || exit 0
+          git pushname: Update MediaKlikk Playlist
+
 # Run automatisch elke 30 minuten en handmatig via “Run workflow”
 on:
   schedule:
