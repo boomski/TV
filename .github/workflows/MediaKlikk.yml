@@ -8,13 +8,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # 1️⃣ Checkout repo
       - uses: actions/checkout@v3
+
+      # 2️⃣ Setup Python
       - uses: actions/setup-python@v4
         with:
           python-version: "3.x"
+
+      # 3️⃣ Install dependencies
       - run: pip install requests
-      - run: python3 scripts/Update_Mediaklikk_streams.py
+
+      # 4️⃣ Run MediaKlikk script (in root!)
+      - run: python3 Update_Mediaklikk_streams.py
+
+      # 5️⃣ Commit en push playlist
       - run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
