@@ -2,41 +2,38 @@ name: Update Mediaklikk Streams
 
 on:
   schedule:
-    # Elke 1 uur
     - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  update-mediaklikk:
+
+  update:
+
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout de repo
-      - name: Checkout repository
+
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      # 2️⃣ Setup Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.14"
+          python-version: "3.11"
 
-      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install playwright requests
+          pip install playwright
           playwright install chromium
 
-      # 4️⃣ Run scraper script
-      - name: Run Update_Mediaklikk_streams.py
+      - name: Run scraper
         run: python Update_Mediaklikk_streams.py
 
-      # 5️⃣ Commit playlist update
-      - name: Commit playlist update
+      - name: Commit playlist
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add TCL.m3u
-          git commit -m "Auto update Mediaklikk streams" || echo "No changes to commit"
+          git commit -m "Auto update streams" || echo "No changes"
           git push
