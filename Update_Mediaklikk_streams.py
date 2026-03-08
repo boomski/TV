@@ -1,65 +1,96 @@
+#!/usr/bin/env python3
 import requests
-import re
+from bs4 import BeautifulSoup
+import m3u8
+from urllib.parse import urljoin
 
-CHANNEL_FILE = "mediaklikk_channels.txt"
-PLAYLIST = "playlists/TCL.m3u"
-
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
-
+# ========================================
+# Configuratie
+# ========================================
+PAGE_URL = "PLAATS_HIER_DE_WEBPAGINA"   # vul hier de pagina van het kanaal in
+PLAYLIST_FILE = "TCL.m3u"               # bestaande playlist in hoofdmap
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-def get_stream(page_url):
-    try:
-        html = requests.get(page_url, headers=headers, timeout=10).text
-        match = re.search(r'video\s*:\s*"([^"]+)"', html)
-        if not match:
-            return None
-        video_id = match.group(1)
-        player_api = f"https://player.mediaklikk.hu/playernew/player.php?video={video_id}"
-        player_html = requests.get(player_api, headers=headers, timeout=10).text
-        m3u8 = re.search(r'(https?://[^"]+\.m3u8[^"]*)', player_html)
-        if m3u8:
-            return m3u8.group(1)
-        return None
-    except:
-        return None
-
-# Lees huidige playlist of maak nieuwe
+# ========================================
+# Webpagina ophalen
+# ========================================
 try:
-    with open(PLAYLIST, "r") as f:
+    r = requests.get(PAGE_URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+    r.raise_for_status()
+    html = r.text
+except Exception as e:
+    print("❌ Kan pagina niet ophalen:", e)
+    html = ""
+
+# ========================================
+# Zoek master M3U8 URL in scripts
+# ========================================
+m3u8_url = None
+from bs4 import BeautifulSoup
+soup = BeautifulSoup(html, "html.parser")
+for script in soup.find_all("script"):
+    if ".m3u8" in script.text:
+        start = script.text.find("http")
+        end = script.text.find(".m3u8") + 5
+        m3u8_url = script.text[start:end]
+        break
+
+if not m3u8_url:
+    print("⚠️ Geen M3U8 gevonden, fallback wordt gebruikt")
+    m3u8_url = FALLBACK
+else:
+    print("🎬 Master playlist:", m3u8_url)
+
+# ========================================
+# Master playlist laden en hoogste kwaliteit kiezen
+# ========================================
+best_stream = m3u8_url  # fallback als geen master playlist
+try:
+    master = m3u8.load(m3u8_url)
+    best_bw = 0
+    for p in master.playlists:
+        if p.stream_info.bandwidth > best_bw:
+            best_bw = p.stream_info.bandwidth
+            best_stream = urljoin(m3u8_url, p.uri)
+    print("✅ Beste stream gekozen:", best_stream)
+except Exception as e:
+    print("⚠️ Fout bij laden master playlist:", e)
+    print("Fallback URL wordt gebruikt:", FALLBACK)
+    best_stream = FALLBACK
+
+# ========================================
+# Bestaande playlist inlezen
+# ========================================
+try:
+    with open(PLAYLIST_FILE, "r") as f:
         lines = f.readlines()
-except:
-    lines = ["#EXTM3U\n"]
+except FileNotFoundError:
+    print("❌ Playlist bestaat niet. Maak eerst TCL.m3u met kanaalnamen.")
+    exit()
 
-with open(CHANNEL_FILE) as f:
-    for line in f:
-        if "|" not in line:
-            continue
-        name, page = line.strip().split("|")
-        print("Scrapen:", name)
-        stream = get_stream(page)
-        if not stream:
-            print("⚠️ fallback gebruikt voor", name)
-            stream = FALLBACK
+# ========================================
+# Kanaalnaam in playlist vinden en URL vervangen
+# ========================================
+channel_name = "Auto Stream"  # pas hier aan naar het juiste kanaal zoals in EXTINF
+found = False
+for i, line in enumerate(lines):
+    if channel_name in line:
+        if i + 1 < len(lines):
+            lines[i + 1] = best_stream + "\n"
+        else:
+            lines.append(best_stream + "\n")
+        found = True
+        break
 
-        # Vervang bestaande regel of voeg toe
-        found = False
-        for i, l in enumerate(lines):
-            if name in l:
-                if i+1 < len(lines):
-                    lines[i+1] = stream + "\n"
-                else:
-                    lines.append(stream + "\n")
-                found = True
-                break
-        if not found:
-            lines.append(f"#EXTINF:-1,{name}\n")
-            lines.append(stream + "\n")
+if not found:
+    print(f"⚠️ Kanaal {channel_name} niet gevonden in playlist, toevoegen")
+    lines.append(f"#EXTINF:-1,{channel_name}\n")
+    lines.append(best_stream + "\n")
 
-# Schrijf playlist
-with open(PLAYLIST, "w") as f:
+# ========================================
+# Playlist terugschrijven
+# ========================================
+with open(PLAYLIST_FILE, "w") as f:
     f.writelines(lines)
 
-print("✅ Playlist bijgewerkt:", PLAYLIST)
+print("🎵 Playlist bijgewerkt:", PLAYLIST_FILE)
