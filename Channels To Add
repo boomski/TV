@@ -19,6 +19,29 @@
 #EXTINF:-1 tvg-logo="",🇻🇪 |
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVS.ve@SD",TVS (720p)
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-id="UN24.ve@untv720",UN24 (720p)
+#EXTVLCOPT:http-referrer=https://un24.tv/
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
+#EXTINF:-1 tvg-id="UniTV.ve@SD",UniTV (720p)
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="",🇷🇺 | 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
