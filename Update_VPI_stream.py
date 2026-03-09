@@ -13,10 +13,12 @@ TARGET_LINE = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV
 
 
 # ===============================
-# scrape m3u8
+# detecteer m3u8
 # ===============================
 
 def detect_stream():
+
+    streams = []
 
     with sync_playwright() as p:
 
@@ -26,10 +28,7 @@ def detect_stream():
         )
 
         context = browser.new_context(user_agent="Mozilla/5.0")
-
         page = context.new_page()
-
-        stream = [None]
 
         def handle_response(response):
 
@@ -37,14 +36,12 @@ def detect_stream():
 
             if ".m3u8" in url:
 
-                if stream[0] is None:
+                if url not in streams:
 
-                    stream[0] = url
-                    print("✅ M3U8 gevonden:", url)
+                    streams.append(url)
+                    print("gevonden:", url)
 
         page.on("response", handle_response)
-
-        print("🔎 Laden:", PAGE_URL)
 
         page.goto(PAGE_URL, timeout=60000, wait_until="domcontentloaded")
 
@@ -52,7 +49,42 @@ def detect_stream():
 
         browser.close()
 
-        return stream[0]
+    if not streams:
+        return None
+
+    # ===============================
+    # voorkeur voor master playlist
+    # ===============================
+
+    for s in streams:
+
+        if "master" in s.lower():
+
+            print("🎯 master playlist gekozen")
+            return s
+
+    # ===============================
+    # check of playlist varianten bevat
+    # ===============================
+
+    for s in streams:
+
+        try:
+
+            r = requests.get(s, timeout=10)
+
+            if "#EXT-X-STREAM-INF" in r.text:
+
+                print("🎯 master playlist gedetecteerd")
+                return s
+
+        except:
+            pass
+
+    # fallback: eerste stream
+    print("⚠️ eerste gevonden stream gebruikt")
+
+    return streams[0]
 
 
 # ===============================
@@ -67,7 +99,7 @@ def get_fallback():
 
         lines = r.text.splitlines()
 
-        for i, line in enumerate(lines):
+        for i,line in enumerate(lines):
 
             if "VPI" in line.upper():
 
@@ -77,27 +109,25 @@ def get_fallback():
 
                     if ".m3u8" in url:
 
-                        print("⚠️ Fallback gevonden:", url)
-
+                        print("fallback gevonden:", url)
                         return url
 
     except Exception as e:
 
-        print("❌ Fallback error:", e)
+        print("fallback fout:", e)
 
     return None
 
 
 # ===============================
-# TCL.m3u aanpassen
+# playlist aanpassen
 # ===============================
 
 def update_playlist(stream):
 
     if not os.path.exists(PLAYLIST_FILE):
 
-        print("❌ TCL.m3u niet gevonden")
-
+        print("TCL.m3u niet gevonden")
         return
 
     with open(PLAYLIST_FILE,"r",encoding="utf-8") as f:
@@ -116,7 +146,7 @@ def update_playlist(stream):
 
                 lines.append(stream+"\n")
 
-            print("🔄 Stream geupdate")
+            print("stream vervangen")
 
             break
 
@@ -124,20 +154,20 @@ def update_playlist(stream):
 
         f.writelines(lines)
 
-    print("✅ TCL.m3u opgeslagen")
+    print("TCL.m3u opgeslagen")
 
 
 # ===============================
 # main
 # ===============================
 
-print("🚀 Start VPI updater")
+print("Start VPI updater")
 
 stream = detect_stream()
 
 if not stream:
 
-    print("⚠️ Geen stream gevonden — fallback gebruiken")
+    print("geen stream gevonden, fallback gebruiken")
 
     stream = get_fallback()
 
@@ -147,4 +177,4 @@ if stream:
 
 else:
 
-    print("❌ Geen bruikbare stream")
+    print("geen bruikbare stream")
