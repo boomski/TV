@@ -171,8 +171,8 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368515&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VRT%20CANVAS.png",🇧🇪 | VRT Canvas
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420209&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Ketnet.png",🇧🇪 | VRT Ketnet
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368547&extension=ts#
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/StuBru.png",🇧🇪 | VRT Studio Brussel
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368547&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/StuBru.png",🇧🇪 | VRT Studio Brussel
 https://live-radio.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM.png",🇧🇪 | VTM
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420210&extension=ts
