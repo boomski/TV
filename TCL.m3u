@@ -1767,6 +1767,10 @@ https://i.mjh.nz/.r/sky-fast2.m3u8
 https://i.mjh.nz/.r/sky-fast6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/tntv_logo.jpg",🇵🇫 | Tahiti TV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/Virgin%20Media%20One.png",🇮🇪 | Virgin Media One
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1458553&extension=ts&play_token=FP0CcLSVvr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/Virgin%20Media%20TWO.png",🇮🇪 | Virgin Media Two
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:84:B7:7B&stream=1458554&extension=ts&play_token=xn7eWYbKyJ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/TNT%20Sports.png",🇬🇧 | TNT Sports 1
 https://l.hilay.tv/tnt1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/TNT%20Sports.png",🇬🇧 | TNT Sports 2
@@ -1775,11 +1779,6 @@ http://58.65.205.171:8000/play/a072
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/TNT%20Sports.png",🇬🇧 | TNT Sports 4
 https://a1xs.vip/2000024
-#EXTINF:-1 tvg-logo="",🇬🇧 | 
-
-#EXTINF:-1 tvg-logo="",🇬🇧 | 
-
-#EXTINF:-1 tvg-logo="",🇬🇧 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/dazn_ringside_white.png",🇬🇧 | DAZN RINGSIDE
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/BBC2.png",🇬🇧 | BBC 2
