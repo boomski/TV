@@ -166,12 +166,12 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/Moldova%20TV.png",🇲🇩 | Moldova TV
 
-#EXTINF:-1 tvg-logo="",🇲🇩 | 
-
-#EXTINF:-1 tvg-logo="",🇲🇩 | 
-
-#EXTINF:-1 tvg-logo="",🇲🇩 | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VRT%201.png",🇧🇪 | VRT 1
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368515&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VRT%20CANVAS.png",🇧🇪 | VRT Canvas
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420209&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Ketnet.png",🇧🇪 | VRT Ketnet
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368547&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Play%20Crime.png",🇧🇪 | Play Crime
 https://playmedia-playcrime-goplay.amagi.tv/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/ATV.png",🇧🇪 | ATV
