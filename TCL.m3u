@@ -102,8 +102,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbceastenders
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcdramabenelux-dash-nlziet/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Top%20Gear.jpg",🇧🇪  | BBC Top Gear
 https://amg00793-amg00793c16-nlziet-nl-8602.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearbenelux-nlzietnl/playlist.m3u8
-#EXTINF:-1 tvg-logo="",🇧🇪 | 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO1.png",🇳🇱 | NPO1
 https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO2.png",🇳🇱 | NPO2
@@ -220,8 +218,6 @@ https://jmp2.uk/stvp-DEAJ0500429A
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/DW%20ENG.png",🇩🇪 | DW English
 https://i.mjh.nz/.r/dw-news.m3u8
-#EXTINF:-1 tvg-logo="",🇩🇪 | 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/ORF1.png",🇦🇹 | ORF 1
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/ORF2.png",🇦🇹 | ORF 2
@@ -240,8 +236,14 @@ https://stream.fs1.tv/hls/webstream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://k19.at/
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/Antenne%20Kaernten.jpeg",🇦🇹 | Antenne Kaernten
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/Antenne%20Steiermark.jpeg",🇦🇹 | Antenne Steiermark
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/RBTV.png",🇦🇹 | Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/FUEL%20TV.png",🇦🇹 | FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/L'Equipe.png",🇫🇷 | L'ÉQUIPE
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/L'Equipe.png",🇫🇷 | L'ÉQUIPE
