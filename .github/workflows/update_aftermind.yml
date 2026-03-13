@@ -1,37 +1,47 @@
+# .github/workflows/update_aftermind.yml
 name: Update Aftermind Streams
 
 on:
   schedule:
-    # Elke uur op minuut 0
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: '0 * * * *' # elk uur
+  workflow_dispatch: # handmatig triggeren
 
 jobs:
-  update:
+  update-streams:
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Checkout repository
+      # 1️⃣ Check out de repo
+      - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      # 2️⃣ Setup Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version: "3.11"
 
+      # 3️⃣ Install dependencies
       - name: Install dependencies
         run: |
-          pip install playwright requests
+          python -m pip install --upgrade pip
+          pip install playwright asyncio
           playwright install chromium
 
-      - name: Run Aftermind scraper
-        run: python Update_Aftermind_stream.py
+      # 4️⃣ Run Aftermind scraper
+      - name: Run Update_Aftermind_stream.py
+        run: |
+          python Update_Aftermind_stream.py
 
-      - name: Commit changes
+      # 5️⃣ Configure Git
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+
+      # 6️⃣ Commit en push als TCL.m3u is veranderd
+      - name: Commit changes
+        run: |
           git add TCL.m3u
-          git commit -m "Update Aftermind streams" || echo "No changes"
+          git diff --cached --quiet || git commit -m "Update Aftermind streams [skip ci]"
           git push
