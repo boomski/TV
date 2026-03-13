@@ -1702,8 +1702,26 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Nourtv.jpg",🇦🇪 | Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-logo="",🇦🇪 | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTVSPORT.png",🇰🇼 | KTV Sport 
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTVSPORTPLUS.png",🇰🇼 | KTV Sport Plus 
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV1.png",🇰🇼 | KTV 1 
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV2.png",🇰🇼 | KTV 2 
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV%20AL%20QURAIN.png",🇰🇼 | KTV Al Qurain 
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV%20ARABE.png",🇰🇼 | KTV Arabe 
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV%20ETHRAA.png",🇰🇼 | KTV Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/BAHRY.png",🇰🇼 | Bahry 
+https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/CH4TEEN.png",🇰🇼 | Ch4Teen
+https://ch14.tv/live/ch4teenclip/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/Marina%20TV.png",🇰🇼 | Marina TV 
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/AK.jpg",🇶🇦 | Alkass 1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/AK.jpg",🇶🇦 | Alkass 2
