@@ -1,82 +1,196 @@
 #!/usr/bin/env python3
+
+from playwright.sync_api import sync_playwright
 import requests
 import re
 import os
 
-FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
-CHANNEL_FILE = "Aftermind_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
+CHANNEL_FILE = "Aftermind_Channels.txt"
+
+FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
+
+
+# ===============================
+# kanalen laden
+# ===============================
+
+def load_channels():
+
+    channels=[]
+
+    if not os.path.exists(CHANNEL_FILE):
+        print("❌ Aftermind_Channels.txt ontbreekt")
+        return channels
+
+    with open(CHANNEL_FILE,"r",encoding="utf-8") as f:
+
+        for line in f:
+
+            line=line.strip()
+
+            if not line or "|" not in line:
+                continue
+
+            # split op laatste |
+            extinf,page=line.rsplit("|",1)
+
+            channels.append({
+                "page":page.strip(),
+                "extinf":extinf.strip()
+            })
+
+    return channels
+
+
+# ===============================
+# fallback zoeken
+# ===============================
+
+def get_fallback(name):
+
+    try:
+
+        r=requests.get(FALLBACK,timeout=20)
+
+        lines=r.text.splitlines()
+
+        for i,line in enumerate(lines):
+
+            if name.lower() in line.lower():
+
+                if i+1 < len(lines):
+
+                    url=lines[i+1].strip()
+
+                    if ".m3u8" in url:
+                        return url
+
+    except:
+        pass
+
+    return None
+
+
+# ===============================
+# stream detecteren
+# ===============================
+
+def get_stream(page_url):
+
+    with sync_playwright() as p:
+
+        browser=p.chromium.launch(
+            headless=True,
+            args=["--no-sandbox","--disable-dev-shm-usage"]
+        )
+
+        page=browser.new_page()
+
+        try:
+
+            page.goto(page_url,timeout=60000,wait_until="domcontentloaded")
+
+            page.wait_for_timeout(8000)
+
+            html=page.content()
+
+            m=re.search(r'https://[^"\']+\.m3u8\?token=[^"\']+',html)
+
+            if m:
+
+                url=m.group(0)
+
+                print("✅ Stream gevonden:",url)
+
+                browser.close()
+
+                return url
+
+        except Exception as e:
+
+            print("❌ Page error:",e)
+
+        browser.close()
+
+    return None
+
+
+# ===============================
+# playlist aanpassen
+# ===============================
+
+def update_playlist(channels):
+
+    if not os.path.exists(PLAYLIST_FILE):
+
+        with open(PLAYLIST_FILE,"w",encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+
+    with open(PLAYLIST_FILE,"r",encoding="utf-8") as f:
+
+        lines=f.readlines()
+
+    for c in channels:
+
+        extinf=c["extinf"]
+
+        name=extinf.split(",")[-1].strip()
+
+        print("\n🔎 Scrapen:",name)
+
+        stream=get_stream(c["page"])
+
+        if not stream:
+
+            print("⚠️ fallback gebruikt")
+
+            stream=get_fallback(name)
+
+        if not stream:
+
+            print("❌ geen stream gevonden")
+            continue
+
+        found=False
+
+        for i,line in enumerate(lines):
+
+            if extinf in line:
+
+                found=True
+
+                if i+1 < len(lines):
+                    lines[i+1]=stream+"\n"
+                else:
+                    lines.append(stream+"\n")
+
+                print("🔄 geupdate:",name)
+
+                break
+
+        if not found:
+
+            lines.append(extinf+"\n")
+            lines.append(stream+"\n")
+
+            print("➕ toegevoegd:",name)
+
+    with open(PLAYLIST_FILE,"w",encoding="utf-8") as f:
+
+        f.writelines(lines)
+
+    print("\n🎵 TCL.m3u opgeslagen")
+
+
+# ===============================
+# main
+# ===============================
 
 print("🚀 Aftermind scraper gestart")
 
-# Lees kanalen
-channels = []
-with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
-    for line in f:
-        line = line.strip()
-        if not line or line.startswith("#"):
-            continue
-        # Verwacht formaat: EXTINF|page_url
-        if "|" not in line:
-            continue
-        extinf, page_url = line.split("|", 1)
-        channels.append({"extinf": extinf.strip(), "page_url": page_url.strip()})
+channels=load_channels()
 
-print(f"📺 Kanalen: {len(channels)}")
+print("📺 Kanalen:",len(channels))
 
-# Lees huidige playlist
-if os.path.exists(PLAYLIST_FILE):
-    with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
-        playlist_lines = f.readlines()
-else:
-    playlist_lines = ["#EXTM3U\n"]
-
-# Functie om een kanaal te updaten
-def update_playlist(extinf, stream_url):
-    updated = False
-    for i, line in enumerate(playlist_lines):
-        if extinf in line:
-            # Vervang volgende regel (de URL) door de nieuwe
-            if i + 1 < len(playlist_lines):
-                playlist_lines[i + 1] = stream_url + "\n"
-                updated = True
-            break
-    if not updated:
-        # Voeg kanaal toe onderaan
-        if not playlist_lines[-1].endswith("\n"):
-            playlist_lines.append("\n")
-        playlist_lines.append(extinf + "\n")
-        playlist_lines.append(stream_url + "\n")
-    return updated
-
-# Loop door kanalen
-for ch in channels:
-    extinf = ch["extinf"]
-    url = ch["page_url"]
-
-    print(f"\n🔎 Scrapen: {extinf}")
-
-    try:
-        r = requests.get(url, timeout=15)
-        r.raise_for_status()
-        # Zoek m3u8 in de pagina
-        m3u8_match = re.search(r'(https?://[^\s"\'<>]+\.m3u8\?token=[^"\s<>]+)', r.text)
-        if m3u8_match:
-            stream_url = m3u8_match.group(1)
-            print(f"✅ Stream gevonden: {stream_url}")
-        else:
-            stream_url = FALLBACK
-            print(f"⚠️ geen stream gevonden, fallback wordt gebruikt")
-    except Exception as e:
-        stream_url = FALLBACK
-        print(f"❌ Page error: {e}, fallback gebruikt")
-
-    updated = update_playlist(extinf, stream_url)
-    if updated:
-        print(f"🔄 geupdate: {extinf}")
-
-# Sla playlist op
-with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-    f.writelines(playlist_lines)
-
-print("\n🎵 TCL.m3u opgeslagen")
+update_playlist(channels)
