@@ -10,13 +10,13 @@ CHANNEL_FILE = "Aftermind_Channels.txt"
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 
-# ===============================
+# =====================================
 # kanalen laden
-# ===============================
+# =====================================
 
 def load_channels():
 
-    channels = {}
+    channels = []
 
     if not os.path.exists(CHANNEL_FILE):
         print("❌ Aftermind_Channels.txt ontbreekt")
@@ -31,24 +31,22 @@ def load_channels():
             if not line or "|" not in line:
                 continue
 
-            parts=line.split("|")
+            parts=line.split("|",1)
 
-            if len(parts)!=3:
-                continue
+            page=parts[0].strip()
+            extinf=parts[1].strip()
 
-            key=parts[0].strip()
-
-            channels[key] = {
-                "page":parts[1].strip(),
-                "extinf":parts[2].strip()
-            }
+            channels.append({
+                "page":page,
+                "extinf":extinf
+            })
 
     return channels
 
 
-# ===============================
+# =====================================
 # fallback zoeken
-# ===============================
+# =====================================
 
 def get_fallback(name):
 
@@ -62,7 +60,7 @@ def get_fallback(name):
 
             if name.lower() in line.lower():
 
-                if i+1<len(lines):
+                if i+1 < len(lines):
 
                     url=lines[i+1].strip()
 
@@ -78,9 +76,9 @@ def get_fallback(name):
     return None
 
 
-# ===============================
-# streams detecteren (snelle versie)
-# ===============================
+# =====================================
+# streams detecteren
+# =====================================
 
 def detect_streams(channels):
 
@@ -95,37 +93,28 @@ def detect_streams(channels):
 
         context=browser.new_context(user_agent="Mozilla/5.0")
 
-        pages={}
-
-        # netwerk listener
         def handle_response(response):
 
             url=response.url
 
             if ".m3u8" in url and "token=" in url:
 
-                for key in channels:
+                for c in channels:
 
-                    if key in url and key not in streams:
+                    if c["page"] not in streams:
 
-                        streams[key]=url
-                        print("✅ gevonden:",key)
+                        streams[c["page"]] = url
+                        print("✅ stream gevonden:",url)
 
-        # pagina's openen
-        for key,data in channels.items():
+        for c in channels:
 
             page=context.new_page()
 
             page.on("response",handle_response)
 
-            pages[key]=page
+            print("🔎 Laden:",c["page"])
 
-            print("🔎 Laden:",data["page"])
-
-            page.goto(data["page"],timeout=60000,wait_until="domcontentloaded")
-
-        # streams laten laden
-        for page in pages.values():
+            page.goto(c["page"],timeout=60000,wait_until="domcontentloaded")
 
             page.wait_for_timeout(8000)
 
@@ -134,9 +123,9 @@ def detect_streams(channels):
     return streams
 
 
-# ===============================
+# =====================================
 # playlist aanpassen
-# ===============================
+# =====================================
 
 def update_playlist(streams,channels):
 
@@ -149,13 +138,13 @@ def update_playlist(streams,channels):
 
         lines=f.readlines()
 
-    for key,data in channels.items():
+    for c in channels:
 
-        extinf=data["extinf"]
+        extinf=c["extinf"]
 
         name=extinf.split(",")[-1].strip()
 
-        stream=streams.get(key)
+        stream=streams.get(c["page"])
 
         if not stream:
 
@@ -174,7 +163,7 @@ def update_playlist(streams,channels):
 
                 found=True
 
-                if i+1<len(lines):
+                if i+1 < len(lines):
 
                     lines[i+1]=stream+"\n"
 
@@ -200,13 +189,15 @@ def update_playlist(streams,channels):
     print("🎵 TCL.m3u opgeslagen")
 
 
-# ===============================
+# =====================================
 # main
-# ===============================
+# =====================================
 
-print("🚀 Start snelle Aftermind updater")
+print("🚀 Aftermind auto scraper gestart")
 
 channels=load_channels()
+
+print("📺 Kanalen:",len(channels))
 
 streams=detect_streams(channels)
 
