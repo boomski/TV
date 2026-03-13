@@ -972,6 +972,8 @@ https://estreams.tv.nej.cz/dash/CH_NOVA_SPORT2_Portable.ism/playlist.mpd
 http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/premier-sport2.png",🇨🇿 | Premier Sport 2
 http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/sporty_tv_logo.jpg",🇨🇿 | Sporty TV
+https://estreams.tv.nej.cz/dash/CH_SPORTYTV_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT1.png",🇨🇿 | CT1
 https://estreams.tv.nej.cz/dash/CH_CT1_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/%C4%8CT2.png",🇨🇿 | CT2
@@ -992,12 +994,10 @@ https://estreams.tv.nej.cz/dash/CH_PRIMA_LOVE_Portable.ism/playlist.mpd
 https://estreams.tv.nej.cz/dash/CH_PRIMA_ZOOM_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/TV%20Barrandov.jpg",🇨🇿 | TV Barrandov
 https://estreams.tv.nej.cz/dash/CH_BARRANDOV_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/sporty_tv_logo.jpg",🇨🇿 | Sporty TV
-https://estreams.tv.nej.cz/dash/CH_SPORTYTV_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Polar%20TV.png",🇨🇿 | Polar TV
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/M%C5%88au%20TV.jpeg",🇨🇿 | Mňau TV
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",🇨🇿 | 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Jednotka.png",🇸🇰 | Jednotka
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Dvojka.png",🇸🇰 | Dvojka
@@ -1008,8 +1008,18 @@ https://estreams.tv.nej.cz/dash/CH_TA3_Portable.ism/playlist.mpd
 https://estreams.tv.nej.cz/dash/CH_TV8_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV9.png",🇸🇰 | TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
-#EXTINF:-1 tvg-logo="",🇸🇰 |
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20Central.png",🇸🇰 | TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20LocAll.png",🇸🇰 | TV LocAll
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20Mistral.jpeg",🇸🇰 | TV Mistral
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20Nitricka.png",🇸🇰 | TV Nitricka
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Regio%20TV.png",🇸🇰 | Regio TV
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/NZTV.png",🇸🇰 | NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP%20Sport.jpg",🇵🇱 | TVP Sport
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP1.jpg",🇵🇱 | TVP 1
