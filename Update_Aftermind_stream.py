@@ -32,7 +32,8 @@ def load_channels():
             if not line or "|" not in line:
                 continue
 
-            extinf,page=line.split("|",1)
+            # split op laatste |
+            extinf,page=line.rsplit("|",1)
 
             channels.append({
                 "page":page.strip(),
@@ -97,9 +98,13 @@ def get_stream(page_url):
             m=re.search(r'https://[^"\']+\.m3u8\?token=[^"\']+',html)
 
             if m:
+
                 url=m.group(0)
+
                 print("✅ Stream gevonden:",url)
+
                 browser.close()
+
                 return url
 
         except Exception as e:
@@ -123,6 +128,7 @@ def update_playlist(channels):
             f.write("#EXTM3U\n")
 
     with open(PLAYLIST_FILE,"r",encoding="utf-8") as f:
+
         lines=f.readlines()
 
     for c in channels:
