@@ -2,11 +2,14 @@ name: Update Aftermind Streams
 
 on:
   schedule:
-    - cron: '0 * * * *'  # elk uur
+    - cron: "0 * * * *"  # elk uur
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # force Node.js 24 voor actions
+
 jobs:
-  update-aftermind:
+  update-streams:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,13 +19,20 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.14'
+          python-version: "3.14"
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests playwright
-          playwright install chromium
+          pip install requests
 
-      - name: Run Aftermind updater
+      - name: Run Aftermind scraper
         run: python Update_Aftermind_stream.py
+
+      - name: Commit & push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add TCL.m3u
+          git diff --cached --quiet || git commit -m "Automatisch geupdate Aftermind streams"
+          git push
