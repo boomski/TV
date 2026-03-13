@@ -2,36 +2,39 @@ name: Update Aftermind Streams
 
 on:
   schedule:
-    - cron: '0 * * * *'  # elk uur
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  update_streams:
+  update:
+
     runs-on: ubuntu-latest
+
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install playwright
-          playwright install
+          playwright install chromium
 
-      - name: Run Aftermind updater
+      - name: Run script
         run: python Update_Aftermind_stream.py
 
-      - name: Commit changes
+      - name: Commit playlist
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add TCL.m3u
-          git commit -m "Update Aftermind streams" || echo "Nothing to commit"
+          git commit -m "Update Aftermind streams" || echo "No changes"
           git push
