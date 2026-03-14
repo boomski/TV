@@ -31,6 +31,15 @@ def read_channels():
     return channels
 
 
+def convert_to_master(url):
+
+    # chunklist → playlist (beste kwaliteit)
+    if "chunklist" in url:
+        url = re.sub(r"chunklist[^/]*\.m3u8", "playlist.m3u8", url)
+
+    return url
+
+
 def capture_stream(page, url):
 
     stream = None
@@ -47,8 +56,7 @@ def capture_stream(page, url):
     try:
 
         page.goto(url, timeout=60000)
-
-        page.wait_for_timeout(15000)
+        page.wait_for_timeout(12000)
 
     except Exception as e:
 
@@ -56,25 +64,28 @@ def capture_stream(page, url):
 
     page.remove_listener("response", handle_response)
 
+    if stream:
+        stream = convert_to_master(stream)
+
     return stream
 
 
 def update_playlist(channels, streams):
 
-    lines = []
+    if not Path(PLAYLIST_FILE).exists():
+        print("⚠️ TCL.m3u niet gevonden")
+        return
 
-    if Path(PLAYLIST_FILE).exists():
-
-        with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
-            lines = f.read().splitlines()
+    with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
+        lines = f.read().splitlines()
 
     new_lines = []
-    skip = False
+    skip = 0
 
-    for i, line in enumerate(lines):
+    for line in lines:
 
-        if skip:
-            skip = False
+        if skip > 0:
+            skip -= 1
             continue
 
         replaced = False
@@ -89,7 +100,7 @@ def update_playlist(channels, streams):
                 new_lines.append(f"#EXTVLCOPT:http-referrer={ch['url']}")
                 new_lines.append(stream)
 
-                skip = True
+                skip = 2
                 replaced = True
                 break
 
@@ -97,7 +108,6 @@ def update_playlist(channels, streams):
             new_lines.append(line)
 
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-
         f.write("\n".join(new_lines))
 
     print("🎵 TCL.m3u opgeslagen")
@@ -127,7 +137,7 @@ def main():
 
             if stream:
 
-                print("✅ Stream gevonden:", stream)
+                print("✅ Stream:", stream)
 
                 streams[ch["extinf"]] = stream
 
