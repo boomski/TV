@@ -1,0 +1,48 @@
+name: Update Alpha Cyprus Stream
+
+on:
+
+  schedule:
+    # elke 30 minuten
+    - cron: "*/30 * * * *"
+
+  workflow_dispatch:
+
+jobs:
+
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install chromium
+
+      - name: Run Alpha scraper
+        run: python Update_Alpha_Cyprus.py
+
+      - name: Commit updated playlist
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+
+          git add TCL.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "📡 Alpha Cyprus stream refreshed"
+            git pull --rebase
+            git push
+          fi
