@@ -6,7 +6,7 @@ PAGE_URL = "https://sat7plus.org/live/pars"
 
 PLAYLIST_FILE = "TCL.m3u"
 
-EXTINF_LINE = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Pars.png",🇨🇾 | Sat7 Pars'
+CHANNEL_NAME = "🇨🇾 | Sat7 Pars"
 
 
 def extract_real_stream(url):
@@ -85,7 +85,9 @@ def update_playlist(stream):
 
         line = lines[i]
 
-        if line == EXTINF_LINE:
+        if line.startswith("#EXTINF") and CHANNEL_NAME in line:
+
+            print("📺 Kanaal gevonden:", line)
 
             new_lines.append(line)
             new_lines.append(stream)
