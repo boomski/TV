@@ -52,13 +52,16 @@ def capture_stream(page, url):
 
     try:
 
-        page.goto(url, timeout=30000)
+        page.goto(url, timeout=45000)
 
-        page.wait_for_timeout(7000)
+        # langer wachten zodat JWPlayer start
+        page.wait_for_timeout(12000)
 
     except Exception as e:
 
         print("❌ Page error:", e)
+
+    page.remove_listener("response", handle_response)
 
     return stream
 
@@ -70,7 +73,6 @@ def update_playlist(channels, streams):
         return
 
     with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
-
         lines = f.read().splitlines()
 
     i = 0
@@ -101,7 +103,6 @@ def update_playlist(channels, streams):
             i += 1
 
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-
         f.write("\n".join(lines))
 
     print("🎵 TCL.m3u opgeslagen")
