@@ -1,183 +1,90 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-import os
+# Update_JWPlayer_streams.py
 import re
-import requests
+from pathlib import Path
+from playwright.sync_api import sync_playwright
 
-CHANNEL_FILE = "JWPlayer_Channels.txt"
-PLAYLIST_FILE = "TCL.m3u"
-
+# Fallback link als stream niet beschikbaar
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
+# Bestandspaden
+CHANNELS_FILE = "JWPlayer_Channels.txt"
+PLAYLIST_FILE = "TCL.m3u"
 
-def read_channels():
+# Specifieke EXTINF regel waar we de nieuwe streams boven willen zetten
+INSERT_ABOVE_EXTINF = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor.jpg",🇹🇷 | Tivibu Spor 1'
 
-    channels = []
-
-    if not os.path.exists(CHANNEL_FILE):
-        print("⚠️ JWPlayer_Channels.txt ontbreekt")
-        return channels
-
-    with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
-
-        for line in f:
-
-            line = line.strip()
-
-            if not line or "|" not in line:
-                continue
-
-            extinf, url = line.rsplit("|", 1)
-
-            channels.append({
-                "extinf": extinf.strip(),
-                "url": url.strip()
-            })
-
-    return channels
-
-
-def get_player_id(html):
-
-    patterns = [
-        r'player/index\.php\?id=(\d+)',
-        r'sayfa=(\d+)',
-        r'id=(\d+)&mobile'
-    ]
-
-    for p in patterns:
-
-        m = re.search(p, html)
-
-        if m:
-            return m.group(1)
-
-    return None
-
-
-def get_stream(player_id):
-
-    player_url = f"https://canlitv.com/player/index.php?id={player_id}&mobile=0"
-
+# Functie om stream te scrapen
+def scrape_stream(page_url):
     try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.goto(page_url, wait_until="networkidle")
+            content = page.content()
+            browser.close()
 
-        r = requests.get(player_url, timeout=20)
-
-        html = r.text
-
-        # JWPlayer config bevat meestal playlist.m3u8
-        match = re.search(
-            r'https://[^"\']+\.m3u8\?hash=[a-zA-Z0-9]+',
-            html
-        )
-
-        if match:
-            return match.group(0)
-
+            # Zoek JWPlayer .m3u8 URL in de pagina
+            match = re.search(r'https?://[^"\s]+\.m3u8(\?[^"\s]+)?', content)
+            if match:
+                return match.group(0)
+            return None
     except Exception as e:
+        print(f"⚠️ Page error: {e}")
+        return None
 
-        print("❌ Player error:", e)
+# Lees kanalen
+channels = []
+if Path(CHANNELS_FILE).exists():
+    with open(CHANNELS_FILE, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                extinf, url = line.split("|", 1)
+                channels.append({"extinf": extinf, "url": url})
+else:
+    print(f"⚠️ {CHANNELS_FILE} niet gevonden")
+    exit(1)
 
-    return None
+print(f"🚀 JWPlayer scraper gestart\n📺 Kanalen: {len(channels)}\n")
 
-
-def update_playlist(channels, streams):
-
-    if not os.path.exists(PLAYLIST_FILE):
-        print("⚠️ TCL.m3u ontbreekt")
-        return
-
+# Lees huidige playlist
+playlist_content = ""
+if Path(PLAYLIST_FILE).exists():
     with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
-        lines = f.read().splitlines()
+        playlist_content = f.read()
 
-    i = 0
+new_playlist = playlist_content.splitlines()
 
-    while i < len(lines):
+for ch in channels:
+    print(f"🔎 Scrapen: {ch['extinf']}")
+    stream = scrape_stream(ch['url'])
+    if stream is None:
+        print("⚠️ fallback gebruikt")
+        stream = FALLBACK
+    else:
+        print(f"✅ Stream gevonden: {stream}")
 
-        line = lines[i]
+    # Voeg http-referrer toe voor VLC compatibiliteit
+    stream = f"#EXTVLCOPT:http-referrer={ch['url']}\n{stream}"
 
-        for ch in channels:
+    # Oude entry verwijderen als die er al is
+    pattern = re.compile(re.escape(ch['extinf']) + r".*?\n(?:#EXTVLCOPT:[^\n]*\n)?https?://[^\n]+", re.DOTALL)
+    new_playlist = [line for line in new_playlist if not pattern.search(line)]
 
-            if line.startswith(ch["extinf"]):
+    # Boven de INSERT_ABOVE_EXTINF regel toevoegen
+    try:
+        index = new_playlist.index(INSERT_ABOVE_EXTINF)
+        new_playlist.insert(index, ch['extinf'])
+        new_playlist.insert(index + 1, stream)
+    except ValueError:
+        # Als de INSERT_ABOVE_EXTINF regel niet gevonden is, voeg onderaan toe
+        new_playlist.append(ch['extinf'])
+        new_playlist.append(stream)
 
-                stream = streams.get(ch["extinf"])
+    print(f"🔄 geupdate: {ch['extinf']}\n")
 
-                if stream:
+# Schrijf de playlist
+with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+    f.write("\n".join(new_playlist))
 
-                    print("🔄 Update:", ch["extinf"])
-
-                    if i + 1 < len(lines):
-                        lines[i+1] = stream
-                    else:
-                        lines.append(stream)
-
-                i += 2
-                break
-
-        else:
-            i += 1
-
-    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-
-        f.write("\n".join(lines))
-
-    print("🎵 TCL.m3u opgeslagen")
-
-
-def main():
-
-    print("🚀 JWPlayer scraper gestart")
-
-    channels = read_channels()
-
-    print("📺 Kanalen:", len(channels))
-
-    streams = {}
-
-    for ch in channels:
-
-        print("\n🔎 Scrapen:", ch["extinf"])
-
-        try:
-
-            r = requests.get(ch["url"], timeout=20)
-
-            html = r.text
-
-            player_id = get_player_id(html)
-
-            if not player_id:
-
-                print("⚠️ geen player id")
-
-                streams[ch["extinf"]] = FALLBACK
-                continue
-
-            print("🎯 Player id:", player_id)
-
-            stream = get_stream(player_id)
-
-            if stream:
-
-                print("✅ Stream gevonden:", stream)
-
-                streams[ch["extinf"]] = stream
-
-            else:
-
-                print("⚠️ fallback gebruikt")
-
-                streams[ch["extinf"]] = FALLBACK
-
-        except Exception as e:
-
-            print("❌ Error:", e)
-
-            streams[ch["extinf"]] = FALLBACK
-
-    update_playlist(channels, streams)
-
-
-if __name__ == "__main__":
-    main()
+print(f"🎵 {PLAYLIST_FILE} opgeslagen")
