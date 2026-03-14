@@ -3,9 +3,9 @@
 
 import os
 import re
-from playwright.sync_api import sync_playwright
+import requests
 
-CHANNEL_FILE = "JWPlayer_Channels.txt"
+CHANNEL_FILE = "channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
 
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
@@ -16,7 +16,7 @@ def read_channels():
     channels = []
 
     if not os.path.exists(CHANNEL_FILE):
-        print("⚠️ JWPlayer_Channels.txt ontbreekt")
+        print("⚠️ channels.txt ontbreekt")
         return channels
 
     with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
@@ -38,15 +38,19 @@ def read_channels():
     return channels
 
 
-def scrape_stream(page, url):
+def scrape_stream(url):
 
     try:
 
-        page.goto(url, timeout=30000, wait_until="domcontentloaded")
+        headers = {
+            "User-Agent": "Mozilla/5.0"
+        }
 
-        html = page.content()
+        r = requests.get(url, headers=headers, timeout=20)
 
-        # JWPlayer playlist.m3u8?hash streams
+        html = r.text
+
+        # JWPlayer playlist.m3u8?hash
         match = re.search(r'https?:\/\/[^\s\'"]+playlist\.m3u8\?hash=[a-zA-Z0-9]+', html)
 
         if match:
@@ -62,8 +66,7 @@ def scrape_stream(page, url):
 
     except Exception as e:
 
-        print("❌ Page error:", e)
-
+        print("❌ Request error:", e)
         return None
 
 
@@ -105,34 +108,23 @@ def main():
 
     print("📺 Kanalen:", len(channels))
 
-    if not channels:
-        return
-
     streams = {}
 
-    with sync_playwright() as p:
+    for ch in channels:
 
-        browser = p.chromium.launch(headless=True)
+        print("\n🔎 Scrapen:", ch["extinf"])
 
-        page = browser.new_page()
+        stream = scrape_stream(ch["url"])
 
-        for ch in channels:
+        if stream:
 
-            print("\n🔎 Scrapen:", ch["extinf"])
+            print("✅ Stream gevonden:", stream)
+            streams[ch["extinf"]] = stream
 
-            stream = scrape_stream(page, ch["url"])
+        else:
 
-            if stream:
-
-                print("✅ Stream gevonden:", stream)
-                streams[ch["extinf"]] = stream
-
-            else:
-
-                print("⚠️ fallback gebruikt")
-                streams[ch["extinf"]] = FALLBACK
-
-        browser.close()
+            print("⚠️ fallback gebruikt")
+            streams[ch["extinf"]] = FALLBACK
 
     lines = []
 
