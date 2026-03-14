@@ -40,15 +40,18 @@ def read_channels():
 
 def get_player_id(html):
 
-    match = re.search(r'player/index\.php\?id=(\d+)', html)
+    patterns = [
+        r'player/index\.php\?id=(\d+)',
+        r'sayfa=(\d+)',
+        r'id=(\d+)&mobile'
+    ]
 
-    if match:
-        return match.group(1)
+    for p in patterns:
 
-    match = re.search(r'sayfa=(\d+)', html)
+        m = re.search(p, html)
 
-    if match:
-        return match.group(1)
+        if m:
+            return m.group(1)
 
     return None
 
@@ -64,15 +67,16 @@ def get_stream(player_id):
         html = r.text
 
         stream = re.search(
-            r'https://[^"\']+\.m3u8\?hash=[a-zA-Z0-9]+',
+            r'https://[^"\']+playlist\.m3u8\?hash=[a-zA-Z0-9]+',
             html
         )
 
         if stream:
             return stream.group(0)
 
-    except:
-        pass
+    except Exception as e:
+
+        print("❌ player error:", e)
 
     return None
 
@@ -138,7 +142,9 @@ def main():
 
             r = requests.get(ch["url"], timeout=15)
 
-            player_id = get_player_id(r.text)
+            html = r.text
+
+            player_id = get_player_id(html)
 
             if not player_id:
 
@@ -146,6 +152,8 @@ def main():
 
                 streams[ch["extinf"]] = FALLBACK
                 continue
+
+            print("🎯 player id:", player_id)
 
             stream = get_stream(player_id)
 
