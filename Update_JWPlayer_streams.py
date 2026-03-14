@@ -3,7 +3,7 @@
 
 import os
 import re
-from playwright.sync_api import sync_playwright
+import requests
 
 CHANNEL_FILE = "JWPlayer_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
@@ -38,71 +38,49 @@ def read_channels():
     return channels
 
 
-def extract_stream(html):
+def get_player_id(html):
 
-    match = re.search(
-        r'https?:\/\/[^\s\'"]+playlist\.m3u8\?hash=[a-zA-Z0-9]+',
-        html
-    )
+    match = re.search(r'player/index\.php\?id=(\d+)', html)
 
     if match:
-        return match.group(0)
+        return match.group(1)
 
-    match = re.search(
-        r'https?:\/\/[^\s\'"]+\.m3u8(\?[^\s\'"]+)?',
-        html
-    )
+    match = re.search(r'sayfa=(\d+)', html)
 
     if match:
-        return match.group(0)
+        return match.group(1)
 
     return None
 
 
-def scrape_stream(page, url):
+def get_stream(player_id):
+
+    player_url = f"https://canlitv.com/player/index.php?id={player_id}&mobile=0"
 
     try:
 
-        page.goto(url, timeout=30000)
+        r = requests.get(player_url, timeout=15)
 
-        html = page.content()
+        html = r.text
 
-        stream = extract_stream(html)
+        stream = re.search(
+            r'https://[^"\']+\.m3u8\?hash=[a-zA-Z0-9]+',
+            html
+        )
 
         if stream:
-            return stream
+            return stream.group(0)
 
-        # iframe zoeken
-        frames = page.query_selector_all("iframe")
+    except:
+        pass
 
-        for frame in frames:
-
-            src = frame.get_attribute("src")
-
-            if not src:
-                continue
-
-            page.goto(src)
-
-            html = page.content()
-
-            stream = extract_stream(html)
-
-            if stream:
-                return stream
-
-        return None
-
-    except Exception as e:
-
-        print("❌ Page error:", e)
-        return None
+    return None
 
 
 def update_playlist(channels, streams):
 
     if not os.path.exists(PLAYLIST_FILE):
-        print("⚠️ TCL.m3u bestaat nog niet")
+        print("⚠️ TCL.m3u ontbreekt")
         return
 
     with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
@@ -136,6 +114,7 @@ def update_playlist(channels, streams):
             i += 1
 
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+
         f.write("\n".join(lines))
 
     print("🎵 TCL.m3u opgeslagen")
@@ -151,29 +130,42 @@ def main():
 
     streams = {}
 
-    with sync_playwright() as p:
+    for ch in channels:
 
-        browser = p.chromium.launch(headless=True)
+        print("\n🔎 Scrapen:", ch["extinf"])
 
-        page = browser.new_page()
+        try:
 
-        for ch in channels:
+            r = requests.get(ch["url"], timeout=15)
 
-            print("\n🔎 Scrapen:", ch["extinf"])
+            player_id = get_player_id(r.text)
 
-            stream = scrape_stream(page, ch["url"])
+            if not player_id:
+
+                print("⚠️ geen player id")
+
+                streams[ch["extinf"]] = FALLBACK
+                continue
+
+            stream = get_stream(player_id)
 
             if stream:
 
-                print("✅ Stream gevonden:", stream)
+                print("✅ Stream:", stream)
+
                 streams[ch["extinf"]] = stream
 
             else:
 
-                print("⚠️ fallback gebruikt")
+                print("⚠️ fallback")
+
                 streams[ch["extinf"]] = FALLBACK
 
-        browser.close()
+        except Exception as e:
+
+            print("❌ Error:", e)
+
+            streams[ch["extinf"]] = FALLBACK
 
     update_playlist(channels, streams)
 
