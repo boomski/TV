@@ -1234,10 +1234,12 @@ https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/RTSH%20Sport.png",🇦🇱 | RTSH Sport
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/TV2020.png",🇨🇾 | TV2020
-#EXTVLCOPT:http-referrer=https://canlitv.com/player/index.php?id=12276&mobile=0
+#EXTVLCOPT:http-referrer=https://canlitv.com/tv-2020?ulke=cy
+https://yayin1.canlitv.fun/canlitv/tv2020.stream/chunklist_w203972939.m3u8?hash=3a643ca1c4b5badfd7d570fb3f15dd74
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Okku%20TV.png",🇨🇾 | Okku TV
-#EXTVLCOPT:http-referrer=https://canlitv.com/player/index.php?id=13385&mobile=0
+#EXTVLCOPT:http-referrer=https://canlitv.com/okku-tv?ulke=cy
+https://yayin1.canlitv.fun/canlitv/okkutv.stream/chunklist_w1138406343.m3u8?hash=3a643ca1c4b5badfd7d570fb3f15dd74
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport
 #EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/alfa_sports.html
