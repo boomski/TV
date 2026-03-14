@@ -360,14 +360,6 @@ https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3
 https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Canal%2032.png",🇫🇷 | Canal 32
 https://canal32.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
-#EXTINF:-1 tvg-logo="",🇫🇷 |
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Zylo%20Cin%C3%A9%20Nanar.jpg",🇫🇷 | Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Zylo%20Cin%C3%A9%20Western.jpg",🇫🇷 | Zylo Ciné Western
@@ -1233,76 +1225,6 @@ https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/RTSH%20Sport.png",🇦🇱 | RTSH Sport
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
-#EXTVLCOPT:http-referrer=https://canlitv.com/brt-1?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT2.png",🇨🇾 | BRT2
-#EXTVLCOPT:http-referrer=https://canlitv.com/brt-2?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20tv.png",🇨🇾 | Kıbrıs Tv
-#EXTVLCOPT:http-referrer=https://canlitv.com/kibris-tv?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://play.kibristv.com/stream/hls/stream.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://play.kibristv.com/stream/hls/stream.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20Ada.png",🇨🇾 | Kıbrıs Ada Tv
-#EXTVLCOPT:http-referrer=https://canlitv.com/kibris-ada-tv?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20genc.png",🇨🇾 | Kıbrıs Genç Tv
-#EXTVLCOPT:http-referrer=https://canlitv.com/kibris-genc-tv?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/genctv.stream/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/genctv.stream/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20Sim.png",🇨🇾 | Kanal Sim
-#EXTVLCOPT:http-referrer=https://canlitv.com/sim-tv?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/kanalsim.stream/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/kanalsim.stream/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20T.png",🇨🇾 | Kanal T
-#EXTVLCOPT:http-referrer=https://canlitv.com/kanal-t?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Torba.png",🇨🇾 | Torba Tv
-#EXTVLCOPT:http-referrer=https://canlitv.com/torba-tv?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/torbatv.stream/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/torbatv.stream/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/TV2020.png",🇨🇾 | TV2020
-#EXTVLCOPT:http-referrer=https://canlitv.com/tv-2020?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/tv2020.stream/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/tv2020.stream/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Okku%20TV.png",🇨🇾 | Okku TV
-#EXTVLCOPT:http-referrer=https://canlitv.com/okku-tv?ulke=cy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/okkutv.stream/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin1.canlitv.fun/canlitv/okkutv.stream/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport
 #EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/alfa_sports.html
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
@@ -1325,15 +1247,7 @@ https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 4
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Sportstv.jpg",🇹🇷 | Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT%20Spor.png",🇹🇷 | TRT Spor
-#EXTVLCOPT:http-referrer=https://canlitv.com/trt-spor-izle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin2.canlitv.fun/live/trtspor.stream/playlist.m3u8?hash=302a887397618a8461d41048eb1bbb1b
-#EXTVLCOPT:http-origin=https://canlitv.com
-https://yayin2.canlitv.fun/live/trtspor.stream/playlist.m3u8?hash=f929b6e31a769848795ae6980cd34034
-https://yayin2.canlitv.fun/live/trtspor.stream/playlist.m3u8?hash=e0bce8dc16b68cd2f73dceaf8ddbce1f
+https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT1.png",🇹🇷 | TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT2.png",🇹🇷 | TRT 2
