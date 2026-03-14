@@ -7,70 +7,77 @@ PLAYLIST_FILE = "TCL.m3u"
 
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-GOOD_CDNS = [
-    "edge.kuzeykibrissmart.tv",
-    "play.kibristv.com"
-]
-
-BAD_CDN = "yayin1.canlitv.fun"
-
 
 def read_channels():
+
     channels = []
+
     with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
+
         for line in f:
+
             line = line.strip()
+
             if not line or "|" not in line:
                 continue
+
             extinf, url = line.rsplit("|", 1)
-            channels.append({"extinf": extinf.strip(), "url": url.strip()})
+
+            channels.append({
+                "extinf": extinf.strip(),
+                "url": url.strip()
+            })
+
     return channels
 
 
 def convert_to_master(url):
+
     url = re.sub(r"(chunklist|chunks)[^/]*\.m3u8", "playlist.m3u8", url)
+
     return url
 
 
 def capture_stream(page, url):
-    streams = []
+
+    stream = None
 
     def handle_response(response):
+
+        nonlocal stream
+
         if ".m3u8" in response.url:
-            streams.append(response.url)
+            stream = response.url
 
     page.on("response", handle_response)
 
     try:
+
         page.goto(url, timeout=60000)
+
         page.wait_for_timeout(10000)
+
     except Exception as e:
+
         print("⚠️ Page error:", e)
 
     page.remove_listener("response", handle_response)
 
-    streams = [convert_to_master(s) for s in streams]
+    if stream:
+        stream = convert_to_master(stream)
 
-    # kies beste CDN
-    for s in streams:
-        if any(cdn in s for cdn in GOOD_CDNS):
-            return s
-
-    if streams:
-        return streams[0]
-
-    return None
+    return stream
 
 
-def write_stream_block(extinf, referrer, stream):
+def write_block(extinf, referrer, stream):
+
     block = [extinf]
 
     block.append(f"#EXTVLCOPT:http-referrer={referrer}")
 
-    if BAD_CDN in stream:
+    if "yayin" in stream:
         block.append("#EXTVLCOPT:http-origin=https://canlitv.com")
         block.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
-        block.append("#EXTVLCOPT:http-header=Accept:*/*")
 
     block.append(stream)
 
@@ -78,6 +85,7 @@ def write_stream_block(extinf, referrer, stream):
 
 
 def update_playlist(lines, channels, streams):
+
     new_lines = []
     i = 0
 
@@ -91,27 +99,29 @@ def update_playlist(lines, channels, streams):
 
             stream = streams.get(ch["extinf"], FALLBACK)
 
-            block = write_stream_block(line, ch["url"], stream)
+            block = write_block(line, ch["url"], stream)
 
             new_lines.extend(block)
 
-            # skip oude stream regels
-            i += 3
+            i += 1
 
-        else:
-            new_lines.append(line)
+            while i < len(lines) and not lines[i].startswith("#EXTINF"):
+                i += 1
 
+            continue
+
+        new_lines.append(line)
         i += 1
 
-    existing_extinf = [l for l in new_lines if l.startswith("#EXTINF")]
+    existing = [l for l in new_lines if l.startswith("#EXTINF")]
 
     for ch in channels:
 
-        if ch["extinf"] not in existing_extinf:
+        if ch["extinf"] not in existing:
 
             stream = streams.get(ch["extinf"], FALLBACK)
 
-            block = write_stream_block(ch["extinf"], ch["url"], stream)
+            block = write_block(ch["extinf"], ch["url"], stream)
 
             new_lines.append("")
             new_lines.extend(block)
