@@ -1243,15 +1243,6 @@ https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=18445e38c7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20T.png",🇨🇾 | Kanal T
 #EXTVLCOPT:http-referrer=https://canlitv.com/kanal-t?ulke=cy
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8?hash=18445e38c78bff6ab14789e22b3a468d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport
-#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/alfa_sports.html
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Vouli.png",🇨🇾 | Vouli TV
-#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/vouli.html
-https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/City%20Channel.png",🇨🇾 | City Channel
-#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/city_channel.html
-https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/ANT1.png",🇨🇾 | ANT1 Cyprus
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Rik%20Sat.png",🇨🇾 | RΙΚ Sat
@@ -1278,6 +1269,15 @@ https://yayin1.canlitv.fun/canlitv/genctv.stream/playlist.m3u8?hash=ccdb29cadfcb
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Okku%20TV.png",🇨🇾 | Okku TV
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport
+#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/alfa_sports.html
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Vouli.png",🇨🇾 | Vouli TV
+#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/vouli.html
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/City%20Channel.png",🇨🇾 | City Channel
+#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/city_channel.html
+https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor.jpg",🇹🇷 | Tivibu Spor 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19074/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor.jpg",🇹🇷 | Tivibu Spor 3
