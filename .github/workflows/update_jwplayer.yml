@@ -24,7 +24,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests
+          pip install playwright requests
+          playwright install chromium
 
       - name: Run scraper
         run: |
@@ -37,6 +38,6 @@ jobs:
 
           git add TCL.m3u
 
-          git diff --cached --quiet || git commit -m "🔄 JWPlayer streams updated"
+          git diff --cached --quiet || git commit -m "📡 JWPlayer streams updated"
 
           git push
