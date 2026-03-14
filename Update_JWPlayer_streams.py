@@ -38,31 +38,58 @@ def read_channels():
     return channels
 
 
+def extract_stream(html):
+
+    match = re.search(
+        r'https?:\/\/[^\s\'"]+playlist\.m3u8\?hash=[a-zA-Z0-9]+',
+        html
+    )
+
+    if match:
+        return match.group(0)
+
+    match = re.search(
+        r'https?:\/\/[^\s\'"]+\.m3u8(\?[^\s\'"]+)?',
+        html
+    )
+
+    if match:
+        return match.group(0)
+
+    return None
+
+
 def scrape_stream(page, url):
 
     try:
 
-        page.goto(url, timeout=30000, wait_until="domcontentloaded")
+        page.goto(url, timeout=30000)
 
         html = page.content()
 
-        # JWPlayer playlist.m3u8?hash
-        match = re.search(
-            r'https?:\/\/[^\s\'"]+playlist\.m3u8\?hash=[a-zA-Z0-9]+',
-            html
-        )
+        stream = extract_stream(html)
 
-        if match:
-            return match.group(0)
+        if stream:
+            return stream
 
-        # fallback gewone m3u8
-        match = re.search(
-            r'https?:\/\/[^\s\'"]+\.m3u8(\?[^\s\'"]+)?',
-            html
-        )
+        # iframe zoeken
+        frames = page.query_selector_all("iframe")
 
-        if match:
-            return match.group(0)
+        for frame in frames:
+
+            src = frame.get_attribute("src")
+
+            if not src:
+                continue
+
+            page.goto(src)
+
+            html = page.content()
+
+            stream = extract_stream(html)
+
+            if stream:
+                return stream
 
         return None
 
@@ -109,7 +136,6 @@ def update_playlist(channels, streams):
             i += 1
 
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-
         f.write("\n".join(lines))
 
     print("🎵 TCL.m3u opgeslagen")
