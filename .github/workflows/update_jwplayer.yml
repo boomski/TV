@@ -1,37 +1,43 @@
-name: Update JWPlayer Streams
+name: update-jwplayer
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Elk uur
+    - cron: '0 * * * *'
   workflow_dispatch:
 
-jobs:
-  update_jwplayer:
-    runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
+jobs:
+
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install playwright
-          playwright install
+          playwright install chromium
 
-      - name: Run JWPlayer scraper
-        run: python Update_JWPlayer_streams.py
+      - name: Run scraper
+        run: |
+          python Update_JWPlayer_streams.py
 
-      - name: Commit updated TCL.m3u
+      - name: Commit playlist
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+
           git add TCL.m3u
-          git commit -m "Update JWPlayer streams" || echo "No changes to commit"
+
+          git diff --cached --quiet || git commit -m "📡 JWPlayer streams updated"
+
           git push
