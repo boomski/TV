@@ -14,14 +14,13 @@ def extract_real_stream(url):
     if "resource=" in url:
 
         parsed = urlparse(url)
-
         qs = parse_qs(parsed.query)
 
         if "resource" in qs:
 
-            real = unquote(qs["resource"][0])
+            decoded = unquote(qs["resource"][0])
 
-            return real
+            return decoded
 
     return url
 
@@ -40,11 +39,13 @@ def capture_stream():
 
             nonlocal stream
 
-            if ".m3u8" in response.url:
+            url = response.url
 
-                real = extract_real_stream(response.url)
+            if ".m3u8" in url or "resource=" in url:
 
-                if "sat7pars" in real:
+                real = extract_real_stream(url)
+
+                if ".m3u8" in real and "kwikmotion" in real:
 
                     stream = real
 
@@ -54,7 +55,7 @@ def capture_stream():
 
             page.goto(PAGE_URL, timeout=60000)
 
-            page.wait_for_timeout(10000)
+            page.wait_for_timeout(12000)
 
         except Exception as e:
 
@@ -97,7 +98,6 @@ def update_playlist(stream):
             continue
 
         new_lines.append(line)
-
         i += 1
 
     path.write_text("\n".join(new_lines), encoding="utf-8")
