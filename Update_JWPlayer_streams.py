@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import os
-import re
-import requests
+from playwright.sync_api import sync_playwright
 
 CHANNEL_FILE = "JWPlayer_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
@@ -38,47 +37,30 @@ def read_channels():
     return channels
 
 
-def get_player_id(html):
+def capture_stream(page, url):
 
-    patterns = [
-        r'player/index\.php\?id=(\d+)',
-        r'sayfa=(\d+)',
-        r'id=(\d+)&mobile'
-    ]
+    stream = None
 
-    for p in patterns:
+    def handle_response(response):
 
-        m = re.search(p, html)
+        nonlocal stream
 
-        if m:
-            return m.group(1)
+        if ".m3u8" in response.url:
+            stream = response.url
 
-    return None
-
-
-def get_stream(player_id):
-
-    player_url = f"https://canlitv.com/player/index.php?id={player_id}&mobile=0"
+    page.on("response", handle_response)
 
     try:
 
-        r = requests.get(player_url, timeout=15)
+        page.goto(url, timeout=30000)
 
-        html = r.text
-
-        stream = re.search(
-            r'https://[^"\']+playlist\.m3u8\?hash=[a-zA-Z0-9]+',
-            html
-        )
-
-        if stream:
-            return stream.group(0)
+        page.wait_for_timeout(7000)
 
     except Exception as e:
 
-        print("❌ player error:", e)
+        print("❌ Page error:", e)
 
-    return None
+    return stream
 
 
 def update_playlist(channels, streams):
@@ -88,6 +70,7 @@ def update_playlist(channels, streams):
         return
 
     with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
+
         lines = f.read().splitlines()
 
     i = 0
@@ -134,28 +117,17 @@ def main():
 
     streams = {}
 
-    for ch in channels:
+    with sync_playwright() as p:
 
-        print("\n🔎 Scrapen:", ch["extinf"])
+        browser = p.chromium.launch(headless=True)
 
-        try:
+        page = browser.new_page()
 
-            r = requests.get(ch["url"], timeout=15)
+        for ch in channels:
 
-            html = r.text
+            print("\n🔎 Scrapen:", ch["extinf"])
 
-            player_id = get_player_id(html)
-
-            if not player_id:
-
-                print("⚠️ geen player id")
-
-                streams[ch["extinf"]] = FALLBACK
-                continue
-
-            print("🎯 player id:", player_id)
-
-            stream = get_stream(player_id)
+            stream = capture_stream(page, ch["url"])
 
             if stream:
 
@@ -165,15 +137,11 @@ def main():
 
             else:
 
-                print("⚠️ fallback")
+                print("⚠️ fallback gebruikt")
 
                 streams[ch["extinf"]] = FALLBACK
 
-        except Exception as e:
-
-            print("❌ Error:", e)
-
-            streams[ch["extinf"]] = FALLBACK
+        browser.close()
 
     update_playlist(channels, streams)
 
