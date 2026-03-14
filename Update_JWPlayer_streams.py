@@ -7,16 +7,10 @@ PLAYLIST_FILE = "TCL.m3u"
 
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-INSERT_ABOVE = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport'
-
 
 def read_channels():
 
     channels = []
-
-    if not Path(CHANNEL_FILE).exists():
-        print("❌ JWPlayer_Channels.txt ontbreekt")
-        return channels
 
     with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
 
@@ -24,10 +18,7 @@ def read_channels():
 
             line = line.strip()
 
-            if not line:
-                continue
-
-            if "|" not in line:
+            if not line or "|" not in line:
                 continue
 
             extinf, url = line.rsplit("|", 1)
@@ -55,9 +46,9 @@ def capture_stream(page, url):
 
     try:
 
-        page.goto(url, timeout=45000)
+        page.goto(url, timeout=60000)
 
-        page.wait_for_timeout(10000)
+        page.wait_for_timeout(15000)
 
     except Exception as e:
 
@@ -70,20 +61,20 @@ def capture_stream(page, url):
 
 def update_playlist(channels, streams):
 
-    if not Path(PLAYLIST_FILE).exists():
-        print("⚠️ TCL.m3u niet gevonden")
-        return
+    lines = []
 
-    with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
-        lines = f.read().splitlines()
+    if Path(PLAYLIST_FILE).exists():
+
+        with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
+            lines = f.read().splitlines()
 
     new_lines = []
-    skip_next = False
+    skip = False
 
     for i, line in enumerate(lines):
 
-        if skip_next:
-            skip_next = False
+        if skip:
+            skip = False
             continue
 
         replaced = False
@@ -98,34 +89,12 @@ def update_playlist(channels, streams):
                 new_lines.append(f"#EXTVLCOPT:http-referrer={ch['url']}")
                 new_lines.append(stream)
 
-                skip_next = True
+                skip = True
                 replaced = True
                 break
 
         if not replaced:
             new_lines.append(line)
-
-    # nieuwe kanalen toevoegen indien ze niet bestaan
-
-    for ch in channels:
-
-        if not any(ch["extinf"] in l for l in new_lines):
-
-            stream = streams.get(ch["extinf"], FALLBACK)
-
-            try:
-
-                index = new_lines.index(INSERT_ABOVE)
-
-                new_lines.insert(index, ch["extinf"])
-                new_lines.insert(index + 1, f"#EXTVLCOPT:http-referrer={ch['url']}")
-                new_lines.insert(index + 2, stream)
-
-            except ValueError:
-
-                new_lines.append(ch["extinf"])
-                new_lines.append(f"#EXTVLCOPT:http-referrer={ch['url']}")
-                new_lines.append(stream)
 
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
 
@@ -158,7 +127,7 @@ def main():
 
             if stream:
 
-                print("✅ Stream:", stream)
+                print("✅ Stream gevonden:", stream)
 
                 streams[ch["extinf"]] = stream
 
