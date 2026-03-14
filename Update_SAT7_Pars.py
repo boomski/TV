@@ -5,7 +5,7 @@ PAGE_URL = "https://sat7plus.org/live/pars"
 
 PLAYLIST_FILE = "TCL.m3u"
 
-EXTINF_LINE = '#EXTINF:-1 tvg-logo="https://sat7.org/wp-content/uploads/2019/03/SAT7PARS.png",🇮🇷 | SAT-7 Pars'
+EXTINF_LINE = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Pars.png",🇨🇾 | Sat7 Pars'
 
 
 def capture_stream():
