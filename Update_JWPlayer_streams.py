@@ -1,9 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 import re
-import requests
 from pathlib import Path
+from playwright.sync_api import sync_playwright
 
 CHANNEL_FILE = "JWPlayer_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
@@ -16,85 +13,77 @@ def read_channels():
     channels = []
 
     with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
-        lines = [l.strip() for l in f.readlines() if l.strip()]
 
-    i = 0
+        lines = [l.strip() for l in f if l.strip()]
 
-    while i < len(lines):
+    for line in lines:
 
-        line = lines[i]
+        if line.startswith("#EXTINF") and "|" in line:
 
-        if line.startswith("#EXTINF"):
+            parts = line.split("|")
 
-            # formaat: EXTINF|URL
-            if "|" in line and line.count("|") >= 2:
+            extinf = "|".join(parts[:-1]).strip()
+            url = parts[-1].strip()
 
-                parts = line.split("|")
-
-                extinf = "|".join(parts[:-1]).strip()
-                url = parts[-1].strip()
-
-                channels.append({
-                    "extinf": extinf,
-                    "url": url
-                })
-
-                i += 1
-                continue
-
-            # formaat: EXTINF + volgende regel URL
-            if i + 1 < len(lines):
-
-                extinf = line
-                url = lines[i + 1]
-
-                channels.append({
-                    "extinf": extinf,
-                    "url": url
-                })
-
-                i += 2
-                continue
-
-        i += 1
+            channels.append({
+                "extinf": extinf,
+                "url": url
+            })
 
     return channels
 
 
-def get_stream(page_url):
+def convert_to_master(url):
+
+    url = re.sub(r"(chunklist|chunks)[^/]*\.m3u8", "playlist.m3u8", url)
+
+    return url
+
+
+def capture_stream(page, url):
+
+    stream = None
+
+    def handle_response(response):
+
+        nonlocal stream
+
+        if ".m3u8" in response.url:
+
+            stream = response.url
+
+    page.on("response", handle_response)
 
     try:
 
-        r = requests.get(
-            page_url,
-            headers={"User-Agent": "Mozilla/5.0"},
-            timeout=15
-        )
+        page.goto(url, timeout=60000)
 
-        if r.status_code != 200:
-            return None
+        page.wait_for_timeout(8000)
 
-        match = re.search(r"https?:\/\/[^\s\"']+\.m3u8(\?[^\s\"']+)?", r.text)
+    except Exception as e:
 
-        if match:
-            return match.group(0)
+        print("⚠️ Page error:", e)
 
-    except Exception:
-        pass
+    page.remove_listener("response", handle_response)
 
-    return None
+    if stream:
+
+        stream = convert_to_master(stream)
+
+    return stream
 
 
-def build_block(extinf, referrer, stream):
+def write_block(extinf, referrer, stream):
 
     if stream is None:
+
         stream = FALLBACK
 
     block = [extinf]
 
     block.append(f"#EXTVLCOPT:http-referrer={referrer}")
 
-    if "yayin" in stream or "kuzeykibrissmart" in stream or "kibristv" in stream:
+    if "yayin" in stream:
 
         block.append("#EXTVLCOPT:http-origin=https://canlitv.com")
         block.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
@@ -105,14 +94,7 @@ def build_block(extinf, referrer, stream):
     return block
 
 
-def update_playlist(channels):
-
-    path = Path(PLAYLIST_FILE)
-
-    if path.exists():
-        lines = path.read_text(encoding="utf-8").splitlines()
-    else:
-        lines = ["#EXTM3U"]
+def update_playlist(lines, channels, streams):
 
     new_lines = []
     i = 0
@@ -125,16 +107,9 @@ def update_playlist(channels):
 
         if ch:
 
-            print("\n🔎 Scrapen:", ch["extinf"])
+            stream = streams.get(ch["extinf"], FALLBACK)
 
-            stream = get_stream(ch["url"])
-
-            if stream:
-                print("✅ Stream gevonden")
-            else:
-                print("⚠️ fallback gebruikt")
-
-            block = build_block(line, ch["url"], stream)
+            block = write_block(line, ch["url"], stream)
 
             new_lines.extend(block)
 
@@ -154,18 +129,14 @@ def update_playlist(channels):
 
         if ch["extinf"] not in existing:
 
-            print("\n➕ Nieuw kanaal:", ch["extinf"])
+            stream = streams.get(ch["extinf"], FALLBACK)
 
-            stream = get_stream(ch["url"])
-
-            block = build_block(ch["extinf"], ch["url"], stream)
+            block = write_block(ch["extinf"], ch["url"], stream)
 
             new_lines.append("")
             new_lines.extend(block)
 
-    path.write_text("\n".join(new_lines), encoding="utf-8")
-
-    print("\n🎵 TCL.m3u opgeslagen")
+    return new_lines
 
 
 def main():
@@ -176,7 +147,49 @@ def main():
 
     print("📺 Kanalen:", len(channels))
 
-    update_playlist(channels)
+    streams = {}
+
+    with sync_playwright() as p:
+
+        browser = p.chromium.launch(headless=True)
+
+        page = browser.new_page()
+
+        for ch in channels:
+
+            print("\n🔎 Scrapen:", ch["extinf"])
+
+            stream = capture_stream(page, ch["url"])
+
+            if stream:
+
+                print("✅ Stream gevonden")
+
+                streams[ch["extinf"]] = stream
+
+            else:
+
+                print("⚠️ fallback gebruikt")
+
+                streams[ch["extinf"]] = FALLBACK
+
+        browser.close()
+
+    lines = []
+
+    if Path(PLAYLIST_FILE).exists():
+
+        with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
+
+            lines = f.read().splitlines()
+
+    lines = update_playlist(lines, channels, streams)
+
+    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+
+        f.write("\n".join(lines))
+
+    print("🎵 TCL.m3u opgeslagen")
 
 
 if __name__ == "__main__":
