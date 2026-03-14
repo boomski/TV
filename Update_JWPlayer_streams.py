@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import os
-from playwright.sync_api import sync_playwright
+import re
+import requests
 
 CHANNEL_FILE = "JWPlayer_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
@@ -37,33 +38,48 @@ def read_channels():
     return channels
 
 
-def capture_stream(page, url):
+def get_player_id(html):
 
-    stream = None
+    patterns = [
+        r'player/index\.php\?id=(\d+)',
+        r'sayfa=(\d+)',
+        r'id=(\d+)&mobile'
+    ]
 
-    def handle_response(response):
+    for p in patterns:
 
-        nonlocal stream
+        m = re.search(p, html)
 
-        if ".m3u8" in response.url:
-            stream = response.url
+        if m:
+            return m.group(1)
 
-    page.on("response", handle_response)
+    return None
+
+
+def get_stream(player_id):
+
+    player_url = f"https://canlitv.com/player/index.php?id={player_id}&mobile=0"
 
     try:
 
-        page.goto(url, timeout=45000)
+        r = requests.get(player_url, timeout=20)
 
-        # langer wachten zodat JWPlayer start
-        page.wait_for_timeout(12000)
+        html = r.text
+
+        # JWPlayer config bevat meestal playlist.m3u8
+        match = re.search(
+            r'https://[^"\']+\.m3u8\?hash=[a-zA-Z0-9]+',
+            html
+        )
+
+        if match:
+            return match.group(0)
 
     except Exception as e:
 
-        print("❌ Page error:", e)
+        print("❌ Player error:", e)
 
-    page.remove_listener("response", handle_response)
-
-    return stream
+    return None
 
 
 def update_playlist(channels, streams):
@@ -103,6 +119,7 @@ def update_playlist(channels, streams):
             i += 1
 
     with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+
         f.write("\n".join(lines))
 
     print("🎵 TCL.m3u opgeslagen")
@@ -118,21 +135,32 @@ def main():
 
     streams = {}
 
-    with sync_playwright() as p:
+    for ch in channels:
 
-        browser = p.chromium.launch(headless=True)
+        print("\n🔎 Scrapen:", ch["extinf"])
 
-        page = browser.new_page()
+        try:
 
-        for ch in channels:
+            r = requests.get(ch["url"], timeout=20)
 
-            print("\n🔎 Scrapen:", ch["extinf"])
+            html = r.text
 
-            stream = capture_stream(page, ch["url"])
+            player_id = get_player_id(html)
+
+            if not player_id:
+
+                print("⚠️ geen player id")
+
+                streams[ch["extinf"]] = FALLBACK
+                continue
+
+            print("🎯 Player id:", player_id)
+
+            stream = get_stream(player_id)
 
             if stream:
 
-                print("✅ Stream:", stream)
+                print("✅ Stream gevonden:", stream)
 
                 streams[ch["extinf"]] = stream
 
@@ -142,7 +170,11 @@ def main():
 
                 streams[ch["extinf"]] = FALLBACK
 
-        browser.close()
+        except Exception as e:
+
+            print("❌ Error:", e)
+
+            streams[ch["extinf"]] = FALLBACK
 
     update_playlist(channels, streams)
 
