@@ -69,7 +69,7 @@ def capture_stream(page, url):
     return stream
 
 
-def write_block(extinf, referrer, stream):
+    def write_block(extinf, referrer, stream):
 
     block = [extinf]
 
@@ -78,6 +78,7 @@ def write_block(extinf, referrer, stream):
     if "yayin" in stream:
         block.append("#EXTVLCOPT:http-origin=https://canlitv.com")
         block.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
+        block.append("#EXTVLCOPT:http-header=Accept:*/*")
 
     block.append(stream)
 
