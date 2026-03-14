@@ -7,7 +7,6 @@ PLAYLIST_FILE = "TCL.m3u"
 
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-
 def read_channels():
     channels = []
     with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
@@ -16,20 +15,13 @@ def read_channels():
             if not line or "|" not in line:
                 continue
             extinf, url = line.rsplit("|", 1)
-            channels.append({
-                "extinf": extinf.strip(),
-                "url": url.strip()
-            })
+            channels.append({"extinf": extinf.strip(), "url": url.strip()})
     return channels
 
-
 def convert_to_master(url):
-    if "chunklist" in url:
-        url = re.sub(r"chunklist[^/]*\.m3u8", "playlist.m3u8", url)
-    if "chunks.m3u8" in url:
-        url = url.replace("chunks.m3u8", "playlist.m3u8")
+    # pak master playlist
+    url = re.sub(r"(chunklist|chunks)[^/]*\.m3u8", "playlist.m3u8", url)
     return url
-
 
 def capture_stream(page, url):
     stream = None
@@ -51,39 +43,27 @@ def capture_stream(page, url):
 
     if stream:
         stream = convert_to_master(stream)
-
     return stream
 
-
 def update_playlist(lines, channels, streams):
-    """
-    Vervang de oude stream direct na de EXTINF regel
-    """
     new_lines = []
-    skip_next = False
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        # check of dit een EXTINF regel van een kanaal is
+        ch = next((c for c in channels if c["extinf"] == line), None)
+        if ch:
+            # vervang oude stream + referrer
+            new_lines.append(line)
+            new_lines.append(f"#EXTVLCOPT:http-referrer={ch['url']}")
+            new_lines.append(streams.get(ch["extinf"], FALLBACK))
+            # skip de oude stream regel
+            i += 2
+        else:
+            new_lines.append(line)
+        i += 1
 
-    for i, line in enumerate(lines):
-        if skip_next:
-            skip_next = False
-            # vervang oude m3u8-link door nieuwe stream
-            extinf_line = lines[i-1]
-            ch = next((c for c in channels if c["extinf"] in extinf_line), None)
-            if ch:
-                stream = streams.get(ch["extinf"], FALLBACK)
-                # voeg http-referrer erbij
-                new_lines.append(f"#EXTVLCOPT:http-referrer={ch['url']}")
-                new_lines.append(stream)
-            else:
-                new_lines.append(line)
-            continue
-
-        new_lines.append(line)
-
-        # detecteer kanaal EXTINF-regel
-        if any(ch["extinf"] in line for ch in channels):
-            skip_next = True
-
-    # voeg ontbrekende kanalen toe (nieuwe) onderaan
+    # voeg ontbrekende kanalen toe onderaan
     existing_extinfs = [line for line in new_lines if line.startswith("#EXTINF")]
     for ch in channels:
         if ch["extinf"] not in existing_extinfs:
@@ -93,7 +73,6 @@ def update_playlist(lines, channels, streams):
             new_lines.append(streams.get(ch["extinf"], FALLBACK))
 
     return new_lines
-
 
 def main():
     print("🚀 JWPlayer scraper gestart")
@@ -126,7 +105,6 @@ def main():
         f.write("\n".join(lines))
 
     print("🎵 TCL.m3u opgeslagen")
-
 
 if __name__ == "__main__":
     main()
