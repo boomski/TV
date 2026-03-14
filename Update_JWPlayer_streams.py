@@ -3,17 +3,16 @@ import re
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
-# Fallback link als stream niet beschikbaar
+# Fallback link
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-# Bestandspaden
+# Bestanden
 CHANNELS_FILE = "JWPlayer_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
 
-# Specifieke EXTINF regel waar we de nieuwe streams boven willen zetten
+# Specifieke EXTINF regel waar we nieuwe streams boven zetten
 INSERT_ABOVE_EXTINF = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor.jpg",🇹🇷 | Tivibu Spor 1'
 
-# Functie om stream te scrapen
 def scrape_stream(page_url):
     try:
         with sync_playwright() as p:
@@ -39,8 +38,10 @@ if Path(CHANNELS_FILE).exists():
         for line in f:
             line = line.strip()
             if line:
-                extinf, url = line.split("|", 1)
-                channels.append({"extinf": extinf, "url": url})
+                # Split op eerste "|" - EXTINF | URL
+                if "|" in line:
+                    extinf, url = line.split("|", 1)
+                    channels.append({"extinf": extinf.strip(), "url": url.strip()})
 else:
     print(f"⚠️ {CHANNELS_FILE} niet gevonden")
     exit(1)
@@ -57,33 +58,32 @@ new_playlist = playlist_content.splitlines()
 
 for ch in channels:
     print(f"🔎 Scrapen: {ch['extinf']}")
-    stream = scrape_stream(ch['url'])
+    stream = scrape_stream(ch["url"])
     if stream is None:
         print("⚠️ fallback gebruikt")
         stream = FALLBACK
     else:
         print(f"✅ Stream gevonden: {stream}")
 
-    # Voeg http-referrer toe voor VLC compatibiliteit
+    # Voeg http-referrer toe voor VLC
     stream = f"#EXTVLCOPT:http-referrer={ch['url']}\n{stream}"
 
-    # Oude entry verwijderen als die er al is
-    pattern = re.compile(re.escape(ch['extinf']) + r".*?\n(?:#EXTVLCOPT:[^\n]*\n)?https?://[^\n]+", re.DOTALL)
+    # Oude entry verwijderen
+    pattern = re.compile(re.escape(ch["extinf"]) + r".*?\n(?:#EXTVLCOPT:[^\n]*\n)?https?://[^\n]+", re.DOTALL)
     new_playlist = [line for line in new_playlist if not pattern.search(line)]
 
     # Boven de INSERT_ABOVE_EXTINF regel toevoegen
     try:
         index = new_playlist.index(INSERT_ABOVE_EXTINF)
-        new_playlist.insert(index, ch['extinf'])
+        new_playlist.insert(index, ch["extinf"])
         new_playlist.insert(index + 1, stream)
     except ValueError:
-        # Als de INSERT_ABOVE_EXTINF regel niet gevonden is, voeg onderaan toe
-        new_playlist.append(ch['extinf'])
+        new_playlist.append(ch["extinf"])
         new_playlist.append(stream)
 
     print(f"🔄 geupdate: {ch['extinf']}\n")
 
-# Schrijf de playlist
+# Schrijf playlist
 with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(new_playlist))
 
