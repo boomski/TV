@@ -1236,14 +1236,20 @@ https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
 #EXTVLCOPT:http-referrer=https://canlitv.com/brt-1?ulke=cy
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/chunks.m3u8?hash=924ad7cffcfbf2b040f523c10b5e1bda
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT2.png",🇨🇾 | BRT2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20tv.png",🇨🇾 | Kıbrıs Tv
 #EXTVLCOPT:http-referrer=https://canlitv.com/kibris-tv?ulke=cy
 https://play.kibristv.com/stream/hls/stream.m3u8?hash=924ad7cffcfbf2b040f523c10b5e1bda
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20Ada.png",🇨🇾 | Kıbrıs Ada Tv
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20genc.png",🇨🇾 | Kıbrıs Genç Tv
 #EXTVLCOPT:http-referrer=https://canlitv.com/kibris-genc-tv?ulke=cy
 https://yayin1.canlitv.fun/canlitv/genctv.stream/playlist.m3u8?hash=924ad7cffcfbf2b040f523c10b5e1bda
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20Sim.png",🇨🇾 | Kanal Sim
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20T.png",🇨🇾 | Kanal T
 #EXTVLCOPT:http-referrer=https://canlitv.com/kanal-t?ulke=cy
@@ -1252,6 +1258,13 @@ https://edge.kuzeykibrissmart.tv/kanalt/bant1/chunks.m3u8?hash=924ad7cffcfbf2b04
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/TV2020.png",🇨🇾 | TV2020
 #EXTVLCOPT:http-referrer=https://canlitv.com/tv-2020?ulke=cy
 https://yayin1.canlitv.fun/canlitv/tv2020.stream/playlist.m3u8?hash=924ad7cffcfbf2b040f523c10b5e1bda
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Okku%20TV.png",🇨🇾 | Okku TV
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Torba.png",🇨🇾 | Torba Tv
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport
 #EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/alfa_sports.html
