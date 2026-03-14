@@ -1,124 +1,161 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import os
 import re
 import requests
 from pathlib import Path
 
-# ---------- CONFIG ----------
-TCL_FILE = "TCL.m3u"
+CHANNEL_FILE = "JWPlayer_Channels.txt"
+PLAYLIST_FILE = "TCL.m3u"
+
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
-# Kanalen lijst (kan ook uit JWPlayer_Channels.txt gelezen worden)
-CHANNELS = [
-    {
-        "extinf": '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/TV2020.png",🇨🇾 | TV2020',
-        "url": "https://canlitv.com/tv-2020?ulke=cy"
-    },
-    {
-        "extinf": '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Okku%20TV.png",🇨🇾 | Okku TV',
-        "url": "https://canlitv.com/okku-tv?ulke=cy"
-    }
-]
 
-# ---------- FUNCTIES ----------
+def read_channels():
 
-def get_jwplayer_stream(page_url):
-    """
-    Haal de directe .m3u8 link van JWPlayer pagina.
-    """
+    channels = []
+
+    with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
+
+        lines = [l.strip() for l in f.readlines() if l.strip()]
+
+    i = 0
+
+    while i < len(lines):
+
+        if lines[i].startswith("#EXTINF"):
+
+            extinf = lines[i]
+            url = lines[i + 1]
+
+            channels.append({
+                "extinf": extinf,
+                "url": url
+            })
+
+            i += 2
+
+        else:
+            i += 1
+
+    return channels
+
+
+def get_stream(page_url):
+
     try:
-        resp = requests.get(page_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
-        if resp.status_code != 200:
+
+        r = requests.get(
+            page_url,
+            headers={"User-Agent": "Mozilla/5.0"},
+            timeout=15
+        )
+
+        if r.status_code != 200:
             return None
-        # Zoek een m3u8 link in de pagina
-        match = re.search(r"https?:\/\/[^\s'\"<>]+\.m3u8(\?[^\s'\"<>]+)?", resp.text)
+
+        match = re.search(r"https?:\/\/[^\s\"']+\.m3u8(\?[^\s\"']+)?", r.text)
+
         if match:
             return match.group(0)
-        return None
-    except requests.RequestException:
-        return None
 
-def write_block(extinf, referrer, stream):
-    """
-    Maak de m3u block met headers en fallback
-    """
+    except:
+        pass
+
+    return None
+
+
+def build_block(extinf, referrer, stream):
+
+    if stream is None:
+        stream = FALLBACK
+
     block = [extinf]
+
     block.append(f"#EXTVLCOPT:http-referrer={referrer}")
 
-    # Extra headers voor 'yayin' links
-    if "yayin" in stream or "edge.kuzeykibrissmart" in stream or "play.kibristv" in stream:
+    if "yayin" in stream or "kuzeykibrissmart" in stream or "kibristv" in stream:
+
         block.append("#EXTVLCOPT:http-origin=https://canlitv.com")
         block.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
         block.append("#EXTVLCOPT:http-header=Accept:*/*")
 
-    block.append(stream if stream else FALLBACK)
+    block.append(stream)
+
     return block
 
-def update_tcl_file(blocks):
-    """
-    Voeg de blocks toe boven bestaande Cyprus kanalen in TCL.m3u
-    Oude links worden vervangen
-    """
-    tcl_path = Path(TCL_FILE)
-    if tcl_path.exists():
-        lines = tcl_path.read_text(encoding="utf-8").splitlines()
+
+def update_playlist(channels):
+
+    path = Path(PLAYLIST_FILE)
+
+    if path.exists():
+        lines = path.read_text(encoding="utf-8").splitlines()
     else:
         lines = ["#EXTM3U"]
 
-    # Zoek positie van eerste Cyprus kanaal
-    insert_idx = 1
-    for i, line in enumerate(lines):
-        if "Cyprus" in line:
-            insert_idx = i
-            break
+    new_lines = []
+    i = 0
 
-    # Maak dict van extinf -> nieuwe stream om duplicaten te vervangen
-    new_extinf_map = {b[0]: b[1:] for b in blocks}
+    while i < len(lines):
 
-    updated_lines = []
-    skip_next = False
-    for line in lines:
-        if skip_next:
-            # skip oude m3u8/fallback links
-            if line.startswith("http") or line.startswith("#EXTVLCOPT"):
-                continue
+        line = lines[i]
+
+        channel = next((c for c in channels if c["extinf"] == line), None)
+
+        if channel:
+
+            stream = get_stream(channel["url"])
+
+            if stream:
+                print("✅ Stream gevonden")
             else:
-                skip_next = False
-        if line in new_extinf_map:
-            # overschrijven
-            updated_lines.extend([line] + new_extinf_map[line])
-            skip_next = True
+                print("⚠️ fallback gebruikt")
+
+            block = build_block(line, channel["url"], stream)
+
+            new_lines.extend(block)
+
+            i += 1
+
+            while i < len(lines) and not lines[i].startswith("#EXTINF"):
+                i += 1
+
             continue
-        updated_lines.append(line)
 
-    # Voeg nieuw blok toe als niet aanwezig
-    for extinf, rest in new_extinf_map.items():
-        if extinf not in lines:
-            updated_lines[insert_idx:insert_idx] = [extinf] + rest
+        new_lines.append(line)
+        i += 1
 
-    tcl_path.write_text("\n".join(updated_lines), encoding="utf-8")
-    print(f"🎵 {TCL_FILE} opgeslagen")
+    existing = [l for l in new_lines if l.startswith("#EXTINF")]
 
-# ---------- MAIN ----------
+    for ch in channels:
+
+        if ch["extinf"] not in existing:
+
+            print("\n➕ Nieuw kanaal:", ch["extinf"])
+
+            stream = get_stream(ch["url"])
+
+            block = build_block(ch["extinf"], ch["url"], stream)
+
+            new_lines.append("")
+            new_lines.extend(block)
+
+    path.write_text("\n".join(new_lines), encoding="utf-8")
+
+    print("\n🎵 TCL.m3u opgeslagen")
+
 
 def main():
+
     print("🚀 JWPlayer scraper gestart")
-    print(f"📺 Kanalen: {len(CHANNELS)}\n")
 
-    blocks = []
-    for ch in CHANNELS:
-        extinf = ch["extinf"]
-        url = ch["url"]
-        print(f"🔎 Scrapen: {extinf}")
+    channels = read_channels()
 
-        stream = get_jwplayer_stream(url)
-        if not stream:
-            print("⚠️ fallback gebruikt")
-        blocks.append(write_block(extinf, url, stream))
+    print("📺 Kanalen:", len(channels))
 
-    update_tcl_file(blocks)
+    update_playlist(channels)
+
 
 if __name__ == "__main__":
     main()
