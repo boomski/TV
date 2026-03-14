@@ -5,7 +5,7 @@ import os
 import re
 import requests
 
-CHANNEL_FILE = "channels.txt"
+CHANNEL_FILE = "JWPlayer_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
 
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
