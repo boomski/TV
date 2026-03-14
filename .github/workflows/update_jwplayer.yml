@@ -15,10 +15,8 @@ jobs:
 
     steps:
 
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -27,13 +25,13 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install playwright requests
+          pip install playwright
           playwright install chromium
 
       - name: Run scraper
         run: python Update_JWPlayer_streams.py
 
-      - name: Commit playlist if changed
+      - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
@@ -44,5 +42,6 @@ jobs:
             echo "No changes"
           else
             git commit -m "📡 JWPlayer streams updated"
-            git push --force origin master
+            git pull --rebase
+            git push
           fi
