@@ -8,6 +8,8 @@ from playwright.sync_api import sync_playwright
 CHANNEL_FILE = "Aftermind_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
 
+INSERT_BEFORE = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor.jpg",🇹🇷 | Tivibu Spor 1'
+
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 
@@ -28,11 +30,11 @@ def read_channels():
             if not line or "|" not in line:
                 continue
 
-            extinf, page_url = line.rsplit("|", 1)
+            extinf, url = line.rsplit("|", 1)
 
             channels.append({
                 "extinf": extinf.strip(),
-                "url": page_url.strip()
+                "url": url.strip()
             })
 
     return channels
@@ -60,52 +62,55 @@ def scrape_stream(page, url):
         return None
 
 
-def update_playlist(streams):
+def clean_old_streams(lines, channels):
 
-    lines = []
+    cleaned = []
 
-    if os.path.exists(PLAYLIST_FILE):
+    i = 0
 
-        with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
-            lines = f.read().splitlines()
+    while i < len(lines):
+
+        line = lines[i]
+
+        remove = False
+
+        for ch in channels:
+
+            if line.startswith(ch["extinf"]):
+
+                remove = True
+                i += 3
+                break
+
+        if not remove:
+
+            cleaned.append(line)
+            i += 1
+
+    return cleaned
+
+
+def insert_streams(lines, streams):
 
     new_lines = []
 
-    skip = False
+    inserted = False
 
     for line in lines:
 
-        if skip:
-            skip = False
-            continue
+        if not inserted and line.startswith(INSERT_BEFORE):
 
-        found = False
+            for extinf, data in streams.items():
 
-        for extinf in streams.keys():
+                new_lines.append(extinf)
+                new_lines.append(f"#EXTVLCOPT:http-referrer={data['referer']}")
+                new_lines.append(data["stream"])
 
-            if line.startswith(extinf):
+            inserted = True
 
-                found = True
-                skip = True
-                break
+        new_lines.append(line)
 
-        if not found:
-            new_lines.append(line)
-
-    for extinf, data in streams.items():
-
-        stream_url = data["stream"]
-        referer = data["referer"]
-
-        new_lines.append(extinf)
-        new_lines.append(f"#EXTVLCOPT:http-referrer={referer}")
-        new_lines.append(stream_url)
-
-    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-
-        f.write("\n".join(new_lines))
-
-    print("🎵 TCL.m3u opgeslagen")
+    return new_lines
 
 
 def main():
@@ -156,7 +161,22 @@ def main():
 
         browser.close()
 
-    update_playlist(streams)
+    lines = []
+
+    if os.path.exists(PLAYLIST_FILE):
+
+        with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
+            lines = f.read().splitlines()
+
+    lines = clean_old_streams(lines, channels)
+
+    lines = insert_streams(lines, streams)
+
+    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+
+        f.write("\n".join(lines))
+
+    print("🎵 TCL.m3u opgeslagen")
 
 
 if __name__ == "__main__":
