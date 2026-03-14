@@ -16,27 +16,47 @@ def read_channels():
     channels = []
 
     with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
-
         lines = [l.strip() for l in f.readlines() if l.strip()]
 
     i = 0
 
     while i < len(lines):
 
-        if lines[i].startswith("#EXTINF"):
+        line = lines[i]
 
-            extinf = lines[i]
-            url = lines[i + 1]
+        if line.startswith("#EXTINF"):
 
-            channels.append({
-                "extinf": extinf,
-                "url": url
-            })
+            # formaat: EXTINF|URL
+            if "|" in line and line.count("|") >= 2:
 
-            i += 2
+                parts = line.split("|")
 
-        else:
-            i += 1
+                extinf = "|".join(parts[:-1]).strip()
+                url = parts[-1].strip()
+
+                channels.append({
+                    "extinf": extinf,
+                    "url": url
+                })
+
+                i += 1
+                continue
+
+            # formaat: EXTINF + volgende regel URL
+            if i + 1 < len(lines):
+
+                extinf = line
+                url = lines[i + 1]
+
+                channels.append({
+                    "extinf": extinf,
+                    "url": url
+                })
+
+                i += 2
+                continue
+
+        i += 1
 
     return channels
 
@@ -59,7 +79,7 @@ def get_stream(page_url):
         if match:
             return match.group(0)
 
-    except:
+    except Exception:
         pass
 
     return None
@@ -101,18 +121,20 @@ def update_playlist(channels):
 
         line = lines[i]
 
-        channel = next((c for c in channels if c["extinf"] == line), None)
+        ch = next((c for c in channels if c["extinf"] == line), None)
 
-        if channel:
+        if ch:
 
-            stream = get_stream(channel["url"])
+            print("\n🔎 Scrapen:", ch["extinf"])
+
+            stream = get_stream(ch["url"])
 
             if stream:
                 print("✅ Stream gevonden")
             else:
                 print("⚠️ fallback gebruikt")
 
-            block = build_block(line, channel["url"], stream)
+            block = build_block(line, ch["url"], stream)
 
             new_lines.extend(block)
 
