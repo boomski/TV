@@ -2,7 +2,7 @@ name: update-jwplayer
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # elke 6 uur
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 env:
@@ -16,23 +16,22 @@ jobs:
 
     steps:
 
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
         run: |
-          pip install requests
+          pip install playwright
+          playwright install chromium
 
-      - name: Run JWPlayer scraper
+      - name: Run scraper
         run: |
           python Update_JWPlayer_streams.py
 
-      - name: Commit playlist update
+      - name: Commit playlist
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
