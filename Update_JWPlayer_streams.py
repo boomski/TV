@@ -33,9 +33,11 @@ def read_channels():
 
 def convert_to_master(url):
 
-    # chunklist → playlist (beste kwaliteit)
     if "chunklist" in url:
         url = re.sub(r"chunklist[^/]*\.m3u8", "playlist.m3u8", url)
+
+    if "chunks.m3u8" in url:
+        url = url.replace("chunks.m3u8", "playlist.m3u8")
 
     return url
 
@@ -56,6 +58,7 @@ def capture_stream(page, url):
     try:
 
         page.goto(url, timeout=60000)
+
         page.wait_for_timeout(12000)
 
     except Exception as e:
@@ -70,47 +73,29 @@ def capture_stream(page, url):
     return stream
 
 
-def update_playlist(channels, streams):
+def clean_playlist(lines, channels):
 
-    if not Path(PLAYLIST_FILE).exists():
-        print("⚠️ TCL.m3u niet gevonden")
-        return
+    cleaned = []
 
-    with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
-        lines = f.read().splitlines()
-
-    new_lines = []
-    skip = 0
+    skip = False
 
     for line in lines:
 
-        if skip > 0:
-            skip -= 1
+        if any(ch["extinf"] in line for ch in channels):
+            skip = True
             continue
 
-        replaced = False
+        if skip:
 
-        for ch in channels:
+            if line.startswith("#EXTINF"):
+                skip = False
+                cleaned.append(line)
 
-            if line.startswith(ch["extinf"]):
+            continue
 
-                stream = streams.get(ch["extinf"], FALLBACK)
+        cleaned.append(line)
 
-                new_lines.append(ch["extinf"])
-                new_lines.append(f"#EXTVLCOPT:http-referrer={ch['url']}")
-                new_lines.append(stream)
-
-                skip = 2
-                replaced = True
-                break
-
-        if not replaced:
-            new_lines.append(line)
-
-    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(new_lines))
-
-    print("🎵 TCL.m3u opgeslagen")
+    return cleaned
 
 
 def main():
@@ -149,7 +134,28 @@ def main():
 
         browser.close()
 
-    update_playlist(channels, streams)
+    lines = []
+
+    if Path(PLAYLIST_FILE).exists():
+
+        with open(PLAYLIST_FILE, "r", encoding="utf-8") as f:
+            lines = f.read().splitlines()
+
+    lines = clean_playlist(lines, channels)
+
+    for ch in channels:
+
+        stream = streams.get(ch["extinf"], FALLBACK)
+
+        lines.append("")
+        lines.append(ch["extinf"])
+        lines.append(f"#EXTVLCOPT:http-referrer={ch['url']}")
+        lines.append(stream)
+
+    with open(PLAYLIST_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+    print("🎵 TCL.m3u opgeslagen")
 
 
 if __name__ == "__main__":
