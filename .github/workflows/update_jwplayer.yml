@@ -32,5 +32,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
           git add TCL.m3u
-          git diff --cached --quiet || git commit -m "Update JWPlayer streams"
-          git push
+          git diff --cached --quiet || git commit -m "📡 JWPlayer streams updated"
+          git push --force
