@@ -1258,20 +1258,13 @@ https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Kids.png",🇨🇾 | Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Pars.png",🇨🇾 | Sat 7 Pars 
-#EXTVLCOPT:http-referrer=https://sat7plus.org/
-#EXTVLCOPT:http-origin=https://sat7plus.org
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-header=Accept:*/*
-#EXTVLCOPT:http-header=Connection:keep-alive
-https://live.kwikmotion.com/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/hdntl=exp=1773640157~acl=%2fsat7parslive%2fsat7pars.smil%2f*~data=hdntl~hmac=4f0a1706a00c792bd25eaa9076a0c610dfe99e563e7b1b40650aee46ed47f4af/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Turk.png",🇨🇾 | Sat 7 Türk 
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sigma%20TV.png",🇨🇾 | Sigma TV 
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Alpha%20Cyprus.png",🇨🇾 | Alpha Cyprus
-#EXTVLCOPT:http-referrer=https://alphacyprus.com.cy/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://us6.cloudskep.com/alphacyp/acy/l4/hd/playlist.m3u8?nimblesessionid=1232014&wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI2IDU6NDg6MjkgQU0maGFzaF92YWx1ZT1VY1NtbGVxR0lHK21BMVF2bEJFWnpRPT0mdmFsaWRtaW51dGVzPTMw
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20genc.png",🇨🇾 | Kıbrıs Genç Tv
 https://yayin1.canlitv.fun/canlitv/genctv.stream/playlist.m3u8?hash=ccdb29cadfcbcac56140f90aa33873a9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20Sim.png",🇨🇾 | Kanal Sim
