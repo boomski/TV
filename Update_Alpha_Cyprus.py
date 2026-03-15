@@ -1,6 +1,4 @@
-import re
 from pathlib import Path
-from urllib.parse import urlparse
 from playwright.sync_api import sync_playwright
 
 PAGE_URL = "https://alphacyprus.com.cy/live"
@@ -14,27 +12,23 @@ REFERRER = "https://alphacyprus.com.cy/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 
-def normalize_stream(url):
+def choose_best_stream(streams):
 
-    parsed = urlparse(url)
+    if not streams:
+        return None
 
-    base = parsed.scheme + "://" + parsed.netloc + parsed.path
+    # node voorkeur
+    for node in ["am", "eu", "us"]:
+        for s in streams:
+            if f"{node}" in s:
+                return s
 
-    # chunks → playlist
-    base = re.sub(r"chunks\.m3u8", "playlist.m3u8", base)
-
-    # quality playlist → master playlist
-    base = re.sub(r"/l\d+/hd/playlist\.m3u8", "/playlist.m3u8", base)
-
-    if parsed.query:
-        return base + "?" + parsed.query
-
-    return base
+    return streams[0]
 
 
 def capture_stream():
 
-    stream = None
+    streams = []
 
     with sync_playwright() as p:
 
@@ -44,13 +38,15 @@ def capture_stream():
 
         def handle_response(response):
 
-            nonlocal stream
-
             url = response.url
 
             if ".m3u8" in url and "alphacyp" in url:
 
-                stream = normalize_stream(url)
+                if url not in streams:
+
+                    streams.append(url)
+
+                    print("🔎 gevonden:", url)
 
         page.on("response", handle_response)
 
@@ -66,7 +62,7 @@ def capture_stream():
 
         browser.close()
 
-    return stream
+    return choose_best_stream(streams)
 
 
 def update_playlist(stream):
@@ -100,7 +96,6 @@ def update_playlist(stream):
 
             i += 1
 
-            # oude regels verwijderen
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
 
                 if (
@@ -133,7 +128,7 @@ def main():
 
     if stream:
 
-        print("✅ Stream gevonden:")
+        print("✅ Beste stream gekozen:")
         print(stream)
 
         update_playlist(stream)
