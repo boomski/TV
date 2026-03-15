@@ -23,10 +23,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          pip install playwright
-          playwright install chromium
+         pip install requests playwright
+         playwright install chromium
 
       - name: Run script
         run: python Update_Aftermind_stream.py
