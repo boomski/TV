@@ -77,19 +77,25 @@ def update_playlist(stream):
 
             new_lines.append(line)
 
-            # nieuw blok direct onder EXTINF
+            # nieuw blok
             new_lines.append(f"#EXTVLCOPT:http-referrer={REFERRER}")
             new_lines.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
             new_lines.append(stream)
 
             i += 1
 
-            # bestaande regels behouden behalve oude streams
+            # oude stream + headers overslaan
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
 
-                if ".m3u8" not in lines[i]:
-                    new_lines.append(lines[i])
+                if (
+                    ".m3u8" in lines[i]
+                    or "#EXTVLCOPT:http-referrer" in lines[i]
+                    or "#EXTVLCOPT:http-user-agent" in lines[i]
+                ):
+                    i += 1
+                    continue
 
+                new_lines.append(lines[i])
                 i += 1
 
             continue
