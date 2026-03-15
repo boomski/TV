@@ -7,32 +7,37 @@ PLAYLIST_FILE = "TCL.m3u"
 
 CHANNEL_NAME = "Alpha Cyprus"
 
-REFERRER = "https://alphacyprus.com.cy/"
 
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+def score_stream(url):
 
+    score = 0
 
-def choose_best(streams):
+    if "/fhd/" in url:
+        score += 100
+    elif "/hd/" in url:
+        score += 50
+    elif "/sd/" in url:
+        score += 10
 
-    priority = ["am", "eu", "us"]
+    if "am" in url:
+        score += 5
+    elif "eu" in url:
+        score += 3
+    elif "us" in url:
+        score += 1
 
-    for p in priority:
-        for s in streams:
-            if f"{p}" in s:
-                return s
-
-    return streams[0] if streams else None
+    return score
 
 
 def capture_stream():
 
-    streams = set()
+    streams = []
 
     with sync_playwright() as p:
 
         browser = p.chromium.launch(headless=True)
 
-        page = browser.new_page()
+        page = p.chromium.launch().new_page()
 
         def handle_response(response):
 
@@ -45,29 +50,29 @@ def capture_stream():
                 and "chunks.m3u8" in url
             ):
 
-                streams.add(url)
+                streams.append(url)
 
                 print("🔎 gevonden:", url)
 
         page.on("response", handle_response)
 
-        page.goto(PAGE_URL, timeout=60000)
+        page.goto(PAGE_URL)
 
         page.wait_for_timeout(10000)
 
         browser.close()
 
-    return choose_best(list(streams))
+    if not streams:
+        return None
+
+    best = max(streams, key=score_stream)
+
+    return best
 
 
 def update_playlist(stream):
 
     path = Path(PLAYLIST_FILE)
-
-    if not path.exists():
-
-        print("❌ TCL.m3u niet gevonden")
-        return
 
     lines = path.read_text(encoding="utf-8").splitlines()
 
@@ -81,27 +86,12 @@ def update_playlist(stream):
 
         if line.startswith("#EXTINF") and CHANNEL_NAME in line:
 
-            print("📺 Alpha Cyprus gevonden")
-
             new_lines.append(line)
-
-            new_lines.append(f"#EXTVLCOPT:http-referrer={REFERRER}")
-            new_lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
             new_lines.append(stream)
 
             i += 1
 
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
-
-                if (
-                    ".m3u8" in lines[i]
-                    or "#EXTVLCOPT:http-referrer" in lines[i]
-                    or "#EXTVLCOPT:http-user-agent" in lines[i]
-                ):
-                    i += 1
-                    continue
-
-                new_lines.append(lines[i])
                 i += 1
 
             continue
@@ -112,8 +102,6 @@ def update_playlist(stream):
 
     path.write_text("\n".join(new_lines), encoding="utf-8")
 
-    print("🎵 Alpha Cyprus stream geupdate")
-
 
 def main():
 
@@ -123,7 +111,7 @@ def main():
 
     if stream:
 
-        print("✅ Beste stream gekozen:")
+        print("✅ Beste stream:")
         print(stream)
 
         update_playlist(stream)
