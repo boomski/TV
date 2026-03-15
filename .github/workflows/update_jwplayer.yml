@@ -3,15 +3,12 @@ name: JWPlayer Scraper
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
-
+    - cron: "*/59 * * * *"
 jobs:
   scraper:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -20,17 +17,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install selenium requests
-          
-      - name: Install Chrome
-        uses: browser-actions/setup-chrome@v1
+          pip install selenium requests webdriver-manager
 
-      - name: Install ChromeDriver
-        uses: nanasess/setup-chromedriver@v2
-
-      - name: Run JWPlayer scraper
+      - name: Run JWPlayer Selenium scraper
         run: python Update_JWPlayer_streams.py
-
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
@@ -42,3 +32,4 @@ jobs:
 
           git pull origin master --rebase
           git push
+
