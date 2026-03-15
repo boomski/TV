@@ -1237,22 +1237,22 @@ https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
 #EXTVLCOPT:http-referrer=https://canlitv.com/brt-1?ulke=cy
-https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=e8e13cb4df3eca0300fe6e3e5b0636cc
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=60ad500c8b7a630eaba160fe03c6aff0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT2.png",🇨🇾 | BRT2
 #EXTVLCOPT:http-referrer=https://canlitv.com/brt-2?ulke=cy
-https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8?hash=e8e13cb4df3eca0300fe6e3e5b0636cc
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8?hash=60ad500c8b7a630eaba160fe03c6aff0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20tv.png",🇨🇾 | Kıbrıs Tv
 #EXTVLCOPT:http-referrer=https://canlitv.com/kibris-tv?ulke=cy
-https://play.kibristv.com/stream/hls/stream.m3u8?hash=e8e13cb4df3eca0300fe6e3e5b0636cc
+https://play.kibristv.com/stream/hls/stream.m3u8?hash=4f4e9eddc7bab899e3cccbfd853b2bc8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20Ada.png",🇨🇾 | Kıbrıs Ada Tv
 #EXTVLCOPT:http-referrer=https://canlitv.com/kibris-ada-tv?ulke=cy
 #EXTVLCOPT:http-origin=https://canlitv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-header=Accept:*/*
-https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=e8e13cb4df3eca0300fe6e3e5b0636cc
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/chunklist_w1500903392.m3u8?hash=4f4e9eddc7bab899e3cccbfd853b2bc8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20T.png",🇨🇾 | Kanal T
 #EXTVLCOPT:http-referrer=https://canlitv.com/kanal-t?ulke=cy
-https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8?hash=e8e13cb4df3eca0300fe6e3e5b0636cc
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8?hash=a31e96ad292d21c0fa30771ae4f7c6ab
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/ANT1.png",🇨🇾 | ANT1 Cyprus
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Rik%20Sat.png",🇨🇾 | RΙΚ Sat
@@ -1310,7 +1310,11 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTVLCOPT:http-referrer=https://www.sportstv.com.tr/
 https://live.sportstv.saatteknoloji.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT%20Spor.png",🇹🇷 | TRT Spor
-https://yayin2.canlitv.fun/live/trtspor.stream/chunklist_w1399773531.m3u8?hash=ccdb29cadfcbcac56140f90aa33873a9
+#EXTVLCOPT:http-referrer=https://canlitv.com/trt-spor-izle
+#EXTVLCOPT:http-origin=https://canlitv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-header=Accept:*/*
+https://yayin2.canlitv.fun/live/trtspor.stream/chunklist_w1158223558.m3u8?hash=4f4e9eddc7bab899e3cccbfd853b2bc8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT1.png",🇹🇷 | TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT2.png",🇹🇷 | TRT 2
