@@ -1516,6 +1516,8 @@ https://otv.wotom.net/alau/stream.m3u8
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kirgizi%C3%AB/Manas.jpg",🇰🇬 | Manas TV 
 http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CCTV1.png",🇨🇳 | CCTV 1
+https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CCTV4.png",🇨🇳 | CCTV 4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CGTN.svg.png",🇨🇳 | CGTN
