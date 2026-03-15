@@ -9,7 +9,7 @@ PLAYLIST_FILE = "TCL.m3u"
 
 CHANNEL_NAME = "Sat7 Pars"
 
-REFERRER = "https://sat7plus.org/live/pars"
+REFERRER = "https://sat7plus.org/"
 
 
 def extract_real_stream(url):
