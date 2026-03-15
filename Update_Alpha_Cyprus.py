@@ -1,5 +1,6 @@
+import re
+import requests
 from pathlib import Path
-from playwright.sync_api import sync_playwright
 
 PAGE_URL = "https://alphacyprus.com.cy/live"
 
@@ -7,67 +8,52 @@ PLAYLIST_FILE = "TCL.m3u"
 
 CHANNEL_NAME = "Alpha Cyprus"
 
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+}
 
 
-def capture_stream():
+def find_master_playlist():
 
-    found = []
+    print("🔎 pagina laden")
 
-    with sync_playwright() as p:
+    r = requests.get(PAGE_URL, headers=HEADERS, timeout=10)
 
-        browser = p.chromium.launch(headless=True)
+    html = r.text
 
-        context = browser.new_context(
-            user_agent=USER_AGENT,
-            viewport={"width": 1280, "height": 720}
-        )
+    matches = re.findall(
+        r"https://l4\.cloudskep\.com/alphacyp/acy/playlist\.m3u8\?wmsAuthSign=[^\"']+",
+        html
+    )
 
-        page = context.new_page()
+    if matches:
 
-        def handle_response(response):
+        print("🎯 token gevonden")
 
-            url = response.url
+        return matches[0]
 
-            if (
-                "l4.cloudskep.com" in url
-                and "playlist.m3u8" in url
-                and "wmsAuthSign=" in url
-            ):
+    return None
 
-                if url not in found:
 
-                    found.append(url)
+def stream_works(url):
 
-                    print("🔎 token gevonden:", url)
+    try:
 
-        page.on("response", handle_response)
+        r = requests.get(url, headers=HEADERS, timeout=5)
 
-        try:
+        if r.status_code == 200 and "#EXTM3U" in r.text:
 
-            page.goto(PAGE_URL, timeout=60000, wait_until="networkidle")
+            print("✅ stream werkt")
 
-            # player scripts laten laden
-            page.wait_for_timeout(8000)
+            return True
 
-        except Exception as e:
+    except:
 
-            print("⚠️ Page error:", e)
+        pass
 
-        browser.close()
+    print("❌ stream test mislukt")
 
-    if not found:
-
-        return None
-
-    print(f"📡 {len(found)} tokens gevonden")
-
-    # laatste token is meestal de juiste
-    best = found[-1]
-
-    print("🎯 gekozen token:", best)
-
-    return best
+    return False
 
 
 def update_playlist(stream):
@@ -92,14 +78,11 @@ def update_playlist(stream):
 
         if line.startswith("#EXTINF") and CHANNEL_NAME in line:
 
-            print("📺 kanaal gevonden")
-
             new_lines.append(line)
             new_lines.append(stream)
 
             i += 1
 
-            # oude regels verwijderen
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
                 i += 1
 
@@ -116,9 +99,9 @@ def update_playlist(stream):
 
 def main():
 
-    print("🚀 Alpha Cyprus robuuste scraper gestart")
+    print("🚀 Alpha Cyprus snelle scraper")
 
-    stream = capture_stream()
+    stream = find_master_playlist()
 
     if not stream:
 
@@ -126,7 +109,9 @@ def main():
 
         return
 
-    update_playlist(stream)
+    if stream_works(stream):
+
+        update_playlist(stream)
 
 
 if __name__ == "__main__":
