@@ -1257,13 +1257,13 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Kids.png",🇨🇾 | Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Pars.png",🇨🇾 | Sat7 Pars 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Pars.png",🇨🇾 | Sat 7 Pars 
 #EXTVLCOPT:http-referrer=https://sat7plus.org/
 #EXTVLCOPT:http-origin=https://sat7plus.org
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-header=Accept:*/*
 #EXTVLCOPT:http-header=Connection:keep-alive
-https://live.kwikmotion.com/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/hdntl=exp=1773640157~acl=%2fsat7parslive%2fsat7pars.smil%2f*~data=hdntl~hmac=4f0a1706a00c792bd25eaa9076a0c610dfe99e563e7b1b40650aee46ed47f4af/chunks_dvr.m3u8
+https://live.kwikmotion.com/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/hdntl=exp=1773640157~acl=%2fsat7parslive%2fsat7pars.smil%2f*~data=hdntl~hmac=4f0a1706a00c792bd25eaa9076a0c610dfe99e563e7b1b40650aee46ed47f4af/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Turk.png",🇨🇾 | Sat 7 Türk 
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sigma%20TV.png",🇨🇾 | Sigma TV 
