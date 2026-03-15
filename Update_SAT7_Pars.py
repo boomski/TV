@@ -1,3 +1,4 @@
+import re
 from pathlib import Path
 from urllib.parse import unquote, parse_qs, urlparse
 from playwright.sync_api import sync_playwright
@@ -6,7 +7,17 @@ PAGE_URL = "https://sat7plus.org/live/pars"
 
 PLAYLIST_FILE = "TCL.m3u"
 
-CHANNEL_NAME = "🇨🇾 | Sat7 Pars"
+CHANNEL_NAME = "Sat7 Pars"
+
+REFERRER = "https://sat7plus.org/"
+
+
+def normalize_stream(url):
+
+    # chunks → playlist
+    url = re.sub(r"chunks\.m3u8", "playlist_dvr.m3u8", url)
+
+    return url
 
 
 def extract_real_stream(url):
@@ -45,9 +56,9 @@ def capture_stream():
 
                 real = extract_real_stream(url)
 
-                if ".m3u8" in real and "kwikmotion" in real:
+                if ".m3u8" in real and "sat7pars" in real:
 
-                    stream = real
+                    stream = normalize_stream(real)
 
         page.on("response", handle_response)
 
@@ -90,11 +101,26 @@ def update_playlist(stream):
             print("📺 Kanaal gevonden:", line)
 
             new_lines.append(line)
+
+            # nieuw blok
+            new_lines.append(f"#EXTVLCOPT:http-referrer={REFERRER}")
+            new_lines.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
             new_lines.append(stream)
 
             i += 1
 
+            # oude stream + headers overslaan
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
+
+                if (
+                    ".m3u8" in lines[i]
+                    or "#EXTVLCOPT:http-referrer" in lines[i]
+                    or "#EXTVLCOPT:http-user-agent" in lines[i]
+                ):
+                    i += 1
+                    continue
+
+                new_lines.append(lines[i])
                 i += 1
 
             continue
