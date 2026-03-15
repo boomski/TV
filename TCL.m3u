@@ -1996,6 +1996,8 @@ https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/Channel%205.png",🇬🇧 | Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/ENT%20Channel.png",🇬🇧 | ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/GBN.jpg",🇬🇧 | GB News
 https://jmp2.uk/stvp-GBBB1600008R3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/gfnsoccer.png",🇬🇧 | GFN Soccer TV
@@ -2006,8 +2008,6 @@ https://jmp2.uk/stvp-GB2200002CC
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/WOLI.jpg",🇬🇧 | World of Love Island
 https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="",🇬🇧 | 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/World%20Billiards%20TV.jpg",🇬🇧 | World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-id="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/DAZN.png",🇨🇦 | DAZN TV
