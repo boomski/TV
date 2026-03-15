@@ -1,6 +1,3 @@
-import base64
-import datetime
-from urllib.parse import urlparse, parse_qs
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
@@ -10,119 +7,78 @@ PLAYLIST_FILE = "TCL.m3u"
 
 CHANNEL_NAME = "Alpha Cyprus"
 
-REFRESH_MARGIN_MINUTES = 5
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 
-def decode_token(url):
+def capture_stream():
 
-    try:
-
-        query = parse_qs(urlparse(url).query)
-
-        token = query.get("wmsAuthSign", [None])[0]
-
-        if not token:
-            return None
-
-        decoded = base64.b64decode(token).decode()
-
-        parts = dict(
-            item.split("=")
-            for item in decoded.split("&")
-            if "=" in item
-        )
-
-        server_time = parts.get("server_time")
-        validminutes = int(parts.get("validminutes", 0))
-
-        server_time = datetime.datetime.strptime(
-            server_time,
-            "%m/%d/%Y %I:%M:%S %p"
-        )
-
-        expiry = server_time + datetime.timedelta(minutes=validminutes)
-
-        return expiry
-
-    except Exception:
-
-        return None
-
-
-def read_current_stream():
-
-    path = Path(PLAYLIST_FILE)
-
-    if not path.exists():
-        return None
-
-    lines = path.read_text(encoding="utf-8").splitlines()
-
-    for line in lines:
-
-        if "playlist.m3u8" in line and "wmsAuthSign" in line:
-
-            return line
-
-    return None
-
-
-def token_still_valid(stream):
-
-    expiry = decode_token(stream)
-
-    if not expiry:
-        return False
-
-    now = datetime.datetime.utcnow()
-
-    remaining = (expiry - now).total_seconds() / 60
-
-    print(f"⏳ Token verloopt over {remaining:.1f} minuten")
-
-    return remaining > REFRESH_MARGIN_MINUTES
-
-
-def scrape_stream():
-
-    stream = None
+    found = []
 
     with sync_playwright() as p:
 
         browser = p.chromium.launch(headless=True)
 
-        page = browser.new_page()
+        context = browser.new_context(
+            user_agent=USER_AGENT,
+            viewport={"width": 1280, "height": 720}
+        )
+
+        page = context.new_page()
 
         def handle_response(response):
-
-            nonlocal stream
 
             url = response.url
 
             if (
                 "l4.cloudskep.com" in url
-                and "playlist.m3u8"
-                and "wmsAuthSign" in url
+                and "playlist.m3u8" in url
+                and "wmsAuthSign=" in url
             ):
 
-                print("🎯 Token gevonden")
+                if url not in found:
 
-                stream = url
+                    found.append(url)
+
+                    print("🔎 token gevonden:", url)
 
         page.on("response", handle_response)
 
-        page.goto(PAGE_URL)
+        try:
 
-        page.wait_for_timeout(8000)
+            page.goto(PAGE_URL, timeout=60000, wait_until="networkidle")
+
+            # player scripts laten laden
+            page.wait_for_timeout(8000)
+
+        except Exception as e:
+
+            print("⚠️ Page error:", e)
 
         browser.close()
 
-    return stream
+    if not found:
+
+        return None
+
+    print(f"📡 {len(found)} tokens gevonden")
+
+    # laatste token is meestal de juiste
+    best = found[-1]
+
+    print("🎯 gekozen token:", best)
+
+    return best
 
 
 def update_playlist(stream):
 
     path = Path(PLAYLIST_FILE)
+
+    if not path.exists():
+
+        print("❌ TCL.m3u niet gevonden")
+
+        return
 
     lines = path.read_text(encoding="utf-8").splitlines()
 
@@ -136,11 +92,14 @@ def update_playlist(stream):
 
         if line.startswith("#EXTINF") and CHANNEL_NAME in line:
 
+            print("📺 kanaal gevonden")
+
             new_lines.append(line)
             new_lines.append(stream)
 
             i += 1
 
+            # oude regels verwijderen
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
                 i += 1
 
@@ -152,33 +111,22 @@ def update_playlist(stream):
 
     path.write_text("\n".join(new_lines), encoding="utf-8")
 
-    print("🎵 Playlist geupdate")
+    print("🎵 playlist geupdate")
 
 
 def main():
 
-    print("🚀 Alpha Cyprus smart scraper gestart")
+    print("🚀 Alpha Cyprus robuuste scraper gestart")
 
-    current = read_current_stream()
+    stream = capture_stream()
 
-    if current and token_still_valid(current):
+    if not stream:
 
-        print("✅ Token nog geldig — geen scrape nodig")
+        print("❌ geen token gevonden")
+
         return
 
-    print("🔄 Nieuwe token ophalen...")
-
-    stream = scrape_stream()
-
-    if stream:
-
-        print("✅ Nieuwe stream gevonden")
-
-        update_playlist(stream)
-
-    else:
-
-        print("❌ Geen stream gevonden")
+    update_playlist(stream)
 
 
 if __name__ == "__main__":
