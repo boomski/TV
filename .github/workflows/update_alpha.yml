@@ -31,7 +31,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
-
+      - run: pip install playwright requests
+      - run: playwright install chromium
+      
       - name: Run scraper
         run: python Update_Alpha_Cyprus.py
 
