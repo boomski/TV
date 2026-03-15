@@ -26,7 +26,10 @@ jobs:
       - name: Install dependencies
         run: |
           pip install playwright
+          pip install requests playwright
           playwright install chromium
+       
+          
 
       - name: Run scraper
         run: python Update_JWPlayer_streams.py
