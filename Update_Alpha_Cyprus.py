@@ -6,7 +6,17 @@ PAGE_URL = "https://alphacyprus.com.cy/live"
 
 PLAYLIST_FILE = "TCL.m3u"
 
-EXTINF_LINE = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Alpha%20Cyprus.png",🇨🇾 | Alpha Cyprus'
+CHANNEL_NAME = "Alpha Cyprus"
+
+REFERRER = "https://alphacyprus.com.cy/"
+
+
+def normalize_stream(url):
+
+    # chunks → playlist
+    url = re.sub(r"chunks\.m3u8", "playlist.m3u8", url)
+
+    return url
 
 
 def capture_stream():
@@ -25,7 +35,7 @@ def capture_stream():
 
             if ".m3u8" in response.url and "alphacyp" in response.url:
 
-                stream = response.url
+                stream = normalize_stream(response.url)
 
         page.on("response", handle_response)
 
@@ -51,12 +61,13 @@ def update_playlist(stream):
     if not path.exists():
 
         print("❌ TCL.m3u niet gevonden")
-
         return
 
     lines = path.read_text(encoding="utf-8").splitlines()
 
     new_lines = []
+
+    moved_lines = []
 
     i = 0
 
@@ -64,15 +75,22 @@ def update_playlist(stream):
 
         line = lines[i]
 
-        if line == EXTINF_LINE:
+        if line.startswith("#EXTINF") and CHANNEL_NAME in line:
+
+            print("📺 Alpha Cyprus gevonden")
 
             new_lines.append(line)
 
+            new_lines.append(f"#EXTVLCOPT:http-referrer={REFERRER}")
+            new_lines.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
             new_lines.append(stream)
 
             i += 1
 
+            # alles onder EXTINF opslaan om later te verplaatsen
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
+
+                moved_lines.append(lines[i])
 
                 i += 1
 
@@ -81,6 +99,12 @@ def update_playlist(stream):
         new_lines.append(line)
 
         i += 1
+
+    # oude regels onderaan toevoegen
+    if moved_lines:
+
+        new_lines.append("")
+        new_lines.extend(moved_lines)
 
     path.write_text("\n".join(new_lines), encoding="utf-8")
 
