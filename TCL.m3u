@@ -1258,9 +1258,9 @@ https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Kids.png",🇨🇾 | Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Pars.png",🇨🇾 | Sat7 Pars 
-#EXTVLCOPT:http-referrer=https://sat7plus.org/
+#EXTVLCOPT:http-referrer=https://sat7plus.org/live/pars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://live.kwikmotion.com/sat7parslive/sat7pars.smil/playlist_dvr.m3u8?hdnts=exp=1773552387~acl=/sat7parslive/sat7pars.smil/*~hmac=32490edeedb79caf1baa436cd93416a7b2b56aa6b9036dd3c5ebe48c138f2302
+https://live.kwikmotion.com/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/hdntl=exp=1773639137~acl=/sat7parslive/sat7pars.smil/*~data=hdntl~hmac=99bb54448318ecc075c6086705a4c82ae55446b494b34dd0658eda9f82d7c1db/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Turk.png",🇨🇾 | Sat 7 Türk 
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sigma%20TV.png",🇨🇾 | Sigma TV 
