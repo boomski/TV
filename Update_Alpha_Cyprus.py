@@ -13,7 +13,6 @@ REFERRER = "https://alphacyprus.com.cy/"
 
 def normalize_stream(url):
 
-    # chunks → playlist
     url = re.sub(r"chunks\.m3u8", "playlist.m3u8", url)
 
     return url
@@ -42,7 +41,6 @@ def capture_stream():
         try:
 
             page.goto(PAGE_URL, timeout=60000)
-
             page.wait_for_timeout(10000)
 
         except Exception as e:
@@ -67,8 +65,6 @@ def update_playlist(stream):
 
     new_lines = []
 
-    moved_lines = []
-
     i = 0
 
     while i < len(lines):
@@ -81,16 +77,18 @@ def update_playlist(stream):
 
             new_lines.append(line)
 
+            # nieuw blok direct onder EXTINF
             new_lines.append(f"#EXTVLCOPT:http-referrer={REFERRER}")
             new_lines.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
             new_lines.append(stream)
 
             i += 1
 
-            # alles onder EXTINF opslaan om later te verplaatsen
+            # bestaande regels behouden behalve oude streams
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
 
-                moved_lines.append(lines[i])
+                if ".m3u8" not in lines[i]:
+                    new_lines.append(lines[i])
 
                 i += 1
 
@@ -99,12 +97,6 @@ def update_playlist(stream):
         new_lines.append(line)
 
         i += 1
-
-    # oude regels onderaan toevoegen
-    if moved_lines:
-
-        new_lines.append("")
-        new_lines.extend(moved_lines)
 
     path.write_text("\n".join(new_lines), encoding="utf-8")
 
