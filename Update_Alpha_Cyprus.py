@@ -12,23 +12,21 @@ REFERRER = "https://alphacyprus.com.cy/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 
 
-def choose_best_stream(streams):
+def choose_best(streams):
 
-    if not streams:
-        return None
+    priority = ["am", "eu", "us"]
 
-    # node voorkeur
-    for node in ["am", "eu", "us"]:
+    for p in priority:
         for s in streams:
-            if f"{node}" in s:
+            if f"{p}" in s:
                 return s
 
-    return streams[0]
+    return streams[0] if streams else None
 
 
 def capture_stream():
 
-    streams = []
+    streams = set()
 
     with sync_playwright() as p:
 
@@ -40,29 +38,26 @@ def capture_stream():
 
             url = response.url
 
-            if ".m3u8" in url and "alphacyp" in url:
+            if (
+                ".m3u8" in url
+                and "cloudskep.com" in url
+                and "alphacyp" in url
+                and "chunks.m3u8" in url
+            ):
 
-                if url not in streams:
+                streams.add(url)
 
-                    streams.append(url)
-
-                    print("🔎 gevonden:", url)
+                print("🔎 gevonden:", url)
 
         page.on("response", handle_response)
 
-        try:
+        page.goto(PAGE_URL, timeout=60000)
 
-            page.goto(PAGE_URL, timeout=60000)
-
-            page.wait_for_timeout(12000)
-
-        except Exception as e:
-
-            print("⚠️ Page error:", e)
+        page.wait_for_timeout(10000)
 
         browser.close()
 
-    return choose_best_stream(streams)
+    return choose_best(list(streams))
 
 
 def update_playlist(stream):
