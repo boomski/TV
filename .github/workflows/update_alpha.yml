@@ -4,7 +4,7 @@ on:
 
   schedule:
     # elke 30 minuten
-    - cron: "*/30 * * * *"
+    - cron: "*/25 * * * *"
 
   workflow_dispatch:
 
