@@ -20,7 +20,11 @@ def normalize_stream(url):
 
     base = parsed.scheme + "://" + parsed.netloc + parsed.path
 
-    base = base.replace("chunks.m3u8", "playlist.m3u8")
+    # chunks → playlist
+    base = re.sub(r"chunks\.m3u8", "playlist.m3u8", base)
+
+    # quality playlist → master playlist
+    base = re.sub(r"/l\d+/hd/playlist\.m3u8", "/playlist.m3u8", base)
 
     if parsed.query:
         return base + "?" + parsed.query
@@ -53,6 +57,7 @@ def capture_stream():
         try:
 
             page.goto(PAGE_URL, timeout=60000)
+
             page.wait_for_timeout(12000)
 
         except Exception as e:
@@ -67,6 +72,11 @@ def capture_stream():
 def update_playlist(stream):
 
     path = Path(PLAYLIST_FILE)
+
+    if not path.exists():
+
+        print("❌ TCL.m3u niet gevonden")
+        return
 
     lines = path.read_text(encoding="utf-8").splitlines()
 
@@ -90,6 +100,7 @@ def update_playlist(stream):
 
             i += 1
 
+            # oude regels verwijderen
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
 
                 if (
