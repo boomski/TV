@@ -9,15 +9,7 @@ PLAYLIST_FILE = "TCL.m3u"
 
 CHANNEL_NAME = "Sat7 Pars"
 
-REFERRER = "https://sat7plus.org/"
-
-
-def normalize_stream(url):
-
-    # chunks → playlist
-    url = re.sub(r"chunks\.m3u8", "playlist_dvr.m3u8", url)
-
-    return url
+REFERRER = "https://sat7plus.org/live/pars"
 
 
 def extract_real_stream(url):
@@ -32,6 +24,21 @@ def extract_real_stream(url):
             decoded = unquote(qs["resource"][0])
 
             return decoded
+
+    return url
+
+
+def normalize_stream(url):
+
+    # fallback convert
+    if "playlist_dvr.m3u8" in url:
+        return url
+
+    if "chunks_dvr.m3u8" in url:
+        return url
+
+    if "chunks.m3u8" in url:
+        return url.replace("chunks.m3u8", "chunks_dvr.m3u8")
 
     return url
 
@@ -102,14 +109,12 @@ def update_playlist(stream):
 
             new_lines.append(line)
 
-            # nieuw blok
             new_lines.append(f"#EXTVLCOPT:http-referrer={REFERRER}")
             new_lines.append("#EXTVLCOPT:http-user-agent=Mozilla/5.0")
             new_lines.append(stream)
 
             i += 1
 
-            # oude stream + headers overslaan
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
 
                 if (
