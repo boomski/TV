@@ -2,57 +2,35 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright
 
 PAGE_URL = "https://alphacyprus.com.cy/live"
-
 PLAYLIST_FILE = "TCL.m3u"
-
 CHANNEL_NAME = "Alpha Cyprus"
-
-
-def score_stream(url):
-
-    score = 0
-
-    if "/fhd/" in url:
-        score += 100
-    elif "/hd/" in url:
-        score += 50
-    elif "/sd/" in url:
-        score += 10
-
-    if "am" in url:
-        score += 5
-    elif "eu" in url:
-        score += 3
-    elif "us" in url:
-        score += 1
-
-    return score
 
 
 def capture_stream():
 
-    streams = []
+    stream = None
 
     with sync_playwright() as p:
 
         browser = p.chromium.launch(headless=True)
-
-        page = p.chromium.launch().new_page()
+        page = browser.new_page()
 
         def handle_response(response):
+
+            nonlocal stream
 
             url = response.url
 
             if (
-                ".m3u8" in url
+                "playlist.m3u8" in url
                 and "cloudskep.com" in url
                 and "alphacyp" in url
-                and "chunks.m3u8" in url
+                and "wmsAuthSign" in url
             ):
 
-                streams.append(url)
+                print("🎯 master gevonden:", url)
 
-                print("🔎 gevonden:", url)
+                stream = url
 
         page.on("response", handle_response)
 
@@ -62,12 +40,7 @@ def capture_stream():
 
         browser.close()
 
-    if not streams:
-        return None
-
-    best = max(streams, key=score_stream)
-
-    return best
+    return stream
 
 
 def update_playlist(stream):
@@ -97,7 +70,6 @@ def update_playlist(stream):
             continue
 
         new_lines.append(line)
-
         i += 1
 
     path.write_text("\n".join(new_lines), encoding="utf-8")
@@ -105,20 +77,20 @@ def update_playlist(stream):
 
 def main():
 
-    print("🚀 Alpha Cyprus scraper gestart")
+    print("🚀 Alpha Cyprus master scraper gestart")
 
     stream = capture_stream()
 
     if stream:
 
-        print("✅ Beste stream:")
+        print("✅ Master playlist gevonden:")
         print(stream)
 
         update_playlist(stream)
 
     else:
 
-        print("❌ Geen stream gevonden")
+        print("❌ Geen master playlist gevonden")
 
 
 if __name__ == "__main__":
