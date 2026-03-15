@@ -3,7 +3,7 @@ name: Update Alpha Cyprus Stream
 on:
 
   schedule:
-    # elke 30 minuten
+    # elke 25 minuten
     - cron: "*/25 * * * *"
 
   workflow_dispatch:
