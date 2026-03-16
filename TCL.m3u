@@ -598,6 +598,8 @@ https://streaming.28kanala.eus/hls/z.m3u8
 http://45.95.78.232:8001/udp/239.106.90.6:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%20Sur.png",🇪🇸 | Canal Sur 
 http://45.95.78.232:8001/udp/239.106.90.2:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%20Sur%202.png",🇪🇸 | Canal Sur 2 Andalucia
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/CMM.jpg",🇪🇸 | CMM TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Tenerife%2B.jpg",🇪🇸 | Tenerife Plus+ TV
