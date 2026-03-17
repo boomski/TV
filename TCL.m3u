@@ -43,19 +43,19 @@ https://live-streaming.dpgmedia.net/hln-live-srt-mdai62ncqonw1qi0ec81tgeti80mtf/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Bruzz.png",🇧🇪 | Bruzz
 #EXTHTTP:{"referrer":"https://player.cdn01.rambla.be","user-agent":"Mozilla/5.0"}
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/La%20Une.jpg",🇧🇪 |  RTBF La Une
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/La%20Une.png",🇧🇪 |  RTBF La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Tipik.jpg",🇧🇪 |  RTBF Tipik
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Tipik.png",🇧🇪 |  RTBF Tipik
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368565&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTBF_La_Trois.png",🇧🇪 |  RTBF La Trois
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420251&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/rtltvi.jpg",🇧🇪 | RTL TVI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/rtltvi.png",🇧🇪 | RTL TVI
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368569&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTL%20club.png",🇧🇪 | RTL Club
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420252&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/rtl-plug.png",🇧🇪 | RTL Plug
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420253&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/AB1.jpg",🇧🇪 | AB1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/AB1.png",🇧🇪 | AB1
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368575&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/AB3.png",🇧🇪 | AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
@@ -96,11 +96,11 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcearthbenelux-dash-nlziet/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Lifestyle.png",🇧🇪  | BBC Lifestyle
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbclifestylebenelux-dash-nlziet/stream.mpd 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Eastenders.jpg",🇧🇪  | BBC Eastenders
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Eastenders.png",🇧🇪  | BBC Eastenders
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbceastendersbenelux-dash-nlziet/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20First.png",🇧🇪  | BBC Series
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcdramabenelux-dash-nlziet/stream.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Top%20Gear.jpg",🇧🇪  | BBC Top Gear
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Top%20Gear.png",🇧🇪  | BBC Top Gear
 https://amg00793-amg00793c16-nlziet-nl-8602.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearbenelux-nlzietnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO1.png",🇳🇱 | NPO1
 https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
