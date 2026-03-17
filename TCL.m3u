@@ -1369,6 +1369,28 @@ https://live.mnet.mk/hls/mnet.m3u8
 https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/M-Net%20Kids.png",🇲🇰 | M-Net Kids
 https://live.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Na%C5%A1a%20TV.png",🇲🇰 | Naša TV 
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Cool%20TV.png",🇲🇰 | Cool TV 
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Jazz%20TV.png",🇲🇰 | Jazz TV 
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Folk%20TV.png",🇲🇰 | Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Love%20TV.png",🇲🇰 | Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Rock%20TV.png",🇲🇰 | Rock TV 
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/TV%20Zdravkin.png",🇲🇰 | TV Zdravkin
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/TV%20NOVA%2012.png",🇲🇰 | TV NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/TopEstrada%20TV.png",🇲🇰 | TopEstrada TV
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Sky%20Folk%20TV.png",🇲🇰 | Sky Folk TV
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Folk%20Club%20TV.png",🇲🇰 | Folk Klub 
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
