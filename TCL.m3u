@@ -1349,8 +1349,26 @@ https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
 http://cmskos.bekaks.net:777/live/valard_klient2/PhcWLtKTuc/222.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Sloveni%C3%AB/TV%20Veseljak%20Golica%20HD.png",🇸🇮 | TV Veseljak Golica HD
 https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/HRT1-logo.png",🇭🇷 | HRT 1 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/HRT2-logo.png",🇭🇷 | HRT 2 HD 
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/HRT3-logo.png",🇭🇷 | HRT 3 HD 
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/HRT4-logo.png",🇭🇷 | HRT 4 HD 
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/CMC.png",🇭🇷 | CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/Klape%20i%20Tambure%20TV.png",🇭🇷 | Klape i Tambure TV 
+https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/Nova.png",🇭🇷 | Nova
 https://str.gledamsport.com/proxy.php?c=nova&type=playlist&path=mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/Extra%20TV.png",🇭🇷 | Extra TV
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/Libertas%20TV.png",🇭🇷 | Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/STV.png",🇭🇷 | STV 
+http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/1Prva.png",🇷🇸 | 1Prva
 http://51.83.135.95/Prva/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/rts-sat.png",🇷🇸 | PTC CBET
