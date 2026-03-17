@@ -1359,6 +1359,16 @@ https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/RTSH%20Sport.png",🇦🇱 | RTSH Sport
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/M-Net%20Sport.png",🇲🇰 | M-Net Sport
+https://live.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/M-Net%20HD.png",🇲🇰 | M-Net HD
+https://live.mnet.mk/hls/mnet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/M-Net%20Info.png",🇲🇰 | M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/M-Net%20Kids.png",🇲🇰 | M-Net Kids
+https://live.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR International
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
 #EXTVLCOPT:http-referrer=https://canlitv.com/brt-1?ulke=cy
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=f8fffe2c168221cca996a0c03dd11b0e
@@ -1405,8 +1415,6 @@ https://yayin1.canlitv.fun/canlitv/tv2020.stream/playlist.m3u8?hash=ccdb29cadfcb
 https://yayin1.canlitv.fun/canlitv/torbatv.stream/playlist.m3u8?hash=ccdb29cadfcbcac56140f90aa33873a9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Okku%20TV.png",🇨🇾 | Okku TV
 https://yayin1.canlitv.fun/canlitv/okkutv.stream/playlist.m3u8?hash=ccdb29cadfcbcac56140f90aa33873a9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR International
-https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport
 #EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/alfa_sports.html
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
