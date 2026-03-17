@@ -1373,6 +1373,28 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/RTBanovina.png",🇭🇷 | Radio Televizija Banovina
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Federalna%20televizija.png",🇧🇦 | Federalna televizija
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat.png",🇧🇦 | Hayat
+http://158.180.39.89:5033/hayat.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat%20Plus.png",🇧🇦 | Hayat Plus
+http://158.180.39.89:5033/hayatplus.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat%20Music.png",🇧🇦 | Hayat Music
+http://158.180.39.89:5033/music.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat%20Folk.png",🇧🇦 | Hayat Folk
+http://158.180.39.89:5033/folk.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayatovci.png",🇧🇦 | Hayatovci
+http://158.180.39.89:5033/hayatovci.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Televizija%205.png",🇧🇦 | Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Televizija%20M.png",🇧🇦 | Televizija M 
+https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Radiotelevizija%20Herceg-Bosne.png",🇧🇦 | RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/RTV%20Zenica.png",🇧🇦 | RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/RTRS%20TV.png",🇧🇦 | RTRS TV
+https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/1Prva.png",🇷🇸 | 1Prva
 http://51.83.135.95/Prva/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/rts-sat.png",🇷🇸 | PTC CBET
