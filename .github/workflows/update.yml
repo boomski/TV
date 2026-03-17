@@ -1,8 +1,8 @@
-name: Update ALL Streams (Unified)
+name: Update ALL Streams (Stable)
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # elke 30 min (mag je aanpassen)
+    - cron: "*/30 * * * *"   # elke 30 min
   workflow_dispatch:
 
 jobs:
@@ -14,24 +14,25 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # 2️⃣ Setup Python
+      # 2️⃣ Python setup
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 3️⃣ Install ALLES in 1 keer (sneller)
+      # 3️⃣ Install dependencies (alles in 1x = sneller)
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install yt-dlp playwright requests selenium webdriver-manager
           playwright install chromium
 
-      # 4️⃣ Maak scripts executable
+      # 4️⃣ Maak scripts uitvoerbaar
       - name: Make scripts executable
-        run: chmod +x ./scrape.sh || true
+        run: |
+          chmod +x ./scrape.sh || true
 
-      # 5️⃣ Run ALLE scrapers (sequentieel = geen conflicts)
+      # 5️⃣ Run ALLE scrapers (no fail = pipeline blijft draaien)
       - name: Run TCL scrape.sh
         run: ./scrape.sh || true
 
@@ -44,18 +45,33 @@ jobs:
       - name: Run VPI
         run: python Update_VPI_stream.py || true
 
-      # 6️⃣ Commit 1x (BELANGRIJK)
+      # 6️⃣ Commit & Push (ULTRA STABIEL)
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          git add TCL.m3u
+          # alles toevoegen (belangrijk!)
+          git add -A
 
-          if git diff --cached --quiet; then
-            echo "✅ Geen wijzigingen"
-          else
-            git commit -m "📡 All streams updated"
+          # commit alleen als nodig
+          git diff --cached --quiet || git commit -m "📡 All streams updated"
+
+          # 🔥 FIX: maak working tree clean
+          git reset --hard
+
+          # 🔁 retry push (tegen race conditions)
+          for i in 1 2 3 4 5
+          do
+            echo "🔄 Sync poging $i"
+
             git pull origin master --rebase
-            git push
-          fi
+
+            if git push origin master; then
+              echo "✅ Push gelukt"
+              break
+            fi
+
+            echo "⚠️ Push conflict, retry..."
+            sleep 3
+          done
