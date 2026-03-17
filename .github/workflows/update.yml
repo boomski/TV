@@ -1,0 +1,61 @@
+name: Update ALL Streams (Unified)
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # elke 30 min (mag je aanpassen)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2️⃣ Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3️⃣ Install ALLES in 1 keer (sneller)
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install yt-dlp playwright requests selenium webdriver-manager
+          playwright install chromium
+
+      # 4️⃣ Maak scripts executable
+      - name: Make scripts executable
+        run: chmod +x ./scrape.sh || true
+
+      # 5️⃣ Run ALLE scrapers (sequentieel = geen conflicts)
+      - name: Run TCL scrape.sh
+        run: ./scrape.sh || true
+
+      - name: Run Aftermind
+        run: python Update_Aftermind_stream.py || true
+
+      - name: Run JWPlayer
+        run: python Update_JWPlayer_streams.py || true
+
+      - name: Run VPI
+        run: python Update_VPI_stream.py || true
+
+      # 6️⃣ Commit 1x (BELANGRIJK)
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add TCL.m3u
+
+          if git diff --cached --quiet; then
+            echo "✅ Geen wijzigingen"
+          else
+            git commit -m "📡 All streams updated"
+            git pull origin master --rebase
+            git push
+          fi
