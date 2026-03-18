@@ -49,7 +49,7 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368565&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTBF_La_Trois.png",🇧🇪 |  RTBF La Trois
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420251&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/rtltvi.png",🇧🇪 | RTL TVI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTL%20TVI.png",🇧🇪 | RTL TVI
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368569&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTL%20club.png",🇧🇪 | RTL Club
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420252&extension=ts
@@ -110,7 +110,7 @@ https://rbtvlive.cdn.tele2portal.com/live/NPO2/NPO2.isml/.m3u8
 https://rbtvlive.cdn.tele2portal.com/live/NPO3/NPO3.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/BVN.png",🇳🇱 | BVN
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/refs/heads/main/Nederland/SBS6%20Classics.png",🇳🇱 | SBS 6 Classics
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/SBS6%20Classics.png",🇳🇱 | SBS 6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/Omroep%20Brabant.png",🇳🇱 | Omroep Brabant 
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
@@ -1122,13 +1122,17 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc008/history
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Polsat%20News2.png",🇵🇱 | Polsat News 2
 https://lb2-e1-91.pluscdn.pl/lv/1533809/392/hls/4cca941c/masterlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/DocuBox.png",🇵🇱 | DocuBox
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc110/docuboxhdraw/docuboxhdraw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/FashionBox.png",🇵🇱 | FashionBox
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/278259/enc123/fashionboxhdraw/fashionboxhdraw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Mango.png",🇵🇱 | Mango
 https://cdn-s-lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/NewTV.png",🇵🇱 | NewTV 
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TV_Trwam.png",🇵🇱 |TV Trwam 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TV_Trwam.png",🇵🇱 | TV Trwam 
 https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Super%20Express%20TV.jpeg",🇵🇱 | Super Express TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Super%20Express%20TV.png",🇵🇱 | Super Express TV
 https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TV%20ASTA.png",🇵🇱 | TV ASTA
 https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
