@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",🔞 | 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tv.cctv.com/
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv9_1_720P/playlist.m3u8?wsApp=HLS 
 
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.qa@SD",Libya Al Ahrar TV (1080p)
 #EXTVLCOPT:http-referrer=https://player.castr.com
