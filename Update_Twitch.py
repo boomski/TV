@@ -3,7 +3,7 @@ import subprocess
 PLAYLIST = "TCL.m3u"
 CHANNEL_FILE = "twitch_Kanalenlijst.txt"
 
-FALLBACK = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
 
 def read_channels():
