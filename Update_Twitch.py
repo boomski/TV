@@ -15,9 +15,9 @@ def read_channels():
             if not line or "|" not in line:
                 continue
 
-            parts = line.split("|")
-            extinf = "|".join(parts[:-1]).strip()
-            url = parts[-1].strip()
+            extinf, url = line.rsplit("|", 1)
+            extinf = extinf.strip()
+            url = url.strip()
 
             channels.append({
                 "extinf": extinf,
