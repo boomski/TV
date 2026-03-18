@@ -36,6 +36,10 @@ jobs:
       - name: Run TCL scrape.sh
         run: ./scrape.sh || true
 
+        # 🔥 NIEUW (Twitch)
+      - name: Run Twitch
+        run: python Update_Twitch.py || true
+
       - name: Run Aftermind
         run: python Update_Aftermind_stream.py || true
 
