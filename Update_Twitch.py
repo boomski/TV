@@ -1,12 +1,30 @@
 import subprocess
 
 PLAYLIST = "TCL.m3u"
-
-CHANNELS = {
-    '#EXTINF:-1 tvg-logo="logo.png",🇺🇸 | ABC News Live': "https://www.twitch.tv/abcnewsal",
-}
+CHANNEL_FILE = "twitch_Kanalenlijst.txt"
 
 FALLBACK = "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+
+
+def read_channels():
+    channels = []
+
+    with open(CHANNEL_FILE, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or "|" not in line:
+                continue
+
+            parts = line.split("|")
+            extinf = "|".join(parts[:-1]).strip()
+            url = parts[-1].strip()
+
+            channels.append({
+                "extinf": extinf,
+                "url": url
+            })
+
+    return channels
 
 
 def get_best_stream(url):
@@ -20,7 +38,6 @@ def get_best_stream(url):
 
         streams = result.stdout.strip().split("\n")
 
-        # meestal eerste = beste kwaliteit
         for s in streams:
             if ".m3u8" in s:
                 return s
@@ -31,7 +48,7 @@ def get_best_stream(url):
     return FALLBACK
 
 
-def update_playlist():
+def update_playlist(channels):
     with open(PLAYLIST, "r", encoding="utf-8") as f:
         lines = f.read().splitlines()
 
@@ -42,16 +59,17 @@ def update_playlist():
         line = lines[i]
         new_lines.append(line)
 
-        if line in CHANNELS:
-            url = CHANNELS[line]
+        # check of dit een twitch kanaal is
+        ch = next((c for c in channels if c["extinf"] == line), None)
 
-            print(f"🔎 Scrapen: {url}")
+        if ch:
+            print(f"\n🔎 Scrapen: {ch['url']}")
 
-            stream = get_best_stream(url)
+            stream = get_best_stream(ch["url"])
 
-            print(f"✅ Beste stream gevonden")
+            print(f"✅ Stream gevonden")
 
-            # skip oude regels (url + headers)
+            # skip oude regels
             i += 1
             while i < len(lines) and not lines[i].startswith("#EXTINF"):
                 i += 1
@@ -62,11 +80,33 @@ def update_playlist():
 
         i += 1
 
+    # ontbrekende kanalen toevoegen
+    existing = [l for l in new_lines if l.startswith("#EXTINF")]
+
+    for ch in channels:
+        if ch["extinf"] not in existing:
+            print(f"➕ Toevoegen: {ch['extinf']}")
+
+            stream = get_best_stream(ch["url"])
+
+            new_lines.append("")
+            new_lines.append(ch["extinf"])
+            new_lines.append(stream)
+
     with open(PLAYLIST, "w", encoding="utf-8") as f:
         f.write("\n".join(new_lines))
 
-    print("🎵 Playlist geüpdatet met beste kwaliteit")
+    print("\n🎵 Playlist volledig geüpdatet")
+
+
+def main():
+    print("🚀 Twitch multi scraper gestart")
+
+    channels = read_channels()
+    print(f"📺 Kanalen: {len(channels)}")
+
+    update_playlist(channels)
 
 
 if __name__ == "__main__":
-    update_playlist()
+    main()
