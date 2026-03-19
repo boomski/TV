@@ -1,16 +1,7 @@
 from playwright.sync_api import sync_playwright
-import requests
 
 M3U_FILE = "TCL.m3u"
 TARGET_NAME = "🇲🇩 | TV8"
-
-
-def is_valid(url):
-    try:
-        r = requests.get(url, timeout=5)
-        return "#EXTM3U" in r.text
-    except:
-        return False
 
 
 def get_stream():
@@ -20,27 +11,11 @@ def get_stream():
         context = browser.new_context(
             extra_http_headers={
                 "Referer": "https://tv8.md/live",
-                "User-Agent": "Mozilla/5.0"
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
             }
         )
 
         page = context.new_page()
-
-        candidates = []
-
-        def handle_response(response):
-            url = response.url
-
-            if (
-                response.status == 200
-                and "cdn.tv8.md" in url
-                and "index.m3u8" in url
-                and "token=" in url
-            ):
-                print("🎯 kandidaat:", url)
-                candidates.append(url)
-
-        page.on("response", handle_response)
 
         print("⏳ Open TV8...")
         page.goto("https://tv8.md/live", wait_until="domcontentloaded")
@@ -48,35 +23,34 @@ def get_stream():
         # kleine delay voor stabiliteit
         page.wait_for_timeout(3000)
 
-        # ▶️ forceer playback (BELANGRIJK)
+        # ▶️ probeer playback te starten
         try:
             page.click("video", timeout=5000)
             print("▶️ Play geklikt")
         except:
             print("⚠️ Geen klik nodig")
 
-        # ⏱️ wachten op echte stream
-        page.wait_for_timeout(15000)
+        try:
+            # 🔥 RESOLVER: wacht op echte stream request
+            response = page.wait_for_response(
+                lambda r: (
+                    r.status == 200
+                    and "cdn.tv8.md" in r.url
+                    and "index.m3u8" in r.url
+                    and "token=" in r.url
+                ),
+                timeout=20000
+            )
+
+            stream_url = response.url
+            print("✅ RESOLVED STREAM:", stream_url)
+
+        except:
+            print("❌ Geen stream gevonden (timeout)")
+            stream_url = None
 
         browser.close()
-
-        if not candidates:
-            return None
-
-        # 🔥 neem laatste (actieve)
-        print("\n📋 Alle kandidaten:")
-        for c in candidates:
-            print(c)
-
-        # probeer van achter naar voor (beste eerst)
-        for url in reversed(candidates):
-            print("🔎 testen:", url)
-            if is_valid(url):
-                print("✅ Geldige stream gevonden!")
-                return url
-
-        print("❌ Geen geldige stream gevonden")
-        return None
+        return stream_url
 
 
 def update_m3u(new_url):
@@ -88,8 +62,9 @@ def update_m3u(new_url):
     for i in range(len(lines)):
         line = lines[i].strip()
 
+        # 🎯 exact match op jouw kanaal
         if line.startswith("#EXTINF") and line.endswith("," + TARGET_NAME):
-            print("🎯 Match:", line)
+            print("🎯 Match gevonden:", line)
 
             if i + 1 < len(lines):
                 lines[i + 1] = new_url.strip() + "\n"
@@ -108,7 +83,7 @@ if __name__ == "__main__":
     url = get_stream()
 
     if not url:
-        print("❌ Geen TV8 stream gevonden")
+        print("❌ Geen geldige TV8 stream")
     else:
-        print("\n🚀 FINAL:", url)
+        print("🚀 FINAL URL:", url)
         update_m3u(url)
