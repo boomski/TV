@@ -2403,6 +2403,10 @@ https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-k
 https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WPT-logo-2022.jpg",🇺🇸 | World Poker Tour
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Showtime.png",🇺🇸 | Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Starz.png",🇺🇸 | Starz 
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Rakuten%20Viki.png",🇺🇸 | Rakuten Viki
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Newsmax_logo.svg.png",🇺🇸 | Newsmax TV
