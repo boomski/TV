@@ -14,7 +14,7 @@ def get_stream():
         def handle_response(response):
             nonlocal stream_url
             url = response.url
-            if ".m3u8" in url and "tv8" in url:
+            if "tv8.md" in url and "index.m3u8" in url:
                 stream_url = url
 
         page.on("response", handle_response)
