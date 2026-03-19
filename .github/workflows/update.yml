@@ -49,9 +49,6 @@ jobs:
       - name: Run VPI
         run: python Update_VPI_stream.py || true
 
-      - name: Run TV8
-        run: python Update_TV8_stream.py || true
-
       # 6️⃣ Commit & Push (ULTRA STABIEL)
       - name: Commit & Push
         run: |
