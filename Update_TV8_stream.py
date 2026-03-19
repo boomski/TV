@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 import re
 
 M3U_FILE = "TCL.m3u"
-TARGET_NAME = "TV8"
+TARGET_NAME = "#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/TV8.png",🇲🇩 | TV8"
 
 def get_stream():
     with sync_playwright() as p:
