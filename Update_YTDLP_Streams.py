@@ -4,7 +4,7 @@ import json
 M3U_FILE = "TCL.m3u"
 INPUT_FILE = "yt-dlp_kanaallijst.txt"
 
-USER_AGENT_LINE = "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
+USER_AGENT_LINE = "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
 
 
 def get_stream(page_url):
