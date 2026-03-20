@@ -43,11 +43,12 @@ jobs:
       - name: Run all scrapers
         run: |
           python Update_ytdlp.py || true &
-          python Update_Twitch.py || true &
           python Update_Aftermind_stream.py || true &
           python Update_JWPlayer_streams.py || true &
           python Update_VPI_stream.py || true &
+          python Update_Twitch.py || true &
           ./scrape.sh || true &
+          
           wait
 
       # 7️⃣ Commit & Push veilig
