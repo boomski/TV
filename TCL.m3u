@@ -2200,7 +2200,8 @@ http://5.253.46.190:8000/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Athaqafia.jpg",🇲🇦 | Athaqafia
 http://5.253.46.190:8000/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Al%20Maghribia%20HD.png",🇲🇦 | Al Maghribia HD 
-http://5.253.46.190:8000/play/a0af/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTREM http://5.253.46.190:8000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Assadissa.png",🇲🇦 | Assadissa HD
 http://5.253.46.190:8000/play/a0ag/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Tamazight%20TV%20HD.png",🇲🇦 | Tamazight TV HD
