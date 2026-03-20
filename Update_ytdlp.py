@@ -46,27 +46,43 @@ def get_stream(page_url):
 
 
 def update_channel(lines, name, new_url):
-    for i in range(len(lines)):
+    """
+    Vervang de oude stream URL volledig, voeg EXTVLCOPT toe als die ontbreekt,
+    en zorg dat er nooit dubbele URL-regels ontstaan.
+    """
+    i = 0
+    while i < len(lines):
         line = lines[i].strip()
 
         if line.startswith("#EXTINF") and name in line:
             print(f"🎯 Match gevonden voor: {name}")
 
-            # ✅ Case 1: EXTVLCOPT bestaat al
-            if i + 1 < len(lines) and "#EXTVLCOPT:http-user-agent" in lines[i + 1]:
+            # check of de volgende regel user-agent is
+            next_is_ua = (i + 1 < len(lines) and "#EXTVLCOPT:http-user-agent" in lines[i + 1])
+            next_is_url = (i + 1 < len(lines) and lines[i + 1].strip().startswith("http"))
+
+            if next_is_ua:
+                # update URL altijd op regel i+2
                 if i + 2 < len(lines):
-                    print("🔁 Oude URL:", lines[i + 2].strip())
                     lines[i + 2] = new_url + "\n"
-                    print("✅ Nieuwe URL:", new_url)
-                    return True
-
-            # 🔥 Case 2: EXTVLCOPT ontbreekt → toevoegen
+                    print("🔁 Oude URL vervangen met:", new_url)
+                else:
+                    # URL ontbreekt → toevoegen
+                    lines.insert(i + 2, new_url + "\n")
+                    print("⚠️ URL ontbrak, toegevoegd:", new_url)
             else:
-                print("⚠️ User-Agent ontbreekt → toevoegen")
+                # EXTVLCOPT ontbreekt → toevoegen + URL
+                if next_is_url:
+                    lines[i + 1] = USER_AGENT_LINE + "\n"
+                    lines.insert(i + 2, new_url + "\n")
+                    print("⚠️ User-Agent toegevoegd en URL vervangen:", new_url)
+                else:
+                    lines.insert(i + 1, USER_AGENT_LINE + "\n")
+                    lines.insert(i + 2, new_url + "\n")
+                    print("⚠️ User-Agent en URL toegevoegd:", new_url)
+            return True
 
-                lines.insert(i + 1, USER_AGENT_LINE + "\n")
-                lines.insert(i + 2, new_url + "\n")
-                return True
+        i += 1
 
     print(f"❌ Geen match in M3U voor: {name}")
     return False
