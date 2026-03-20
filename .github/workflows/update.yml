@@ -37,7 +37,7 @@ jobs:
         run: ./scrape.sh || true
 
       - name: Run YTDLP Streams
-        run: python Update_YTDLP_streams.py || true
+        run: python ./Update_YTDLP_streams.py || true
 
       - name: Run Twitch
         run: python Update_Twitch.py || true
