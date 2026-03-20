@@ -39,7 +39,7 @@ jobs:
       - name: Make scripts executable
         run: chmod +x ./scrape.sh || true
 
-      # 6️⃣ Run scrapers parallel (pipeline faalt niet bij error)
+      # 6️⃣ Run all scrapers parallel
       - name: Run all scrapers
         run: |
           python Update_YTDLP_streams.py || true &
@@ -47,6 +47,7 @@ jobs:
           python Update_Aftermind_stream.py || true &
           python Update_JWPlayer_streams.py || true &
           python Update_VPI_stream.py || true &
+          ./scrape.sh || true &
           wait
 
       # 7️⃣ Commit & Push veilig
