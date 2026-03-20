@@ -2,7 +2,7 @@ name: Update ALL Streams (Stable)
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # elke 30 min
+    - cron: "*/30 * * * *"   # elke 30 minuten
   workflow_dispatch:
 
 jobs:
@@ -14,59 +14,55 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # 2️⃣ Python setup
+      # 2️⃣ Debug: check bestanden in de root
+      - name: Debug files in repo
+        run: |
+          echo "📍 Current directory:"
+          pwd
+          echo "📂 Files in repo root:"
+          ls -la
+
+      # 3️⃣ Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 3️⃣ Install dependencies
+      # 4️⃣ Install dependencies
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install yt-dlp playwright requests selenium webdriver-manager
           playwright install --with-deps chromium
 
-      # 4️⃣ Maak bash scripts uitvoerbaar (Python scripts hoeven dat niet)
+      # 5️⃣ Maak bash scripts uitvoerbaar
       - name: Make scripts executable
         run: chmod +x ./scrape.sh || true
 
-      # 5️⃣ Run ALLE scrapers (pipeline blijft doorlopen als 1 faalt)
-      - name: Run TCL scrape.sh
-        run: ./scrape.sh || true
+      # 6️⃣ Run scrapers parallel (pipeline faalt niet bij error)
+      - name: Run all scrapers
+        run: |
+          python Update_YTDLP_streams.py || true &
+          python Update_Twitch.py || true &
+          python Update_Aftermind_stream.py || true &
+          python Update_JWPlayer_streams.py || true &
+          python Update_VPI_stream.py || true &
+          wait
 
-      - name: Run YTDLP Streams
-        run: python ./Update_YTDLP_streams.py || true
-
-      - name: Run Twitch
-        run: python ./Update_Twitch.py || true
-
-      - name: Run Aftermind
-        run: python ./Update_Aftermind_stream.py || true
-
-      - name: Run JWPlayer
-        run: python ./Update_JWPlayer_streams.py || true
-
-      - name: Run VPI
-        run: python ./Update_VPI_stream.py || true
-
-      # 6️⃣ Commit & Push updates veilig
+      # 7️⃣ Commit & Push veilig
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
           git add -A
-
-          # Alleen committen als er wijzigingen zijn
           git diff --cached --quiet || git commit -m "📡 All streams updated"
 
-          # Hard reset om working tree clean te houden
+          # Hard reset voor clean working tree
           git reset --hard
 
-          # Push retry loop (tegen race conditions)
-          for i in 1 2 3 4 5
-          do
+          # Retry push loop
+          for i in 1 2 3 4 5; do
             echo "🔄 Push poging $i"
             git pull origin master --rebase
             if git push origin master; then
