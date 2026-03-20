@@ -53,13 +53,13 @@ do
   FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-380/live-720/g')
 
   # Speciale regels per kanaal
-  if [ "$NAME" = "Le Figaro" ]; then
+  if [ "$NAME" = "🇫🇷 | Le Figaro" ]; then
     FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-720/live-720@60/g')
   fi
-  if [ "$NAME" = "Télénantes" ]; then
+  if [ "$NAME" = "🇫🇷 | Télénantes" ]; then
     FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-720/live-480/g')
   fi
-  if [ "$NAME" = "Men's UP TV" ]; then
+  if [ "$NAME" = "🇫🇷 | Men's UP TV" ]; then
     FINAL_STREAM=$(echo "$FINAL_STREAM" | sed 's/live-720/live-480/g')
   fi
 
