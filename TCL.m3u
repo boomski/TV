@@ -404,6 +404,10 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(UBrQ7S_9_oAiL56xwJT8uGcw7RAsmbUAnsy4X
 https://live.eu-north-1b.cf.dmcdn.net/sec2(PfnTXy7TUMSrQMRZq_7AC1BeWTnVzDPaaBtBlmLfw5xY7s0jxcoreXNgzzrqKpnqMc6GGXZnc0Ab3sRp1ZWVR0rK6aCFlVcBwgf8cVHrNxHf6GWz1c6S-MaY2n-d2luF)/dm/3/x2kr3hs/s/live-720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maison%20%26%20Travaux%20TV.png",🇫🇷 | Maison & Travaux TV
 https://live.eu-north-1b.cf.dmcdn.net/sec2(ibJVEB0gPWMjFk6n9nLGEESDg9PCSZtJuSZ9kbRo1tlIMUMySxt7uYF_NvhsSc-VzLwYRt6NiCP9aeXbhAX6l-E5F3t-9Vb792m-5HBARXKCpKPGKbQBZx178qDD9Mx6)/dm/3/x85e5l8/s/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Africa%2024.png",🇫🇷 | Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Africa%2024%20Sport.png",🇫🇷 | Africa 24 Sport
+https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TV%20Monaco.png",🇲🇨 | Monaco TV
 https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Monaco%20Info.png",🇲🇨 | Monaco Info
@@ -1459,6 +1463,8 @@ https://uzivo.rtrs.tv/tv/live/index.m3u8
 http://51.83.135.95/Prva/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/rts-sat.png",🇷🇸 | PTC CBET
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/DMSAT.png",🇷🇸 | DM SAT
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Montenegro/tvcgmne.jpg",🇲🇪 | RTCG
 https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TV7.png",🇦🇱 | TV7 
@@ -2200,7 +2206,8 @@ http://5.253.46.190:8000/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Athaqafia.jpg",🇲🇦 | Athaqafia
 http://5.253.46.190:8000/play/a0ae/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Al%20Maghribia%20HD.png",🇲🇦 | Al Maghribia HD 
-http://5.253.46.190:8000/play/a0af/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTREM http://5.253.46.190:8000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Assadissa.png",🇲🇦 | Assadissa HD
 http://5.253.46.190:8000/play/a0ag/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Tamazight%20TV%20HD.png",🇲🇦 | Tamazight TV HD
