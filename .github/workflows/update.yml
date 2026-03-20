@@ -31,12 +31,15 @@ jobs:
       - name: Make scripts executable
         run: |
           chmod +x ./scrape.sh || true
+          chmod +x ./Update_YTDLP_streams.py || true
 
       # 5️⃣ Run ALLE scrapers (no fail = pipeline blijft draaien)
       - name: Run TCL scrape.sh
         run: ./scrape.sh || true
 
-        # 🔥 NIEUW (Twitch)
+      - name: Run YTDLP Streams
+        run: python Update_YTDLP_streams.py || true
+
       - name: Run Twitch
         run: python Update_Twitch.py || true
 
@@ -49,7 +52,6 @@ jobs:
       - name: Run VPI
         run: python Update_VPI_stream.py || true
 
-        # 🔥 NIEUW (GBC TV)
       - name: Run GBC TV
         run: python Update_GBC_stream.py || true
 
