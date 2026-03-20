@@ -31,7 +31,6 @@ jobs:
       - name: Make scripts executable
         run: |
           chmod +x ./scrape.sh || true
-          chmod +x ./Update_YTDLP_streams.py || true
 
       # 5️⃣ Run ALLE scrapers (no fail = pipeline blijft draaien)
       - name: Run TCL scrape.sh
