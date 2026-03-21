@@ -2139,6 +2139,12 @@ https://mrtvott.com/cache/MRTV-NRC-HD/m3u8/cache_MRTV-NRC-HD_m3u8_hls_m3u8_MRTV-
 https://mrtvott.com/cache/MRTV-NEWS-HD/m3u8/cache_MRTV-NEWS-HD_m3u8_hls_m3u8_MRTV-NEWS-HD-TS-M.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Myanmar/MITV.png",🇲🇲 | MITV
 https://mrtvott.com/cache/MITV/m3u8/cache_MITV_m3u8_hls_m3u8_MITV-TS-M.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/Telewebion%20Sport3.png",🇮🇷 | Telewebion Sport
+#https://live-azd1109.telewebion.ir/ek/sport1/live/playlist.m3u8?isp=Irancell&city=Tehran
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/Telewebion%20Sport3.png",🇮🇷 | Telewebion Sport 2
+https://live-azd1112.telewebion.ir/ek/sport2/live/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/Telewebion%20Sport3.png",🇮🇷 | Telewebion Sport 3
+https://live-azd1108.telewebion.ir/ek/sport3/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/cinex.png",🇮🇷 | Cinex
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Ad_sport_1.png",🇦🇪 | Abu Dhabi Sports 1
