@@ -5,7 +5,7 @@ from urllib.parse import urlparse
 M3U_FILE = "TCL.m3u"
 INPUT_FILE = "yt-dlp_kanaallijst.txt"
 
-USER_AGENT = "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
+USER_AGENT = "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 
 
 # 🔄 update yt-dlp
@@ -22,7 +22,7 @@ def update_ytdlp():
         print("⚠️ Update mislukt:", e)
 
 
-# 🌍 automatische referer
+# 🌍 automatische referer per kanaal
 def get_referer(page_url):
     try:
         parsed = urlparse(page_url)
@@ -55,7 +55,7 @@ def get_stream(page_url):
         data = json.loads(result.stdout)
         formats = data.get("formats", [])
 
-        # 🔥 beste kwaliteit eerst
+        # beste kwaliteit eerst
         formats = sorted(formats, key=lambda x: x.get("height", 0), reverse=True)
 
         # 🎯 chunklist eerst
@@ -78,7 +78,7 @@ def get_stream(page_url):
     return None
 
 
-# 🧠 slimme M3U update (GEEN duplicaten)
+# 🔥 CLEAN REWRITE (belangrijkste fix)
 def update_channel(lines, name, new_url, referer):
     i = 0
 
@@ -90,56 +90,22 @@ def update_channel(lines, name, new_url, referer):
         if line.startswith("#EXTINF") and name in line:
             print(f"🎯 Match: {name}")
 
-            # blok verzamelen
+            # zoek einde blok
             j = i + 1
-            block = []
-
             while j < len(lines) and not lines[j].startswith("#EXTINF"):
-                block.append(lines[j].strip())
                 j += 1
 
-            # bestaande headers detecteren
-            has_ua = any("http-user-agent" in l for l in block)
-            has_ref = any("http-referrer" in l for l in block)
+            # 🔥 volledig nieuw blok bouwen
+            new_block = [
+                USER_AGENT,
+                REFERRER,
+                new_url
+            ]
 
-            # ❌ verwijder oude URLs
-            block = [l for l in block if not l.startswith("http")]
+            print("🔁 Blok herschreven (UA + Referer + URL)")
 
-            # ❌ dedupe headers
-            new_block = []
-            seen_ua = False
-            seen_ref = False
-
-            for l in block:
-                if "http-user-agent" in l:
-                    if not seen_ua:
-                        new_block.append(USER_AGENT)
-                        seen_ua = True
-                elif "http-referrer" in l:
-                    if not seen_ref:
-                        new_block.append(REFERRER)
-                        seen_ref = True
-                else:
-                    new_block.append(l)
-
-            block = new_block
-
-            # ➕ headers toevoegen indien nodig
-            if not has_ua:
-                print("⚠️ UA toegevoegd")
-                block.insert(0, USER_AGENT)
-
-            if not has_ref:
-                print("⚠️ Referer toegevoegd")
-                block.insert(1, REFERRER)
-
-            # ➕ altijd nieuwe URL
-            block.append(new_url)
-
-            print("🔁 URL vernieuwd")
-
-            # 🔥 terugschrijven
-            lines[i+1:j] = [l + "\n" for l in block]
+            # vervang alles tussen EXTINF en volgende kanaal
+            lines[i+1:j] = [l + "\n" for l in new_block]
 
             return True
 
@@ -187,7 +153,7 @@ def main():
     if updated_any:
         with open(M3U_FILE, "w", encoding="utf-8") as f:
             f.writelines(lines)
-        print("\n💾 M3U geüpdatet")
+        print("\n💾 TCL.m3u geüpdatet")
     else:
         print("\n⚠️ Geen wijzigingen")
 
