@@ -730,10 +730,18 @@ https://vdo.ssl-stream.com:3412/stream/play.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/TMA.png",🇬🇵 | TMA
 http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-logo="",🇩🇴 | 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/RTVD%204.png",🇩🇴 | RTVD 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Quisqueya-17-AZUL.png",🇩🇴 | RTVD 17
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/CDN%20Deportes.png",🇩🇴 | CDN Deportes
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Sistesur%2049.png",🇩🇴 | Sistesur 49
 https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Bajo%20Techo%20TV.jpg",🇩🇴 | Bajo Techo TV
+https://fox.hostlagarto.com:8081/bajotechotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/TOURSPORT.png",🇩🇴 | Tour Sport TV
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Canal%205%20TV%20Max.jpg",🇵🇾 | Canal 5 TV Max
