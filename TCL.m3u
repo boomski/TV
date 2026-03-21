@@ -1169,6 +1169,8 @@ https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc004/historyhdraw/historyhdraw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/History2.png",🇵🇱 | History 2
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc008/history2hdraw/history2hdraw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Da%20Vinci.png",🇵🇱 | Da Vinci
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc009/davincihdraw/davincihdraw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Polsat%20News.png",🇵🇱 | Polsat News
 https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Polsat%20News2.png",🇵🇱 | Polsat News 2
@@ -1203,6 +1205,8 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/motowiz
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc120/tvrepublikahdraw/tvrepublikahdraw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Stopklatka.png",🇵🇱 | Stopklatka TV
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc102/stopklatkatvhdraw/stopklatkatvhdraw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/WP%20tv.png",🇵🇱 | WP TV
+https://liveovh011.cda.pl/P8IjbpepCvx7lF8FyJcdAQ/1755751084/2430238/enc009/wphdraw/wphdraw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Mango.png",🇵🇱 | Mango
 https://cdn-s-lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/NewTV.png",🇵🇱 | NewTV 
@@ -1225,6 +1229,28 @@ https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc109/biznes2
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc006/comedycentralhdraw/comedycentralhdraw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Disney%20Channel.png",🇵🇱 | Disney Channel
 https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc103/disneychannelhdraw/disneychannelhdraw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Antena%20HD.png",🇵🇱 | Antena HD
+http://78.130.250.2:8023/play/a03o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Tele5.png",🇵🇱 | Tele5
+http://78.130.250.2:8023/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVC.png",🇵🇱 | TVC
+http://78.130.250.2:8023/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVC-Super.png",🇵🇱 | TVC Super
+http://78.130.250.2:8023/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Polonia%201.png",🇵🇱 | Polonia 1
+http://78.130.250.2:8023/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/JAZZ.png",🇵🇱 | JAZZ
+https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc121/jazztvhdraw/jazztvhdraw.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Nuta%20TV.png",🇵🇱 | Nuta TV
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc120/nutatvhdraw/nutatvhdraw.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Power%20TV.png",🇵🇱 | Power TV
+https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc120/powertvhdraw/powertvhdraw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Top%20Kids.png",🇵🇱 | Top Kids
+https://liveovh010.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc116/topkidshdraw/topkidshdraw.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Top%20Kids.png",🇵🇱 | Top Kids HD
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc116/topkidshdraw/topkidshdraw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Junior%20Music.png",🇵🇱 | Junior Music HD
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc117/topkidsjrhdraw/topkidsjrhdraw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT.jpg",🇺🇦 | XSPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT%2B.png",🇺🇦 | XSPORT+
