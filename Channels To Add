@@ -29,18 +29,14 @@
 #EXTINF:-1 tvg-logo="",🇦🇱 | 
 #EXTINF:-1 tvg-logo="",🇶🇦 | 
 #EXTINF:-1 tvg-logo="",🇮🇳 |
+#EXTINF:-1 tvg-logo="",🇩🇴 | 
+#EXTINF:-1 tvg-logo="",🇭🇰 |
+#EXTINF:-1 tvg-logo="",🇮🇷 |
 
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Teleuni%C3%B3n%20TV.png",🇩🇴 | Teleunión TV
-https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/PRO%20Sport%20International.png",🇮🇷 | PRO Sport International
+https://proshls.wns.live/hls/stream.m3u8
 
 
 
@@ -49,8 +45,8 @@ https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-logo="",🔞 | 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="",🇦🇹 | 
+#EXTINF:-1 tvg-logo="",🇮🇷 | Gem TV Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=
-
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Sport/playlist.m3u8
 
