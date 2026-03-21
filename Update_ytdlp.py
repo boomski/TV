@@ -58,7 +58,7 @@ def get_stream(page_url):
         # beste kwaliteit eerst
         formats = sorted(formats, key=lambda x: x.get("height", 0), reverse=True)
 
-        # 🎯 chunklist eerst
+        # chunklist eerst
         for f in formats:
             url = f.get("url", "")
             if "chunklist.m3u8" in url:
@@ -78,40 +78,44 @@ def get_stream(page_url):
     return None
 
 
-# 🔥 CLEAN REWRITE (belangrijkste fix)
+# 🔥 CLEAN REWRITE met exact-match
 def update_channel(lines, name, new_url, referer):
+    """
+    Vervang alleen de URL van het kanaal exact zoals in de kanalenlijst,
+    voeg headers toe indien nodig, voorkom duplicaten.
+    """
     i = 0
-
     REFERRER = f"#EXTVLCOPT:http-referrer={referer}"
 
     while i < len(lines):
         line = lines[i].strip()
 
+        # exact match op naam uit kanalenlijst
         if line.startswith("#EXTINF") and name in line:
-            print(f"🎯 Match: {name}")
+            print(f"🎯 Match gevonden voor kanaal: {name}")
 
             # zoek einde blok
             j = i + 1
             while j < len(lines) and not lines[j].startswith("#EXTINF"):
                 j += 1
 
-            # 🔥 volledig nieuw blok bouwen
+            # clean block: alleen headers + URL
             new_block = [
                 USER_AGENT,
                 REFERRER,
                 new_url
             ]
 
-            print("🔁 Blok herschreven (UA + Referer + URL)")
+            print("🔁 Blok herschreven (exact match)")
 
             # vervang alles tussen EXTINF en volgende kanaal
-            lines[i+1:j] = [l + "\n" for l in new_block]
+            lines[i + 1:j] = [l + "\n" for l in new_block]
 
             return True
 
         i += 1
 
-    print(f"❌ Geen match: {name}")
+    print(f"❌ Geen match voor kanaal: {name}")
     return False
 
 
@@ -129,10 +133,10 @@ def main():
 
     for ch in channels:
         ch = ch.strip()
-
         if not ch or "|" not in ch:
             continue
 
+        # exact wat in kanalenlijst staat
         name, url = ch.rsplit("|", 1)
         name = name.strip()
         url = url.strip()
@@ -141,14 +145,12 @@ def main():
         print("📺", name)
 
         stream = get_stream(url)
-
         if stream:
             referer = get_referer(url)
-
             if update_channel(lines, name, stream, referer):
                 updated_any = True
         else:
-            print("❌ Geen stream")
+            print("❌ Geen stream gevonden")
 
     if updated_any:
         with open(M3U_FILE, "w", encoding="utf-8") as f:
