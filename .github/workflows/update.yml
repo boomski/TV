@@ -42,11 +42,11 @@ jobs:
       # 6️⃣ Run all scrapers parallel
       - name: Run all scrapers
         run: |
-          python Update_ytdlp.py || true &
           python Update_Aftermind_stream.py || true &
           python Update_JWPlayer_streams.py || true &
           python Update_VPI_stream.py || true &
           python Update_Twitch.py || true &
+          python Update_ytdlp.py || true &
           ./scrape.sh || true &
           
           wait
