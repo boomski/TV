@@ -7,6 +7,18 @@ INPUT_FILE = "yt-dlp_kanaallijst.txt"
 USER_AGENT_LINE = "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
 
 
+# 🔧 maak van variant → master
+def to_master_url(url):
+    if "chunklist.m3u8" in url and "/avc/" in url:
+        return url.split("/avc/")[0] + "/master.m3u8"
+    return url
+
+
+# 🔧 strip dynamische tokens voor vergelijking
+def normalize_url(url):
+    return url.split("~")[0]
+
+
 def get_stream(page_url):
     print(f"⏳ Sniffen: {page_url}")
 
@@ -30,14 +42,22 @@ def get_stream(page_url):
         data = json.loads(result.stdout)
         formats = data.get("formats", [])
 
-        # sorteer op kwaliteit (hoog → laag)
+        # ✅ 1. probeer echte master
+        for f in formats:
+            url = f.get("url", "")
+            if "master.m3u8" in url:
+                print("🎯 MASTER gevonden:", url)
+                return url
+
+        # ✅ 2. fallback → hoogste kwaliteit
         formats = sorted(formats, key=lambda x: x.get("height", 0), reverse=True)
 
         for f in formats:
             url = f.get("url", "")
             if "m3u8" in url:
-                print("🎯 gevonden:", url)
-                return url
+                master = to_master_url(url)
+                print("🎯 fallback (→ master):", master)
+                return master
 
     except Exception as e:
         print("❌ yt-dlp fout:", e)
@@ -46,41 +66,42 @@ def get_stream(page_url):
 
 
 def update_channel(lines, name, new_url):
-    """
-    Vervang de oude stream URL volledig, voeg EXTVLCOPT toe als die ontbreekt,
-    en zorg dat er nooit dubbele URL-regels ontstaan.
-    """
     i = 0
+
     while i < len(lines):
         line = lines[i].strip()
 
         if line.startswith("#EXTINF") and name in line:
             print(f"🎯 Match gevonden voor: {name}")
 
-            # check of de volgende regel user-agent is
+            # check volgende regels
             next_is_ua = (i + 1 < len(lines) and "#EXTVLCOPT:http-user-agent" in lines[i + 1])
             next_is_url = (i + 1 < len(lines) and lines[i + 1].strip().startswith("http"))
 
             if next_is_ua:
-                # update URL altijd op regel i+2
-                if i + 2 < len(lines):
-                    lines[i + 2] = new_url + "\n"
-                    print("🔁 Oude URL vervangen met:", new_url)
-                else:
-                    # URL ontbreekt → toevoegen
-                    lines.insert(i + 2, new_url + "\n")
-                    print("⚠️ URL ontbrak, toegevoegd:", new_url)
+                url_index = i + 2
             else:
-                # EXTVLCOPT ontbreekt → toevoegen + URL
-                if next_is_url:
-                    lines[i + 1] = USER_AGENT_LINE + "\n"
-                    lines.insert(i + 2, new_url + "\n")
-                    print("⚠️ User-Agent toegevoegd en URL vervangen:", new_url)
+                # user-agent toevoegen indien ontbreekt
+                lines.insert(i + 1, USER_AGENT_LINE + "\n")
+                print("⚠️ User-Agent toegevoegd")
+                url_index = i + 2
+
+            # URL behandelen
+            if url_index < len(lines) and lines[url_index].strip().startswith("http"):
+                old_url = lines[url_index].strip()
+
+                if normalize_url(old_url) == normalize_url(new_url):
+                    print("⚠️ Zelfde stream (token kan verschillen) → skip")
+                    return False
                 else:
-                    lines.insert(i + 1, USER_AGENT_LINE + "\n")
-                    lines.insert(i + 2, new_url + "\n")
-                    print("⚠️ User-Agent en URL toegevoegd:", new_url)
-            return True
+                    lines[url_index] = new_url + "\n"
+                    print("🔁 URL geüpdatet!")
+                    return True
+            else:
+                # URL ontbreekt → toevoegen
+                lines.insert(url_index, new_url + "\n")
+                print("⚠️ URL ontbrak → toegevoegd")
+                return True
 
         i += 1
 
@@ -105,7 +126,6 @@ def main():
         if not ch or "|" not in ch:
             continue
 
-        # 🔥 BELANGRIJK: pak URL NA laatste |
         parts = ch.rsplit("|", 1)
         name = parts[0].strip()
         url = parts[1].strip()
