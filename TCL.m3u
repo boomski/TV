@@ -2415,8 +2415,7 @@ https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/World%20Billiards%20TV.jpg",🇬🇧 | World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Gibraltar/GBC.png",🇬🇮 | GBC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0
-https://live-ak.vimeocdn.com/exp=1774010505~acl=%2Ffc91a17b-a660-40f9-93eb-74a369c59e67%2F%2A~hmac=71a5427f90bcd2bcfa8b1f3e8824c7f6f7161390056339b8a954c36fbb6d1727/fc91a17b-a660-40f9-93eb-74a369c59e67/avc/1080p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN1.png",🇨🇦 | TSN1 
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN2.png",🇨🇦 | TSN2
