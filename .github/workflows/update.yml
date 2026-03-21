@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # 2️⃣ Debug: check bestanden in de root
+      # 2️⃣ Debug: check bestanden
       - name: Debug files in repo
         run: |
           echo "📍 Current directory:"
@@ -39,17 +39,26 @@ jobs:
       - name: Make scripts executable
         run: chmod +x ./scrape.sh || true
 
-      # 6️⃣ Run all scrapers parallel
-      - name: Run all scrapers
+      # 6️⃣ Run all scrapers SEQUENTIALLY
+      - name: Run all scrapers safely
         run: |
-          python Update_Aftermind_stream.py || true &
-          python Update_JWPlayer_streams.py || true &
-          python Update_VPI_stream.py || true &
-          python Update_Twitch.py || true &
-          python Update_ytdlp.py || true &
-          ./scrape.sh || true &
-          
-          wait
+          echo "🚀 Running Update_Aftermind_stream.py..."
+          python Update_Aftermind_stream.py || true
+
+          echo "🚀 Running Update_JWPlayer_streams.py..."
+          python Update_JWPlayer_streams.py || true
+
+          echo "🚀 Running Update_VPI_stream.py..."
+          python Update_VPI_stream.py || true
+
+          echo "🚀 Running Update_Twitch.py..."
+          python Update_Twitch.py || true
+
+          echo "🚀 Running Update_ytdlp.py..."
+          python Update_ytdlp.py || true
+
+          echo "🚀 Running scrape.sh..."
+          ./scrape.sh || true
 
       # 7️⃣ Commit & Push veilig
       - name: Commit & Push
