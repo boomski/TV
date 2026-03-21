@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",🔞 | 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv.cctv.com/
-https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv9_1_720P/playlist.m3u8?wsApp=HLS 
+https://live.vimeocdn.com/1774078575-0x987ed174d2994979e1e6638f0977dd2869a21c52/fc91a17b-a660-40f9-93eb-74a369c59e67/avc/1080p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.qa@SD",Libya Al Ahrar TV (1080p)
 #EXTVLCOPT:http-referrer=https://player.castr.com
