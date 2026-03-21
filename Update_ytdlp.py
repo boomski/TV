@@ -1,12 +1,14 @@
 import subprocess
 import json
+from urllib.parse import urlparse
 
 M3U_FILE = "TCL.m3u"
 INPUT_FILE = "yt-dlp_kanaallijst.txt"
 
-USER_AGENT_LINE = "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
+USER_AGENT = "#EXTVLCOPT:http-user-agent=Mozilla/5.0"
 
 
+# 🔄 update yt-dlp
 def update_ytdlp():
     print("🔄 yt-dlp updaten...")
     try:
@@ -20,10 +22,16 @@ def update_ytdlp():
         print("⚠️ Update mislukt:", e)
 
 
-def normalize_url(url):
-    return url.split("~")[0]
+# 🌍 automatische referer
+def get_referer(page_url):
+    try:
+        parsed = urlparse(page_url)
+        return f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+    except:
+        return page_url
 
 
+# 🎯 stream ophalen (chunklist prioriteit)
 def get_stream(page_url):
     print(f"⏳ Sniffen: {page_url}")
 
@@ -47,20 +55,21 @@ def get_stream(page_url):
         data = json.loads(result.stdout)
         formats = data.get("formats", [])
 
-        # 🎯 pak beste chunklist
+        # 🔥 beste kwaliteit eerst
         formats = sorted(formats, key=lambda x: x.get("height", 0), reverse=True)
 
+        # 🎯 chunklist eerst
         for f in formats:
             url = f.get("url", "")
             if "chunklist.m3u8" in url:
-                print("🎯 chunklist gevonden:", url)
+                print("🎯 chunklist gevonden")
                 return url
 
-        # fallback → eender welke m3u8
+        # fallback
         for f in formats:
             url = f.get("url", "")
             if "m3u8" in url:
-                print("⚠️ fallback m3u8:", url)
+                print("⚠️ fallback m3u8")
                 return url
 
     except Exception as e:
@@ -69,8 +78,11 @@ def get_stream(page_url):
     return None
 
 
-def update_channel(lines, name, new_url):
+# 🧠 slimme M3U update (GEEN duplicaten)
+def update_channel(lines, name, new_url, referer):
     i = 0
+
+    REFERRER = f"#EXTVLCOPT:http-referrer={referer}"
 
     while i < len(lines):
         line = lines[i].strip()
@@ -78,29 +90,58 @@ def update_channel(lines, name, new_url):
         if line.startswith("#EXTINF") and name in line:
             print(f"🎯 Match: {name}")
 
-            next_is_ua = (i + 1 < len(lines) and "#EXTVLCOPT:http-user-agent" in lines[i + 1])
+            # blok verzamelen
+            j = i + 1
+            block = []
 
-            if next_is_ua:
-                url_index = i + 2
-            else:
-                lines.insert(i + 1, USER_AGENT_LINE + "\n")
-                print("⚠️ User-Agent toegevoegd")
-                url_index = i + 2
+            while j < len(lines) and not lines[j].startswith("#EXTINF"):
+                block.append(lines[j].strip())
+                j += 1
 
-            if url_index < len(lines) and lines[url_index].strip().startswith("http"):
-                old_url = lines[url_index].strip()
+            # bestaande headers detecteren
+            has_ua = any("http-user-agent" in l for l in block)
+            has_ref = any("http-referrer" in l for l in block)
 
-                if normalize_url(old_url) == normalize_url(new_url):
-                    print("⚠️ Zelfde stream → skip")
-                    return False
+            # ❌ verwijder oude URLs
+            block = [l for l in block if not l.startswith("http")]
+
+            # ❌ dedupe headers
+            new_block = []
+            seen_ua = False
+            seen_ref = False
+
+            for l in block:
+                if "http-user-agent" in l:
+                    if not seen_ua:
+                        new_block.append(USER_AGENT)
+                        seen_ua = True
+                elif "http-referrer" in l:
+                    if not seen_ref:
+                        new_block.append(REFERRER)
+                        seen_ref = True
                 else:
-                    lines[url_index] = new_url + "\n"
-                    print("🔁 Updated!")
-                    return True
-            else:
-                lines.insert(url_index, new_url + "\n")
-                print("⚠️ URL toegevoegd")
-                return True
+                    new_block.append(l)
+
+            block = new_block
+
+            # ➕ headers toevoegen indien nodig
+            if not has_ua:
+                print("⚠️ UA toegevoegd")
+                block.insert(0, USER_AGENT)
+
+            if not has_ref:
+                print("⚠️ Referer toegevoegd")
+                block.insert(1, REFERRER)
+
+            # ➕ altijd nieuwe URL
+            block.append(new_url)
+
+            print("🔁 URL vernieuwd")
+
+            # 🔥 terugschrijven
+            lines[i+1:j] = [l + "\n" for l in block]
+
+            return True
 
         i += 1
 
@@ -108,6 +149,7 @@ def update_channel(lines, name, new_url):
     return False
 
 
+# 🚀 main
 def main():
     update_ytdlp()
 
@@ -135,7 +177,9 @@ def main():
         stream = get_stream(url)
 
         if stream:
-            if update_channel(lines, name, stream):
+            referer = get_referer(url)
+
+            if update_channel(lines, name, stream, referer):
                 updated_any = True
         else:
             print("❌ Geen stream")
