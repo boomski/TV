@@ -2145,6 +2145,14 @@ https://mrtvott.com/cache/MITV/m3u8/cache_MITV_m3u8_hls_m3u8_MITV-TS-M.m3u8
 https://live-azd1112.telewebion.ir/ek/sport2/live/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/Telewebion%20Sport3.png",🇮🇷 | Telewebion Sport 3
 https://live-azd1108.telewebion.ir/ek/sport3/live/1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/IFILM.png",🇮🇷 | iFilm Arabic
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/IFILM.png",🇮🇷 | iFilm English
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/IFILM.png",🇮🇷 | iFilm Persian
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/Ifilm2logo.png",🇮🇷 | iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/cinex.png",🇮🇷 | Cinex
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Ad_sport_1.png",🇦🇪 | Abu Dhabi Sports 1
