@@ -1,31 +1,38 @@
 import subprocess
 import json
+import os
 
 M3U_FILE = "TCL.m3u"
 INPUT_FILE = "yt-dlp_kanaallijst.txt"
 
+# 👉 lokaal yt-dlp pad
+YTDLP_PATH = "./yt-dlp.exe"
+
 USER_AGENT_LINE = "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
 
 
-# 🔧 maak van variant → master
 def to_master_url(url):
     if "chunklist.m3u8" in url and "/avc/" in url:
         return url.split("/avc/")[0] + "/master.m3u8"
     return url
 
 
-# 🔧 strip dynamische tokens voor vergelijking
 def normalize_url(url):
     return url.split("~")[0]
 
 
-def get_stream(page_url):
+def get_stream(page_url, name):
     print(f"⏳ Sniffen: {page_url}")
+
+    # 🔍 check of lokale yt-dlp bestaat
+    if not os.path.exists(YTDLP_PATH):
+        print("❌ yt-dlp.exe niet gevonden in root!")
+        return None
 
     try:
         result = subprocess.run(
             [
-                "yt-dlp",
+                YTDLP_PATH,
                 "-J",
                 "--user-agent", "Mozilla/5.0",
                 page_url
@@ -42,14 +49,18 @@ def get_stream(page_url):
         data = json.loads(result.stdout)
         formats = data.get("formats", [])
 
-        # ✅ 1. probeer echte master
+        # 🎯 SPECIFIEK: GBC TV debug
+        if "GBC TV" in name:
+            print(f"🔍 GBC formats gevonden: {len(formats)}")
+
+        # ✅ eerst master proberen
         for f in formats:
             url = f.get("url", "")
             if "master.m3u8" in url:
                 print("🎯 MASTER gevonden:", url)
                 return url
 
-        # ✅ 2. fallback → hoogste kwaliteit
+        # ✅ fallback → beste kwaliteit
         formats = sorted(formats, key=lambda x: x.get("height", 0), reverse=True)
 
         for f in formats:
@@ -74,31 +85,26 @@ def update_channel(lines, name, new_url):
         if line.startswith("#EXTINF") and name in line:
             print(f"🎯 Match gevonden voor: {name}")
 
-            # check volgende regels
             next_is_ua = (i + 1 < len(lines) and "#EXTVLCOPT:http-user-agent" in lines[i + 1])
-            next_is_url = (i + 1 < len(lines) and lines[i + 1].strip().startswith("http"))
 
             if next_is_ua:
                 url_index = i + 2
             else:
-                # user-agent toevoegen indien ontbreekt
                 lines.insert(i + 1, USER_AGENT_LINE + "\n")
                 print("⚠️ User-Agent toegevoegd")
                 url_index = i + 2
 
-            # URL behandelen
             if url_index < len(lines) and lines[url_index].strip().startswith("http"):
                 old_url = lines[url_index].strip()
 
                 if normalize_url(old_url) == normalize_url(new_url):
-                    print("⚠️ Zelfde stream (token kan verschillen) → skip")
+                    print("⚠️ Zelfde stream → skip")
                     return False
                 else:
                     lines[url_index] = new_url + "\n"
                     print("🔁 URL geüpdatet!")
                     return True
             else:
-                # URL ontbreekt → toevoegen
                 lines.insert(url_index, new_url + "\n")
                 print("⚠️ URL ontbrak → toegevoegd")
                 return True
@@ -110,11 +116,9 @@ def update_channel(lines, name, new_url):
 
 
 def main():
-    # 📥 lees M3U
     with open(M3U_FILE, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    # 📥 lees kanaallijst
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         channels = f.readlines()
 
@@ -133,7 +137,7 @@ def main():
         print("\n======================")
         print("📺 Kanaal:", name)
 
-        stream = get_stream(url)
+        stream = get_stream(url, name)
 
         if stream:
             success = update_channel(lines, name, stream)
@@ -142,7 +146,6 @@ def main():
         else:
             print("❌ Geen stream gevonden")
 
-    # 💾 schrijf M3U
     if updated_any:
         with open(M3U_FILE, "w", encoding="utf-8") as f:
             f.writelines(lines)
