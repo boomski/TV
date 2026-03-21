@@ -2418,6 +2418,10 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.gbc.gi/watch-live/player
 https://live.vimeocdn.com/1774081520-0x83fc5fe23956516dd2f68585f349e3b2b7e482b9/fc91a17b-a660-40f9-93eb-74a369c59e67/avc/1080p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jamaica/TJV.png",🇯🇲 | TVJ 
+https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jamaica/MTM%20TV.png",🇯🇲 | MTM TV
+https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN1.png",🇨🇦 | TSN1 
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN2.png",🇨🇦 | TSN2
