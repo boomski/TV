@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="",Foosball TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foosball-tv/manifest.m3u8?ads.vf=Zz87lIUgABi
+
+
 #EXTINF:-1 tvg-logo="",🇮🇷 | Gem TV Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.aparatchi.com/
