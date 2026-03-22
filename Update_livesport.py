@@ -14,11 +14,11 @@ def detect_emoji(name):
     # 🥋 Vecht- & combat sports
     if any(x in n for x in ["ufc", "mma", "fight", "pfl"]):
         return "🥋"
-    if "boxing" in n or "kickboxing" in n:
+    if "boxing" in n or "kickboxing" or "fighting" in n:
         return "🥊"
 
     # 🏀 Basketbal
-    if any(x in n for x in ["nba", "lakers", "celtics", "warriors", "bucks", "bulls"]):
+    if any(x in n for x in ["nba", "lakers", "celtics", "warriors", "bucks", "bulls" , "ncaa"]):
         return "🏀"
 
     # 🏈 American Football
