@@ -1,9 +1,11 @@
 import requests
-import time
 
 INPUT_URL = "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
 MAIN_FILE = "TCL.m3u"
 
+# -----------------------------
+# CHECK OF STREAM WERKT
+# -----------------------------
 def is_working(url):
     try:
         r = requests.get(url, timeout=6, stream=True)
@@ -11,20 +13,26 @@ def is_working(url):
     except:
         return False
 
-def load_main_playlist():
+
+# -----------------------------
+# LAAD BESTAANDE TCL
+# -----------------------------
+def load_main():
     try:
         with open(MAIN_FILE, "r", encoding="utf-8") as f:
             return f.read().splitlines()
-    except FileNotFoundError:
+    except:
         return ["#EXTM3U"]
 
+
+# -----------------------------
+# VERWIJDER OUDE EVENTS
+# -----------------------------
 def remove_old_events(lines):
-    cleaned = []
+    new_lines = []
     skip = False
 
-    for i in range(len(lines)):
-        line = lines[i]
-
+    for line in lines:
         if line.startswith("#EXTINF") and "group-title=\"Live Events\"" in line:
             skip = True
             continue
@@ -33,55 +41,89 @@ def remove_old_events(lines):
             skip = False
             continue
 
-        cleaned.append(line)
+        new_lines.append(line)
 
-    return cleaned
+    return new_lines
 
-def fetch_and_filter_events():
-    res = requests.get(INPUT_URL, timeout=10)
-    lines = res.text.splitlines()
 
-    new_entries = []
+# -----------------------------
+# HAAL + FILTER EVENTS (FIXED)
+# -----------------------------
+def fetch_events():
+    print("📡 Fetching events...")
+
+    try:
+        res = requests.get(INPUT_URL, timeout=10)
+        lines = res.text.splitlines()
+    except:
+        print("❌ Failed to fetch events list")
+        return []
+
+    result = []
     i = 0
 
     while i < len(lines):
         if lines[i].startswith("#EXTINF"):
             name = lines[i]
-            url = lines[i+1] if i+1 < len(lines) else ""
+            extra_lines = []
+            i += 1
 
-            if is_working(url):
-                # Zorg dat group-title correct is
+            # Verzamel alles tussen EXTINF en URL (zoals VLCOPT)
+            while i < len(lines) and not lines[i].startswith("#EXTINF") and not lines[i].startswith("http"):
+                extra_lines.append(lines[i])
+                i += 1
+
+            # Pak URL
+            url = lines[i] if i < len(lines) else ""
+
+            # Alleen echte streams testen
+            if url.startswith("http") and is_working(url):
+
+                # Forceer group-title
                 if "group-title" not in name:
                     name = name.replace("#EXTINF:-1", '#EXTINF:-1 group-title="Live Events"')
 
-                new_entries.append(name)
-                new_entries.append(url)
-                print("✔", url)
-            else:
-                print("✖", url)
+                result.append(name)
 
-            i += 2
+                # Voeg VLC headers terug toe (BELANGRIJK)
+                for extra in extra_lines:
+                    if extra.startswith("#EXTVLCOPT"):
+                        result.append(extra)
+
+                result.append(url)
+
+                print("✔ WORKING:", url)
+            else:
+                print("✖ DEAD:", url)
+
+            i += 1
         else:
             i += 1
 
-    return new_entries
+    return result
 
+
+# -----------------------------
+# UPDATE TCL.M3U
+# -----------------------------
 def update_playlist():
     print("⏳ Updating TCL.m3u...")
 
-    main_lines = load_main_playlist()
-    main_lines = remove_old_events(main_lines)
+    base = load_main()
+    base = remove_old_events(base)
 
-    events = fetch_and_filter_events()
+    events = fetch_events()
 
-    updated = main_lines + [""] + events
+    final = base + [""] + events
 
     with open(MAIN_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(updated))
+        f.write("\n".join(final))
 
     print("✅ TCL.m3u updated!\n")
 
+
+# -----------------------------
+# MAIN
+# -----------------------------
 if __name__ == "__main__":
-    while True:
-        update_playlist()
-        time.sleep(1800)  # 30 min
+    update_playlist()
