@@ -12,9 +12,9 @@ def detect_emoji(name):
     n = name.lower()
 
     # 🥋 Vecht- & combat sports
-    if any(x in n for x in ["ufc", "mma", "fight", "pfl"]):
+    if any(x in n for x in ["ufc", "mma", "fight" , "pfl"]):
         return "🥋"
-    if "boxing" in n or "kickboxing" or "fighting" in n:
+    if "boxing" in n or "kickboxing" in n or "fighting" in n:
         return "🥊"
 
     # 🏀 Basketbal
