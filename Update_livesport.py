@@ -4,25 +4,142 @@ import re
 INPUT_URL = "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
 MAIN_FILE = "TCL.m3u"
 
-# -----------------------------
-# EMOJI MAPPING
-# -----------------------------
-EMOJI_MAP = {
-    "Boxing": "🥊",
-    "Soccer": "⚽",
-    "Basketball": "🏀",
-    "Tennis": "🎾",
-    "MMA": "🥋",
-    "Football": "🏈",
-    "Hockey": "🏒",
-}
 
 # -----------------------------
-# CHECK OF STREAM WERKT
+# 🧠 EMOJI ENGINE (ULTIMATE FOOTBALL EDITION)
+# -----------------------------
+def detect_emoji(name):
+    n = name.lower()
+
+    # 🥋 Vecht- & combat sports
+    if any(x in n for x in ["ufc", "mma", "fight", "pfl"]):
+        return "🥋"
+    if "boxing" in n:
+        return "🥊"
+    if "kickboxing" in n:
+        return "🥊"
+
+    # 🏀 Basketbal
+    if any(x in n for x in ["nba", "lakers", "celtics", "warriors", "bucks", "bulls"]):
+        return "🏀"
+
+    # 🏈 American Football
+    if any(x in n for x in ["nfl", "super bowl", "college football"]):
+        return "🏈"
+
+    # 🏒 Hockey
+    if any(x in n for x in ["nhl", "stanley cup"]):
+        return "🏒"
+
+    # ⚾ Baseball
+    if any(x in n for x in ["mlb", "world series"]):
+        return "⚾"
+
+    # 🏎️ Motorsport
+    if any(x in n for x in ["f1", "formula 1", "grand prix", "motogp", "nascar"]):
+        return "🏎️"
+
+    # 🎾 Tennis
+    if any(x in n for x in ["tennis", "atp", "wta", "grand slam"]):
+        return "🎾"
+
+    # ⚽ Voetbal wereldwijd
+    football_competitions = {
+        # Europa
+        "champions league": "🇪🇺⚽",
+        "uefa europa league": "🇪🇺⚽",
+        "premier league": "🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽",
+        "england championship": "🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽",
+        "england league one": "🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽",
+        "la liga": "🇪🇸⚽",
+        "liga bbva": "🇪🇸⚽",
+        "serie a": "🇮🇹⚽",
+        "bundesliga": "🇩🇪⚽",
+        "bundesliga 2": "🇩🇪⚽",
+        "ligue 1": "🇫🇷⚽",
+        "eredivisie": "🇳🇱⚽",
+        "jupiler pro league": "🇧🇪⚽",
+        "scottish premiership": "🏴󠁧󠁢󠁳󠁣󠁴󠁿⚽",
+        "scotland championship": "🏴󠁧󠁢󠁳󠁣󠁴󠁿⚽",
+        "primeira liga": "🇵🇹⚽",
+        "super lig": "🇹🇷⚽",
+        "superligaen": "🇩🇰⚽",
+        "a-league": "🇦🇺⚽",
+        "championship argentina": "🇦🇷⚽",
+        "argentina primera division": "🇦🇷⚽",
+        "argentina liga profesional": "🇦🇷⚽",
+        "colombia primera a": "🇨🇴⚽",
+        # Amerika
+        "mls": "🇺🇸⚽",
+        "liga mx": "🇲🇽⚽",
+        "brasileirao": "🇧🇷⚽",
+        "peru liga 1 apertura": "🇵🇪⚽",
+        "chile primera division": "🇨🇱⚽",
+        "uruguay primera division": "🇺🇾⚽",
+        "paraguay primera division": "🇵🇾⚽",
+        "ecuador serie a": "🇪🇨⚽",
+        "bolivia primera division": "🇧🇴⚽",
+        "venezuela primera division": "🇻🇪⚽",
+        "canada premier league": "🇨🇦⚽",
+        # Overige populaire competities
+        "j-league": "🇯🇵⚽",
+        "k-league": "🇰🇷⚽",
+        "super league": "🇨🇭⚽",
+    }
+    for key, emoji in football_competitions.items():
+        if key in n:
+            return emoji
+
+    # 🏐 Andere populaire sporten
+    if "cricket" in n:
+        return "🏏"
+    if "rugby" in n:
+        return "🏉"
+    if "golf" in n:
+        return "⛳"
+    if "cycling" in n or "tour de france" in n:
+        return "🚴"
+    if "darts" in n:
+        return "🎯"
+    if "snooker" in n or "pool" in n:
+        return "🎱"
+    if "olympics" in n or "olympic" in n:
+        return "🏅"
+
+    # 🕹️ eSports
+    if any(x in n for x in ["league of legends", "lol", "dota 2", "cs:go", "overwatch"]):
+        return "🕹️"
+
+    # ⚽ fallback voor "team vs team"
+    if " vs " in n:
+        return "⚽"
+
+    # 📺 default
+    return "📺"
+
+
+# -----------------------------
+# 🧹 CLEAN MATCH NAME
+# -----------------------------
+def clean_name(name):
+    name = name.replace(" vs ", " VS ")
+    name = re.sub(r"\[.*?\]", "", name)  # remove [tags]
+    name = re.sub(r"\s+", " ", name).strip()
+    return name
+
+
+# -----------------------------
+# 🔑 MATCH KEY (voor dedupe)
+# -----------------------------
+def match_key(name):
+    return clean_name(name).lower()
+
+
+# -----------------------------
+# 📡 CHECK STREAM
 # -----------------------------
 def is_working(url):
-    # alleen echte m3u8 streams
-    if not url.startswith("http") or ".m3u8" not in url:
+    if ".m3u8" not in url:
         return False
 
     try:
@@ -33,7 +150,7 @@ def is_working(url):
 
 
 # -----------------------------
-# LAAD BESTAANDE TCL
+# 📥 LOAD TCL
 # -----------------------------
 def load_main():
     try:
@@ -44,140 +161,134 @@ def load_main():
 
 
 # -----------------------------
-# VERWIJDER OUDE EVENTS (FIXED)
+# 🧹 REMOVE OLD EVENTS
 # -----------------------------
 def remove_old_events(lines):
-    new_lines = []
-    skipping = False
+    new = []
+    skip = False
 
     for line in lines:
-
-        # Start event blok
-        if line.startswith("#EXTINF") and "Live Events" in line:
-            skipping = True
+        if line.startswith("#EXTINF") and ("VS" in line or "⚽" in line or "🥊" in line):
+            skip = True
             continue
 
-        if skipping:
-            # Stop als nieuwe EXTINF start
+        if skip:
             if line.startswith("#EXTINF"):
-                skipping = False
-                new_lines.append(line)
-            else:
-                continue
-        else:
-            new_lines.append(line)
+                skip = False
+                new.append(line)
+            continue
 
-    return new_lines
+        new.append(line)
+
+    return new
 
 
 # -----------------------------
-# FORMAT EXTINF NAAR JOUW STIJL
+# 🎯 FORMAT EXTINF
 # -----------------------------
-def format_extinf(name_line):
-    # logo pakken
-    logo_match = re.search(r'tvg-logo="([^"]+)"', name_line)
-    logo = logo_match.group(1) if logo_match else ""
+def format_extinf(name, logo=""):
+    emoji = detect_emoji(name)
+    clean = clean_name(name)
 
-    # naam pakken
-    if "," in name_line:
-        orig_name = name_line.split(",")[-1].strip()
-    else:
-        orig_name = name_line.strip()
-
-    # tag -> emoji
-    tag_match = re.match(r"\[(.*?)\]\s*(.*)", orig_name)
-    if tag_match:
-        tag = tag_match.group(1)
-        rest = tag_match.group(2)
-        emoji = EMOJI_MAP.get(tag, "")
-        new_name = f"{emoji} {rest}".strip()
-    else:
-        new_name = orig_name
-
-    # nieuwe EXTINF
     if logo:
-        return f'#EXTINF:-1 tvg-logo="{logo}",{new_name}'
+        return f'#EXTINF:-1 tvg-logo="{logo}",{emoji} {clean}'
     else:
-        return f'#EXTINF:-1,{new_name}'
+        return f'#EXTINF:-1,{emoji} {clean}'
 
 
 # -----------------------------
-# FETCH + FILTER EVENTS
+# 🚀 FETCH + GROUP STREAMS
 # -----------------------------
 def fetch_events():
-    print("📡 Fetching events...")
+    print("📡 Fetching & grouping streams...")
 
-    try:
-        res = requests.get(INPUT_URL, timeout=10)
-        lines = res.text.splitlines()
-    except:
-        print("❌ Failed to fetch events list")
-        return []
+    res = requests.get(INPUT_URL, timeout=10)
+    lines = res.text.splitlines()
 
-    result = []
-    seen_urls = set()  # dedupe
+    matches = {}  # {match_key: {name, logo, streams}}
 
     i = 0
     while i < len(lines):
         if lines[i].startswith("#EXTINF"):
-            name = lines[i]
-            extra_lines = []
+            raw_name = lines[i]
+
+            logo_match = re.search(r'tvg-logo="([^"]+)"', raw_name)
+            logo = logo_match.group(1) if logo_match else ""
+
+            if "," in raw_name:
+                name = raw_name.split(",")[-1].strip()
+            else:
+                name = raw_name
+
             i += 1
 
-            # verzamel VLCOPT etc
+            extra = []
             while i < len(lines) and not lines[i].startswith("#EXTINF") and not lines[i].startswith("http"):
-                extra_lines.append(lines[i])
+                extra.append(lines[i])
                 i += 1
 
             url = lines[i] if i < len(lines) else ""
 
-            # check stream
-            if url.startswith("http") and is_working(url) and url not in seen_urls:
+            if is_working(url):
+                key = match_key(name)
 
-                seen_urls.add(url)
+                if key not in matches:
+                    matches[key] = {
+                        "name": name,
+                        "logo": logo,
+                        "streams": []
+                    }
 
-                formatted_name = format_extinf(name)
-                result.append(formatted_name)
-
-                # VLC headers behouden
-                for extra in extra_lines:
-                    if extra.startswith("#EXTVLCOPT"):
-                        result.append(extra)
-
-                result.append(url)
-
-                print("✔ WORKING:", url)
+                matches[key]["streams"].append((extra, url))
+                print("✔", name)
             else:
-                print("✖ SKIP:", url)
+                print("✖", url)
 
             i += 1
         else:
             i += 1
 
-    return result
+    return matches
 
 
 # -----------------------------
-# UPDATE TCL
+# 📝 BUILD FINAL LIST
+# -----------------------------
+def build_output(matches):
+    output = []
+
+    for match in matches.values():
+        output.append(format_extinf(match["name"], match["logo"]))
+
+        for extra, url in match["streams"]:
+            for e in extra:
+                if e.startswith("#EXTVLCOPT"):
+                    output.append(e)
+            output.append(url)
+
+    return output
+
+
+# -----------------------------
+# 🔄 UPDATE PLAYLIST
 # -----------------------------
 def update_playlist():
-    print("⏳ Updating TCL.m3u...")
-
     base = load_main()
     base = remove_old_events(base)
 
-    events = fetch_events()
+    matches = fetch_events()
+    events = build_output(matches)
 
     final = base + [""] + events
 
     with open(MAIN_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(final))
 
-    print("✅ TCL.m3u updated!\n")
+    print("✅ GOD MODE UPDATE DONE")
 
 
 # -----------------------------
-# MAIN
+# ▶ RUN
 # -----------------------------
 if __name__ == "__main__":
     update_playlist()
