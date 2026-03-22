@@ -18,7 +18,7 @@ def detect_emoji(name):
         return "🥊"
 
     # 🏀 Basketbal
-    if any(x in n for x in ["nba", "lakers", "celtics", "warriors", "bucks", "bulls" , "ncaa"]):
+    if any(x in n for x in ["nba", "lakers", "celtics", "warriors", "bucks", "bulls" , "ncaa" , "march madness"]):
         return "🏀"
 
     # 🏈 American Football
