@@ -60,9 +60,6 @@ jobs:
           echo "🚀 Running Update_Twitch.py..."
           python Update_Twitch.py || true
 
-          echo "📺 Updating TCL events..."
-          python Update_livesport.py || true
-
       # 7️⃣ Commit & Push veilig
       - name: Commit & Push
         run: |
