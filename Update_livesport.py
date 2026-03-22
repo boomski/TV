@@ -1,11 +1,20 @@
 import requests
+import re
 
 INPUT_URL = "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
 MAIN_FILE = "TCL.m3u"
 
-# -----------------------------
-# CHECK OF STREAM WERKT
-# -----------------------------
+# Map categorie-tags naar emoji
+EMOJI_MAP = {
+    "Boxing": "🥊",
+    "Soccer": "⚽",
+    "Basketball": "🏀",
+    "Tennis": "🎾",
+    "MMA": "🥋",
+    "Football": "🏈",
+    "Hockey": "🏒",
+}
+
 def is_working(url):
     try:
         r = requests.get(url, timeout=6, stream=True)
@@ -13,10 +22,6 @@ def is_working(url):
     except:
         return False
 
-
-# -----------------------------
-# LAAD BESTAANDE TCL
-# -----------------------------
 def load_main():
     try:
         with open(MAIN_FILE, "r", encoding="utf-8") as f:
@@ -24,31 +29,52 @@ def load_main():
     except:
         return ["#EXTM3U"]
 
-
-# -----------------------------
-# VERWIJDER OUDE EVENTS
-# -----------------------------
 def remove_old_events(lines):
     new_lines = []
     skip = False
-
     for line in lines:
         if line.startswith("#EXTINF") and "group-title=\"Live Events\"" in line:
             skip = True
             continue
-
         if skip:
             skip = False
             continue
-
         new_lines.append(line)
-
     return new_lines
 
+def format_extinf(name_line):
+    """
+    Zet een EXTINF regel om naar jouw formaat:
+    - logo behouden
+    - tag vervangen door emoji
+    - naam opgeschoond
+    """
+    # Pak logo
+    logo_match = re.search(r'tvg-logo="([^"]+)"', name_line)
+    logo = logo_match.group(1) if logo_match else ""
 
-# -----------------------------
-# HAAL + FILTER EVENTS (FIXED)
-# -----------------------------
+    # Pak originele naam na laatste komma
+    if "," in name_line:
+        orig_name = name_line.split(",")[-1].strip()
+    else:
+        orig_name = name_line.strip()
+
+    # Zoek categorie tag [XYZ] en vervang door emoji
+    tag_match = re.match(r"\[(.*?)\]\s*(.*)", orig_name)
+    if tag_match:
+        tag = tag_match.group(1)
+        rest_name = tag_match.group(2)
+        emoji = EMOJI_MAP.get(tag, "")  # lege string als geen mapping
+        new_name = f"{emoji} {rest_name}".strip()
+    else:
+        new_name = orig_name
+
+    # Bouw nieuwe EXTINF regel
+    if logo:
+        return f'#EXTINF:-1 tvg-logo="{logo}",{new_name}'
+    else:
+        return f'#EXTINF:-1,{new_name}'
+
 def fetch_events():
     print("📡 Fetching events...")
 
@@ -61,37 +87,30 @@ def fetch_events():
 
     result = []
     i = 0
-
     while i < len(lines):
         if lines[i].startswith("#EXTINF"):
             name = lines[i]
             extra_lines = []
             i += 1
 
-            # Verzamel alles tussen EXTINF en URL (zoals VLCOPT)
+            # Verzamel alle tussenliggende lijnen (zoals VLCOPT)
             while i < len(lines) and not lines[i].startswith("#EXTINF") and not lines[i].startswith("http"):
                 extra_lines.append(lines[i])
                 i += 1
 
-            # Pak URL
             url = lines[i] if i < len(lines) else ""
 
-            # Alleen echte streams testen
+            # Alleen echte URLs testen
             if url.startswith("http") and is_working(url):
+                formatted_name = format_extinf(name)
+                result.append(formatted_name)
 
-                # Forceer group-title
-                if "group-title" not in name:
-                    name = name.replace("#EXTINF:-1", '#EXTINF:-1 group-title="Live Events"')
-
-                result.append(name)
-
-                # Voeg VLC headers terug toe (BELANGRIJK)
+                # Voeg VLCOPT terug toe (optioneel)
                 for extra in extra_lines:
                     if extra.startswith("#EXTVLCOPT"):
                         result.append(extra)
 
                 result.append(url)
-
                 print("✔ WORKING:", url)
             else:
                 print("✖ DEAD:", url)
@@ -99,13 +118,8 @@ def fetch_events():
             i += 1
         else:
             i += 1
-
     return result
 
-
-# -----------------------------
-# UPDATE TCL.M3U
-# -----------------------------
 def update_playlist():
     print("⏳ Updating TCL.m3u...")
 
@@ -121,9 +135,5 @@ def update_playlist():
 
     print("✅ TCL.m3u updated!\n")
 
-
-# -----------------------------
-# MAIN
-# -----------------------------
 if __name__ == "__main__":
     update_playlist()
