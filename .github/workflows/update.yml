@@ -42,6 +42,12 @@ jobs:
       # 6️⃣ Run all scrapers SEQUENTIALLY
       - name: Run all scrapers safely
         run: |
+          echo "🚀 Running scrape.sh..."
+          ./scrape.sh || true
+
+          echo "🚀 Running Update_ytdlp.py..."
+          python Update_ytdlp.py || true
+
           echo "🚀 Running Update_Aftermind_stream.py..."
           python Update_Aftermind_stream.py || true
 
@@ -54,11 +60,8 @@ jobs:
           echo "🚀 Running Update_Twitch.py..."
           python Update_Twitch.py || true
 
-          echo "🚀 Running Update_ytdlp.py..."
-          python Update_ytdlp.py || true
-
-          echo "🚀 Running scrape.sh..."
-          ./scrape.sh || true
+          echo "📺 Updating TCL events..."
+          python Update_livesport.py || true
 
       # 7️⃣ Commit & Push veilig
       - name: Commit & Push
