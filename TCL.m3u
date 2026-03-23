@@ -2441,6 +2441,20 @@ http://116.90.120.151:8000/play/a024/index.m3u8
 http://116.90.120.151:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Pakistan/Geo%20News.png",🇵🇰 | Geo News 
 http://116.90.120.151:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/Somoy%20TV%20News.png",🇧🇩 | Somoy TV News
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/Desh%20TV.png",🇧🇩 | Desh TV 
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/Gazi.png",🇧🇩 | Gazi TV 
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/Rtv.png",🇧🇩 | RTV 
+http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/DBC%20News.png",🇧🇩 | DBC News 
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/Ananda%20TV.png",🇧🇩 | Ananda TV
+http://103.99.249.139/anandatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/moviebangla.jpg",🇧🇩 | Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 t#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Tanzania%20Safari.png",🇹🇿 | Tanzania Safari Channel
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/TBC1.png",🇹🇿 | TBC1 
