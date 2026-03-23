@@ -1,0 +1,39 @@
+name: Update Cycling Playlist
+
+# Dagelijkse trigger om 23:00 UTC (pas aan als je lokale tijd anders is)
+on:
+  schedule:
+    - cron: '0 23 * * *' 
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout repo
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # Install dependencies
+      - name: Install requests
+        run: pip install requests
+
+      # Run update script
+      - name: Run playlist update
+        run: python update_cycling.py
+
+      # Commit and push updates
+      - name: Commit updated playlist
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add Cycling.m3u
+          git commit -m "Automated daily playlist update"
+          git push
+        continue-on-error: true
