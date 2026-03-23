@@ -4,6 +4,7 @@ name: Update Cycling Playlist
 on:
   schedule:
     - cron: '0 23 * * *' 
+  workflow_dispatch:       # hiermee kun je handmatig starten
 
 jobs:
   update-playlist:
