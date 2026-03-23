@@ -24,6 +24,9 @@ jobs:
       # Install dependencies
       - name: Install requests
         run: pip install requests
+        
+      - name: Install yt-dlp
+        run: pip install yt-dlp
 
       # Run update script
       - name: Run playlist update
