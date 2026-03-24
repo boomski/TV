@@ -671,6 +671,10 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/NRT.png",🇲🇽 | NRT Internacional
 https://live.eu-north-1b.cf.dmcdn.net/sec2(vD94PdOo2g7a8V5BxyQZKEQlBbowTSv-dfTKaQnwNOXEcruQx_F5Bw6njT2tmACXOhNB2_o3b864haovHhCPzYCZIVwTrmpJtDYiH4vvbzqPByNbQRzgLgWGLWsz2Frx)/dm/3/x9vaay8/s/live-720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/ESPN_Premium_logo.svg.png",🇦🇷 | ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tplay.live/
+https://warm-caverns-48629-92fab798385f.herokuapp.com/http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/TYC%20Sports.png",🇦🇷 | TYC Sports
 https://livetrx03.vodgc.net/tyc24/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/TN.jpg",🇦🇷 | TN
