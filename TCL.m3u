@@ -527,19 +527,16 @@ https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveintern
 #https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%201.png",🇪🇸 | La 1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
-#http://45.95.78.232:8001/udp/239.106.80.1:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%202.png",🇪🇸 | La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#http://45.95.78.232:8001/udp/239.106.80.2:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TDP.png",🇪🇸 | Teledeporte 
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-#http://45.95.78.232:8001/udp/239.106.80.9:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/24h.png",🇪🇸 | 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TVE%20Star.jpg",🇪🇸 | TVE Star
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Clan.png",🇪🇸 | Clan
-http://45.95.78.232:8001/udp/239.106.80.3:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/RTVE%20Play.png",🇪🇸 | RTVE Play 1
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve01_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/RTVE%20Play.png",🇪🇸 | RTVE Play 2
@@ -551,47 +548,47 @@ https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Antena3INT.png",🇪🇸 | Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Logo_Antena_3_2025_(Naranja).svg.png",🇪🇸 | Antena 3
-http://45.95.78.232:8001/udp/239.106.83.1:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/A3S.png",🇪🇸 | A3Series
-http://45.95.78.232:8001/udp/239.106.85.4:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Cuatro.png",🇪🇸 | Cuatro
-http://45.95.78.232:8001/udp/239.106.83.2:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Telecinco.png",🇪🇸 | Telecinco 
-http://45.95.78.232:8001/udp/239.106.83.3:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%20Sexta.png",🇪🇸 | La Sexta 
-http://45.95.78.232:8001/udp/239.106.83.4:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La7%20Murcia.png",🇪🇸 | La7 Murcia 
-http://45.95.78.232:8001/udp/239.106.85.5:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/LA-8-MEDITERRANEO.png",🇪🇸 | La 8 Mediterráneo 
-http://45.95.78.232:8001/udp/239.106.91.2:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%208%20Marina.png",🇪🇸 | 8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TEN.png",🇪🇸 | TEN 
-http://45.95.78.232:8001/udp/239.106.85.2:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TRECE.png",🇪🇸 | Trece 
-http://45.95.78.232:8001/udp/239.106.84.7:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Veo7.png",🇪🇸 | Veo7 
-http://45.95.78.232:8001/udp/239.106.91.3:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/FDF.png",🇪🇸 | FDF 
-http://45.95.78.232:8001/udp/239.106.83.7:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Divinity.png",🇪🇸 | Divinity
-http://45.95.78.232:8001/udp/239.106.83.5:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/energy.png",🇪🇸 | Energy
-http://45.95.78.232:8001/udp/239.106.84.4:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Mega.png",🇪🇸 | Mega 
-http://45.95.78.232:8001/udp/239.106.84.5:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Neox.png",🇪🇸 | Neox 
-http://45.95.78.232:8001/udp/239.106.83.8:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Nova.png",🇪🇸 | Nova 
-http://45.95.78.232:8001/udp/239.106.83.6:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/BeMad.png",🇪🇸 | BeMad 
-http://45.95.78.232:8001/udp/239.106.85.1:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Squirrel.png",🇪🇸 | Squirrel 
-http://45.95.78.232:8001/udp/239.106.84.2:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Squirrel%20Dos.png",🇪🇸 | Squirrel Dos 
-http://45.95.78.232:8001/udp/239.106.84.3:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/%C3%80%20Punt.png",🇪🇸 | À Punt 
-http://45.95.78.232:8001/udp/239.106.82.1:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Hola.jpg",🇪🇸 | ¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TVG.jpg",🇪🇸 | TVG
@@ -599,7 +596,7 @@ https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TV3CAT.png",🇪🇸 | TV3 CAT
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/E3.png",🇪🇸 | Esport3
-http://45.95.78.232:8001/udp/239.106.85.6:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/E3.png",🇪🇸 | Esport3 International
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/El33.png",🇪🇸 | El 33 International
@@ -610,10 +607,8 @@ https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/AragonTV.png",🇪🇸 | Aragon TV
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/AragonTV.png",🇪🇸 | Aragón TV 
-http://45.95.78.232:8001/udp/239.106.90.5:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/ETB1_2022_logo.svg.png",🇪🇸 | ETB 1 
-http://45.95.78.232:8001/udp/239.106.90.8:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/EITB.png",🇪🇸 | EITB 1
 https://cdn1.etbon.eus/oc1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/EITB.png",🇪🇸 | EITB 2
@@ -627,9 +622,9 @@ https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TeleBilbao.jpg",🇪🇸 | TeleBilbao
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%20Extremadura.png",🇪🇸 | Canal Extremadura
-http://45.95.78.232:8001/udp/239.106.90.6:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%20Sur.png",🇪🇸 | Canal Sur 
-http://45.95.78.232:8001/udp/239.106.90.2:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%20Sur%202.png",🇪🇸 | Canal Sur 2 Andalucia
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/CMM.jpg",🇪🇸 | CMM TV
@@ -637,15 +632,15 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Tenerife%2B.jpg",🇪🇸 | Tenerife Plus+ TV
 https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Levante%20TV.png",🇪🇸 | Levante TV 
-http://45.95.78.232:8001/udp/239.106.90.7:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/LaOtra.png",🇪🇸 | LaOtra 
-http://45.95.78.232:8001/udp/239.106.90.4:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Telemadrid.png",🇪🇸 | Telemadrid 
-http://45.95.78.232:8001/udp/239.106.90.3:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Real%20Madrid%20TV.png",🇪🇸 | Real Madrid TV 
-http://45.95.78.232:8001/udp/239.106.85.7:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Baby%20TV%20Spain.png",🇪🇸 | Baby TV Spain 
-http://45.95.78.232:8001/udp/239.106.86.1:5000
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/FIFA%2B.png",🇪🇸 | FIFA+ 
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Euronews.png",🇪🇸 | Euronews
