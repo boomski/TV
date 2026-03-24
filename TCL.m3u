@@ -717,18 +717,26 @@ http://edge1.tvdirect13.com/live/playlist.m3u8
 http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cura%C3%A7ao/Cura%C3%A7ao.nu.png",🇨🇼 | Curaçao.nu
 https://cdn.hostin.cc/curacaonu/curacaonu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/ETV.png",🇬🇵 | ETV
-https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/Madras%20FM%20TV.png",🇬🇵 | Madras FM TV
-https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/Radio%20TV%20Basse-Terre.png",🇬🇵 | Radio TV Basse-Terre
-https://vdo.ssl-stream.com:3412/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/RHT%20Guadeloupe.png",🇬🇵 | RHT Guadeloupe 
-https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/TMA.png",🇬🇵 | TMA
-http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-logo="",🇩🇴 | 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Cubavision%20Internacional.png",🇨🇺 | Cubavision Internacional 
+https://tv.picta.cu/cvi/cvi_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Cuba%20Vision.png",🇨🇺 | Cubavision HD
+https://tvhd.picta.cu/cubavisionhd/cubavisionhd_master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Multivision.png",🇨🇺 | Multivision 
+https://tv.picta.cu/multivision/multivision_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Radio%20y%20Televisi%C3%B3n%20Mart%C3%AD.png",🇨🇺 | Radio y Televisión Martí 
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Prensa%20Latina%20Television.png",🇨🇺 | Prensa Latina TV 
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Canal%20Habana.png",🇨🇺 | Canal Habana 
+https://tv.picta.cu/infantil/infantil_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Tele%20Rebelde.png",🇨🇺 | Tele Rebelde
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Canal%20Clave.png",🇨🇺 | Canal Clave 
+https://tv.picta.cu/clave/clave_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Canal%20Educativo.png",🇨🇺 | Canal Educativo 
+https://tv.picta.cu/educativo/educativo_0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cuba/Canal%20Educativo%202.png",🇨🇺 | Canal Educativo 2 ]
+https://tv.picta.cu/educativo2/educativo2_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/CDN%20Deportes.png",🇩🇴 | CDN Deportes
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Telefuturo.png",🇩🇴 | Telefuturo
@@ -893,6 +901,16 @@ https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Filipijnen/PremierSports-2.png",🇵🇭 | Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/ETV.png",🇬🇵 | ETV
+https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/Madras%20FM%20TV.png",🇬🇵 | Madras FM TV
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/Radio%20TV%20Basse-Terre.png",🇬🇵 | Radio TV Basse-Terre
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/RHT%20Guadeloupe.png",🇬🇵 | RHT Guadeloupe 
+https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guadeloupe/TMA.png",🇬🇵 | TMA
+http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/RTP%20INT..jpg",🇵🇹 | RTP Internacional
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/RTP1.jpg",🇵🇹 | RTP 1
