@@ -1131,6 +1131,20 @@ https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 https://w-live-edge2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Faro%C3%ABr/KVF.png",🇫🇴 | KVF 2
 https://w-live-edge2.kringvarp.fo/radio2/_definst_/smil:radio2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/Re%20TV.jpg",🇱🇻 Re TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/TV%20Jurmala.png",🇱🇻 TV Jurmala
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/XXI.png",🇱🇻 TV XXI
+http://31.148.48.15/TV_XXI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/TVNET.png",🇱🇻 TVNET
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/Vidusdaugavas%20Telev%C4%ABzija.png",🇱🇻 Vidusdaugavas Televīzija
+https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/Pingviins.png",🇱🇻 Pingviins
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/SWH.png",🇱🇻 Radio SWH TV
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT%20Sport.jpg",🇨🇿 | CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport1.png",🇨🇿 | Sport1
