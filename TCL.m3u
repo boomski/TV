@@ -779,16 +779,42 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/TV%20Publica.png",🇦🇷 | TV Publica
 https://ola1.com.ar/tvp/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/ATCCO%20Canal%202.png",🇦🇷 | ATTCO Canal 2
+https://ola1.com.ar/atccohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/C2.jpg",🇦🇷 | Canal 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%203%20La%20Pampa.png",🇦🇷 | Canal 3 La Pampa
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%203%20Las%20Heras.png",🇦🇷 | Canal 3 Las Heras
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%207%20Neuqu%C3%A9n.jpg",🇦🇷 | Canal 7 Neuquén
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy CAMARA
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy CAMARA 1
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy CAMARA 3
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy CAMARA 4
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy CAMARA 5
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy CAMARA 6
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy CAMARA 7
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%204%20Juyjuy.jpg",🇦🇷 | Canal 4 Juyjuy CAMARA 8
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%205%20Del%20Pueblo.jpg",🇦🇷 | Canal 5 Del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%207%20Neuqu%C3%A9n.png",🇦🇷 | Canal 7 Neuquén
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%207%20Santiago%20del%20Estero.png",🇦🇷 | Canal 7 Santiago del Estero 
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Canal%2010%20C%C3%B3rdoba.png",🇦🇷 | Canal 10 Cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/WIN%20Sports%2B.png",🇨🇴 | WIN Sports+ 
-http://38.252.213.12:8000/play/a06r
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Se%C3%B1al%20Colombia.png",🇨🇴 | Señal Colombia 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/rcn-mas.png",🇨🇴 | RCN Mas
