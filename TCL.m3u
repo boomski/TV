@@ -913,8 +913,16 @@ https://us.streaminghd.cl/suramtv/index.m3u8
 https://edge.teveo.net/live/AeAAAgAlAANrA1IAyADIQCAAAAAAAAAAAmnIHPBUwcp8AAAA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Teleputumayo.png",🇨🇴 | Teleputumayo
 https://edge.teveo.net/live/AeAAAgA5AAADA1IAyADIUCAAAAAAAAAAAmnIIWdUwcp8AAAA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Rio%20Television.jpeg",🇨🇴 | Rio Television
+https://stream.amelbasoluciones.co/live/riotv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Tele%20Mocoa%20Canal%2010.png",🇨🇴 | Tele Mocoa Canal 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://www.telemocoacanal10.com/
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Marsella%20TV.png",🇨🇴 | Marsella TV
+https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Huila%20TV.png",🇨🇴 | Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Costa%20Rica/TicaVision.jpg",🇨🇷 | TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Honduras/ENT%20Channel.png",🇭🇳 | ENT Channel
