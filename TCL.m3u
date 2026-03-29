@@ -935,6 +935,10 @@ https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Canal%20PyC.png",🇨🇴 | Canal PyC
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Telesangil.png",🇨🇴 | Telesangil
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/La%20Cheverisima%20Radio%20TV.png",🇨🇴 | La Cheverisima Radio TV
+https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Aupan%20TV.png",🇨🇴 | Aupan TV
 https://use16.playlist.ttvnw.net/v1/playlist/CtYEGa5P2kY6N8v424Xn5u4yeZm5bSsJVMv4_YoReHDXJDjz7qCHBhT-TuiL3wEpyXJcWGSjXbf3EXdJGzIWd5gEbn7lb6pnLDVc2xm2e02MwxMHWJblRMFGv1diI9bGeud29AhPSgGX2C0DbfXavMszCbJKLg6eFC2u2fUYjbArsJzKlJycorqf8l9VVAb163BsVGDFioQCP2QZZcVSBRYMSRICqJXvGUy81HOUyaDq6Ogfe9wVUCSV66qPQVUHK4iv_XbtCCsP12U1aCKEV3-UtiTp7xKW3D6D9d3TfBz7DIxAOzSKZWDeoW6BGR7_IuoZDNAHG12lUmpWYb9o-dK99-Y9nLuebAeOwAF9SOIMR7w-06_LIHPhcfX8b5mHUf2WK6G2N0Ueggop9B7jneYw2VpQD0U6WRGP5mZXcBLloS3qLweA2tAs5VAWUoiCRfkamIMxavSvKzFHpxFzkfedkqYLnpnXQ9ROsPMv8OXiiH-I6w2CA3a4H02rVY2R22qVd-WV27Whfghhm-4ToLvTMGreDEiC3Ties-vw3IbVO0Eqe7SP6A3s60bsGR_6PYjF6inDR0Cum0lb2SiS6_pVAG-1JDJLsbaj18drvULsRP403RXqnzdA0y4v9Z6shpQO22Veq-XKvIl-FLshjOUMXhgH84ZUMTmQObN7E5fBHghbqsNRcrrkSw2mtj4Db58dGF8TQdicutmveCIrrhH3mOM1WHWshUcGJX20xqp57jPOyJSDgb2BE3OPQPThodgJiWjxUyWWuXX0dfrcWVYeUiZlpOzUNhoM9qMsoHfjxADc4-TdIAEqCXVzLWVhc3QtMjDgDg.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Acuario%20Television.png",🇨🇴 | Acuario Television
@@ -2415,6 +2419,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Indonesi%C3%AB/Matrix%20TV%20Yogyakarta.png",🇮🇩 | Matrix TV Yogyakarta
 https://stream.matrixtv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads//Thailand/Thai PBS.png",🇹🇭 | Thai PBS 
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Thailand/Channel%205.png",🇹🇭 | Channel 5
+https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8
+#EXTINF:-1 tvg-logo="",🇹🇭 | 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Maldiven/Maldives%20TV.png",🇲🇻 | Maldives TV
 https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Maldiven/MMTV.png",🇲🇻 | MMTV
