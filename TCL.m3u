@@ -2860,6 +2860,12 @@ http://116.90.120.151:8000/play/a024/index.m3u8
 http://116.90.120.151:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Pakistan/Geo%20News.png",🇵🇰 | Geo News 
 http://116.90.120.151:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nepal/Kantipur%20TV.png",🇳🇵 | Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nepal/Capital%20TV.png",🇳🇵 | Capital TV
+https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nepal/Divya%20Darshan%20TV.png",🇳🇵 | Divya Darshan TV
+http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/T%20sports.png",🇧🇩 | T Sports
 https://warm-caverns-48629-92fab798385f.herokuapp.com/http://103.175.242.10:8080/tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/Somoy%20TV%20News.png",🇧🇩 | Somoy TV News
