@@ -2926,6 +2926,18 @@ https://eslahtvhls.wns.live/hls/stream.m3u8
 https://dunyanhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Amu_TV_Logo.png",🇦🇫 | Amu TV
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Star%20Sports%201.png",🇮🇳 | Star Sports 1 HD 
+http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Star%20Sports%201%20Tamil.png",🇮🇳 | Star Sports 1 Tamil
+http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Star%20Movies.png",🇮🇳 | Star Movies HD
+http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Star%20Vijay.png",🇮🇳 | Star Vijay
+http://ptu.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Vijay%20Super.png",🇮🇳 | Star Vijay Super
+http://ptu.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/StarPlus.png",🇮🇳 | StarPlus HD 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/NDTV.png",🇮🇳 | NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/NDTV24x7.png",🇮🇳 | NDTV 24x7
@@ -2938,14 +2950,24 @@ https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Colors.png",🇮🇳 | Colors HD 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Colors%20Tamil%20HD.png",🇮🇳 | Colors Tamil HD
+http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Colors%20Cineplex.png",🇮🇳 | Colors Cineplex HD 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Sony%20MAX.png",🇮🇳 | Sony Max HD 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SET.png",🇮🇳 | Sony Entertainment Television HD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/StarPlus.png",🇮🇳 | StarPlus HD 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/VillageTV.png",🇮🇳 | Village TV 
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Zee%20Thirai%20HD.png",🇮🇳 | Zee Thirai HD 
+http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Zee%20Tamil%20HD.png",🇮🇳 | Zee Tamil HD 
+http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Nickelodeon.png",🇮🇳 | Nickelodeon
+http://ptu.ridsys.in/riptv/live/NICK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Disney%20Channel.png",🇮🇳 | Disney Channel
+http://ptu.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Pakistan/Paigham%20TV.png",🇵🇰 | Paigham TV
 http://116.90.120.151:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Pakistan/HUM%20News.png",🇵🇰 | Hum News
