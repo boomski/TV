@@ -2206,8 +2206,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/VIP.jpg",🇦🇿 | VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-logo="",🇦🇿 |
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Azstar%20TV.png",🇦🇿 | Azstar TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-logo="",🇦🇿 |
 
 #EXTINF:-1 tvg-logo="",🇦🇿 |
@@ -2927,7 +2927,7 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
 https://live.creacast.com/cna/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/AL24%20News.png",🇩🇿 | AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Syri%C3%AB/SyriaONETVB.png", | Syria One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Syri%C3%AB/SyriaONETVB.png",🇸🇾 | Syria One
 https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/AF%20Sport.png",🇦🇫 | AF Sport
 
@@ -3031,6 +3031,14 @@ http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 http://103.99.249.139/anandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/moviebangla.jpg",🇧🇩 | Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Congo%20DR/Baraka%20Television.png",🇨🇩 | Baraka Television
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Congo%20DR/RL%20Pro%20TV.jpeg",🇨🇩 | RL Pro TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:-1 tvg-logo="",🇨🇩 | 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kameroen/Laura%20Dave%20Media%20TV.png",🇨🇲 | Laura Dave Media TV
+https://streaming.lauradavemedia.com/ldm/index.m3u8
 #EXTINF:-1 t#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Tanzania%20Safari.png",🇹🇿 | Tanzania Safari Channel
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/TBC1.png",🇹🇿 | TBC1 
