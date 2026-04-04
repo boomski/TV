@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="🇰🇵", | Korean Central Television
+#EXTINF:-1 tvg-logo="",
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kcnawatch.org/
-https://streamer.nknews.org/tvhls/stream.m3u8
+#EXTVLCOPT:https://cdn.maksnet.tv/
+https://edge-rs-04.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="",🇮🇷 | Gem TV Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
