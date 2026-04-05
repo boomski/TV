@@ -1050,6 +1050,10 @@ https://usw23.playlist.ttvnw.net/v1/playlist/CtYETLNSMztEgXo82tUi6e4udScXNhRzr4N
 https://usw21.playlist.ttvnw.net/v1/playlist/CtQEasu1XNcUIFpgDiV2vlqPO5ONbgcG0B41YHNiFsZCjKlXEST2nGdrkTDj7COblTB7AcfHIqSfvrCPS8zBEd-mr-yL6Ud4yuRoHJM5D_dNv2MKlne7HIa-iKgzIe8fzmqXECjYhlMXcQY8LXQanjxoRIeCmroqEI3pgqgS0PqWTeSdGhBDKYzsA30mcLoBMKsosxyfSBJD3zN-JR1Enwa5CZ9AKiMOL9AtlBZhM6Lj0m5z5XysbeDqtRt9AREYDc2Px7nlQk6YIjBBQ396vqzROJqjqi0Z_pdtz9FB9V70CoEsgthAyRgxo7qD17fLUeExeXig6tiTaAUYtBV-eACCxBLOB_yh1awDfoR-PqGYQAvWUYfIskCb6xtbzs7FCEWhLP994iyPPihlem5RKozPy0iZrauIRfUWmUR69RZalb4fsYRAnFKLH-aGv-SYoEiulrGjOW26i1eNCdWxydiq1F0XglqHyby3SXs7ZdhYqrbckQ1mhQk-4Ww1PFHmprweJynMBY88E7qMAZkIZoraFJ5oPzISsc1C0vXQxweE-nnGFktMLbh8iu3JfEyZjyni4NSkTYtszHoM5lRnQiZ6PIZV_88xouY9yRaCrqDv3a6EESVIkPmyHDJQDXCJ1MNh8qZN89tkp4bKddOFyzwd4t8mXMQllznuQBbzWO3inP4bt2y1zNA1dSzeO0ASFXrA2f0RHoNxOr-3hzbeF9uekSG3xQhSyL0J4hciNE5fid_PAynnwI3zOBq8qrAqz6k5JXkbPI_6NryL6W-YZ-v6mXfpQN8aDAcIRRiRnKHvcKYHriABKgl1cy13ZXN0LTIw6A4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Costa%20Rica/TicaVision.jpg",🇨🇷 | TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Costa%20Rica/Radio%20Turrialba%20TV%20Sports.png",🇨🇷 | Radio Turrialba TV Sports
+#EXTVLCOPT:http-referrer=https://www.radioturrialba.com/p/radio-turrialba-en-vivo.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://sc1.escuela4.com/live/d7316d659b5a77fb8719d49330315886807b02b0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Honduras/ENT%20Channel.png",🇭🇳 | ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Honduras/entf.png",🇭🇳 | ENT Family
@@ -1149,6 +1153,9 @@ https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f0869057644
 https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Canal%205%20TV%20Max.jpg",🇵🇾 | Canal 5 TV Max
 https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Canal%208%20Vision%20TV.png",🇵🇾 | Canal 8 Vision TV 
+#EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
+https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Union%20TV.png",🇵🇾 | Union Tv
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/C9N_LOGO.jpg",🇵🇾 | C9N
@@ -1167,6 +1174,12 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Farra%20Play.jpg",🇵🇾 | Farra Play
 http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Del%20Rey%20TV.jpeg",🇵🇾 | Del Rey TV
+#EXTVLCOPT:http-referrer=https://tvonline.com.py/
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/E40.png",🇵🇾 | E40
+#EXTVLCOPT:http-referrer=https://www.estacion40.com.py/
+https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Peru/TV%20Cosmos.png",🇵🇪 | TV Cosmos
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/A3-SPORTTV.jpg",🇻🇪 | AS3 Sport TV
