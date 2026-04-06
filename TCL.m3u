@@ -865,6 +865,8 @@ https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 https://live.astreaming.es:5443/live/streams/vinxtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/FSM.png",🇪🇸 | Futsalmafer.tv
 https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%20Liga%20Hypermotion.png",🇪🇸 | La Liga Hypermotion
+http://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/FIFA%2B.png",🇪🇸 | FIFA+ 
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Euronews.png",🇪🇸 | Euronews
@@ -1154,6 +1156,8 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/teleimpacto52.png",🇩🇴 | Teleimpacto
 https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Tigo_Sports_2025.png",🇵🇾 | Tigo Sports
+https://live.enhdtv.com:8081/8160/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Canal%205%20TV%20Max.jpg",🇵🇾 | Canal 5 TV Max
 https://video.wilohosting.com:19360/tvmax/tvmax.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Canal%208%20Vision%20TV.png",🇵🇾 | Canal 8 Vision TV 
@@ -2254,10 +2258,21 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Folk%20Club%20TV.png",🇲🇰 | Folk Klub 
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR HD
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star%20Kentrikis%20Elladas.png",🇬🇷 | Star Kentrikis Elladas
+#EXTVLCOPT:http-referrer=https://player.castr.com
+https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Skai%20TV.png",🇬🇷 | Skai TV
+http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/ERT%20News.png",🇬🇷 | ERT News
 https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Naftemporiki%20TV.png",🇬🇷 | Naftemporiki TV
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Corfu%20Channel.png",🇬🇷 | Corfu Channel
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
 #EXTVLCOPT:http-referrer=https://canlitv.com/brt-1?ulke=cy
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=b3087386cb10110647bd1644381b049d
@@ -3485,6 +3500,8 @@ http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/20943
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/NBC%20Sports%20Now.png",🇺🇸 | NBC Sports NOW
 https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/DirecTV%20Sports.jpg",🇺🇸 | DirecTV Sports
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/BeIN%20Sports%20XTRA.jpg",🇺🇸 | BeIN Sports XTRA
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/NBA_TV.svg.png",🇺🇸 | NBA TV
@@ -3606,6 +3623,8 @@ https://jmp2.uk/plu-667f2c7b22acab0008b7072b.m3u8
 https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8?wowzasessionid=@iprtlk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Telemundo.png",🇺🇸 | Telemundo
 http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8?wowzasessionid=@iprtlk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Telemundo%20Internacional%20Central%20America.png",🇺🇸 | Telemundo Internacional Central America
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Telemundo%20xx.png",🇺🇸 | Telemundo 47 Noreste
 https://dbrb49pjoymg4.cloudfront.net/10001/99951228/hls/master.m3u8?ads.xumo_channelId=99951228&ads.xumo_streamId=99951228&ads.channelId=99951228&ads.channelName=telemundonoticiasnoreste_us&ads.caid=TelemundoNoticiasNoreste&ads.csid=xumo_web_TelemundoNoticiasNoreste_ssai&ads._fw_coppa=0&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads._fw_ifa_type=&ads._fw_did=00872eb2-f03a-4a39-bbba-fc92e3d096ac&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Telemundo%20xx.png",🇺🇸 | Telemundo 51 Florida 
