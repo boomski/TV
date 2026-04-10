@@ -1059,6 +1059,8 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.radioturrialba.com/p/radio-turrialba-en-vivo.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://sc1.escuela4.com/live/d7316d659b5a77fb8719d49330315886807b02b0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Honduras/Deportes%20TVC.png",🇭🇳 | Deportes TVC
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Honduras/ENT%20Channel.png",🇭🇳 | ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Honduras/entf.png",🇭🇳 | ENT Family
@@ -2917,6 +2919,8 @@ https://live.presstv.ir/hls/ifilm2.m3u8
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/cinex.png",🇮🇷 | Cinex
 https://gcinemahls.wns.live/hls/stream.m3u
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Al-Aimma%20TV.png",🇮🇶 | Al-Aimma TV
+https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi%20Arabie/GoalZone.png",🇸🇦 | Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Ad_sport_1.png",🇦🇪 | Abu Dhabi Sports 1
@@ -3045,6 +3049,8 @@ https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklis
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oman/Alistiqama%20TV.jpg",🇴🇲 | Alistiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Jordan%20Sport.png",🇯🇴 | Jordan Sport 
+http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Royatv.png",🇯🇴 | Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Roya%20Kitchen.jpg",🇯🇴 | Roya Kitchen
