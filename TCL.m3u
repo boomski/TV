@@ -244,7 +244,7 @@ https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Autentic%20Travel.png",🇩🇪 | Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Autentic%20Adventure%20Earth.png",🇩🇪 | Autentic Adventure Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Autentic%20Adventure%20Earth.png",🇩🇪 | Autentic Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Terra%20Mater%20WILD.png",🇩🇪 | Terra Mater WILD
@@ -2264,7 +2264,7 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star%20Kentrikis%20Elladas.png",🇬🇷 | Star Kentrikis Elladas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star%20Kentrikis%20Elladas.png",🇬🇷 | Star Kentrikis Elladas
 #EXTVLCOPT:http-referrer=https://player.castr.com
 https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Skai%20TV.png",🇬🇷 | Skai TV
@@ -2919,7 +2919,9 @@ https://live.presstv.ir/hls/ifilm2.m3u8
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/cinex.png",🇮🇷 | Cinex
 https://gcinemahls.wns.live/hls/stream.m3u
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Al-Aimma%20TV.png",🇮🇶 | Al-Aimma TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Al%20Iraqia.jpg",🇮🇶 | Al Iraqia 
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Al-Aimma%20TV.png",🇮🇶 | Al-Aimma TV
 https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi%20Arabie/GoalZone.png",🇸🇦 | Goal Zone
 https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
@@ -3428,7 +3430,7 @@ http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/10247
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/11649
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/Logo_Sportsnet_2011.svg.png",🇨🇦 | Sportsnet East
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/57298
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/DAZN.png",🇨🇦 | DAZN TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/DAZN.png",🇨🇦 | DAZN TV
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/Game%2B.png",🇨🇦 | Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
