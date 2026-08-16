@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,BK Gravel
-https://live.vrtcdn.be/groupb/live/20572e33-2a2e-435e-8b5c-55fcb6f4f1c4/live.isml/.mpd?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
-https://live.vrtcdn.be/groupb/live/20572e33-2a2e-435e-8b5c-55fcb6f4f1c4/live.isml/.mpd?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VRT%201.png",🇧🇪 | VRT 1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VRT%20CANVAS.png",🇧🇪 | VRT Canvas
@@ -13,21 +10,21 @@ https://live-radio.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/li
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM.png",🇧🇪 | VTM
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%202.png",🇧🇪 | VTM 2
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420212&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%203.png",🇧🇪 | VTM 3
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368521&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%204.png",🇧🇪 | VTM 4
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420215&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%20Gold.png",🇧🇪 | VTM Gold
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420217&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%20Series.png",🇧🇪 | VTM Series
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368527&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Play.png",🇧🇪 | Play
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368529&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Play%20Fictie.png",🇧🇪 | Play Fictie
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420213&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Play%20Actie.png",🇧🇪 | Play Actie
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368533&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Play%20Crime.png",🇧🇪 | Play Crime
 https://playmedia-playcrime-goplay.amagi.tv/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/ATV.png",🇧🇪 | ATV
@@ -49,17 +46,17 @@ https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/La%20Une.png",🇧🇪 |  RTBF La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Tipik.png",🇧🇪 |  RTBF Tipik
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368565&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTBF_La_Trois.png",🇧🇪 |  RTBF La Trois
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420251&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTL%20TVI.png",🇧🇪 | RTL TVI
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368569&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTL%20club.png",🇧🇪 | RTL Club
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420252&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/rtl-plug.png",🇧🇪 | RTL Plug
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=1420253&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/AB1.png",🇧🇪 | AB1
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:C0:16:78&stream=368575&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/AB3.png",🇧🇪 | AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Bouke.png",🇧🇪 | Boukè
@@ -106,13 +103,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcdramabenel
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Top%20Gear.png",🇧🇪  | BBC Top Gear
 https://amg00793-amg00793c16-nlziet-nl-8602.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearbenelux-nlzietnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO1.png",🇳🇱 | NPO1
-https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO2.png",🇳🇱 | NPO2
-https://rbtvlive.cdn.tele2portal.com/live/NPO2/NPO2.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/NPO3.png",🇳🇱 | NPO3
-https://rbtvlive.cdn.tele2portal.com/live/NPO3/NPO3.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/BVN.png",🇳🇱 | BVN
-https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/SBS6%20Classics.png",🇳🇱 | SBS 6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/Omroep%20Brabant.png",🇳🇱 | Omroep Brabant 
