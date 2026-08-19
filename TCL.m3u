@@ -37,6 +37,39 @@
 
 # --- 🇮🇪 Ierland ---
 
+# --- 🇦🇺 Australië ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC
+https://c.mjh.nz/abc-nsw.m3u8
+# --- 🇳🇿 Nieuw-Zeeland ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/Bravo%2B1.png",🇳🇿 | Bravo +1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/Below-Deck-Vault.png",🇳🇿 | Bravo Below Deck Vault
+https://i.mjh.nz/.r/sky-fast3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/CH200.png",🇳🇿 | CH200
+https://i.mjh.nz/.r/ch200.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/HGTV.png",🇳🇿 | HGTV
+https://i.mjh.nz/.r/sky-hgtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/J2.png",🇳🇿 | J2
+https://i.mjh.nz/.r/mood-1289.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/MovieSphere.png",🇳🇿 | MovieSphere
+https://i.mjh.nz/.r/sky-ptms.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/te_reo.jpg",🇳🇿 | Te Reo
+https://i.mjh.nz/.r/te-reo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/TV3NZ-plus-1-colour.png",🇳🇿 | Three +1
+https://i.mjh.nz/.r/three-plus1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/WB%20Deadliest%20Catch.png",🇳🇿 | WB Deadliest Catch
+https://i.mjh.nz/.r/sky-fast2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/WB%20House%20Hunters.png",🇳🇿 | WB House Hunters
+https://i.mjh.nz/.r/sky-fast6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/WB%20Motorheads.png",🇳🇿 | WB Motorheads
+https://i.mjh.nz/.r/sky-fast1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/WB%20Paranormal.png",🇳🇿 | WB Paranormal
+https://i.mjh.nz/.r/sky-fast5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/WB%20True%20Crime.png",🇳🇿 | WB True Crime
+https://i.mjh.nz/.r/sky-fast4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nieuw-Zeeland/Whakaata%20M%C4%81ori.jpg",🇳🇿 | Whakaata Māori
+https://i.mjh.nz/.r/maori-tv.m3u8
+
 # --- 🇬🇮 Gibraltar ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Gibraltar/GBC.png",🇬🇮 | GBC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
