@@ -1,4 +1,251 @@
 #EXTM3U
 # --- 🇧🇪 België ---
 
+# --- 🇳🇱 Nederland ---
 
+# --- 🇱🇺 Luxemburg ---
+
+# --- 🇫🇷 Frankrijk ---
+
+# --- 🇩🇪 Duitsland ---
+
+# --- 🇬🇧 Verenigd Koninkrijk ---
+
+# --- 🇺🇸 Verenigde Staten ---
+
+# --- 🇨🇦 Canada ---
+
+# --- 🇨🇭 Zwitserland ---
+
+# --- 🇦🇹 Oostenrijk ---
+
+# --- 🇮🇹 Italië ---
+
+# --- 🇪🇸 Spanje ---
+
+# --- 🇵🇹 Portugal ---
+
+# --- 🇩🇰 Denemarken ---
+
+# --- 🇫🇴 Faroer ---
+
+# --- 🇳🇴 Noorwegen ---
+
+# --- 🇫🇮 Finland ---
+
+# --- 🇮🇸 IJsland ---
+
+# --- 🇲🇽 Mexico ---
+
+# --- 🇨🇺 Cuba ---
+
+# --- 🇭🇳 Honduras ---
+
+# --- 🇦🇷 Argentinië ---
+
+# --- 🇨🇴 Colombia ---
+
+# --- 🇻🇪 Venezuela ---
+
+# --- 🇵🇾 Paraguay ---
+
+# --- 🇵🇪 Peru ---
+
+# --- 🇧🇷 Brazilië ---
+
+# --- 🇦🇼 Aruba ---
+
+# --- 🇨🇼 Curaçao ---
+
+# --- 🇩🇴 Dominicaanse Republiek ---
+
+# --- 🇨🇿 Tsjechië ---
+
+# --- 🇸🇰 Slowakije ---
+
+# --- 🇵🇱 Polen ---
+
+# --- 🇷🇴 Roemenië ---
+
+# --- 🇲🇩 Moldavië ---
+
+# --- 🇭🇺 Hongarije ---
+
+# --- 🇱🇻 Letland ---
+
+# --- 🇺🇦 Oekraïne ---
+
+# --- 🇭🇷 Kroatië ---
+
+# --- 🇸🇮 Slovenië ---
+
+# --- 🇧🇦 Bosnië ---
+
+# --- 🇷🇸 Servië ---
+
+# --- 🇲🇪 Montenegro ---
+
+# --- 🇦🇱 Albanië ---
+
+# --- 🇽🇰 Kosovo ---
+
+# --- 🇲🇰 Noord-Macedonië ---
+
+# --- 🇬🇷 Griekenland ---
+
+# --- 🇨🇾 Cyprus ---
+
+# --- 🇹🇷 Turkije ---
+
+# --- 🇦🇿 Azerbeidjan ---
+
+# --- 🇬🇪 Georgië ---
+
+# --- 🇦🇲 Armenië ---
+
+# --- 🇧🇾 Wit-Rusland ---
+
+# --- 🇷🇺 Rusland ---
+
+# --- 🇨🇳 China ---
+
+# --- 🇯🇵 Japan ---
+
+# --- 🇵🇭 Filipijnen ---
+
+# --- 🇲🇴 Macau ---
+
+# --- 🇭🇰 Hongkong ---
+
+# --- 🇸🇬 Singapore ---
+
+# --- 🇰🇷 Zuid-Korea ---
+
+# --- 🇰🇵 Noord-Korea ---
+
+# --- 🇲🇳 Mongolië ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/aist-global-tv-mn.png" user-agent="Mozilla/5.0",🇲🇳 | AIST Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/AsianBox.jpg",🇲🇳 | AsianBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Auto%20TV.jpg",🇲🇳 | Auto TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/bantan-tv-mn.png" ,🇲🇳 | BanTanV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/C1_TV.png",🇲🇳 | C1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Central%20TV.jpg",🇲🇳 | Central TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Channel11.jpg",🇲🇳 | Channel 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/cinema-hd-mongolia.png",🇲🇳 | Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/CNBC%20Mongolia.jpg" ,🇲🇳 | CNBC Mongolia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Dream%20TV.jpg" ,🇲🇳 | Dream TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Eagle%20News.jpg",🇲🇳 | Eagle News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/EduTV_2022.jpg" ,🇲🇳 | Education 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/ETV_Mongolia_logo.png" user-agent="Mozilla/5.0",🇲🇳 | ETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Gandan%20TV.png" user-agent="Mozilla/5.0",🇲🇳 | Gandan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Malchin.png" user-agent="Mozilla/5.0",🇲🇳 | Malchin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MN25.jpg" ,🇲🇳 | MN25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MNB.jpg",🇲🇳 | MNB 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MNB%20Sport.png" user-agent="Mozilla/5.0",🇲🇳 | MNB Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MNB%20Sport.png",🇲🇳 | MNB Sport (BACKUP)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MNB%20World.jpg",🇲🇳 | MNB World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MNB%20World.jpg",🇲🇳 | MNB World (BACKUP)
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MNB%20Family.png",🇲🇳 | MNB Гэр бүл 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MNB%20%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8B%D0%BD%20%D0%9C%D1%8D%D0%B4%D1%8D%D1%8D.png",🇲🇳 | MNB Монголын Мэдээ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MNC.jpg" ,🇲🇳 | MNC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/MovieBox.jpg" ,🇲🇳 | MovieBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/n-sports-mn.png" ,🇲🇳 | N Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Nei%20Monggol%20TV.png" user-agent="Mozilla/5.0",🇲🇳 | Nei Monggol TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/NTV.jpg" ,🇲🇳 | NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Parliament%20TV.png" ,🇲🇳 | Parliament TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/SBN.png" ,🇲🇳 | SBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/Suld.png" ,🇲🇳 | Suld TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/tanin-medekhui-mn.png" ,🇲🇳 | Tanin Medekhüi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/TenGer%20TV.png" ,🇲🇳 | TenGer TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/TV5.jpg" ,🇲🇳 | TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/TV7.jpg" ,🇲🇳 | TV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/TV8.jpg" ,🇲🇳 | TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/TV9.jpg" ,🇲🇳 | TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/UBS.png" ,🇲🇳 | UBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/%D0%A5%D3%A9%D0%B3%D0%B6%D0%B8%D0%BC.png" ,🇲🇳 | Хөгжим
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/%D3%A8%D0%BB%D0%B7%D0%B8%D0%B9%20%D0%A2%D0%92.jpg",🇲🇳 | Өлзий ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
+
+# --- 🔞 Erotiek ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Babes%20TV.png",🔞 | Babes TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Miami%20tv.png",🔞 | Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
