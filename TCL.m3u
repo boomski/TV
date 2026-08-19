@@ -317,3 +317,71 @@ https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Miami%20tv.png",🔞 | Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+
+#EXTINF:-1,🇫🇷 | Angers Télé
+https://live.eu-north-1b.cf.dmcdn.net/sec2(alxZzaB5TnWo7U2wsxtPDDJs9pv39O_k7xsdOFF2Smb1akYarD23CpZkGR-gbqJNsWLb94jmwe00KD3rIlnj9ZQUgSP3HTCJ_8YTYlIXkBABpyO-bj-fq6xi-a52_xoq)/dm/3/x8r7256/s/live-720.m3u8
+
+#EXTINF:-1,🇫🇷 | Le Figaro
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1,🇫🇷 | Maritima TV
+https://live.eu-north-1b.cf.dmcdn.net/sec2(MTRNhMhHi5fHKR-VNcg8RiaZS5B79D9gUATA8z6YU-NuFkQmJb7LZJpJG_piw8_6H63vo9nfxCik31qa1S7gKMLk0-Y01acYt-cG6NMlTx_od8rsvfHGC-z-PkH3UucW)/dm/3/x9sgd82/d/live-720.m3u8
+
+#EXTINF:-1,🇫🇷 | Télénantes
+https://live.eu-north-1a.cf.dmcdn.net/sec2(mzNa5ezfVRSPLz6C9OtJBAg4YsNTBRbe0j3jwqIWgggpRHoQgZfXjZP1LSp1DtLGBPDgSzU2Pvz_rL7_YnrkU_ZXeLdgLHpS-zb6rJTLYAGPE-RNvbGK16ZmhDs4ze_2)/dm/3/x5so98l/d/live-480.m3u8
+
+#EXTINF:-1,🇲🇽 | NRT Internacional
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1,🇫🇷 | Maison & Travaux TV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1,🇫🇷 | Men's UP TV
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1,🇧🇷 | Terraviva
+https://live.eu-north-1a.cf.dmcdn.net/sec2(J8UzN5fRLpGFOenKYdz1ROAZAfnjrYIRf6JO06NeAwth2nf5hwiKpFT-uJDW4JudT8To4Y_fPZd-_71nz-k4oZvsMAvcpZJbpzX60waDXM2ZZqDTxq5IEUrmNVERP4iJ)/dm/3/x8qceqq/s/live-720.m3u8
+
+#EXTINF:-1,🇧🇷 | C3 TV
+https://live.eu-north-1b.cf.dmcdn.net/sec2(0px03sN64nrs3NrEUzUdt2tRze1mJZWfwNqNzUMWyvwTKRrLHy06qAoFpkz6FAi0_AMGKkcA2urO6cfPbdQRp7o5SQv32qwV4SsrNnl1SjmJR3Pn01HctMZXQlF-lQ17)/dm/3/x943w6k/s/live-720.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
+#EXTVLCOPT:http-referrer=https://canlitv.com/brt-1?ulke=cy
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=8cf348f8aafd93a3a9e8f7ce1581a76a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT2.png",🇨🇾 | BRT2
+#EXTVLCOPT:http-referrer=https://canlitv.com/brt-2?ulke=cy
+https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8?hash=8cf348f8aafd93a3a9e8f7ce1581a76a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20tv.png",🇨🇾 | Kıbrıs Tv
+#EXTVLCOPT:http-referrer=https://canlitv.com/kibris-tv?ulke=cy
+https://play.kibristv.com/stream/hls/stream.m3u8?hash=8cf348f8aafd93a3a9e8f7ce1581a76a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20Ada.png",🇨🇾 | Kıbrıs Ada Tv
+#EXTVLCOPT:http-referrer=https://canlitv.com/kibris-ada-tv?ulke=cy
+#EXTVLCOPT:http-origin=https://canlitv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-header=Accept:*/*
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=8cf348f8aafd93a3a9e8f7ce1581a76a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20T.png",🇨🇾 | Kanal T
+#EXTVLCOPT:http-referrer=https://canlitv.com/kanal-t?ulke=cy
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8?hash=8cf348f8aafd93a3a9e8f7ce1581a76a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/abc%20news%20albania.png",🇦🇱 | ABC News Albania
+https://use22.playlist.ttvnw.net/v1/playlist/CskED2_-HnrItim1DCCKHj_yk-l9rAFf7iHPqpPD4RNvnsp_GaX9WOQxbEyv7rsyCZloyD8ArA6YwzbwCfoAMUACAiihxmt-f2tlVd71UysJNcrjimOW5nfDHeItXxWETjMe3lFmJD9YcxlUehT0JXbx22EHnwNQCI16nvtw6NHjG4Q-7oo1AITPlSmcSbQiUzuDa6r9tZjWpwjjdSg0BE99yoOIpVLZXWWZxqTAwwFIfcxBpdT60HqOXgS2TZygEuPv0jTnWnM17kuPbciL45kyVv48zPZS7Uz4Dq8aZ1cXF14L8_4pRFQinMJySI93e6wOFicLrjx3AAA0LpC5VjoiFIztuHR1MurpzSgB7YmEgqg4McNXicqgB0wwPKkyyD0cpt41T0aeGy7pO03RGKCnJ0QzPLnhqsVSID1enQzeo220ffSBs9xMWlxegSDI7RVXd30593Zy3n4JWOHqTMfgWUVF3ZdB7u-7gpP3h63StX0RFcC-WUXAO-L0Tjp1mUQ8zXvn7UWNOoS21YSrRZIanIbdppWPudxnlbTlfF75Z0AaBNZUQFEbCW00EQyJPWtoI68gmacOINIcweBBcfd1C0jh9DrjUld28BhTNJk6FoU0Mm9ucnqabgqCeLMYqjeYxdCP7IBAtKzqG_3yt4Lv5JiXVBoler8yvPJX5TJJ3T8_8k0wGlhPUQQu6MP0tUSZoAg0miietcUN5BJVPCq0jxjJurdEPRG8rNzZQIOAc3KBhIui64owedabxKzAgE8HrEHoScQ58u2iGgz1WBZC0PhPvXc44HMgASoJdXMtZWFzdC0yMO8P.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TopNews.png",🇦🇱 | TopNews
+https://use22.playlist.ttvnw.net/v1/playlist/CtwEVvHRohJ9a4US6LjLVVr1dL776s1J_gIrvu2YBe2-IhJR4CHawQEuvf96Q9xgcyh3NATsofjzH2bqClLazuo0bd7EE4zNYeoO2EPlSJ1-RNN-TLWxsPqibeyHhItPcz71SZcbfTIraJ3fRVpdtUpL-Tu0oEQUq0E4SSnPGOPdB-y9Qj6kwJp0tjwfXMFc8vYFtnzdM9AtN47kY9vOdwWY4phsnVKvyv8Wd2cpq4rWWE6kdnH_hsJiDp1y0JK_XZ5FsMNLFkX4pBysAglii31WlVW0BjeU5pm5u8Ui_GgWsTsfY1ZVazhRSLtUARPVYccgYeIEN7biUmoYmWVAOxBrcdonaNdsY_qzA_XNHRDbSN_RgjaCrPo-WC3T0scV_bFX9Y4aLhEw7ZBZNgjaafi2aBzst_XC0VKDeAGittW3Id_yWS2Q_dKBdxLT9k8jaVOHgoCfOddwT0B1rzvSA1OgSZmHEYuXBK5OmKEOvKbcntUWgGuRKYGx3cYeMv2uz-8F3oX4-_BE9pRZmfYq-R-c8xtkANXZV4bvKiEjdRiPasiPbZsQr-1dqP0DWTlq4gEBlJ1BJoU6dhtA1UuLnulTwfQKO31N6Jbj_uqRUrycJ-xgbtIm-6EWr54lwWB2aUUGAT_cXfEVayrFVUvvRjLXLEl57t_6mfN6L1NZlgPlqbkD5CoLKKNd7YoHYxg8_nbozotICOkzW5zNKEF_fBWLFXSrkCUL97A0TcL2ybdsA9Rx1UuPCc1ND73G_Sfoo9aTJ3LLZKzW0Cf-DCRTnhtOgxNfp-o4OGBYR3ZkEBoMTdsX5I-HW-Ho2-yoIAEqCXVzLWVhc3QtMjDvDw.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mayotte/Kwezi%20TV.png",🇾🇹 | Kwezi TV
+https://use22.playlist.ttvnw.net/v1/playlist/CsUEHhLfWCfQXqL42fUUHRzTEMSHY9Gm2sUJfMYWDf5f9ryiRviBGwjLN-S7HCzmI3brBvet-cNsBfYuvrVyZmx5gydbexwdW5Canu7ud_Fha2WdAL3yvFoMfTl2p1ThRaXprU2gP71mis6VuWsQI9hChIlkotz5AnwkYBno5OldENwMvTNU1Y20O8mama7pFKmAD34JxObWjB338OqzBtzmaYjXCqWPOYfwOie5v_xNn2VHKyReJyulMfGcndON4-HU1lPdL3Wvl6MwhEnlnMymaJeUMOlZsp0PFjQqcqOHrsUtgaQtSfAxQqV0UOSRPbLBDin8ZN_ZDrLm5kmt0EOudx2eD96JO86VERpq5JQWPlW9KVrDeYvRSOh5ys5pnGORrWpgWH58bl6H2bmbiKovaDyaEve_Z83__f6qNwxnU0Th5ss3sfa8RuIFaZtxJX9BgxRo44Dcd9-ue6RYueYP5pA8L46T9JbqqnSjfVAefthbB4JrWbf_MEhsVwF-d8eB3a_V1VigqpaejBLZraE5ul3AANZyodNi77FfGU5xRv9FtPGNbaUBLFTLSfRL5VyWJwCtagPw_9UbJI_JAbgYcRao2HqfTgQ1SbyUNzeufiLZScoDL8EyPkeT-MaUfPg4bsQF-P43vPLYf1R32mODWG0TSenBGT_kMws9-xZ1p8YFCzOpqgrQDDuNjdm5TcWKTGNEcjG_qS6WwBamxLjCOC9x8FPdd12Hx3TGsOtWPqc6wcTh3rKhhplIhWVU421dZa2s3W8aDCMwTOrmkp-fuCLYRiABKgl1cy1lYXN0LTIw7w8.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mayotte/Chiconi%20FM%20TV.png",🇾🇹 | Chiconi FM-TV
+https://use21.playlist.ttvnw.net/v1/playlist/CtkE6AjpLTJz3AORQVkVADNdB2e4MEzuQ3QKeMRLcg4o2ldv4Wq1nxdutBalgsJlCgh93DMJrQWAWgZnoiKqPJAI_UJIzOmmjpLcd3TPRnQXGiM5Db4XeF5HglNV_dvXqoQ2bENXdS68tE_POwx4mG56NwpxJC4A8SRB0ZdSvJYYrQLsQIln_htPaaa57fTdlnrDHg0iPh_tsHjlbi2tzhzbH979XI4iqghpgEBV2jqfCuRmASHfOugwGUfiBma10pp31aBK-FVnCkgHLDeT2F1rQoK700ySQGtJaZzoNQ5dmMcSW7GZsm-lhXrubbUN7rpySXRx19ePxa0ZbmlQDzJRu5ynY8o_Aq3GF52r4769D480BUaU9RzO2M_l98ycgVzYI7_Ejvnps1rP1CImiGykgqdrlduyj50uFlvxNJ-_vbKSQgJfq9VlCj3l3csZKo0Ft_6njT8Xd9u-NmSNsEQZBIixEmceoF-a6qhuzdfjngZYrGYV55azxrZRz8rtDZ-u5N7aXRdWKVoArik6xczEOipHsnibZ9FUDtRbvSxIKa9DOZH9w-mWDDKXv_a6J8HXURrFEOh8Sp9XYYybKJYyLMfeRQmmc6LD6ly2N4jb_UUmieJgPnlc8HF3ePrNkdayI4_nuN71N0D4sf10W4gvgj7KXOoygKmn3p5ByD2YRSMfwi9QA0tvSWqsVv89LnEERtSYZEcPxIC-wZu7L5qMKeVp6DX3SZGFkQCKdbLM6_e9H3VHesu7NtVEBkMO5lekfE1KXAXDe3jQsj6WtFjbVEHoHUUGyj6XUxoMomCAMUJhjJ4zM-t9IAEqCXVzLWVhc3QtMjDvDw.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Acuario%20Television.png",🇨🇴 | Acuario Television
+https://use22.playlist.ttvnw.net/v1/playlist/CtMEJ4PjSRBQK7NJkTOaP3kVptdp03czpQL14y_-jveEPJqazgS2R6-bqRx9drDlNZSgJkwVKyw_NIyoKMYySqzkM5XlZwmNxhtKyRqUujVbhX_kdYWEXK76NYQMQcpvg29F3H_txf1Unoe1RmWoutcokQvUdzWFIwfuiW1CRAxs-sr5bKZskIB7EIXyulbwzL_ShpPOxXnn-u1FpEv84CKXDusyzbE4_Gfz18bYC6ksB5N18ndG_YviQzH4b3YKnh7vhw5qf6im8NsxV4IxHOYZ6A5gWxiYfobMX6FrE9u0QQP6ep9gq-eXrxnMihNBWdnbpd772s49afywOdRG2YkLMRW5C8hGNlccrgTqBDfU9HVg0VQtPRUu2_cWORu-vKpLoAKLJ32RhSF2xgiBn_zmJDQM8_FgkHotJKj7-j3ouVgQsbJ6AGX_5_FfmzBxygctYMbxtcBi5qhRDShq3rRJw88tJB1ksENELkvAS4SRhZv7i8X6Ca_amnf17c7AVRcN9lUB4Z-0IFsz2RlgjTt7-bdFjkTH54jnONU2SoWs0cU1nUvGT00pq7ZGG-O05WVVWJtJlwscLDWe5rtuRmMJCQ2sfu5yWT2CGsDLL883a-sCGmEIXc1Z3DbQK1q0ximIY8pdJ8KzpwMCyOFRPKImDp2TpQcsfPIPiLIHnkNjIqOO49XDHAjSR2kRdPYJann_4oWbNDe82DO-CI0GwFYQEwnz0Ql3t3SuNHrFiX5sQWbq1AodZaY8SZFxfzVKXgPkEFdMEAdYnpa6d7l6ME-icd5y0BoMhq6jkTEwRwIAFIUvIAEqCXVzLWVhc3QtMjDvDw.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Aupan%20TV.png",🇨🇴 | Aupan TV
+https://use21.playlist.ttvnw.net/v1/playlist/CtYESNoR6fn-icKxq61EjNTSF30g3kh1jlnzrE2PVjpVT0SphiB0E4Yaf-rdojQuyLDcLg8-CSQBMc9n4U0BUUXZJBDzMcocF3JD1ThvC0F2x_zd8d7abY3EaBOLRxtmsWyb8HR31HWyjhnxOv-Av8n1TPTmJPB-fMrBAX80xVmTaq8X_33iyaI6lWMfTj4fgt-HJ6ksBgdkVEGZmnRljiW3ec8WoDuxAReENJu_t6DUTsDlO7xc2PGx3PhXY7ZLJobPaftF-Hp1fu6VeO75B8WYQBXf39H9Yug3wtjztxSVqeJBdjD6q_N7_phgmgXLA-PS-K-KBKXElCItrHBTFHT7Adg-IYPZurbp08l9W1vEhYePR3gjm9qhYTINj_ZmW7nfnjCb4D2ppzn3G9ut3KQ6CSqW56ue8EIlmXJFLh9PSAV6hw7a3ywZrydYCz9f3FCcbOCg3SWEp2QvpVdYcY8RtzFb22u70H1ZDgIcH0NbTysopKb0RJTBQ9x_Z5rnMNIUkqj9_pagkIdE_ZOn0QoyO69e3PMgQ6QshEPuELdyCFHs183oXzQLuT_kN3b1tGJw15cmgHoprFiWWXMFu-Y67q3A5FAGHwCOICFH3KFSHX5Imtny4H-m11fODBvwzXm3A0bEl11xmoAB6gDq62T8BkVT8L42CArYuI1OlHvIs1did11bKF3V-2Qb_MOVzMJ0UZkeHhO3YnQ3Jd5m3m-ZXuAEyJaXbRdiVaRsPcCSdcGXEuybry0Nv1GeSPZmfHt70N9qnTFk55VNS0RzVIrfAp9Mq9uZgRoM8I6zm6vh9V-yGrzeIAEqCXVzLWVhc3QtMjDvDw.m3u8
