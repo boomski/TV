@@ -8,7 +8,7 @@ from playwright.sync_api import sync_playwright
 CHANNEL_FILE = "Aftermind_Channels.txt"
 PLAYLIST_FILE = "TCL.m3u"
 
-INSERT_BEFORE = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor.jpg",🇹🇷 | Tivibu Spor 1'
+INSERT_BEFORE = '#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1'
 
 FALLBACK = "https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u"
 
