@@ -95,18 +95,11 @@ https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Luxemburg/RTL%209.png",🇱🇺 | RTL 9
 # --- 🇫🇷 Frankrijk ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Angers%20T%C3%A9l%C3%A9.png",🇫🇷 | Angers Télé
-https://live.eu-north-1b.cf.dmcdn.net/sec2(zg_bGXPMZCyO43ZPxxwGnMQ-9Vd-pJRDSovyS-E48cagFOdbPOMWX_qglX5QdQYYPhE5RtyFqHWDx_DF35KtoNbrOfnlWwNzlyBfIVg8ModJwUaJ7cUdFsSWkcjB4gtc)/dm/3/x8r7256/s/live-720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maritima.png",🇫🇷 | Maritima TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(H3nK2JKL61VmOYVmPygUCO8zTcLVRhaVtakvIQzIwuYuq982fjed5BKpwIUVyKOCXIcKhTsqfsJFyb8WM3UWzoMU8NXxcGy1vs2wMhJJahPoONS7fUOO9rjO4Bu0vncv)/dm/3/x9sgd82/d/live-720.m3u8
-
-#EXTINF:-1 tvg-logo="",🇫🇷 | Télénantes
-https://live.eu-north-1b.cf.dmcdn.net/sec2(EB1wFF7RZhGWdpmkTeTDN_W8CUOFj84WLC0LshEKqhBp-U7Ixx9WUvi-yaSj43iiOYunZxRKs_Gb8uDHUJ5JBkPWJcuZJgbYL7MWMw6LIp1BLdO_-RUQ-SAvZfC4-pgO)/dm/3/x5so98l/d/live-480.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/T%C3%A9l%C3%A9nantes.png",🇫🇷 | Télénantes
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Le%20Figaro%20IDF.png",🇫🇷 | Le Figaro
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Maison%20%26%20Travaux%20TV.png",🇫🇷 | Maison & Travaux TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/mens-up.png",🇫🇷 | Men's UP TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Sony%20One%20Blacklist.png",🇫🇷 | Sony One Blacklist
 https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Sony%20One%20Favoris.png",🇫🇷 | Sony One Favoris 
@@ -153,10 +146,7 @@ https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/
 # --- 🇮🇪 Ierland ---
 
 # --- 🇬🇮 Gibraltar ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Gibraltar/GBC.png",🇬🇮 | GBC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.gbc.gi/watch-live/player
-https://live.vimeocdn.com/1787212149-0x629296081d24fdd7f6f1388e347d8a2d2982d7ea/f2262cc2-1a01-4a53-8114-477ccba2dd64/avc/1080p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC
 https://c.mjh.nz/abc-nsw.m3u8
 # --- 🇳🇿 Nieuw-Zeeland ---
