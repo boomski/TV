@@ -1,0 +1,15 @@
+{
+  "playlist_file": "TCL.m3u",
+  "state_file": ".tcl-auto.json",
+  "sources_file": "countries.json",
+
+  "logo_repo_raw": "https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main",
+  "logo_api": "https://api.github.com/repos/boomski/TV-LOGO/git/trees/main?recursive=1",
+
+  "check_streams": true,
+  "check_workers": 20,
+  "check_timeout_seconds": 12,
+  "request_timeout_seconds": 45,
+
+  "failed_checks_before_remove": 3
+}
