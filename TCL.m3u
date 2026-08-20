@@ -479,6 +479,11 @@ https://mrtvott.com/cache/MRTV-SPORT/m3u8/cache_MRTV-SPORT_m3u8_hls_m3u8_MRTV-SP
 
 # --- 🇾🇹 Mayotte ---
 
+# --- 🇪🇺 Europa ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/EbS.png",🇪🇺 | EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/EbSPlus.png",🇪🇺 | EBS Plus
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 # --- 🔞 Erotiek ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Babes%20TV.png",🔞 | Babes TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
