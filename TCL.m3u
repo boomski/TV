@@ -16,11 +16,25 @@ https://live-streaming.dpgmedia.net/hln-live-srt-mdai62ncqonw1qi0ec81tgeti80mtf/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Bruzz.png",🇧🇪 | Bruzz
 #EXTHTTP:{"referrer":"https://player.cdn01.rambla.be","user-agent":"Mozilla/5.0"}
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b3000000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/La%20Une.png",🇧🇪 |  RTBF La Une
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BX1.png",🇧🇪 | BX1
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/LaUne.png",🇧🇪 | RTBF La Une
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/LaUne.png",🇧🇪 | RTBF La Une
+http://145.239.5.177/329/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/LaUne.png",🇧🇪 | RTBF La Une
+http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Tipik.png",🇧🇪 | RTBF Tipik
+http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/LaTrois.png",🇧🇪 | RTBF La Trois
+http://145.239.5.177/330/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/LaTrois.png",🇧🇪 | RTBF La Trois
+http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RTL%20club.png",🇧🇪 | RTL Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/LN24.png",🇧🇪 | LN24
+https://edge11.vedge.infomaniak.com/livecast/ik:funradiovisionlow/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/ACTV.png",🇧🇪 | Antenne Centre
 #EXTHTTP:{"referrer":"https://www.antennecentre.tv","user-agent":"Mozilla/5.0"}
 https://tvlocales-live.freecaster.com/actv/95d2f733-aa03-42be-aa2d-d51264623b24/95d2f733-aa03-42be-aa2d-d51264623b24.isml/master.m3u8
@@ -52,6 +66,14 @@ https://tvlocales-live.freecaster.com/bouke/95d2f70d-fffd-4fd3-ab04-3d5f65cb8c3b
 https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Notele.png",🇧🇪 | Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/TrendsZ.png",🇧🇪 | Trends Z FR
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/TrendsZ.png",🇧🇪 | Trends Z NL
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BAM-TV.png",🇧🇪 | BAM-TV
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/SterkTV.png",🇧🇪 | Sterk TV
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Earth.png",🇧🇪  | BBC Earth
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcearthbenelux-dash-nlziet/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Eastenders.png",🇧🇪  | BBC Eastenders
@@ -62,6 +84,26 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbclifestyleb
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00793-bbcworldwideltd-bbcdramabenelux-dash-nlziet/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/BBC%20Top%20Gear.png",🇧🇪  | BBC Top Gear
 https://amg00793-amg00793c16-nlziet-nl-8602.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-topgearbenelux-nlzietnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/StuBru.png",🇧🇪 | StuBru
+https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Radio1.png",🇧🇪 | Radio 1
+https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Radio2.png",🇧🇪 | Radio 2
+https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/MNM.png",🇧🇪 | MNM
+https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Klara.png",🇧🇪 | Klara
+https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/QMusic.png",🇧🇪 | Q-Music
+https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/videohls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/JoeFM.png",🇧🇪 | Joe FM
+https://streams.radio.dpgmedia.cloud/redirect/joe_fm/videohls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/RadioContact.png",🇧🇪 | Radio Contact
+https://live-radiocontact.digiteka.com/1564284079/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/FunVision.png",🇧🇪 | Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/JapanimTV.png",🇧🇪 | Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
 # --- 🇳🇱 Nederland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/SBS6%20Classics.png",🇳🇱 | SBS 6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
