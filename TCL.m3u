@@ -1,5 +1,18 @@
 #EXTM3U
 # --- 🇧🇪 België ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VRT%201.png",🇧🇪 | VRT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VRT%20CANVAS.png",🇧🇪 | VRT Canvas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Ketnet.png",🇧🇪 | VRT Ketnet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM.png",🇧🇪 | VTM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%202.png",🇧🇪 | VTM 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%203.png",🇧🇪 | VTM 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%204.png",🇧🇪 | VTM 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%20Gold.png",🇧🇪 | VTM Gold
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/VTM%20Series.png",🇧🇪 | VTM Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Play.png",🇧🇪 | Play
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Play%20Fictie.png",🇧🇪 | Play Fictie
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/Play%20Actie.png",🇧🇪 | Play Actie
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/main/Belgi%C3%AB/Play%20Crime.png",🇧🇪 | Play Crime
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/ATV.png",🇧🇪 | ATV
 https://live.zendzend.com/cmaf/29375_107244/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belgi%C3%AB/ROB%20TV.png",🇧🇪 | ROB TV
@@ -156,13 +169,32 @@ https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Autentic%20Travel.png",🇩🇪 | Autentic Travel
 https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 # --- 🇬🇧 Verenigd Koninkrijk ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/BBC%20Earth.jpg",🇬🇧 | BBC Earth Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/BBC%20Lifestyle.jpg",🇬🇧 | BBC Lifestyle Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/CBeebies%20Asia.jpg",🇬🇧 | CBeebies Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/BBC%20NEWS.png",🇬🇧 | BBC News Asia Pacific
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 # --- 🇺🇸 Verenigde Staten ---
 
 # --- 🇨🇦 Canada ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN1.png",🇨🇦 | TSN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/44/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN2.png",🇨🇦 | TSN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/75/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN3.png",🇨🇦 | TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/71/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN%20The%20Ocho.png",🇨🇦 | TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 # --- 🇨🇭 Zwitserland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/SRF2.png",🇨🇭 | SRF2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -186,7 +218,9 @@ https://7nyaler.streamhostingcdn.top/stream/42/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
 # --- 🇵🇹 Portugal ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/CANAL11.png",🇵🇹 | Canal 11 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/29/index.m3u8
 # --- 🇩🇰 Denemarken ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/DR1.png",🇩🇰 | DR1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -247,19 +281,74 @@ https://i.mjh.nz/.r/maori-tv.m3u8
 # --- 🇬🇮 Gibraltar ---
 
 # --- 🇨🇿 Tsjechië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT%20Sport.jpg",🇨🇿 | CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Sport%201.png",🇨🇿 | Nova Sport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Sport%202.png",🇨🇿 | Nova Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport1.png",🇨🇿 | Sport1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport2.png",🇨🇿 | Sport2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/premier-sport1.png",🇨🇿 | Premier Sport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/premier-sport2.png",🇨🇿 | Premier Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/sporty_tv_logo.jpg",🇨🇿 | Sporty TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT1.png",🇨🇿 | CT1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/%C4%8CT2.png",🇨🇿 | CT2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/ct24.png",🇨🇿 | CT24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova.jpg",🇨🇿 | Nova
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Logo_Nova_Lady_2021.png",🇨🇿 | Nova Lady
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima.jpg",🇨🇿 | Prima
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/prima-max.png",🇨🇿 | Prima MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20Love.jpg",🇨🇿 | Prima Love
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20zoom.jpg",🇨🇿 | Prima Zoom
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/TV%20Barrandov.jpg",🇨🇿 | TV Barrandov
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Polar%20TV.png",🇨🇿 | Polar TV
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/M%C5%88au%20TV.jpeg",🇨🇿 | Mňau TV
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 # --- 🇸🇰 Slowakije ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Jednotka.png",🇸🇰 | Jednotka
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Dvojka.png",🇸🇰 | Dvojka
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/televiziata3_logo.jpg",🇸🇰 | TA3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV8.jpg",🇸🇰 | TV8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV9.png",🇸🇰 | TV9
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20Central.png",🇸🇰 | TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20LocAll.png",🇸🇰 | TV LocAll
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20Mistral.jpeg",🇸🇰 | TV Mistral
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20Nitricka.png",🇸🇰 | TV Nitricka
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Regio%20TV.png",🇸🇰 | Regio TV
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/NZTV.png",🇸🇰 | NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/ducktv.png",🇸🇰 | ducktv 
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/MTR.png",🇸🇰 | Mestská Televízia Ružomberok
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 # --- 🇵🇱 Polen ---
 
 # --- 🇭🇺 Hongarije ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport1.png",🇭🇺 | Sport 1
+http://88.212.15.19/live/sport1_hun/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport2.png",🇭🇺 | Sport 2
+http://88.212.15.19/live/sport2_hun/index.m3u8
 # --- 🇷🇴 Roemenië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Kanal%20D.jpg",🇷🇴 | Kanal D
+https://stream1.kanald.ro/iphone/knd-live_mid/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Kanal%20D2.jpg",🇷🇴 | Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live_mid/index.m3u8
 # --- 🇲🇩 Moldavië ---
 
 # --- 🇺🇦 Oekraïne ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT.jpg",🇺🇦 | XSPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT%2B.png",🇺🇦 | XSPORT+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Espresso.png",🇺🇦 | Еспресо
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
 # --- 🇸🇮 Slovenië ---
 
 # --- 🇭🇷 Kroatië ---
@@ -345,7 +434,13 @@ https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
 # --- 🇸🇬 Singapore ---
 
 # --- 🇭🇰 Hongkong ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%201.png",🇭🇰 | Now Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%202.png",🇭🇰 | Now Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%203.png",🇭🇰 | Now Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%204.png",🇭🇰 | Now Sports 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%205.png",🇭🇰 | Now Sports 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%206.png",🇭🇰 | Now Sports 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%207.png",🇭🇰 | Now Sports 7
 # --- 🇲🇴 Macau ---
 
 # --- 🇮🇩 Indonesië ---
