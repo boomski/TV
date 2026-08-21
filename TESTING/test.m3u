@@ -72,7 +72,7 @@ https://7nyaler.streamhostingcdn.top/stream/27/index.m3u8
 #EXTINF:-1 ,TVP Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
-#EXTINF:-1 ,port?
+#EXTINF:-1 ,11 port?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/29/index.m3u8
 #EXTINF:-1 ,esp?
@@ -121,7 +121,7 @@ https://7nyaler.streamhostingcdn.top/stream/53/index.m3u8
 #EXTINF:-1 ,ESPN Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/54/index.m3u8
-#EXTINF:-1 ,55
+#EXTINF:-1 ,TNT Sports Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/55/index.m3u8
 
@@ -145,7 +145,17 @@ https://7nyaler.streamhostingcdn.top/stream/63/index.m3u8
 #EXTINF:-1 ,MaxSport 1 croatia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/66/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport
-#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/alfa_sports.html
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%201.png",🇭🇰 | Now Sports 1
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112207.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%202.png",🇭🇰 | Now Sports 2
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112206.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%203.png",🇭🇰 | Now Sports 3
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112205.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%204.png",🇭🇰 | Now Sports 4
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112204.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%205.png",🇭🇰 | Now Sports 5
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112203.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%206.png",🇭🇰 | Now Sports 6
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112202.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%207.png",🇭🇰 | Now Sports 7
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112201.m3u8
