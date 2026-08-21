@@ -236,19 +236,24 @@ https://7nyaler.streamhostingcdn.top/stream/16/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/DAZN2.png",🇩🇪 | DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/22/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/dazn-darts-x-pluto-tv_qk10bt0vvuky1ubkj0smkpp0g.jpg",🇩🇪 | DAZN Darts
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/EUROSPORT1.png",🇩🇪 | Eurosport 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/sport1.png",🇩🇪 | Sport 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/More%20Than%20Sports%20TV.png",🇩🇪 | More Than Sports TV 
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/WOF.jpg",🇩🇪 | World of Freesports
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Sportdigital%20FUSSBALL%20HD.png",🇩🇪 | Sportdigital FUSSBALL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Sportdigital%20FUSSBALL%20HD.png",🇩🇪 | Sportdigital FSBL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Scooore-Sportdigital.png",🇩🇪 | Sportdigital Scooore
 https://jmp2.uk/stvp-DEBD260000692
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Free-Sportdigital.png",🇩🇪 | Sportdigital Free
 https://jmp2.uk/stvp-DEAJ0500429A
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/dazn-darts-x-pluto-tv_qk10bt0vvuky1ubkj0smkpp0g.jpg",🇩🇪 | DAZN Darts
-https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/sky-sport-bundesliga.png",🇩🇪 | Sky Sport Bundesliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/37/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/RBTV.png",🇩🇪 | Red Bull TV 
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 # --- 🇬🇧 Verenigd Koninkrijk ---
@@ -330,6 +335,9 @@ https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/RBTV.png",🇦🇹 | Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/SSA.png",🇦🇹 | Sky Sport Austria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/31/index.m3u8
 # --- 🇮🇹 Italië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%20Sport%20HD.png",🇮🇹 | Rai Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -340,6 +348,24 @@ https://7nyaler.streamhostingcdn.top/stream/42/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/DAZN1.png",🇮🇹 | DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/SkySportArena.png",🇮🇹 | Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/7/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/SkySportBasket.png",🇮🇹 | Sky Sport Basket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/SkySportF1.jpg",🇮🇹 | Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/SSC.png",🇮🇹 | Sky Sport Calcio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/SSU.png",🇮🇹 | Sky Sport Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/17/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/SSM.jpg",🇮🇹 | Sky Sports Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
 # --- 🇪🇸 Spanje ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%201.png",🇪🇸 | La 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
