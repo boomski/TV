@@ -606,18 +606,47 @@ https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.strea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/MTR.png",🇸🇰 | Mestská Televízia Ružomberok
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 # --- 🇵🇱 Polen ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP1.png",🇵🇱 | TVP1
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP2.png",🇵🇱 | TVP2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP3%20Warszawa.png",🇵🇱 | TVP 3 Warszawa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/tvp-polonia.png",🇵🇱 | TVP Polonia
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVP%20Sport.png",🇵🇱 | TVP Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Canal%2B_Sport_3.png",🇵🇱 | Canal+ Sport 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/53/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSport1png.png",🇵🇱 | Polsat Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Canal%2B%20Sport%205.png",🇵🇱 | Canal + Sport 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSport1png.png",🇵🇱 | Polsat Sport 1 
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7296/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSport2png.png",🇵🇱 | Polsat Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://7nyaler.streamhostingcdn.top/stream/89/index.m3u8
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7310/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSport3png.png",🇵🇱 | Polsat Sport 3 
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7303/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSportP1.png",🇵🇱 | Polsat Sport Premium 1 
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7304/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatSportP2.png",🇵🇱 | Polsat Sport Premium 2 
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7305/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatRodzina.png",🇵🇱 | Polsat Rodzina 
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7301/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Polsat2.png",🇵🇱 | Polsat 2 
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6084/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Polsat%20News.png",🇵🇱 | Polsat News
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Polsat%20News2.png",🇵🇱 | Polsat News 2
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7297/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/PolsatFilm.png",🇵🇱 | Polsat Film
+http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6086/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Extreme_Sports_Channel.svg.png",🇵🇱 | Extreme Sports Channel Polska
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Antena%20HD.png",🇵🇱 | Antena HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Tele5.png",🇵🇱 | Tele5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVC.png",🇵🇱 | TVC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/TVC-Super.png",🇵🇱 | TVC Super
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Polonia%201.png",🇵🇱 | Polonia 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Szlagier%20TV.png",🇵🇱 | Szlagier TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Polen/Mango.png",🇵🇱 | Mango
+https://cdn-s-lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 # --- 🇭🇺 Hongarije ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Sport1.png",🇭🇺 | Sport 1
 http://88.212.15.19/live/sport1_hun/index.m3u8
