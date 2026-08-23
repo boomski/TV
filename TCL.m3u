@@ -391,6 +391,8 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/ESPND.png",🇺🇸 | ESPN Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/ESPNews.png",🇺🇸 | ESPNews 
+http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/RBTV.png",🇺🇸 | Red Bull TV 
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WeatherSpy.jpg",🇺🇸 | Weather Spy
@@ -409,6 +411,8 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_ch
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WTTG-DT1.png",🇺🇸 | WTTG-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8?wowzasessionid=@iprtlk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/TheWalkTV",🇺🇸 | The Walk TV
+https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 # --- 🇨🇦 Canada ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN1.png",🇨🇦 | TSN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -587,7 +591,12 @@ https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8
 # --- 🇫🇮 Finland ---
 
 # --- 🇮🇸 IJsland ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/RUV.png",🇮🇸 | RUV
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/RUV%202.png",🇮🇸 | RUV 2
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/V%C3%ADsir.jpg",🇮🇸 | Vísir
+https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 # --- 🇮🇪 Ierland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/PremierSports1.png",🇮🇪 | Premier Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -1193,7 +1202,12 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 # --- 🇭🇳 Honduras ---
 
 # --- 🇵🇾 Paraguay ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Tigo_Sports_2025.png",🇵🇾 | Tigo Sports
+http://45.170.130.224:8000/play/a04k/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Tigo%2B.jpg",🇵🇾 | Tigo Sports+
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 # --- 🇵🇪 Peru ---
 
 # --- 🇻🇪 Venezuela ---
@@ -1213,9 +1227,17 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 # --- 🇷🇺 Rusland ---
 
 # --- 🇨🇳 China ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv3.jpg",🇨🇳 | QTV-3
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv4.jpg",🇨🇳 | QTV-4
+http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv5.jpg",🇨🇳 | QTV-5
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/kangbatv.jpg",🇨🇳 | Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
 # --- 🇯🇵 Japan ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/JOTXDTV.png",🇯🇵 | JOTX-DTV
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 # --- 🇰🇷 Zuid-Korea ---
 
 # --- 🇰🇵 Noord-Korea ---
@@ -1224,7 +1246,6 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 # --- 🇸🇬 Singapore ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/HUBSPORTS1.png",🇸🇬 | Hub Sports 1 
-https://sra72yz.s.gy/HUB_SPORTS_1_HD.m3u8
 # --- 🇭🇰 Hongkong ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%201.png",🇭🇰 | Now Sports 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%202.png",🇭🇰 | Now Sports 2
@@ -1423,7 +1444,8 @@ https://mrtvott.com/cache/MRTV-SPORT/m3u8/cache_MRTV-SPORT_m3u8_hls_m3u8_MRTV-SP
 # --- 🇮🇱 Israël ---
 
 # --- 🇮🇳 India ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Epic%20Bharat%20Digital.png",🇮🇳 | Epic Bharat Digital
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 # --- 🇧🇩 Bangladesh ---
 
 # --- 🇦🇫 Afghanistan ---
