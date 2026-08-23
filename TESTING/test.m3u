@@ -4,10 +4,12 @@
 https://7nyaler.streamhostingcdn.top/stream/1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="AXNPoland.pl@SD",ПЕРВЫЙ КАНАЛ HD
+#EXTINF:-1 tvg-logo="",Qaz Sport
 #EXTVLCOPT:http-referrer=https://ritsatv.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://cors-anywhere.froala.com/https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://ritsatv.ru/stream/000003038/tve/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Televid.png",🇨🇴 | Televid
