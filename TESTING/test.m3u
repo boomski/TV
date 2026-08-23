@@ -3,9 +3,45 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/110/index.m3u8
 
+#EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn@SD",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="KangbaTV.cn@SD",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 tvg-id="QTV6.cn@SD",QTV-6
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="QTV3.cn@SD",QTV-3
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="QTV4.cn@SD",QTV-4
+http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rai-Italia.jpg",🇮🇹 | RAI Italia Sud America
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%20World%20Premium.png",🇮🇹 | RAI World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 
+#EXTINF:-1 tvg-id="EpicBharat.in@Digital",Epic Bharat Digital (1080p)
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
 
+#EXTINF:-1 tvg-id="RUV.is@SD",RUV (720p) [Not 24/7]
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8
+
+#EXTINF:-1 tvg-id="TigoSportsPlus.py@SD",Tigo Sports+ (1280p)
+#EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py@SD",Tigo Sports (1080p)
+http://45.170.130.224:8000/play/a04k/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="FaithTV.us@SD",Faith TV (1080p)
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkTV.us@SD",The Walk TV
+https://wggstv16.ddns.net:9953/hls/walk1.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us@SD",SEC Network (1080p)
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="FaithAfrica.za@SD",Faith Africa (1080p)
+https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JOTXDTV.jp@SD",JOTX-DTV
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
