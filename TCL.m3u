@@ -257,6 +257,10 @@ https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Le%20Figaro%20IDF.png",🇫🇷 | Le Figaro
 https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/france24.png",🇫🇷 | France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/france24.png",🇫🇷 | France 24 Français
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 # --- 🇩🇪 Duitsland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ARD.png",🇩🇪 | Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
@@ -373,6 +377,8 @@ https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/IUOAMC.jpg",🇬🇧 | Master Chefs Academy TV
 https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
 # --- 🇺🇸 Verenigde Staten ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/foxnews.png",🇺🇸 | Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/USA_Network_logo_(2016).svg.png",🇺🇸 | USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/68/index.m3u8
@@ -484,10 +490,19 @@ https://7nyaler.streamhostingcdn.top/stream/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rai%201.png",🇮🇹 | Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/42/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rai%202.jpg",🇮🇹 | RAI 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%203.png",🇮🇹 | RAI 3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rai-Italia.jpg",🇮🇹 | RAI Italia Australia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rai-Italia.jpg",🇮🇹 | RAI Italia Sud Africa
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RAI%20Alto%20Adige.png",🇮🇹 | RAI Alto Adige
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Italia%201.png",🇮🇹 | Italia 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rete4.jpg",🇮🇹 | Rete 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Canale%205.png",🇮🇹 | Canale 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/La%207.png",🇮🇹 | La 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Nove.jpg",🇮🇹 | Nove
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/DAZN1.png",🇮🇹 | DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
@@ -515,8 +530,27 @@ https://7nyaler.streamhostingcdn.top/stream/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/SSTE.png",🇮🇹 | Sky Sports Top Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Sport%20Italia.jpg",🇮🇹 | Sport Italia
+https://origin-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/ACI%20SPORT.jpg",🇮🇹 | ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Supertennis.png",🇮🇹 | Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/DMAX.png",🇮🇹 | DMAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Canale%207.png",🇮🇹 | Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/chunklist_w139218648.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/Rete%208%20Sport.png",🇮🇹 | Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist_w.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/TR%20Sport.png",🇮🇹 | TR Sport
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/RTP.png",🇮🇹 | RTP Sicilia
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/peer-tv-suedtirol.png",🇮🇹 | Peer TV Sudtirol
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/peer-tv-alto-adige.png",🇮🇹 | Peer TV Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/peer-tv-south-tyrol.png",🇮🇹 | Peer TV South Tyrol
+https://iptv.peer.biz/live/peertv-en.m3u8
 # --- 🇪🇸 Spanje ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%201.png",🇪🇸 | La 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -545,10 +579,32 @@ https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%20Liga%20Hypermotion.png",🇪🇸 | La Liga Hypermotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/35/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Real%20Madrid%20TV.png",🇪🇸 | Real Madrid TV 
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Antena3INT.png",🇪🇸 | Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/A3S.png",🇪🇸 | A3Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Cuatro.png",🇪🇸 | Cuatro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Telecinco.png",🇪🇸 | Telecinco 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La%20Sexta.png",🇪🇸 | La Sexta 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/La7%20Murcia.png",🇪🇸 | La7 Murcia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TEN.png",🇪🇸 | TEN 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TRECE.png",🇪🇸 | Trece 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Veo7.png",🇪🇸 | Veo7 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/FDF.png",🇪🇸 | FDF 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Divinity.png",🇪🇸 | Divinity
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/energy.png",🇪🇸 | Energy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Mega.png",🇪🇸 | Mega 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Neox.png",🇪🇸 | Neox 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Nova.png",🇪🇸 | Nova 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/BeMad.png",🇪🇸 | BeMad 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Squirrel.png",🇪🇸 | Squirrel 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Squirrel%20Dos.png",🇪🇸 | Squirrel Dos 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/%C3%80%20Punt.png",🇪🇸 | À Punt 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/RBTV.png",🇪🇸 | Red Bull TV  
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zwitserland/FIFA%2B.png",🇪🇸 | FIFA+ 
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Logo_ETB1_On_2026.svg.png",🇪🇸 | ETB 1 On
 https://cdn1.etbon.eus/etb1on/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/etb%202%20on.png",🇪🇸 | ETB 2 On
@@ -557,6 +613,31 @@ https://cdn1.etbon.eus/etb2on/index.m3u8
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/tvgalicia.png",🇪🇸 | TVGalicia
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%20Sur%20Andalucia.png",🇪🇸 | Canal Sur Andalucia
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%20Sur%202.png",🇪🇸 | Canal Sur 2 Andalucia
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%20Sur%20Noticias.png",🇪🇸 | Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Andalucia%20Cocina.png",🇪🇸 | Andalucia Cocina
+https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/RTVC.png",🇪🇸 | RTVC
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TV3CAT.png",🇪🇸 | TV3 CAT
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/3Cat%20Info.png",🇪🇸 | 3Cat Info
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/3Cat%20Cameres%20del%20temps.png",🇪🇸 | 3Cat Cameres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/3Cat%20Plats%20bruts%20.png",🇪🇸 | 3Cat Plats bruts 
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/3Cat%20Vinagreta.jpg",🇪🇸 | 3Cat Vinagreta
+https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/El33.png",🇪🇸 | El 33 International
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/E3.png",🇪🇸 | Esport3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/E3.png",🇪🇸 | Esport3 International
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Aragon%20Deporte.png",🇪🇸 | Aragon Deporte 1
 https://cartv-streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Aragon%20Deporte.png",🇪🇸 | Aragon Deporte 2
@@ -575,6 +656,23 @@ https://cartv-streaming.aranova.es/hls/live/adeportes_deporte7.m3u8
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TAC%2012.png",🇪🇸 | TAC 12
 https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Eltorotv.png",🇪🇸 | El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/El%20Pais.png",🇪🇸 | El Pais TV
+https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Negocios%20TV.png",🇪🇸 | Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Tenerife%2B.jpg",🇪🇸 | Tenerife Plus+ TV
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Canal%2045.png",🇪🇸 | Canal 45
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/M95%20Marbella.png",🇪🇸 | M95 Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Tuya%20La%20Janda%20Television.png",🇪🇸 | Tuya La Janda Television
+https://nimble.tuyapro.es/app/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/El%20Confidencial.png",🇪🇸 | El Confidencial
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Euronews.png",🇪🇸 | Euronews
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/RTVE%20Play.png",🇪🇸 | RTVE Play 1
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve01_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/RTVE%20Play.png",🇪🇸 | RTVE Play 2
@@ -583,22 +681,38 @@ https://rtvelivestream.rtve.es/rtvesec/oca/irtve02_main_1080.m3u8
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve03_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/RTVE%20Play.png",🇪🇸 | RTVE Play 4
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_1080.m3u8
+# --- 🇦🇩 Andorra ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Andorra/ATV.png",🇦🇩 | ATV Andorra
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
 # --- 🇵🇹 Portugal ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/RTP%20INT..jpg",🇵🇹 | RTP Internacional
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/RTP1.jpg",🇵🇹 | RTP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/RTP2.jpg",🇵🇹 | RTP 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/rtp3.png",🇵🇹 | RTP 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpmundo.png",🇵🇹 | RTP Mundo
+#EXTVLCOPT:http-user-agent=IE
+http://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/RTP%20A%C3%A7ores.jpg",🇵🇹 | RTP Açores
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/RTP%20Africa.png",🇵🇹 | RTP Africa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpafrica.png",🇵🇹 | RTP Africa
+#EXTVLCOPT:http-user-agent=IE
+http://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/RTP%20Madeira.jpg",🇵🇹 | RTP Madeira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpmemoria.png",🇵🇹 | RTP Memória
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpn.png",🇵🇹 | RTP Notícias
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpdesporto1.png",🇵🇹 | RTP Desporto 1
+https://streaming-live.rtp.pt/liverepeater/smil:desporto1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rtpdesporto2.png",🇵🇹 | RTP Desporto 2
+https://streaming-live.rtp.pt/liverepeater/smil:desporto2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Portugal/Sportv.png",🇵🇹 | Sport TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/43/index.m3u8
@@ -657,10 +771,20 @@ https://documentaries-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec
 https://top-movies-rakuten-tv-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/rakutenfamilia.png",🇵🇹 | Rakuten Family
 https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/kuriakostv.png",🇵🇹 | Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/kuriakosmusic.png",🇵🇹 | Kuriakos Music
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/cinekuriakos.png",🇵🇹 | Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/kuriakoskids.png",🇵🇹 | Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 # --- 🇩🇰 Denemarken ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/DR1.png",🇩🇰 | DR1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/45/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV_Avisen.svg.png",🇩🇰 | DR TV Avisen
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2Sport.png",🇩🇰 | TV2 Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
@@ -670,6 +794,22 @@ https://7nyaler.streamhostingcdn.top/stream/56/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV3%2B_Denmark_logo_2016.png",🇩🇰 | TV3+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/tv2b-fallback.png",🇩🇰 | TV2 Bornholm
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20Fyn.png",🇩🇰 | TV2 Fyn
+https://livecdn.euw1-0005.jwplive.com/live/sites/LSjEARYN/media/igp9r9oc/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20%C3%98st.jpg",🇩🇰 | TV2 Øst
+https://livecdn.euw1-0005.jwplive.com/live/sites/WLT8BgsI/media/DHG9G8xO/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20%C3%98stjylland.png",🇩🇰 | TV2 Østjylland
+https://livecdn.euw1-0005.jwplive.com/live/sites/nkFvCoRA/media/Crk4qpBM/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV%20Midtvest.png",🇩🇰 | TV Midtvest
+https://livecdn.euw1-0005.jwplive.com/live/sites/vIWOmyHO/media/sDxIi9y6/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/tvs%2B.jpg",🇩🇰 | TV Syd+
+https://livecdn.euw1-0005.jwplive.com/live/sites/ZzdficfW/media/bcZFHqNK/live.isml/.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20Nord%20Salto.png",🇩🇰 | TV2 Nord Salto
+https://content.jwplatform.com/live/broadcast/cJacVMvi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/Kosmopol.jpg",🇩🇰 | TV Kosmopol
+https://content.jwplatform.com/live/broadcast/P9pBJPnp.m3u8
 # --- 🇫🇴 Faroer ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Faro%C3%ABr/KVF.png",🇫🇴 | KVF 1
 https://w-live-edge2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
@@ -1338,6 +1478,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playli
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/ubisofttv.png",🇧🇷 | UbisoftTV
 https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Amazon%20Sat.png",🇧🇷 | Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 # --- 🇨🇴 Colombia ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/rcn-mas.png",🇨🇴 | RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
@@ -1447,10 +1589,21 @@ http://45.170.130.224:8000/play/a04k/index.m3u8?hls
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Union%20TV.png",🇵🇾 | Union Tv
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 # --- 🇵🇪 Peru ---
 
 # --- 🇻🇪 Venezuela ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/A3-SPORTTV.jpg",🇻🇪 | AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/Globovisi%C3%B3n.png",🇻🇪 | Globovision
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/Venevisi%C3%B3n%20Internacional.jpg",🇻🇪 | Venevisión Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/M%C3%A1s%20Talk.jpg",🇻🇪 | Más Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/VPI.jpg",🇻🇪 | VPI TV
+https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-f3c8a7e1-9b42-4f6d-8c1e-2a7d5b90c3e4/index.m3u8
 # --- 🇬🇪 Georgië ---
 
 # --- 🇦🇲 Armenië ---
@@ -1502,7 +1655,12 @@ http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 # --- 🇮🇩 Indonesië ---
 
 # --- 🇹🇭 Thailand ---
-
+# --- 🇵🇭 Filipijnen ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Filipijnen/PremierSports-ph.png",🇵🇭 | Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Filipijnen/PremierSports-2.png",🇵🇭 | Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Filipijnen/Nudge%20Sports.jpg",🇵🇭 | Nudge Sports Network
 # --- 🇲🇳 Mongolië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/aist-global-tv-mn.png" user-agent="Mozilla/5.0",🇲🇳 | AIST Global
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
