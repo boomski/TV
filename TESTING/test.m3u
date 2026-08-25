@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ORF1.at@SD",ORF 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ORF2.at@SD",ORF 2 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8
-
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr@SD",Canal+ Sport 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 
 
 
