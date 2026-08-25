@@ -772,14 +772,29 @@ https://streamnorge.com:8088/hls/tvo.m3u8
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 # --- 🇫🇮 Finland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/YLE%20TV%201.png",🇫🇮 | Yle TV 1
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/YLE%20TV%202.png",🇫🇮 | Yle TV 2
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/MTV3.png",🇫🇮 | MTV3
+https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/MTV%20Ava.png",🇫🇮 | MTV Ava
+https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/MTV%20sub.png",🇫🇮 | MTV Sub
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/JIM.png",🇫🇮 | Jim
+https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/Liv.jpg",🇫🇮 | Liv
+https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/Eveo.jpg",🇫🇮 | Eveo
+https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/Hero.png",🇫🇮 | Hero
+https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/Nelonen.png",🇫🇮 | Nelonen
+https://live-fi.tvkaista.net/nelonen/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/STAR.jpg",🇫🇮 | STAR Channel
+https://live-fi.tvkaista.net/star-channel/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/OnniTV.png",🇫🇮 | Onni TV
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
 # --- 🇮🇸 IJsland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/RUV.png",🇮🇸 | RUV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8
