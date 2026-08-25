@@ -802,6 +802,11 @@ https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/V%C3%ADsir.jpg",🇮🇸 | Vísir
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
+# --- 🇪🇪 Estland ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Estland/ETV.jpg",🇪🇪 | ETV
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Estland/ETV2.png",🇪🇪 | ETV2
+https://sb.err.ee/live/etv2.m3u8
 # --- 🇮🇪 Ierland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/PremierSports1.png",🇮🇪 | Premier Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
