@@ -129,6 +129,8 @@ http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
 https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/Omroep%20Zeeland.png",🇳🇱 | Omroep Zeeland
 https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/OmropFryslân.png",🇳🇱 | Omrop Fryslân
+https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/AT5.png",🇳🇱 | AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/InWild.png",🇳🇱 | InWild  
@@ -137,6 +139,8 @@ https://jmp2.uk/stvp-INBA4900007JX
 https://jmp2.uk/stvp-INBA4900005PV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/InFast.png",🇳🇱 | InFast
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/InTrouble.jpg",🇳🇱 | InTrouble
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/WBN.png",🇳🇱 | Waterbear Network
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
 # --- 🇱🇺 Luxemburg ---
