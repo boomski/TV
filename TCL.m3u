@@ -1732,7 +1732,16 @@ https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Paraguay/Union%20TV.png",🇵🇾 | Union Tv
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 # --- 🇵🇪 Peru ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Peru/TVPE.png",🇵🇪 | TV Peru
+http://190.93.224.42/VIVA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Peru/Willax.png",🇵🇪 | Willax TV
+http://190.93.224.42/WILLAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Peru/Yurivision.png",🇵🇪 | Yurivision
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Peru/Yurimaguas.jpg",🇵🇪 | Yurimaguas TV
+https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Peru/Zeleve.jpg",🇵🇪 | Zeleve TV
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 # --- 🇻🇪 Venezuela ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/A3-SPORTTV.jpg",🇻🇪 | AS3 Sport TV
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
