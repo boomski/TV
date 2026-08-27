@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr@SD",Canal+ Sport 360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe@SD",Karibena
+#EXTVLCOPT:http-referrer=https://karibena.pe/
+http://201.77.61.226:8000/play/a0qd/index.m3u8
+#EXTINF:-1 tvg-id="Latina.pe@SD",Latina
+#EXTVLCOPT:http-referrer=https://latina.pe/
+https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8
 
 
 
