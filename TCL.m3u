@@ -150,6 +150,8 @@ https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
 https://live-edge.rtl.lu/channel2/smil:channel2/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Luxemburg/Apart%20TV.png",🇱🇺 | Apart tv
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Luxemburg/LuxeTV.png",🇱🇺 | Luxe TV
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
 # --- 🇫🇷 Frankrijk ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TF1.png",🇫🇷 | TF1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/tf1sf.png",🇫🇷 | TF1 Series Films
@@ -1783,8 +1785,14 @@ http://stream.mcquack.net/384/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/kangbatv.jpg",🇨🇳 | Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
 # --- 🇯🇵 Japan ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/NHKWJ.png",🇯🇵 | NHK World-Japan HD
+http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/NHKWP.png",🇯🇵 | NHK World Premium
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/JOTXDTV.png",🇯🇵 | JOTX-DTV
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/WNI.png",🇯🇵 | Weathernews
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 # --- 🇰🇷 Zuid-Korea ---
 
 # --- 🇰🇵 Noord-Korea ---
@@ -2014,7 +2022,10 @@ https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 # --- 🇵🇰 Pakistan ---
 
 # --- 🇳🇵 Nepal ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nepal/CapitalTV.png",🇳🇵 | Capital TV HD HD
+https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nepal/RayTV.png",🇳🇵 | Ray TV HD
+https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
 # --- 🇱🇰 Sri Lanka ---
 
 # --- 🇾🇹 Mayotte ---
