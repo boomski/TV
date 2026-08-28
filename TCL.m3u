@@ -1800,11 +1800,15 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 # --- 🇲🇾 Maleisië ---
 
 # --- 🇸🇬 Singapore ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/CNA.jpg",🇸🇬 | Channel NewsAsia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/CNA.jpg",🇸🇬 | Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/meWatch1.png",🇸🇬 | meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/HUBSPORTS1.png",🇸🇬 | Hub Sports 1 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/GlobalTrekker.jpg",🇸🇬 | Global Trekker
 http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/CI.png",🇸🇬 | Crime + Investigation Asia
+http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8
 # --- 🇭🇰 Hongkong ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%201.png",🇭🇰 | Now Sports 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%202.png",🇭🇰 | Now Sports 2
@@ -2020,7 +2024,8 @@ https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 # --- 🇦🇫 Afghanistan ---
 
 # --- 🇵🇰 Pakistan ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Pakistan/MSPORTS.png",🇵🇰 | M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
 # --- 🇳🇵 Nepal ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nepal/CapitalTV.png",🇳🇵 | Capital TV HD HD
 https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
