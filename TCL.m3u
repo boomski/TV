@@ -2080,7 +2080,25 @@ https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 # --- 🇧🇩 Bangladesh ---
 
 # --- 🇦🇫 Afghanistan ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/",🇦🇫 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Lemar%20TV.jpg",🇦🇫 | Lemar TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Tolo%20TV.jpeg",🇦🇫 | Tolo TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Tolo%20News.jpg",🇦🇫 | TOLOnews
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/AMC.png",🇦🇫 | AMC
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Dunya%20naw.png",🇦🇫 | Dunya Naw TV
+https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Eslah.jpg",🇦🇫 | Eslah TV
+https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Tamadon.jpg",🇦🇫 | Tamadon TV
+https://hls.tamadon.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Kayhan%20TV.png",🇦🇫 | Kayhan TV 
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/RTA.jpg",🇦🇫 | RTA
+https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8
 # --- 🇵🇰 Pakistan ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Pakistan/MSPORTS.png",🇵🇰 | M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
