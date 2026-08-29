@@ -764,7 +764,7 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/WLT8BgsI/media/DHG9G8xO/live.is
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20%C3%98stjylland.png",🇩🇰 | TV2 Østjylland
 https://livecdn.euw1-0005.jwplive.com/live/sites/nkFvCoRA/media/Crk4qpBM/live.isml/.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV%20Midtvest.png",🇩🇰 | TV Midtvest
-https://livecdn.euw1-0005.jwplive.com/live/sites/vIWOmyHO/media/sDxIi9y6/live.isml/.mpd
+https://livecdn.euw1-0008.jwplive.com/live/sites/vIWOmyHO/media/TVY4ikTa/live.isml/.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/tvs%2B.jpg",🇩🇰 | TV Syd+
 https://livecdn.euw1-0005.jwplive.com/live/sites/ZzdficfW/media/bcZFHqNK/live.isml/.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/TV2%20Nord%20Salto.png",🇩🇰 | TV2 Nord Salto
@@ -843,10 +843,28 @@ http://stream.mcquack.net/35/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/PremierSports2.png",🇮🇪 | Premier Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 # --- 🇦🇺 Australië ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABCPLUS.png",🇦🇺 | ABC TV Plus 
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABCE.png",🇦🇺 | ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABCNEWS.jpg",🇦🇺 | ABC News 
+https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC TV Australian Capital Territory 
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC TV NSW 
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC
-http://44.32.200.142:5004/auto/v2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC TV NT 
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC TV QLD 
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC TV SA 
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC TV TAS 
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC TV VIC 
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABC.jpg",🇦🇺 | ABC TV WA
+https://c.mjh.nz/abc-wa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/7.png",🇦🇺 | 7 Melbourne
 http://44.32.200.142:5004/auto/v7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/tickerNews.jpg",🇦🇺 | ticker News
