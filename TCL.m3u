@@ -823,8 +823,20 @@ https://sb.err.ee/live/etv2.m3u8
 http://stream.mcquack.net/416/index.m3u8
 # --- 🇱🇹 Litouwen ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/",🇱🇹 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/TV3.png",🇱🇹 | TV3
+http://stream.mcquack.net/29/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/TV6.png",🇱🇹 | TV6
+http://stream.mcquack.net/375/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/TV8.png",🇱🇹 | TV8
+http://stream.mcquack.net/374/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/LNK.png",🇱🇹 | LNK
 http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/LRTTV.png",🇱🇹 | LRT
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/LRTplius.png",🇱🇹 | LRT Plius
+http://stream.mcquack.net/353/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/BTV.png",🇱🇹 | BTV
+http://stream.mcquack.net/35/index.m3u8
 # --- 🇮🇪 Ierland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/PremierSports1.png",🇮🇪 | Premier Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -1885,10 +1897,24 @@ http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/.png",🇷🇺 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/Channel%20One%20Russia.png",🇷🇺 | ПЕРВЫЙ КАНАЛ HD
 https://salam-de-rasc-87.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/TjCF-gRAcvXyxfPiwL0mMg/stream/genetta-319.m9.rutube.ru/3C9c-XTeS-PmutR-wgnSaQ/1788108219/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C.RuSport.jpg",🇷🇺 | Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/OkkoSport.png",🇷🇺 | Okko Sport
+http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/OkkoPrimeSport.png",🇷🇺 | Okko Prime Sport
+http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/TNT.png",🇷🇺 |TNT
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/TV21.png",🇷🇺 | TV 21 International
+http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/FAN.png",🇷🇺 | FAN
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/Law.png",🇷🇺 | Law TV
+http://stream.mcquack.net/406/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/CurrentTime.png",🇷🇺 | Настоящее Время
 http://stream.mcquack.net/384/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/National-Geographic-logo.png",🇷🇺 | National Geographic
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C.RuSport.jpg",🇷🇺 | Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 # --- 🇨🇳 China ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/.jpg",🇨🇳 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv3.jpg",🇨🇳 | QTV-3
@@ -2202,6 +2228,8 @@ http://stream.mcquack.net/295/index.m3u8
 http://stream.mcquack.net/42/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/KanEducational.png",🇮🇱 | Kan Educational
 http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/HotDrama.png",🇮🇱 | Hot Drama
+http://stream.mcquack.net/381/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/GoodLife.png",🇮🇱 | Good Life
 http://stream.mcquack.net/47/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/Hop.png",🇮🇱 | Hop!
