@@ -818,6 +818,10 @@ https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Estland/ETV2.png",🇪🇪 | ETV2
 https://sb.err.ee/live/etv2.m3u8
+# --- 🇱🇹 Litouwen ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/",🇱🇹 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/LNK.png",🇱🇹 | LNK
+http://stream.mcquack.net/30/index.m3u8
 # --- 🇮🇪 Ierland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/PremierSports1.png",🇮🇪 | Premier Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -2028,7 +2032,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 # --- 🇳🇦 Namibië ---
 
 # --- 🇨🇩 Democratische Republiek Congo ---
-
+# --- 🇦🇴 Angola ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/",🇦🇴 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/TV%20Zimbo.png",🇦🇴 | TV Zimbo
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/Muzangala.jpg",🇦🇴 | Muzangala TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/KK.png",🇦🇴 | KK TV Angola
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 # --- 🇺🇬 Oeganda ---
 
 # --- 🇹🇿 Tanzania ---
