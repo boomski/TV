@@ -814,10 +814,13 @@ https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/V%C3%ADsir.jpg",🇮🇸 | Vísir
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 # --- 🇪🇪 Estland ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Estland/.png",🇪🇪 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Estland/ETV.jpg",🇪🇪 | ETV
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Estland/ETV2.png",🇪🇪 | ETV2
 https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Estland/GO3Sport1.png",🇪🇪 | Go3 Sport 1
+http://stream.mcquack.net/416/index.m3u8
 # --- 🇱🇹 Litouwen ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/",🇱🇹 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Litouwen/LNK.png",🇱🇹 | LNK
@@ -2186,7 +2189,23 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 # --- 🇱🇧 Libanon ---
 
 # --- 🇮🇱 Israël ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/.png",🇮🇱 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/5Sport.png",🇮🇱 | 5Sport
+http://stream.mcquack.net/41/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/Kan11Logo.svg.png",🇮🇱 | Kan 11
+http://stream.mcquack.net/293/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/Keshet12.png",🇮🇱 | Keshet 12
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/Reshet13.png",🇮🇱 | Reshet 13
+http://stream.mcquack.net/295/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/24.png",🇮🇱 | Channel 24
+http://stream.mcquack.net/42/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/KanEducational.png",🇮🇱 | Kan Educational
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/GoodLife.png",🇮🇱 | Good Life
+http://stream.mcquack.net/47/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/Hop.png",🇮🇱 | Hop!
+http://stream.mcquack.net/44/index.m3u8
 # --- 🇮🇳 India ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Star%20Sports%201.png",🇮🇳 | Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
