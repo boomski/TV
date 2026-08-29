@@ -1851,6 +1851,8 @@ https://edge-de-04.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure-web.smil/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lives.atv.az:5443/ATV_TV_STREAM/play.html?id=atvcanli&playOrder=hls
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Dunya.jpg",🇦🇿 | Dünya TV
+https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Xezer%20TV.jpg",🇦🇿 | Xezer TV
 https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/ARB.jpg",🇦🇿 | ARB
