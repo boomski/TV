@@ -1793,7 +1793,33 @@ https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-f3c8a7e1-9b42-4f6d-
 # --- 🇬🇪 Georgië ---
 
 # --- 🇦🇲 Armenië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/",🇦🇲 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Armenia1.png",🇦🇲 | Armenia 1 
+https://ifl01eu-new.bozztv.com/am1abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Armenia1US.jpeg",🇦🇲 | Armenia 1 America 
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Armenia1.png",🇦🇲 | Armenia 1 Sattelite
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Armenia2.png",🇦🇲 | Armenia 2 
+https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/FirstChannelNews.png",🇦🇲 | First Channel News 
+https://amtvusdvr.tulix.tv/am3abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Armenia1Premium.jpg",🇦🇲 | Armenia Premium 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/123/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/ArmeniaTVSAT.png",🇦🇲 | Armenia TV Satellite 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/175/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/ATV.png",🇦🇲 | ATV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/36/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Kentron.png",🇦🇲 | Kentron TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/39/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Shant.png",🇦🇲 | Shant TV
+http://stream.mcquack.net/37/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/ARTN.png",🇦🇲 | ARTN TV 
+https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 # --- 🇦🇿 Azerbeidjan ---
 
 # --- 🇰🇿 Kazachstan ---
