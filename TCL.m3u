@@ -1795,7 +1795,7 @@ https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Venezuela/VPI.jpg",🇻🇪 | VPI TV
 https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-f3c8a7e1-9b42-4f6d-8c1e-2a7d5b90c3e4/index.m3u8
 # --- 🇬🇪 Georgië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/",🇬🇪 | 
 # --- 🇦🇲 Armenië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/",🇦🇲 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Armenia1.png",🇦🇲 | Armenia 1 
@@ -1825,14 +1825,52 @@ http://stream.mcquack.net/37/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/ARTN.png",🇦🇲 | ARTN TV 
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 # --- 🇦🇿 Azerbeidjan ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/.png",🇦🇿 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/CBC_Azerbaijan_Logo.png",🇦🇿 | CBC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Az.png",🇦🇿 | Az TV
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Medinyet.png",🇦🇿 | Medeniyyet TV
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Naxcivan.png",🇦🇿 | Naxcivan TV
+https://str2.yodacdn.net/ntv/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/kanal35.png",🇦🇿 | Kanal 35
+https://str2.yodacdn.net/kanal35/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/KanalS.png",🇦🇿 | Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Vilayet.png",🇦🇿 | Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/APA.png",🇦🇿 | APA Tv
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Ayaz.png",🇦🇿 | Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/AnewZ.png",🇦🇿 | AnewZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Xezer%20TV.jpg",🇦🇿 | Xezer TV
+https://www.xezerxeber.az/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/ARB.jpg",🇦🇿 | ARB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/ARB_24.png",🇦🇿 | ARB 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/ARB_G%C3%BCn%C9%99%C5%9F_logo.png",🇦🇿 | ARB Gunes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Baku%20TV.jpg",🇦🇿 | Baku TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Azstar%20TV.png",🇦🇿 | Azstar TV HD
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/itv.png",🇦🇿 | Ictimai TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Kapaz%20TV.png",🇦🇿 | Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/VIP.jpg",🇦🇿 | VIP TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/KNM.png",🇦🇿 | KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Azerbeidjan/Alvin%20Channel%20TV.png",🇦🇿 | Alvin Channel TV
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 # --- 🇰🇿 Kazachstan ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kazachstan/.png",🇰🇿 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kazachstan/QazSport.png",🇰🇿 | QAZ Sports HD
+http://stream.mcquack.net/72/index.m3u8
 # --- 🇰🇬 Kirgizië ---
 
 # --- 🇧🇾 Wit-Rusland ---
 
 # --- 🇷🇺 Rusland ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/.png",🇷🇺 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/Channel%20One%20Russia.png",🇷🇺 | ПЕРВЫЙ КАНАЛ HD
 https://salam-de-rasc-87.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/TjCF-gRAcvXyxfPiwL0mMg/stream/genetta-319.m9.rutube.ru/3C9c-XTeS-PmutR-wgnSaQ/1788108219/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C.RuSport.jpg",🇷🇺 | Астрахань.Ru Sport
@@ -1840,12 +1878,14 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/CurrentTime.png",🇷🇺 | Настоящее Время
 http://stream.mcquack.net/384/index.m3u8
 # --- 🇨🇳 China ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/.jpg",🇨🇳 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv3.jpg",🇨🇳 | QTV-3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv4.jpg",🇨🇳 | QTV-4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv5.jpg",🇨🇳 | QTV-5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/kangbatv.jpg",🇨🇳 | Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
 # --- 🇯🇵 Japan ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/.png",🇯🇵 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/NHKWJ.png",🇯🇵 | NHK World-Japan HD
 http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/NHKWP.png",🇯🇵 | NHK World Premium
