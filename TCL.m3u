@@ -2580,6 +2580,10 @@ https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/ORTB.png",🇧🇯 | ORTB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
 https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/BTVJunior.jpg",🇧🇯 | Bénin TV Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webcast.streamakaci.com/
+https://srtblive.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_720p/chunks_dvr.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/LNM.jpg",🇧🇯 | Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/KassouaTV.png",🇧🇯 | KassouaTV
@@ -2588,6 +2592,8 @@ https://playtv4k.live/live/kassouatv/index.m3u8
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/ICONE.jpg",🇧🇯 | ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/Power.png",🇧🇯 | Power TV
+https://stream.it-innov.com/powertv/index.fmp4.m3u8
 # --- 🇨🇲 Kameroen ---
 
 # --- 🇦🇴 Angola ---
