@@ -1771,6 +1771,10 @@ https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8
 https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
 # --- 🇧🇶 Bonaire ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bonaire/.png",🇧🇶 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bonaire/NOSbonaire.png",🇧🇶 | NOS TV Bonaire
+https://stream1.nostvbonaire.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bonaire/NOSbonaire.png",🇧🇶 | NOS TV Bonaire 2 
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bonaire/Bonaire.png",🇧🇶 | Bonaire.tv
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bonaire/Energia.jpg",🇧🇶 | Energia TV
