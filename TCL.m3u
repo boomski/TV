@@ -1605,6 +1605,12 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/.png",🇧🇦 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/A2P.png",🇧🇦 | Arena 2 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/RTRS%20TV.png",🇧🇦 | RTRS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-referrer=https://www.rtrs.tv/
+https://parh.rtrs.tv/tv/live/chunklist_w1786493777.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/SuperTVMedia.png",🇧🇦 | Super TV Media
+https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Televizija%205.png",🇧🇦 | Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Televizija%20M.png",🇧🇦 | Televizija M 
@@ -1616,15 +1622,20 @@ https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/RTV%20Zenica.png",🇧🇦 | RTV Zenica
 https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Slonextra.jpg",🇧🇦 | RTV Slon Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-referrer=https://live.rtvslon.ba/
+https://live.rtvslon.ba/live/tv/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Sloninfo.jpg",🇧🇦 | RTV Slon Info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-referrer=https://live.rtvslon.ba/
+https://live.rtvslon.ba/live/sloninfo/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat.png",🇧🇦 | Hayat
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat%20Plus.png",🇧🇦 | Hayat Plus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat%20Music.png",🇧🇦 | Hayat Music
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat%20Folk.png",🇧🇦 | Hayat Folk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayatovci.png",🇧🇦 | Hayatovci
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/RTRS%20TV.png",🇧🇦 | RTRS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-#EXTVLCOPT:http-referrer=https://www.rtrs.tv/
-https://parh.rtrs.tv/tv/live/chunklist_w1786493777.m3u8
+
 # --- 🇷🇸 Servië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/A1P.png",🇷🇸 | Arena 1 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
