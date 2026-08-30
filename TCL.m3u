@@ -2108,7 +2108,11 @@ http://stream.mcquack.net/72/index.m3u8
 # --- 🇰🇬 Kirgizië ---
 
 # --- 🇧🇾 Wit-Rusland ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Wit-Rusland/.png",🇧🇾 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Wit-Rusland/Belarus1.png",🇧🇾 | Belarus-1
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Wit-Rusland/Belarus%205.png",🇧🇾 | Belarus-5 HD
+http://stream.mcquack.net/33/index.m3u8
 # --- 🇷🇺 Rusland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/.png",🇷🇺 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.jpg",🇷🇺 | Россия 1
