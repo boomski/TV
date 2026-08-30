@@ -2374,7 +2374,10 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 # --- 🇰🇷 Zuid-Korea ---
 
 # --- 🇰🇵 Noord-Korea ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noord-Korea/Korean%20Central%20Television.png",🇰🇵 | Korean Central Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+https://streamer.nknews.org/tvhls/stream.m3u8
 # --- 🇲🇾 Maleisië ---
 
 # --- 🇸🇬 Singapore ---
@@ -2657,11 +2660,32 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 # --- 🇶🇦 Qatar ---
 
 # --- 🇧🇭 Bahrein ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bahrein/Bahrain_tv.png",🇧🇭 | Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bahrein/Bahrain%20INT.%20TV.jpg",🇧🇭 | Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bahrein/Bahrain%20Sports%20TV.jpg",🇧🇭 | Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bahrein/Bahrain%20Sports%20TV.jpg",🇧🇭 | Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bahrein/Bahrain%20Quran.jpg",🇧🇭 | Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 # --- 🇴🇲 Oman ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oman/Oman%20TV.png",🇴🇲 | Oman TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oman/oman-tv-sport.png",🇴🇲 | Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oman/Oman%20Althakafia.png",🇴🇲 | Oman Althakafia
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oman/Oman%20Mubashir.jpg",🇴🇲 | Oman Mubashir
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oman/Alistiqama%20TV.jpg",🇴🇲 | Alistiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 # --- 🇯🇴 Jordanië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Jordan%20Sport.png",🇯🇴 | Jordan Sport 
+http://93.184.10.248/JordanSport/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Royatv.png",🇯🇴 | Roya TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Roya%20Kitchen.jpg",🇯🇴 | Roya Kitchen
 # --- 🇱🇧 Libanon ---
 
 # --- 🇮🇱 Israël ---
