@@ -895,6 +895,8 @@ http://stream.mcquack.net/35/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/PremierSports2.png",🇮🇪 | Premier Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/TG4.jpg",🇮🇪 | TG4
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
 # --- 🇦🇺 Australië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/",🇦🇺 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABCPLUS.png",🇦🇺 | ABC TV Plus 
@@ -1578,6 +1580,12 @@ https://tezaurtv.md/stream/index.m3u8
 https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 # --- 🇺🇦 Oekraïne ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/",🇺🇦 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/SETANTA.png,🇺🇦 | Setanta Sports 1 Eurasia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/SETANTA.png,🇺🇦 | Setanta Sports 2 Eurasia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT.jpg",🇺🇦 | XSPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/XSPORT%2B.png",🇺🇦 | XSPORT+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Espresso.png",🇺🇦 | Еспресо
@@ -2231,7 +2239,7 @@ https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 https://edge.enhdtv.com/tvoff/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/FAP.png",🇧🇴 | FAP TV
 https://edge.enhdtv.com/faptv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/TransMedia.jpg",🇧🇴 | TransMedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/TransMedia.jpeg",🇧🇴 | TransMedia
 https://edge.enhdtv.com/8064/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/TVUSucre.png",🇧🇴 | TVU Sucre
 https://edge.enhdtv.com/8214/index.m3u8
@@ -2251,7 +2259,7 @@ http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Gigavision.png",🇧🇴 | Gigavision
 https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Zuraca.jpg",🇧🇴 | Zuraca TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Zuraca.jpeg",🇧🇴 | Zuraca TV
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/TELE6.png",🇧🇴 | TELE 6
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
@@ -2277,7 +2285,7 @@ https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd321166884522124
 https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/REDDTV.png",🇧🇴 | Red DTV
 http://15.204.246.24:8080/DTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/RedRubi.jpg",🇧🇴 | Red Rubi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/RedRubi.jpeg",🇧🇴 | Red Rubi
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Imperial.png",🇧🇴 | Imperial TV
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
@@ -2289,7 +2297,7 @@ http://45.5.118.152:8000/play/a08z/index.m3u8
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Dmoda.png",🇧🇴 | Dmoda Channel
 https://master.tucableip.com/dmoda/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/ELDEBER.jpg",🇧🇴 | EL DEBER
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/ELDEBER.jpeg",🇧🇴 | EL DEBER
 https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/FTV.png",🇧🇴 | FTV
 https://master.tucableip.com/ftvhd/index.m3u8
