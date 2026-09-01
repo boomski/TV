@@ -2165,14 +2165,34 @@ http://204.199.3.2/.m3u8
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 # --- 🇧🇷 Brazilië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/.png",🇧🇷 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Sportv3.png",🇧🇷 | SporTV 3
+http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Nsports.png",🇧🇷 | N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/SBTInterior.png",🇧🇷 | SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Canal_Gov_Logo.png",🇧🇷 | Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/BAND.png",🇧🇷 | Band
 http://45.190.28.50/BAND_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Band%20Sports.jpg",🇧🇷 | Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/BandNews.png",🇧🇷 | BandNews
+http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TERRAVIVA-mobile1.png",🇧🇷 | Terraviva
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/SIC.png",🇧🇷 | SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TBC.png",🇧🇷 | TV Brasil Central
+https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TVE.png",🇧🇷 | TVE
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/RBTV.png",🇧🇷 | Red Bull TV 
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/fueltv.png",🇧🇷 | Fuel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/AXN.png",🇧🇷 | AXN 
+http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/mtmn.png",🇧🇷 | MyTime Movie Network
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/ubisofttv.png",🇧🇷 | UbisoftTV
@@ -2180,6 +2200,17 @@ https://ubl-ut-samsung.otteravision.com/ubl/ut/ut.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/AWTV.png",🇧🇷 | AWTV
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/UMA%20TV.jpg",🇧🇷 | UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/IMPD.jpg",🇧🇷 | IMPD TV Worldwide
+#EXTVLCOPT:http-referrer=https://igrejamundial.nuvemplay.live
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RedeBrasil.png",🇧🇷 | Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Rede%20Gospel.png",🇧🇷 | Rede Gospel
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RedeTVMais.png",🇧🇷 | Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Amazon%20Sat.png",🇧🇷 | Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Arte1.png",🇧🇷 | Arte 1
@@ -2190,10 +2221,39 @@ http://45.162.64.114/AGRO_CANAL/index.m3u8
 http://45.162.64.114/AGROMAIS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Adesso%20TV.png",🇧🇷 | Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TVACritica.png",🇧🇷 | TV A Critica 
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/BR8%20TV.jpg",🇧🇷 | BR8
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RBATV.png",🇧🇷 | RBATV
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Canal%2038.jpg",🇧🇷 | Canal 38
+https://cdn.live.br1.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/AratuOn.png",🇧🇷 | Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Boas%20Novas.png",🇧🇷 | Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Classique%20TV.png",🇧🇷 | Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/COM%20Brasil%20TV.png",🇧🇷 | COM Brasil TV
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Geekdot.jpg",🇧🇷 | Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TV%20Interior.jpg",🇧🇷 | TV Interior
+https://live.tvinterior.com.br/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Canal%20Sa%C3%BAde.jpg",🇧🇷 | Canal Saúde
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Fonte%20TV.jpg",🇧🇷 | Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TV%20Tropical.jpeg",🇧🇷 | TV Tropical
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Canal%2010%20Cabo%20Frio.png",🇧🇷 | Canal 10 Cabo Frio TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/ArarunaTV.png",🇧🇷 | Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Bem%20Mais%20TV.jpg",🇧🇷 | Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Masterchef.png",🇧🇷 | Mais MasterChef Brasil
+https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 # --- 🇨🇴 Colombia ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/rcn-mas.png",🇨🇴 | RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
