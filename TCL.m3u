@@ -1635,6 +1635,8 @@ http://stream.mcquack.net/341/index.m3u8
 http://stream.mcquack.net/327/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Espresso.png",🇺🇦 | Еспресо
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/RAZ3.png",🇺🇦 | RAZ 3 International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/WEUkraineTV.png",🇺🇦 | WE Ukraine TV
 http://stream.mcquack.net/442/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/PVplus.png",🇺🇦 | PV+
@@ -1666,6 +1668,8 @@ http://stream.mcquack.net/283/index.m3u8
 http://stream.mcquack.net/285/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/FASHION.png",🇺🇦 | Fashion TV 
 http://stream.mcquack.net/287/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/FASHION.png",🇺🇦 | Fashion TV 
+http://stream.mcquack.net/288/index.m3u8
 # --- 🇸🇮 Slovenië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Sloveni%C3%AB/TV%20SLO%201.png",🇸🇮 | TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
@@ -1892,6 +1896,8 @@ https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
 # --- 🇲🇽 Mexico ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/AztecaUno.jpg",🇲🇽 | Azteca Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/Aztecadeporteslogo.png",🇲🇽 | Azteca Deportes Network
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/AYM3.png",🇲🇽 | AYM Sports 3
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/Bein-Sports-Xtra.png",🇲🇽 | BeIN Sports XTRA Ñ
@@ -2196,6 +2202,8 @@ http://45.190.28.50/BAND_HD/index.m3u8
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/BandNews.jpg",🇧🇷 | BandNews
 http://45.162.64.114/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/PlayTV.png",🇧🇷 | Play TV
+http://45.162.64.114/PLAY_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/WooHoo.png",🇧🇷 | WooHoo
 http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TERRAVIVA-mobile1.png",🇧🇷 | Terraviva
@@ -2272,6 +2280,8 @@ http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Adesso%20TV.png",🇧🇷 | Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/NTV.png",🇧🇷 | NTV
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TVACritica.png",🇧🇷 | TV A Critica 
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/BR8%20TV.jpg",🇧🇷 | BR8
@@ -2291,6 +2301,11 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/ForaTedioTV.png",🇧🇷 | Fora Tedio TV 
 #EXTVLCOPT:http-referrer=https://www.foratedio.com
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/NickOnlineHD.png",🇧🇷 | NickOnline HD
+https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/NickToonsBrasil.png",🇧🇷 | NickToons Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/GospelCartoon.png",🇧🇷 | Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/GospelMovieTV.png",🇧🇷 | Gospel Movie TV
@@ -2326,6 +2341,8 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/TV%20Tropical.jpeg",🇧🇷 | TV Tropical
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Canal%2010%20Cabo%20Frio.png",🇧🇷 | Canal 10 Cabo Frio TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/PetloversTV.png",🇧🇷 | Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/ArarunaTV.png",🇧🇷 | Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RS_SPORTS.png",🇧🇷 | RS Sports
@@ -2354,16 +2371,29 @@ https://br.conectmy.com.br/DespertarTV/index.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/FalaLitoral.png",🇧🇷 | Fala Litoral 
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/NovaEra.png",🇧🇷 | Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/NovoTempo.png",🇧🇷 | Novo Tempo
+http://45.162.64.114/NOVO_TEMPO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/CulturaFast.png",🇧🇷 | Cultura Fast
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/KpopTVPlay.png",🇧🇷 | KpopTV Play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Masterchef.png",🇧🇷 | Mais MasterChef Brasil
 https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/.png",🇧🇷 | 
 # --- 🇨🇴 Colombia ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/SenalCol.png",🇨🇴 | Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/RCNHD2.png",🇨🇴 | RCN HD2
+#EXTINF:-1 tvg-id="RCNHD2.co@SD",RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/rcn-mas.png",🇨🇴 | RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/RCNNOVELAS.png",🇨🇴 | RCN Novelas
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Telemedell%C3%ADn.png",🇨🇴 | Telemedellín
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
@@ -2400,60 +2430,38 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/STREAMFORCE360.png",🇨🇴 | StreamForce 360
+https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 # --- 🇨🇱 Chili ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/Canal13.png",🇨🇱 | Canal 13
-http://cdn1tlinkgo.tlink.cl/canal13hd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/13c.png",🇨🇱 | 13C 
-http://cdn1tlinkgo.tlink.cl/13c/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/13rec.png",🇨🇱 | 13Rec 
-http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TVN.png",🇨🇱 | TVN HD
-http://cdn1tlinkgo.tlink.cl/tvnhd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TVN.png",🇨🇱 | TVN 
-https://iptv.bitred.cl/tvn/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TVN3.png",🇨🇱 | TVN3 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/Mega.png",🇨🇱 | Mega 
-http://cdn1tlinkgo.tlink.cl/megahd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/Mega2.png",🇨🇱 | Mega 2 
-http://cdn1tlinkgo.tlink.cl/mega2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/MegaFiccion.png ",🇨🇱 | Mega Ficcion 
-http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/MeganoticiasAhora.png",🇨🇱 | Meganoticias Ahora 
-http://cdn1tlinkgo.tlink.cl/meganoticias/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/Megatiempo.png",🇨🇱 | Megatiempo 
-http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/CDO.png",🇨🇱 | CDO 
-http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/NTV.jpg",🇨🇱 | NTV 
-http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/ETC.png",🇨🇱 | ETC TV 
-http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/24.png",🇨🇱 | 24 Horas 
-http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/ChileVision.png",🇨🇱 | ChileVision 
-http://cdn1tlinkgo.tlink.cl/chvhd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/CanalCHVNoticias.png",🇨🇱 | Canal CHV Noticias 
-http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TVplus.png",🇨🇱 | TV+
-http://cdn1tlinkgo.tlink.cl/tvmashd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/UCV.png",🇨🇱 | UCV TV 
-http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/LaRed.png",🇨🇱 | La Red 
-http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/DHE.png",🇨🇱 | DHE
-https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/ViaX.jpg",🇨🇱 | Via X 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TVR.png",🇨🇱 | TVR 
-http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TVSenado.jpg",🇨🇱 | TV Senado 
-http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/BioBio.png",🇨🇱 | Bio Bio TV 
-http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/EP.jpg",🇨🇱 | El Pinguino TV
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/NT.png",🇨🇱 | Nuevo Tiempo TV 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TVU.png",🇨🇱 | TVU 
-http://cdn1tlinkgo.tlink.cl/tvu/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/SUR.png",🇨🇱 | SUR TV 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TeleTrak.jpg",🇨🇱 | Teletrak TV 
 https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
@@ -2542,10 +2550,14 @@ https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/CadenaA.png",🇧🇴 | Cadena A 
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Reduno.jpg",🇧🇴 | Red Uno Santa Cruz
-http://190.181.18.82:4111/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Reduno.jpg",🇧🇴 | Red Uno
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Reduno.jpg",🇧🇴 | Red Uno 
+http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Reduno.jpg",🇧🇴 | Red Uno La Paz 
+http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/Reduno.jpg",🇧🇴 | Red Uno Santa Cruz
+http://190.181.18.82:4111/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/RedAmericaTV.png",🇧🇴 | Red America TV
 https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bolivi%C3%AB/REDDTV.png",🇧🇴 | Red DTV
@@ -2791,12 +2803,24 @@ https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Japan/WNI.png",🇯🇵 | Weathernews
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 # --- 🇰🇷 Zuid-Korea ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Korea/ArirangTV.png",🇰🇷 | Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Korea/ArirangTV.png",🇰🇷 | Arirang TV UN
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Korea/KBS%20World.png",🇰🇷 | KBS World
+#EXTVLCOPT:http-referrer=https://cinerama.uz/
+https://stream8.cinerama.uz/1448/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Korea/NBS.png",🇰🇷 | NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Korea/ABN.png",🇰🇷 | ABN TV
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
 # --- 🇰🇵 Noord-Korea ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noord-Korea/Korean%20Central%20Television.png",🇰🇵 | Korean Central Television
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kcnawatch.org/
-https://streamer.nknews.org/tvhls/stream.m3u8
+https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noord-Korea/Ryongnamsan.png",🇰🇵 | Ryongnamsan Television SD
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noord-Korea/Sports.png",🇰🇵 | Sports Television
+https://kctv.koryofront.org/stream/sports/index.m3u8
 # --- 🇲🇾 Maleisië ---
 
 # --- 🇸🇬 Singapore ---
