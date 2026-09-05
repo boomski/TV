@@ -903,6 +903,8 @@ https://w-live-edge2.kringvarp.fo/radio2/_definst_/smil:radio2.smil/playlist.m3u
 https://streamnorge.com:8088/hls/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noorwegen/Canal%20Motor.jpg",🇳🇴 | Canal Motor
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Noorwegen/Miracle.png",🇳🇴 | Miracle TV 
+https://live.miracleonline.org/hls/miracle1.m3u8
 # --- 🇫🇮 Finland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/YLE%20TV%201.png",🇫🇮 | Yle TV 1
 https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
@@ -928,6 +930,14 @@ https://live-fi.tvkaista.net/nelonen/live.m3u8
 https://live-fi.tvkaista.net/star-channel/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Finland/OnniTV.png",🇫🇮 | Onni TV
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
+# --- 🇸🇪 Zweden ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zweden/RUV.png",🇸🇪 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zweden/Di.png",🇸🇪 | Di TV 
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zweden/Expressen.png",🇸🇪 | Expressen TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zweden/ATGLive.png",🇸🇪 | ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 # --- 🇮🇸 IJsland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ijsland/RUV.png",🇮🇸 | RUV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8
@@ -1959,6 +1969,12 @@ https://tv.pointville.ag/hls/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Barbados/.png",🇧🇧 |
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Barbados/CBC8.png",🇧🇧 | CBC TV8
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+# --- 🇧🇸 Bahamas ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bahamas/ZNS.png",🇧🇸 | ZNS-TV
+https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
+# --- 🇧🇿 Belize ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belize/Guadalupe_Media_Logo.png",🇧🇿 | Guadalupe Media
+https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 # --- 🇨🇺 Cuba ---
 
 # --- 🇩🇴 Dominicaanse Republiek ---
@@ -3418,6 +3434,8 @@ https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Pakistan/JeremiahTV.png",🇵🇰 | Jeremiah TV
 https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Pakistan/MissionAsia.jpg",🇵🇰 | Mission Asia
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 # --- 🇳🇵 Nepal ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nepal/CapitalTV.png",🇳🇵 | Capital TV HD HD
 https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
