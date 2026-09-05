@@ -140,6 +140,8 @@ https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoc
 https://jmp2.uk/stvp-INBA4900007JX 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/InWonder.png",🇳🇱 | InWonder
 https://jmp2.uk/stvp-INBA4900005PV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/InWonder.png",🇳🇱 | InWonder
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/InFast.png",🇳🇱 | InFast
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Nederland/InTrouble.jpg",🇳🇱 | InTrouble
@@ -774,6 +776,50 @@ https://rtvelivestream.rtve.es/rtvesec/oca/irtve02_main_1080.m3u8
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve03_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/RTVE%20Play.png",🇪🇸 | RTVE Play 4
 https://rtvelivestream.rtve.es/rtvesec/oca/irtve04_main_1080.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/BBCSeries.png",🇪🇸 | BBC Series
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Action Movies Spain
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Cine Español 
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Comedy Movies Spain 
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Crime Series Spain 
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Drama Movies Spain 
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Family Movies Spain 
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Romance Movies Spain 
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Sci-Fi Spain 
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Thrillers Spain 
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Rakuten TV Top Movies Spain 
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/cinefriki.png",🇪🇸 | Zylo Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/CineWestern.png",🇪🇸 | Zylo Cine Western 
+https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TodoNovelas.png",🇪🇸 | Zylo Todo Novelas
+https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/CopsenEspanol.jpg",🇪🇸 | Cops en Español 
+https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/CrimenesReales.jpg",🇪🇸 | Crímenes Reales 
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/TopBarca.jpeg",🇪🇸 | TOP Barça
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/travelxp.png",🇪🇸 | Travelxp
+https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Vevolatino.png",🇪🇸 | Vevo Latino 
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/vevopop.png",🇪🇸 | Vevo Pop
+https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Rakuten.png",🇪🇸 | Estilo y Vida
+https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Ideasen5minutos.jpg",🇪🇸 | Ideas en 5 minutos
+https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
 # --- 🇦🇩 Andorra ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Andorra/ATV.png",🇦🇩 | ATV Andorra
 https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
@@ -2981,6 +3027,8 @@ http://stream.mcquack.net/141/index.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 # --- 🇨🇳 China ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/.jpg",🇨🇳 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CGTNESP.png",🇨🇳 | CGTN Espanol
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv3.jpg",🇨🇳 | QTV-3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv4.jpg",🇨🇳 | QTV-4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/qdtv5.jpg",🇨🇳 | QTV-5
