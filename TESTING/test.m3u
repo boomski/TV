@@ -4,147 +4,129 @@
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
 
-#EXTM3U
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | WSB TV 2 Atlanta
+http://stream.cammonitorplus.net/1738/index.m3u8
 
-# ================================
-# 🇨🇦 CANADA — CAMMONITORPLUS
-# ================================
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | Atlanta News First
+http://stream.cammonitorplus.net/1739/index.m3u8
 
-# ---- CBC / CBC KIDS BLOK ----
+# 1740 — geen naam gevonden
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBCKids.png",🇨🇦 | CBC Kids
-http://stream.cammonitorplus.net/1701/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | NBC Alive
+http://stream.cammonitorplus.net/1741/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBCKids.png",🇨🇦 | CBC Kids
-http://stream.cammonitorplus.net/1702/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | ABC News
+http://stream.cammonitorplus.net/1742/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBCKids.png",🇨🇦 | CBC Kids
-http://stream.cammonitorplus.net/1703/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | CBS News Paramount+
+http://stream.cammonitorplus.net/1743/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBC.png",🇨🇦 | CBC
-http://stream.cammonitorplus.net/1704/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | FOX News
+http://stream.cammonitorplus.net/1744/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBC.png",🇨🇦 | CBC Gem
-http://stream.cammonitorplus.net/1705/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | WBAT TV 11 NBC
+http://stream.cammonitorplus.net/1745/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBCKids.png",🇨🇦 | CBC Kids
-http://stream.cammonitorplus.net/1706/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | WSB TV 2 Atlanta
+http://stream.cammonitorplus.net/1746/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBCKids.png",🇨🇦 | CBC Kids
-http://stream.cammonitorplus.net/1707/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | CBS
+http://stream.cammonitorplus.net/1747/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBCKids.png",🇨🇦 | CBC Kids
-http://stream.cammonitorplus.net/1708/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | TV Shop
+http://stream.cammonitorplus.net/1748/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CBC.png",🇨🇦 | CBC Gem
-http://stream.cammonitorplus.net/1709/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | TV 2 WGRZ
+http://stream.cammonitorplus.net/1749/index.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | ABC TV
+http://stream.cammonitorplus.net/1750/index.m3u8
 
-# ---- ONBEKEND / NOG NIET BEVESTIGD ----
+# 1751–1753 — geen naam gevonden
 
-# 1710 — nog geen betrouwbare identificatie gevonden
-# http://stream.cammonitorplus.net/1710/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | E/I
+http://stream.cammonitorplus.net/1754/index.m3u8
 
-# 1711 — nog geen betrouwbare identificatie gevonden
-# http://stream.cammonitorplus.net/1711/index.m3u8
+# 1755–1756 — geen naam gevonden
 
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | WLW TV 5 Cincinnati NBC
+http://stream.cammonitorplus.net/1757/index.m3u8
 
-# ---- CTV BLOK ----
+# 1758–1761 — geen naam gevonden
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTVToronto.png",🇨🇦 | CTV Toronto
-http://stream.cammonitorplus.net/1712/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | CBS
+http://stream.cammonitorplus.net/1762/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTVCalgary.png",🇨🇦 | CTV Calgary
-http://stream.cammonitorplus.net/1713/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | CBS
+http://stream.cammonitorplus.net/1763/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTVToronto.png",🇨🇦 | CTV Toronto
-http://stream.cammonitorplus.net/1714/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | NBC 5
+http://stream.cammonitorplus.net/1765/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTV.png",🇨🇦 | CTV
-http://stream.cammonitorplus.net/1715/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | ESPN on ABC
+http://stream.cammonitorplus.net/1766/index.m3u8
 
+# 1767 — geen naam gevonden
 
-# 1716 — onbekend
-# http://stream.cammonitorplus.net/1716/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | Cars TV
+http://stream.cammonitorplus.net/1768/index.m3u8
 
-# 1717 — onbekend
-# http://stream.cammonitorplus.net/1717/index.m3u8
+# 1769 — geen naam gevonden
 
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | ESPN on ABC
+http://stream.cammonitorplus.net/1770/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTV.png",🇨🇦 | CTV
-http://stream.cammonitorplus.net/1718/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | CBS
+http://stream.cammonitorplus.net/1771/index.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | FOX
+http://stream.cammonitorplus.net/1772/index.m3u8
 
-# 1719 — onbekend
-# http://stream.cammonitorplus.net/1719/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | Local 4
+http://stream.cammonitorplus.net/1773/index.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | ESPN on ABC
+http://stream.cammonitorplus.net/1774/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTV.png",🇨🇦 | CTV
-http://stream.cammonitorplus.net/1720/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | CBS
+http://stream.cammonitorplus.net/1775/index.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | FOX 11
+http://stream.cammonitorplus.net/1776/index.m3u8
 
-# 1721 — onbekend
-# http://stream.cammonitorplus.net/1721/index.m3u8
+# 1777–1779 — geen naam gevonden
 
-# 1722 — onbekend
-# http://stream.cammonitorplus.net/1722/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | FOX 26 Houston
+http://stream.cammonitorplus.net/1780/index.m3u8
 
-# 1723 — onbekend
-# http://stream.cammonitorplus.net/1723/index.m3u8
+# 1781 — geen naam gevonden
 
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | ESPN on ABC
+http://stream.cammonitorplus.net/1782/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTV.png",🇨🇦 | CTV
-http://stream.cammonitorplus.net/1724/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | CBS
+http://stream.cammonitorplus.net/1783/index.m3u8
 
+# 1784 — geen naam gevonden
 
-# ---- GLOBAL BLOK ----
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | NBC
+http://stream.cammonitorplus.net/1785/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/Global.png",🇨🇦 | Global News
-http://stream.cammonitorplus.net/1725/index.m3u8
+# 1786–1795 — geen betrouwbare naam gevonden
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/GlobalHalifax.png",🇨🇦 | Global News Halifax
-http://stream.cammonitorplus.net/1726/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | NBC 5
+http://stream.cammonitorplus.net/1796/index.m3u8
 
+# 1797 — geen naam gevonden
 
-# 1727 — onbekend
-# http://stream.cammonitorplus.net/1727/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | CBS West
+http://stream.cammonitorplus.net/1798/index.m3u8
 
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | FOX West
+http://stream.cammonitorplus.net/1799/index.m3u8
 
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/Global.png",🇨🇦 | Global News Saskatoon
-http://stream.cammonitorplus.net/1728/index.m3u8
-
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/GlobalNewsBC.png",🇨🇦 | Global News BC1
-http://stream.cammonitorplus.net/1729/index.m3u8
-
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/Global.png",🇨🇦 | Global
-http://stream.cammonitorplus.net/1730/index.m3u8
-
-
-# ---- CTV 2 ----
-
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTV2.png",🇨🇦 | CTV 2 Atlantic
-http://stream.cammonitorplus.net/1731/index.m3u8
-
-
-# 1732 — onbekend
-# http://stream.cammonitorplus.net/1732/index.m3u8
-
-# 1733 — onbekend
-# http://stream.cammonitorplus.net/1733/index.m3u8
-
-
-# ---- OVERIG ----
-
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="",🇨🇦 | TV Offer / Shopping
-http://stream.cammonitorplus.net/1734/index.m3u8
-
-
-# 1735 — onbekend
-# http://stream.cammonitorplus.net/1735/index.m3u8
-
-
-#EXTINF:-1 group-title="🇨🇦 CANADA" tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CTV2.png",🇨🇦 | CTV 2
-http://stream.cammonitorplus.net/1736/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 USA",🇺🇸 | NBC West
+http://stream.cammonitorplus.net/1800/index.m3u8
 
 
 
