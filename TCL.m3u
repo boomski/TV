@@ -493,12 +493,18 @@ http://23.239.31.26:8989/accuweather/index.m3u8
 https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/IonPlus.png",🇺🇸 | ION Plus
 https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/AMCesp.png",🇺🇸 | AMC en Espanol
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/HBOhits.png",🇺🇸 | HBO Hits
+http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WickedTuna.jpg",🇺🇸 | Wicked Tuna 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Xplore.png",🇺🇸 | Xplore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Artflix.png",🇺🇸 | Artflix Movie Classics
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/Aspire.png",🇺🇸 | Aspire TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WVIT-DT1.png",🇺🇸 | NBC Connecticut
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WRC-DT1.png",🇺🇸 | NBC 4 Washington
@@ -1850,6 +1856,10 @@ http://stream.mcquack.net/285/index.m3u8
 http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/FASHION.png",🇺🇦 | Fashion TV 
 http://stream.mcquack.net/288/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/History.jpg",🇺🇦 | History 
+http://dtv.vol.net.ua/History_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/History2.png",🇺🇦 | History2
+http://dtv.vol.net.ua/H2-HD/index.m3u8
 # --- 🇸🇮 Slovenië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Sloveni%C3%AB/TV%20SLO%201.png",🇸🇮 | TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
@@ -2084,8 +2094,12 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/.png",🇩🇴 |
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/7.png",🇩🇴 | Antena 7 
 https://hls.tvabierta.net/hls/007.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/ColorVision.jpg",🇩🇴 | Color Vision 
+https://hls.tvabierta.net/hls/009.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/21.png",🇩🇴 | Antena 21 
 https://hls.tvabierta.net/hls/021.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/T11.png",🇩🇴 | Telesistema 11
+https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
 # --- 🇰🇳 Saint Kitts en Nevis ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saint%20Kitts%20en%20Nevis/.jpg",🇰🇳 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saint%20Kitts%20en%20Nevis/TVC.jpg",🇰🇳 | Television Caribbean
@@ -3509,6 +3523,27 @@ http://stream.mcquack.net/47/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/Hop.png",🇮🇱 | Hop!
 http://stream.mcquack.net/44/index.m3u8
 # --- 🇮🇳 India ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen1.png",🇮🇳 | Sony Sports Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen1.png",🇮🇳 | Sony Sports Ten 1 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen2.png",🇮🇳 | Sony Sports Ten 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen2.png",🇮🇳 | Sony Sports Ten 2 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen3.png",🇮🇳 | Sony Sports Ten 3 Hindi 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen3.png",🇮🇳 | Sony Sports Ten 3 Hindi HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen4.png",🇮🇳 | Sony Sports Ten 4 
+#EXTINF:-1 tvg logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen4.png",🇮🇳 | Sony Sports Ten 4 Telugu 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen5.png",🇮🇳 | Sony Sports Ten 5 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySportsTen5.png",🇮🇳 | Sony Sports Ten 5 HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonySAB.png",🇮🇳 | Sony SAB HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyPal.jpg",🇮🇳 | Sony Pal 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyWah.jpg",🇮🇳 | Sony Wah 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyMax.png",🇮🇳 | Sony Max 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyMax.png",🇮🇳 | Sony Max  HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyMax2.png",🇮🇳 | Sony Max 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyYay.jpg",🇮🇳 | Sony Yay! 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyBBCEarth.png",🇮🇳 | Sony BBC Earth HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyPixHD.jpg",🇮🇳 | Sony Pix HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyMARATHI.png",🇮🇳 | Sony Marathi 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyAath.png",🇮🇳 | Sony Aath 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Star%20Sports%201.png",🇮🇳 | Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Epic%20Bharat%20Digital.png",🇮🇳 | Epic Bharat Digital
