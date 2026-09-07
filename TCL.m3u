@@ -2206,14 +2206,37 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 https://eu1.servers10.com:8081/8192/index.m3u8
 # --- 🇩🇴 Dominicaanse Republiek ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/.png",🇩🇴 |
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/RTVD4.png",🇩🇴 | Canal 4 RD
+https://hls.tvabierta.net/hls/004.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/7.png",🇩🇴 | Antena 7 
 https://hls.tvabierta.net/hls/007.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/8Telemedios.png",🇩🇴 | Canal 8 Telemedios
+https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/ColorVision.jpg",🇩🇴 | Color Vision 
 https://hls.tvabierta.net/hls/009.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/TeleAntillas10.jpg",🇩🇴 | Canal 10 Teleantillas
+https://hls.tvabierta.net/hls/010.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/T11.png",🇩🇴 | Canal 11 Telesistemas
+https://hls.tvabierta.net/hls/011.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Teleunion.png",🇩🇴 | Canal 12 Teleunion
+https://hls.tvabierta.net/hls/012.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Altavision.jpg",🇩🇴 | Canal 20 Altavision
+https://hls.tvabierta.net/hls/020.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/21.png",🇩🇴 | Antena 21 
 https://hls.tvabierta.net/hls/021.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/T11.png",🇩🇴 | Telesistema 11
-https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Telefuturo.png",🇩🇴 | Telefuturo 23
+https://hls.tvabierta.net/hls/023.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/CDNDeportes.jpg",🇩🇴 | CDN Deportes
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/CDN.png",🇩🇴 | CDN
+https://hls.tvabierta.net/hls/037.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/AcentoTV.png",🇩🇴 | Acento TV
+https://hls.tvabierta.net/hls/038.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Coral39.png",🇩🇴 | Coral Canal 39
+https://hls.tvabierta.net/hls/039.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Teleuniverso.png",🇩🇴 | Teleuniverso 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/TLSD.jpg",🇩🇴 | Tele Santo Domingo
+https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8
 # --- 🇰🇳 Saint Kitts en Nevis ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saint%20Kitts%20en%20Nevis/.jpg",🇰🇳 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saint%20Kitts%20en%20Nevis/TVC.jpg",🇰🇳 | Television Caribbean
