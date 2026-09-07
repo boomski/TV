@@ -1955,6 +1955,25 @@ http://stream.mcquack.net/288/index.m3u8
 http://dtv.vol.net.ua/History_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/History2.png",🇺🇦 | History2
 http://dtv.vol.net.ua/H2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/NatGeoWild.png",🇺🇦 | National Geographic Wild 
+http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/OnePlanet.png",🇺🇦 | One Planet 
+http://dtv.vol.net.ua/OnePlanet/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Hollywood.png",🇺🇦 | Hollywood 
+http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Prokino.png",🇺🇦 | Prokino
+http://dtv.vol.net.ua/ProKino/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/ViasatKino.png",🇺🇦 | Viasat Kino 
+http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/ViasatKinoA.png",🇺🇦 | Viasat Kino Action 
+http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/ViasatExpl.jpg",🇺🇦 | Viasat Explore 
+http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Superplus.png",🇺🇦 | Super+ 
+http://dtv.vol.net.ua/super_plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/CineKidsplus.png",🇺🇦 | Cine+ Kids 
+http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+
 # --- 🇸🇮 Slovenië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Sloveni%C3%AB/TV%20SLO%201.png",🇸🇮 | TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
