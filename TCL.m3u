@@ -3898,6 +3898,8 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/DorcelTV.png",🔞 | Dorcel TV
-
+http://77.46.130.252:99/dorcel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/PrivateSD.png",🔞 | Private SD
+http://77.46.130.252:99/private 
 
 
