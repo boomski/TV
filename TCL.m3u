@@ -2165,6 +2165,16 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://cdn.ekoturk.net/hls/master.m3u8
 # --- 🇧🇬 Bulgarije ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/.png",🇧🇬 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BNT1.png",🇧🇬 | BNT 1
+http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BNT2.png",🇧🇬 | BNT 2
+http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BNT3.png",🇧🇬 | BNT 3
+http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BNT4.png",🇧🇬 | BNT 4
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Dizi.png",🇧🇬 | Dizi
+http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DiemaS.png",🇧🇬 | Diema Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DiemaS2.png",🇧🇬 | Diema Sport 2
