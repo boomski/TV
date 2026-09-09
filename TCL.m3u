@@ -3658,10 +3658,17 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 
 # --- 🇲🇦 Marokko ---
 
-# --- 🇩🇿 Algerije ---
-
 # --- 🇪🇭 Westelijke Sahara ---
 
+# --- 🇩🇿 Algerije ---
+
+# --- 🇹🇳 Tunesië
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Elwat1.png",🇹🇳 | El Watania 1 
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Elwat2.png",🇹🇳 | El Watania 2
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/MosFM.png",🇹🇳 | Mosaique FM
+https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
 # --- 🇨🇩 Democratische Republiek Congo ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Congo%20DR/",🇨🇩 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Congo%20DR/Lollywood.png",🇨🇩 | Lollywood
