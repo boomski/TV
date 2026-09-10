@@ -1203,6 +1203,9 @@ https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
 https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/VidusdaugavasTelevīzija.png",🇱🇻 | Vidusdaugavas Televīzija
 https://straume.vdtv.lv/vdtv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/TV%20Jurmala.png",🇱🇻 TV Jurmala
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/XXI.png",🇱🇻 TV XXI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Letland/Pingviins.png",🇱🇻 Pingviins
 # --- 🇮🇪 Ierland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/PremierSports1.png",🇮🇪 | Premier Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -2138,6 +2141,32 @@ https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/M-Net%20HD.png",🇲🇰 | M-Net HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/M-Net%20Info.png",🇲🇰 | M-Net Info
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/M-Net%20Kids.png",🇲🇰 | M-Net Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/TV%20Zdravkin.png",🇲🇰 | TV Zdravkin
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/TopEstrada%20TV.png",🇲🇰 | TopEstrada TV
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Sitel.png",🇲🇰 | Sitel
+https://teve.mk/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Na%C5%A1a%20TV.png",🇲🇰 | Naša TV 
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Cool%20TV.png",🇲🇰 | Cool TV 
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Jazz%20TV.png",🇲🇰 | Jazz TV 
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Folk%20TV.png",🇲🇰 | Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Love%20TV.png",🇲🇰 | Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Rock%20TV.png",🇲🇰 | Rock TV 
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/TV%20NOVA%2012.png",🇲🇰 | TV NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Sky%20Folk%20TV.png",🇲🇰 | Sky Folk TV
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/Folk%20Club%20TV.png",🇲🇰 | Folk Klub 
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/INTV.jpg",🇲🇰 | INTV
+http://tv1.intv.mk:1935/live/intv/index.m3u8
 # --- 🇬🇷 Griekenland --- 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR HD
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
@@ -3549,7 +3578,10 @@ http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/MeiAhMovieChannel.png",🇭🇰 | Mei Ah Movie Channel 
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 # --- 🇲🇴 Macau ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macau/Lotus_TV_Macau_logo.jpg",🇲🇴 | Lotus Macau HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macau/tdmmacau_logo.jpg",🇲🇴 | TDM Macau
+https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8?wowzasessionid=@iprtlk
 # --- 🇮🇩 Indonesië ---
 
 # --- 🇹🇭 Thailand ---
@@ -3750,7 +3782,7 @@ https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://webcast.streamakaci.com/
 https://srtblive.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_720p/chunks_dvr.m3u8?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/LNM.jpg",🇧🇯 | Le Nouveau Manager TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/LNM.jpeg",🇧🇯 | Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/KassouaTV.png",🇧🇯 | KassouaTV
 https://playtv4k.live/live/kassouatv/index.m3u8
@@ -3770,8 +3802,19 @@ https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/KK.png",🇦🇴 | KK TV Angola
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/Zap%20Viva.jpg",🇦🇴 | Zap Viva
 # --- 🇲🇿 Mozambique ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TVM.png",🇲🇿 | TVM
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TVMI.png",🇲🇿 | TVM International
+https://stream.tvm.co.mz/hls/tvmi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/MNTV.png",🇲🇿 | MNTV
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/ReinoInfantil.png",🇲🇿 | Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TV%20Vit%C3%B3ria.png",🇲🇿 | TV Vitória
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TV%20Mana%20Mozambique.png",🇲🇿 | TV Mana Mocambique
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 # --- 🇪🇬 Egypte ---
 
 # --- 🇱🇾 Libië ---
