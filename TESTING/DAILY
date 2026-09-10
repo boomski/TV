@@ -1,55 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
-#EXTVLCOPT:http-referrer=https://canlitv.com/brt-1?ulke=cy
-https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8?hash=0f23cbde36712bbae08abee8283bed7f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT2.png",🇨🇾 | BRT2
-#EXTVLCOPT:http-referrer=https://canlitv.com/brt-2?ulke=cy
-https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8?hash=0f23cbde36712bbae08abee8283bed7f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20tv.png",🇨🇾 | Kıbrıs Tv
-#EXTVLCOPT:http-referrer=https://canlitv.com/kibris-tv?ulke=cy
-https://play.kibristv.com/stream/hls/stream.m3u8?hash=0f23cbde36712bbae08abee8283bed7f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20Ada.png",🇨🇾 | Kıbrıs Ada Tv
-#EXTVLCOPT:http-referrer=https://canlitv.com/kibris-ada-tv?ulke=cy
-#EXTVLCOPT:http-origin=https://canlitv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-header=Accept:*/*
-https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8?hash=0f23cbde36712bbae08abee8283bed7f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20T.png",🇨🇾 | Kanal T
-#EXTVLCOPT:http-referrer=https://canlitv.com/kanal-t?ulke=cy
-https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8?hash=0f23cbde36712bbae08abee8283bed7f
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Rik%20Sat.png",🇨🇾 | RΙΚ Sat
-https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Arabic.png",🇨🇾 | Sat 7 Arabic
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Kids.png",🇨🇾 | Sat 7 Kids
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Pars.png",🇨🇾 | Sat 7 Pars 
-https://sat7phls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sat7%20Turk.png",🇨🇾 | Sat 7 Türk 
-https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sigma%20TV.png",🇨🇾 | Sigma TV 
-https://sl2.sigmatv.com/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Alpha%20Cyprus.png",🇨🇾 | Alpha Cyprus
-https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Omega.png",🇨🇾 | Omega TV
-https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI2IDU6NTg6MjUgUE0maGFzaF92YWx1ZT15cVREc0tPZWJaNEdJSEp0OWoxem13PT0mdmFsaWRtaW51dGVzPTY2MA==
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kibris%20genc.png",🇨🇾 | Kıbrıs Genç Tv
-https://yayin1.canlitv.fun/canlitv/genctv.stream/playlist.m3u8?hash=ccdb29cadfcbcac56140f90aa33873a9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Kanal%20Sim.png",🇨🇾 | Kanal Sim
-https://yayin1.canlitv.fun/canlitv/kanalsim.stream/playlist.m3u8?hash=ccdb29cadfcbcac56140f90aa33873a9
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Torba.png",🇨🇾 | Torba Tv
-https://yayin1.canlitv.fun/canlitv/torbatv.stream/playlist.m3u8?hash=ccdb29cadfcbcac56140f90aa33873a9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Okku%20TV.png",🇨🇾 | Okku TV
-https://yayin1.canlitv.fun/canlitv/okkutv.stream/playlist.m3u8?hash=ccdb29cadfcbcac56140f90aa33873a9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/AlfaSport.png",🇨🇾 | AlfaSport
-#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/alfa_sports.html
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/City%20Channel.png",🇨🇾 | City Channel
-#EXTVLCOPT:http-referrer=https://dev.aftermind.xyz/city_channel.html
-https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
