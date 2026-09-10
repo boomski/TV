@@ -3918,9 +3918,26 @@ https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 # --- 🇯🇴 Jordanië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Jordan%20Sport.png",🇯🇴 | Jordan Sport 
-http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Royatv.png",🇯🇴 | Roya TV
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/RoyaNews.png",🇯🇴 | Roya News
+https://live.kwikmotion.com/royanewspublic/royanews.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/RoyaSport.png",🇯🇴 | Roya Sport
+https://fast.kwikmotion.com/roya/sport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/RFC.png",🇯🇴 | RFC
+https://fast.kwikmotion.com/roya/rfc_live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Roya%20Kitchen.jpg",🇯🇴 | Roya Kitchen
+https://fast.kwikmotion.com/roya/kitchen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/RoyaComedy.png",🇯🇴 | Roya Comedy
+https://fast.kwikmotion.com/roya/comedy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/Caravan.png",🇯🇴 | Caravan
+https://fast.kwikmotion.com/roya/caravan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/911.png",🇯🇴 | Roya 911
+https://fast.kwikmotion.com/roya/roya_911/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/BW.png",🇯🇴 | Big World
+https://fast.kwikmotion.com/roya/big_world/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/RoyaKids.png",🇯🇴 | Roya 
+https://fast.kwikmotion.com/roya/kids/playlist.m3u8
 # --- 🇱🇧 Libanon ---
 
 # --- 🇮🇱 Israël ---
