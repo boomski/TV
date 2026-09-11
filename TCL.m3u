@@ -3048,6 +3048,10 @@ https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Bethel.png",🇨🇴 | Bethel Colombia
+http://138.121.15.230:9002/BETHEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Zoom.png",🇨🇴 | Zoom 
+http://138.121.15.230:9002/ZOOM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/STREAMFORCE360.png",🇨🇴 | StreamForce 360
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 # --- 🇨🇱 Chili ---
@@ -3731,6 +3735,9 @@ https://mrtvott.com/cache/MRTV-NRC-HD/m3u8/cache_MRTV-NRC-HD_m3u8_hls_m3u8_MRTV-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Myanmar/MRTV%20Sport.png",🇲🇲 | MRTV Sport
 https://mrtvott.com/cache/MRTV-SPORT/m3u8/cache_MRTV-SPORT_m3u8_hls_m3u8_MRTV-SPORT-TS-M.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Myanmar/CanalPlusAction.png",🇲🇲 | Canal + Action
+# --- 🇻🇳 Vietnam ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Vietnam/HTVS.png,🇻🇳 | HTV Sports
+https://dethich.pw/htvthethao/index.m3u8
 # --- 🇿🇦 Zuid-Afrika ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Afrika/Wildearth.png",🇿🇦 | WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
