@@ -1,28 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/TV%20Zimbo.png",🇦🇴 | Zimbo TV
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/Zap%20Viva.jpg",🇦🇴 | Zap Viva
-http://37.187.138.41:80/153/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/Muzangala.jpg",🇦🇴 | Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kameroen/Laura%20Dave%20Media%20TV.png",🇨🇲 | Laura Dave Media TV
-https://streaming.lauradavemedia.com/ldm/index.m3u8
-#EXTINF:-1 t#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Tanzania%20Safari.png",🇹🇿 | Tanzania Safari Channel
-https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/TBC1.png",🇹🇿 | TBC1 
-https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_f9bd5b30323411f0a32aaf26f944974f/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/TBC2.png",🇹🇿 | TBC2 
-https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oeganda/Tayari%20West.jpeg",🇺🇬 | Tayari West
-https://stream.hydeinnovations.com/tarari-west/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Namibi%C3%AB/NBC1.png",🇳🇦 | NBC 1
-https://hls2.nbcplus.na/hls/high_nbc1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Namibi%C3%AB/NBC2.png",🇳🇦 | NBC 2
-https://hls2.nbcplus.na/hls/high_nbc2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Namibi%C3%AB/NBC3.png",🇳🇦 | NBC 3 
-https://hls2.nbcplus.na/hls/high_nbc3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Namibi%C3%AB/NTV.jpg",🇳🇦 | NTV 
-https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Bethel.png",🇨🇴 | Bethel Colombia
+http://138.121.15.230:9002/BETHEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Zoom.png",🇨🇴 | Zoom 
+http://138.121.15.230:9002/ZOOM/index.m3u8
+
+
+
 
 
 
