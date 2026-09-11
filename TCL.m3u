@@ -3710,7 +3710,6 @@ https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mongoli%C3%AB/%D3%A8%D0%BB%D0%B7%D0%B8%D0%B9%20%D0%A2%D0%92.jpg",🇲🇳 | Өлзий ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
-
 # --- 🇲🇻 Maledieven ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Maldiven/Maldives%20TV.png",🇲🇻 | Maldives TV
 https://lana.psm.mv/live/mtv.m3u8
@@ -3736,11 +3735,22 @@ https://mrtvott.com/cache/MRTV-SPORT/m3u8/cache_MRTV-SPORT_m3u8_hls_m3u8_MRTV-SP
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Zuid-Afrika/Wildearth.png",🇿🇦 | WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 # --- 🇳🇦 Namibië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Namibi%C3%AB/NBC1.png",🇳🇦 | NBC 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Namibi%C3%AB/NBC2.png",🇳🇦 | NBC 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Namibi%C3%AB/NBC3.png",🇳🇦 | NBC 3 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Namibi%C3%AB/NTV.jpg",🇳🇦 | NTV 
 # --- 🇺🇬 Oeganda ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oeganda/Tayari%20West.jpeg",🇺🇬 | Tayari West
+https://stream.hydeinnovations.com/tarari-west/tracks-v1a1/mono.m3u8
 # --- 🇹🇿 Tanzania ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Tanzania%20Safari.png",🇹🇿 | Tanzania Safari Channel
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_12bb7dc0590211f1951119e8afeb4224/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/TBC1.png",🇹🇿 | TBC1 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/TBC2.png",🇹🇿 | TBC2 
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Mahaasin.png",🇹🇿 | Mahaasin TV
+https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 # --- 🇲🇦 Marokko ---
 
 # --- 🇪🇭 Westelijke Sahara ---
@@ -3793,7 +3803,7 @@ https://lecteur.iconetv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/Power.png",🇧🇯 | Power TV
 https://stream.it-innov.com/powertv/index.fmp4.m3u8
 # --- 🇨🇲 Kameroen ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kameroen/Laura%20Dave%20Media%20TV.png",🇨🇲 | Laura Dave Media TV
 # --- 🇦🇴 Angola ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/",🇦🇴 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Angola/TV%20Zimbo.png",🇦🇴 | TV Zimbo
