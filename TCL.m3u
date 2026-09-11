@@ -2759,13 +2759,11 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/geFAST.png",🇧🇷 | ge Fast 
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/sbt.png",🇧🇷 | SBT Nacional
-http://45.190.28.50/SBT_HD/index.m3u8
+https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/SBTInterior.png",🇧🇷 | SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Record.png",🇧🇷 | Record
-http://45.190.28.50/RECORD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Record.png",🇧🇷 | Record
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RN.png",🇧🇷 | Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RECORDINTERIOR.png",🇧🇷 | RecordTV Interior SP
@@ -2773,7 +2771,7 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Canal_Gov_Logo.png",🇧🇷 | Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/BAND.png",🇧🇷 | Band
-http://45.190.28.50/BAND_HD/index.m3u8
+https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Band%20Sports.jpg",🇧🇷 | Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/BandNews.jpg",🇧🇷 | BandNews
@@ -2813,23 +2811,23 @@ https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/fueltv.png",🇧🇷 | Fuel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/AXN.png",🇧🇷 | AXN 
-http://45.190.28.50/AXN_HD/index.m3u8
+http://170.83.49.66:8083/AXNHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Sonyc.png",🇧🇷 | Sony Channel
-http://45.190.28.50/SONY_HD/index.m3u8
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/SonyMov.png",🇧🇷 | Sony Movies
-http://45.190.28.50/SONY_MOVIES/index.m3u8
+http://170.83.16.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/History.png",🇧🇷 | History
-http://45.190.28.50/HISTORY_HD/index.m3u8
+http://170.83.16.50/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/JPNews.png",🇧🇷 | JPNews
-http://45.190.28.50/JP_NEWS/index.m3u8
+http://186.219.52.187/jp_news/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/FASHION.png",🇧🇷 | Fashion TV
-http://45.190.28.50/FASHION_TV_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/ChefTV.png",🇧🇷 | Chef TV
-http://45.190.28.50/CHEF_TV/index.m3u8
+http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Boxkidstv.png",🇧🇷 | Box Kids TV
-http://45.190.28.50/BOX_KIDS_HD/index.m3u8
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/MusicBoxBR.png",🇧🇷 | Music Box Brazil
-http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/TNTNovelas.png",🇧🇷 | TNT Novelas
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/mtmn.png",🇧🇷 | MyTime Movie Network
@@ -2845,7 +2843,7 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://igrejamundial.nuvemplay.live
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Rede.png",🇧🇷 | Rede TV!
-http://45.190.28.50/REDE_TV_HD/index.m3u8
+http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RedeTVMais.png",🇧🇷 | Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RedeTVParana.png",🇧🇷 | RedeTV! Parana
@@ -2857,7 +2855,7 @@ http://45.162.64.114/CNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RedeFamilia.png",🇧🇷 | Rede Familia
 http://186.219.52.187/rede_familia/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RedeVida.png",🇧🇷 | Rede Vida
-http://45.190.28.50/REDE_VIDA_HD/index.m3u8
+http://168.197.104.22/REDE_VIDA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/RedeGlobo.png",🇧🇷 | Rede Globo
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/Rede%20Gospel.png",🇧🇷 | Rede Gospel
