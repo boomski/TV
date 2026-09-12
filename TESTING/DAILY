@@ -1,150 +1,283 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Arabische%20Emiraten/Dubai%20TV%20International.png",🇦🇪 | Dubai TV International
-http://185.9.2.18/chid_139/index.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Al%20Sharqiya.png",🇮🇶 | Al Sharqiya
-http://185.9.2.18/chid_144/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Jednotka.png",🇸🇰 | Jednotka
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Dvojka.png",🇸🇰 | Dvojka
+http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Trojka.png",🇸🇰 | Trojka
+http://88.212.15.19/live/test_trojka_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/RTVS%2024.png",🇸🇰 | RTVS :24
+http://88.212.15.19/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Markiza.png",🇸🇰 | Markíza
+http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Markiza%20Krimi.png",🇸🇰 | Markíza Krimi
+http://88.212.15.19/live/test_markiza_krimi_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Markiza%20International.png",🇸🇰 | Markíza International
+http://88.212.15.19/live/test_markiza_int_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Dajto.png",🇸🇰 | Dajto
+http://88.212.15.19/live/test_dajto_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ.png",🇸🇰 | JOJ
+http://88.212.15.19/live/test_joj_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ%20Plus.png",🇸🇰 | JOJ Plus
+http://88.212.15.19/live/test_pluska_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ%20Cinema.png",🇸🇰 | JOJ Cinema
+http://88.212.15.19/live/test_joj_cinema_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ%20Family.png",🇸🇰 | JOJ Family
+http://88.212.15.19/live/test_joj_family_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Wau.png",🇸🇰 | Wau
+http://88.212.15.19/live/test_wau_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Doma.png",🇸🇰 | Doma
+http://88.212.15.19/live/test_doma_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TA3.png",🇸🇰 | TA3
+http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20Lux.png",🇸🇰 | TV Lux
+http://88.212.15.19/live/test_lux_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Arabische%20Emiraten/Al%20Arabiya.png",🇦🇪 | Al Arabiya
-http://185.9.2.18/chid_146/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT1.png",🇨🇿 | CT1
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT2.png",🇨🇿 | CT2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT3.png",🇨🇿 | CT3
+http://88.212.15.19/live/test_ct_3_hd_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT24.png",🇨🇿 | CT24
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima.png",🇨🇿 | Prima
+http://88.212.7.11/live/prima_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20Star.png",🇨🇿 | Prima Star
+http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20Show.png",🇨🇿 | Prima Show
+http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20COOL.png",🇨🇿 | Prima COOL
+http://88.212.15.19/live/test_prima_cool_hd_hevc_50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20ZOOM.png",🇨🇿 | Prima ZOOM
+http://88.212.15.19/live/test_prima_zoom_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20Love.png",🇨🇿 | Prima Love
+http://88.212.15.19/live/test_prima_love_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20MAX.png",🇨🇿 | Prima MAX
+http://88.212.15.19/live/test_prima_max_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20Plus.png",🇨🇿 | Prima Plus
+http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20Krimi.png",🇨🇿 | Prima Krimi
+http://88.212.15.19/live/test_prima_krimi_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CNN%20Prima%20News.png",🇨🇿 | CNN Prima News
+http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CNN%20Prima%20News.png",🇨🇿 | CNN Prima News
+http://88.212.15.19/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova.png",🇨🇿 | Nova
+http://88.212.15.19/live/tv_nova_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Gold.png",🇨🇿 | Nova Gold
+http://88.212.15.19/live/telka_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Cinema.png",🇨🇿 | Nova Cinema
+http://88.212.15.19/live/nova_cinema_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Action.png",🇨🇿 | Nova Action
+http://88.212.15.19/live/tv_fanda_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Fun.png",🇨🇿 | Nova Fun
+http://88.212.15.19/live/smichov_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20Lady.png",🇨🇿 | Nova Lady
+http://88.212.15.19/live/test_nova_lady_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nova%20International.png",🇨🇿 | Nova International
+http://88.212.15.19/live/test_nova_int_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/TV%20Barrandov.png",🇨🇿 | TV Barrandov
+http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Kino%20Barrandov.png",🇨🇿 | Kino Barrandov
+http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Krimi%20Barrandov.png",🇨🇿 | Krimi Barrandov
+http://88.212.15.19/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/TV%20Paprika.png",🇨🇿 | TV Paprika
+http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Mnam.png",🇨🇿 | Mnam
+http://88.212.15.19/live/test_mnau_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Mnau.png",🇨🇿 | Mnau
+http://88.212.15.19/live/test_mnau_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Park.png",🇨🇿 | Park
+http://88.212.15.19/live/test_park_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/TV%20Seznam.png",🇨🇿 | TV Seznam
+http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/TV%20Noe.png",🇨🇿 | TV Noe
+http://88.212.15.19/live/test_noe_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Al%20Maghribia.png",🇲🇦 | Al Maghribia
-http://185.9.2.18/chid_205/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/AMC.png",🇨🇿 | AMC
+http://88.212.15.19/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/HBO.png",🇨🇿 | HBO
+http://88.212.15.19/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/HBO2.png",🇨🇿 | HBO2
+http://88.212.15.19/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/HBO3.png",🇨🇿 | HBO3
+http://88.212.15.19/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Cinemax.png",🇨🇿 | Cinemax
+http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Cinemax%202.png",🇨🇿 | Cinemax 2
+http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/FilmBox.png",🇨🇿 | FilmBox
+http://88.212.15.19/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/FilmBox%20Extra.png",🇨🇿 | FilmBox Extra
+http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/FilmBox%20Premium.png",🇨🇿 | FilmBox Premium
+http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/FilmBox%20Family.png",🇨🇿 | FilmBox Family
+http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/FilmBox%20Stars.png",🇨🇿 | FilmBox Stars
+http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Film%2B.png",🇨🇿 | Film+
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/AXN.png",🇨🇿 | AXN
+http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/AXN%20Black.png",🇨🇿 | AXN Black
+http://88.212.15.19/live/test_black/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/AXN%20White.png",🇨🇿 | AXN White
+http://88.212.15.19/live/test_white/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Paramount.png",🇨🇿 | Paramount Network
+http://88.212.15.19/live/prima_comedy_central/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/2M.png",🇲🇦 | 2M
-http://185.9.2.18/chid_218/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/History%20Channel.png",🇨🇿 | History Channel
+http://88.212.15.19/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Discovery%20Science.png",🇨🇿 | Discovery Science
+http://88.212.15.19/live/test_discovery_science_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Discovery%20Turbo%20Xtra.png",🇨🇿 | Discovery Turbo Xtra
+http://88.212.15.19/live/test_dtx_hevc_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Discovery.png",🇨🇿 | Discovery
+http://88.212.15.19/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Spektrum.png",🇨🇿 | Spektrum
+http://88.212.15.19/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Investigation%20Discovery.png",🇨🇿 | Investigation Discovery
+http://88.212.15.19/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Crime%20and%20Investigation.png",🇨🇿 | Crime and Investigation
+http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/National%20Geographic.png",🇨🇿 | National Geographic
+http://88.212.15.19/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nat%20Geo%20Wild.png",🇨🇿 | Nat Geo WILD
+http://88.212.15.19/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Animal%20Planet.png",🇨🇿 | Animal Planet
+http://88.212.15.19/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/TLC.png",🇨🇿 | TLC
+http://88.212.15.19/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CS%20History.png",🇨🇿 | CS History
+http://88.212.15.19/live/test_cs_history_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CS%20Mystery.png",🇨🇿 | CS Mystery
+http://88.212.15.19/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Up%20Network.png",🇨🇿 | Up Network
+http://88.212.15.19/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CBS%20Reality.png",🇨🇿 | CBS Reality
+http://88.212.15.19/live/test_cbs_reality/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Love%20Nature.png",🇨🇿 | Love Nature
+http://88.212.15.19/live/test_lovenature/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Travel%20Channel.png",🇨🇿 | Travel Channel
+http://88.212.15.19/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Spektrum%20Home.png",🇨🇿 | Spektrum Home
+http://88.212.15.19/live/test_home_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Al%20Masriyah.png",🇪🇬 | Al Masriyah
-http://185.9.2.18/chid_247/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/JimJam.png",🇨🇿 | JimJam
+http://88.212.15.19/live/test_jim_jam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nickelodeon.png",🇨🇿 | Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nick%20Jr.png",🇨🇿 | Nick Jr.
+http://88.212.15.19/live/test_nick_jr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Nicktoons.png",🇨🇿 | Nicktoons
+http://88.212.15.19/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Minimax.png",🇨🇿 | Minimax
+http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/LALA%20TV.png",🇸🇰 | LALA TV
+http://88.212.15.19/live/test_lala_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Rik.png",🇸🇰 | Rik
+http://88.212.15.19/live/test_rik/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJko.png",🇸🇰 | JOJko
+http://88.212.15.19/live/test_jojko_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Duck%20TV.png",🇸🇰 | Duck TV
+http://88.212.15.19/live/test_duck_tv_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Disney%20Channel.png",🇨🇿 | Disney Channel
+http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Disney%20Junior.png",🇨🇿 | Disney Junior
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Rotana%20Cinema.png",🇪🇬 | Rotana Cinema
-http://185.9.2.18/chid_288/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Fashion%20TV.png",🇨🇿 | Fashion TV
+http://88.212.15.19/live/test_fashion_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/MTV%20Club.png",🇨🇿 | MTV Club
+http://88.212.15.19/live/test_mtv_dance_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Ocko%20Black.png",🇸🇰 | Ocko Black
+http://88.212.15.19/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/IQ.png",🇸🇰 | IQ
+http://88.212.15.19/live/test_iq_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Folklorika.png",🇸🇰 | Folklorika TV
+http://88.212.15.19/live/test_folklorika_atktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Slagr%20Premium.png",🇸🇰 | Šlágr Premium
+http://88.212.15.19/live/test_slager_premium_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Slagr%202.png",🇸🇰 | Šlágr 2
+http://88.212.15.19/live/test_slagr_2_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Senzi.png",🇸🇰 | Senzi
+http://88.212.15.19/live/test_senzi_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/MTV%20Hits.png",🇨🇿 | MTV Hits
+http://88.212.15.19/live/test_mtv_hits_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/MTV%2090s.png",🇨🇿 | MTV 90s
+http://88.212.15.19/live/test_mtv_rocks_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/MTV%2000s.png",🇨🇿 | MTV 00s
+http://88.212.15.19/live/test_vh1_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/MCM%20Music.png",🇨🇿 | MCM Music
+http://88.212.15.19/live/test_mcm_top_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Ocko%20Expres.png",🇨🇿 | Ocko Expres
+http://88.212.15.19/live/test_ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Ocko.png",🇨🇿 | Ocko
+http://88.212.15.19/live/test_ocko/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Ocko%20Star.png",🇨🇿 | Ocko Star
+http://88.212.15.19/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Rebel.png",🇨🇿 | Rebel
+http://88.212.15.19/live/test_rebel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Relax.png",🇨🇿 | RELAX
+http://88.212.15.19/live/test_relax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Nile%20Cinema.png",🇪🇬 | Nile Cinema
-http://185.9.2.18/chid_290/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/VS/ESPN%20Sport%204K.png",🇺🇸 | ESPN Sport 4K
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servie/Arena%20Sport%201.png",🇷🇸 | Arena Sport 1
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servie/Arena%20Sport%202.png",🇷🇸 | Arena Sport 2
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Spanje/Real%20Madrid%20TV.png",🇪🇸 | Real Madrid TV
+http://88.212.15.19/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Auto%20Motor%20und%20Sport%20Channel.png",🇩🇪 | Auto Motor und Sport Channel
+http://88.212.15.19/live/test_ams/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/ChuckTV.png",🇸🇰 | ChuckTV
+http://88.212.15.19/live/test_chuck_hd_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Europa/Eurosport%201.png",🌍 | Eurosport 1
+http://88.212.15.19/live/eurosport_1_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Europa/Eurosport%202.png",🌍 | Eurosport 2
+http://88.212.15.19/live/eurosport_2_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Europa/FightBox.png",🌍 | FightBox
+http://88.212.15.19/live/test_fightbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Europa/Fishing%20and%20Hunting.png",🌍 | Fishing and Hunting
+http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/VS/Golf%20Channel.png",🇺🇸 | Golf Channel
+http://88.212.15.19/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT%20Sport.png",🇨🇿 | CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/RTVS%20Sport.png",🇸🇰 | RTVS Šport
+http://88.212.15.19/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ%20Sport.png",🇸🇰 | JOJ Šport
+http://88.212.15.19/live/test_joj_sport_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Europa/Sport1.png",🌍 | Sport1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Europa/Sport2.png",🌍 | Sport2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koerdistan/KurdMax.png",🇰🇼 | KurdMax
-http://185.9.2.18/chid_304/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/LBC.png",🇱🇧 | LBC
-http://185.9.2.18/chid_327/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Nile%20Drama.png",🇪🇬 | Nile Drama
-http://185.9.2.18/chid_352/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Panorama%20Food.png",🇪🇬 | Panorama Food
-http://185.9.2.18/chid_367/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Syrie/SAMA%20TV.png",🇸🇾 | SAMA TV
-http://185.9.2.18/chid_372/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%201.png",🇸🇦 | MBC 1
-http://185.9.2.18/chid_374/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%202.png",🇸🇦 | MBC 2
-http://185.9.2.18/chid_375/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%203.png",🇸🇦 | MBC 3
-http://185.9.2.18/chid_376/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%204.png",🇸🇦 | MBC 4
-http://185.9.2.18/chid_377/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%20Action.png",🇸🇦 | MBC Action
-http://185.9.2.18/chid_378/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%20Max.png",🇸🇦 | MBC Max
-http://185.9.2.18/chid_379/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/Al%20Jadeed.png",🇱🇧 | Al Jadeed
-http://185.9.2.18/chid_391/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Al%20Jazeera.png",🇶🇦 | Al Jazeera
-http://185.9.2.18/chid_423/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Hannibal%20TV.png",🇹🇳 | Hannibal TV
-http://185.9.2.18/chid_615/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/ON%20Egypt.png",🇪🇬 | ON Egypt
-http://185.9.2.18/chid_616/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC%20Sofra.png",🇪🇬 | CBC Sofra
-http://185.9.2.18/chid_652/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Alhayat.png",🇪🇬 | Alhayat
-http://185.9.2.18/chid_659/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC.png",🇪🇬 | CBC
-http://185.9.2.18/chid_679/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC%20Drama.png",🇪🇬 | CBC Drama
-http://185.9.2.18/chid_680/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Panorama%20Film.png",🇪🇬 | Panorama Film
-http://185.9.2.18/chid_706/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Elhiwar%20Ettounsi.png",🇹🇳 | Elhiwar Ettounsi
-http://185.9.2.18/chid_741/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/MBC%20Masr.png",🇪🇬 | MBC Masr
-http://185.9.2.18/chid_742/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/MBC%202%20Together.png",🇪🇬 | MBC 2 Together
-http://185.9.2.18/chid_743/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%201.png",🌍 | CHID 1
-http://185.9.2.18/chid_1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%2027.png",🌍 | CHID 27
-http://185.9.2.18/chid_27/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20282.png",🌍 | CHID 282
-http://185.9.2.18/chid_282/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20283.png",🌍 | CHID 283
-http://185.9.2.18/chid_283/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20285.png",🌍 | CHID 285
-http://185.9.2.18/chid_285/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20286.png",🌍 | CHID 286
-http://185.9.2.18/chid_286/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20299.png",🌍 | CHID 299
-http://185.9.2.18/chid_299/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20312.png",🌍 | CHID 312
-http://185.9.2.18/chid_312/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20382.png",🌍 | CHID 382
-http://185.9.2.18/chid_382/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20387.png",🌍 | CHID 387
-http://185.9.2.18/chid_387/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20455.png",🌍 | CHID 455
-http://185.9.2.18/chid_455/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20516.png",🌍 | CHID 516
-http://185.9.2.18/chid_516/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20518.png",🌍 | CHID 518
-http://185.9.2.18/chid_518/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20521.png",🌍 | CHID 521
-http://185.9.2.18/chid_521/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20548.png",🌍 | CHID 548
-http://185.9.2.18/chid_548/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20597.png",🌍 | CHID 597
-http://185.9.2.18/chid_597/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20845.png",🌍 | CHID 845
-http://185.9.2.18/chid_845/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20926.png",🌍 | CHID 926
-http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Onbekend/Reality%20Kings.png",🌐 | RK TV
+http://88.212.15.19/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Leo%20TV.png",🇨🇿 | Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Onbekend/Brazzers%20TV.png",🌐 | Brazzers TV
+http://88.212.15.19/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Onbekend/Desire%20TV.png",🌐 | Desire TV
+http://88.212.15.19/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Onbekend/Hustler%20TV.png",🌐 | Hustler TV
+http://88.212.15.19/live/test_hustsler_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Onbekend/Extasy%204K.png",🌐 | Extasy 4K
+http://88.212.15.19/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Dorcel%20TV.png",🇫🇷 | Dorcel TV
+http://88.212.15.19/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Onbekend/Eroxxx.png",🌐 | Eroxxx
+http://88.212.15.19/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Onbekend/Erox.png",🌐 | Erox
+http://88.212.15.19/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Onbekend/Babes%20TV.png",🌐 | Babes TV
+http://88.212.15.19/live/test_basbes_hd_hevc/playlist.m3u8
 
 
 
