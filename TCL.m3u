@@ -1259,8 +1259,25 @@ https://straume.vdtv.lv/vdtv2/index.m3u8
 https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/SkySportsGolf.png",🇮🇪 | Sky Sports Golf HD
 https://leaf.highfly.dev/m3u/now-sky-sports-golf/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/RTE%20One.png",🇮🇪 | RTÉ One
+http://51.171.169.203:9090/stream/channelid/1954106921?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/RTE%20One%20%2B1.png",🇮🇪 | RTÉ One +1
+http://51.171.169.203:9090/stream/channelid/414963559?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/RTE2.png",🇮🇪 | RTÉ2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/RTE2%20%2B1.png",🇮🇪 | RTÉ2 +1
+http://51.171.169.203:9090/stream/channelid/1591445810?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/RTE%20Junior.png",🇮🇪 | RTE Junior TV
+http://51.171.169.203:9090/stream/channelid/122000330?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/Cula%204.png",🇮🇪 | Cula 4
+http://51.171.169.203:9090/stream/channelid/904028456?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/TG4.jpg",🇮🇪 | TG4
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/Virgin%20Media%201.png",🇮🇪 | Virgin Media 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/Virgin%20Media%202.png",🇮🇪 | Virgin Media 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/Virgin%20Media%203.png",🇮🇪 | Virgin Media 3
+http://51.171.169.203:9090/stream/channelid/1884803665?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ierland/Virgin%20Media%204.png",🇮🇪 | Virgin Media 4
+http://51.171.169.203:9090/stream/channelid/2030662758?profile=pass
 # --- 🇦🇺 Australië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/",🇦🇺 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Australie/ABCPLUS.png",🇦🇺 | ABC TV Plus 
@@ -3931,6 +3948,11 @@ http://185.9.2.18/chid_742/index.m3u8
 http://185.9.2.18/chid_743/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Al%20Masriyah.png",🇪🇬 | Al Masriyah
 http://185.9.2.18/chid_247/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Rotana%20Music.png",🇪🇬 | Rotana Music
+http://185.9.2.18/chid_282/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Rotana%20Clip.jpg",🇪🇬 | Rotana Clip
+http://185.9.2.18/chid_283/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Rotana%20Cinema.png",🇪🇬 | Rotana Cinema
 http://185.9.2.18/chid_288/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Nile%20Cinema.png",🇪🇬 | Nile Cinema
@@ -3948,23 +3970,29 @@ http://185.9.2.18/chid_27/index.m3u8
 # --- 🇱🇾 Libië ---
 
 # --- 🇸🇾 Syrië ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Syrie/SAMA%20TV.png",🇸🇾 | SAMA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Syri%C3%AB/SAMA%20TV.png",🇸🇾 | SAMA TV
 http://185.9.2.18/chid_372/index.m3u8
 # --- 🇸🇦 Saoedi-Arabië ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%201.png",🇸🇦 | MBC 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%201.png",🇸🇦 | MBC 1
 http://185.9.2.18/chid_374/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%202.png",🇸🇦 | MBC 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%202.png",🇸🇦 | MBC 2
 http://185.9.2.18/chid_375/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%203.png",🇸🇦 | MBC 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%203.png",🇸🇦 | MBC 3
 http://185.9.2.18/chid_376/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%204.png",🇸🇦 | MBC 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%204.png",🇸🇦 | MBC 4
 http://185.9.2.18/chid_377/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%20Action.png",🇸🇦 | MBC Action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%20Action.png",🇸🇦 | MBC Action
 http://185.9.2.18/chid_378/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%20MAX.png",🇸🇦 | MBC Max
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%20MAX.png",🇸🇦 | MBC Max
 http://185.9.2.18/chid_379/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%20Drama.png",🇸🇦 | MBC Drama
 http://185.9.2.18/chid_382/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%20Bollywood.png",🇸🇦 | MBC Bollywood
+http://185.9.2.18/chid_845/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/Rotana%20Khalijia.png",🇸🇦 | Rotana Khalijia
+http://185.9.2.18/chid_285/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/Rotana%20Classic.png",🇸🇦 | Rotana Classic
+http://185.9.2.18/chid_286/index.m3u8
 # --- 🇦🇪 Verenigde Arabische Emiraten ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/.png",🇦🇪 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/DubaiINT.png",🇦🇪 | Dubai TV International
@@ -3991,7 +4019,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/MBC_Persia.jpg",🇦🇪 | MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Arabische%20Emiraten/National%20Geographic%20Abu%20Dhabi.png",🇦🇪 | National Geographic Abu Dhabi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/National%20Geographic%20Abu%20Dhabi.png",🇦🇪 | National Geographic Abu Dhabi
 http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Sharjah%20tv.jpg",🇦🇪 | Sharjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
@@ -4038,6 +4066,8 @@ https://iranefardalive.com/stream/live.m3u8
 http://185.9.2.18/chid_144/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Kurdsat.png",🇮🇶 | Kurdsat
 http://185.9.2.18/chid_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Rudaw%20TV.png",🇮🇶 | Rudaw TV
+http://185.9.2.18/chid_299/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Kirkuk%20TV.jpg",🇮🇶 | Kirkuk TV
 http://185.9.2.18/chid_516/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/cira.png",🇮🇶 | Cira TV 
@@ -4153,6 +4183,8 @@ http://185.9.2.18/chid_327/index.m3u8
 http://185.9.2.18/chid_391/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/OTV.png",🇱🇧 | OTV
 http://185.9.2.18/chid_312/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/MTV%20Lebanon.png",🇱🇧 | MTV Lebanon
+http://185.9.2.18/chid_387/index.m3u8
 # --- 🇮🇱 Israël ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/.png",🇮🇱 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/5Sport.png",🇮🇱 | 5Sport
@@ -4197,6 +4229,8 @@ http://stream.mcquack.net/44/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/SonyAath.png",🇮🇳 | Sony Aath 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/ColorsMarathi.png",🇮🇳 | Colors Marathi HD 
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/ZEE%20Alwan.jpg",🇮🇳 | ZEE Alwan
+http://185.9.2.18/chid_455/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/PanjabTV.png",🇮🇳 | Panjab TV
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/Star%20Sports%201.png",🇮🇳 | Star Sports 1 HD
@@ -4340,7 +4374,23 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/DorcelTV.png",🔞 | Dorcel TV
-http://77.46.130.252:99/dorcel
+http://88.212.15.19/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/RK.png",🔞 | RK TV
+http://88.212.15.19/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Brazzers.png",🔞 | Brazzers TV
+http://88.212.15.19/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Desire.jpg",🔞 | Desire TV
+http://88.212.15.19/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Extasy4K.png",🔞 | Extasy 4K
+http://88.212.15.19/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Eroxxx.png",🔞 | Eroxxx
+http://88.212.15.19/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Erox.png",🔞 | Erox
+http://88.212.15.19/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Redlight.png",🔞 | Redlight HD
+http://185.63.254.139:8000/play/adult-redlight-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Shalun.png",🔞 | Shalun
+http://185.63.254.139:8000/play/adult-shalun/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/PrivateSD.png",🔞 | Private SD
 
 
