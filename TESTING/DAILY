@@ -1,32 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV1.png",🇰🇼 | KTV 1 
-https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV2.png",🇰🇼 | KTV 2 
-https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV%20AL%20QURAIN.png",🇰🇼 | KTV Al Qurain 
-https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV%20ARABE.png",🇰🇼 | KTV Arabe 
-https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/KTV%20ETHRAA.png",🇰🇼 | KTV Ethraa
-https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/BAHRY.png",🇰🇼 | Bahry 
-https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/CH4TEEN.png",🇰🇼 | Ch4Teen
-https://ch14.tv/live/ch4teenclip/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koeweit/Marina%20TV.png",🇰🇼 | Marina TV 
-https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/CiudadTVResistencia.png",🇦🇷 | Ciudad TV Resistencia
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/SantaFeCanal.png",🇦🇷 | Santa Fe Canal
+https://canalsantaferts.argtelemax.workers.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/LitusTV.png",🇦🇷 | Litus TV
+https://edge.enhdtv.com/litustv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TV1000.png",🇧🇬 | TV1000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/CP24.png",🇨🇦 | CP24
+http://107.167.16.138/cp24/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/InteractivaTV.png",🇨🇱 | Interactiva TV
+https://unlimited1-us.dps.live/interactivatv/interactivatv.smil/interactivatv/livestream0/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/UTalcaTV.png",🇨🇱 | UTalca TV
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/BioBioTV.png",🇨🇱 | Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/AgriculturaTV.png",🇨🇱 | Agricultura TV
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/SenalColombia.png",🇨🇴 | Senal Colombia
+http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Teleantioquia.png",🇨🇴 | Teleantioquia
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kazachstan/Channel7.png",🇰🇿 | Channel 7
+http://stream.mcquack.net/27/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Maleisi%C3%AB/TVS.png",🇲🇾 | TVS
+https://api.dani-dev.co.za/v1/stream/mytv/live/tvs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/FashionTV.png",🇷🇺 | FashionTV
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigd%20Koninkrijk/PanjabTV.png",🇬🇧 | Panjab TV
+https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Vietnam/VTV1HD.png",🇻🇳 | VTV1 HD
+https://javiptv.s.gy/vtv1hd-thvn
 
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/Laff.png",🇺🇸 | Laff WJLP
+http://4.30.180.36:8420/laff/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/PBSWNET.png",🇺🇸 | PBS WNET
+http://4.30.180.36:8420/wnethd/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/NickJr.png",🇺🇸 | Nick Jr.
+http://4.30.180.36:8420/nickjr/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/History.png",🇺🇸 | History
+http://4.30.180.36:8420/history/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/SYFY.png",🇺🇸 | SYFY
+http://4.30.180.36:8420/syfy/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/ParamountNetwork.png",🇺🇸 | Paramount Network
+http://4.30.180.36:8420/paramount/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/ComedyCentral.png",🇺🇸 | Comedy Central
+http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/AMC.png",🇺🇸 | AMC
+http://4.30.180.36:8420/amc/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/HallmarkChannel.png",🇺🇸 | Hallmark Channel
+http://4.30.180.36:8420/hallmark/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/Lifetime.png",🇺🇸 | Lifetime
+http://4.30.180.36:8420/lifetime/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/USANetwork.png",🇺🇸 | USA Network
+http://4.30.180.36:8420/usa/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/FX.png",🇺🇸 | FX
+http://4.30.180.36:8420/fx/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/VH1.png",🇺🇸 | VH1
+http://4.30.180.36:8420/vh1/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/DisneyChannel.png",🇺🇸 | Disney Channel HD East
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/Bravo.png",🇺🇸 | Bravo
+http://4.30.180.36:8420/bravo/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/Freeform.png",🇺🇸 | Freeform
+http://4.30.180.36:8420/freeform/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/CNBC.png",🇺🇸 | CNBC
+http://4.30.180.36:8420/cnbc/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/MSNOW.png",🇺🇸 | MS NOW
+http://4.30.180.36:8420/msnbc/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/SPremium.png",🇺🇸 | S Premium!
+https://vodcdn.bamboo-cloud.com/livehls/6aa1f82906304434d9688a53/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/Galavision.png",🇺🇸 | Galavision
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/Galavision.png",🇺🇸 | Galavision West
+https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/Univision.png",🇺🇸 | Univision
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/Univision.png",🇺🇸 | Univision West
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/OutdoorChannel.png",🇺🇸 | Outdoor Channel HD
+http://107.167.16.138/OutdoorChannel/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/NickJr.png",🇺🇸 | Nick Jr.
+http://107.167.16.138/nickjr/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Staten/History.png",🇺🇸 | History
+http://107.167.16.138/history/index.m3u8?token=test
 
 
 
