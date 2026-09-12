@@ -1,30 +1,150 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV1%20Algerian%20Television.png",🇩🇿 | TV1 Algerian Television
-http://5.253.46.190:8000/play/a0eu/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV2%20Canal%20Alg%C3%A9rie.png",🇩🇿 | TV2 Canal Algérie
-http://5.253.46.190:8000/play/a0em/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV4%20Tamazight%20TV.png",🇩🇿 | TV4 Tamazight TV
-http://5.253.46.190:8000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV5%20Coran.png",🇩🇿 | TV5 Coran
-http://5.253.46.190:8000/play/a0eo/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV6%20El-Chebabia.png",🇩🇿 | TV6 El-Chebabia
-http://5.253.46.190:8000/play/a0ep/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV7%20El-Maarifa.png",🇩🇿 | TV7 El-Maarifa 
-http://5.253.46.190:8000/play/a0eq/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV8%20El-Dhakira.png",🇩🇿 | TV8 El-Dhakira 
-http://5.253.46.190:8000/play/a0er/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV9.svg.png",🇩🇿 | TV9 El-Barlamaniya
-http://5.253.46.190:8000/play/a0es/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/Berb%C3%A8re_T%C3%A9l%C3%A9vision.png",🇩🇿 | Berbere TV 
-http://5.253.46.190:8000/play/a0fi/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/Chebab%20TV.png",🇩🇿 | Chebab TV 
-http://5.253.46.190:8000/play/a0fj/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/Amou%20Yazid%20TV.png",🇩🇿 | Amou Yazid TV
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/CNA.png",🇩🇿 | Chaîne Nord-Africaine
-https://live.creacast.com/cna/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/AL24%20News.png",🇩🇿 | AL24 News
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Arabische%20Emiraten/Dubai%20TV%20International.png",🇦🇪 | Dubai TV International
+http://185.9.2.18/chid_139/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Al%20Sharqiya.png",🇮🇶 | Al Sharqiya
+http://185.9.2.18/chid_144/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Arabische%20Emiraten/Al%20Arabiya.png",🇦🇪 | Al Arabiya
+http://185.9.2.18/chid_146/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Al%20Maghribia.png",🇲🇦 | Al Maghribia
+http://185.9.2.18/chid_205/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/2M.png",🇲🇦 | 2M
+http://185.9.2.18/chid_218/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Al%20Masriyah.png",🇪🇬 | Al Masriyah
+http://185.9.2.18/chid_247/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Rotana%20Cinema.png",🇪🇬 | Rotana Cinema
+http://185.9.2.18/chid_288/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Nile%20Cinema.png",🇪🇬 | Nile Cinema
+http://185.9.2.18/chid_290/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Koerdistan/KurdMax.png",🇰🇼 | KurdMax
+http://185.9.2.18/chid_304/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/LBC.png",🇱🇧 | LBC
+http://185.9.2.18/chid_327/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Nile%20Drama.png",🇪🇬 | Nile Drama
+http://185.9.2.18/chid_352/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Panorama%20Food.png",🇪🇬 | Panorama Food
+http://185.9.2.18/chid_367/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Syrie/SAMA%20TV.png",🇸🇾 | SAMA TV
+http://185.9.2.18/chid_372/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%201.png",🇸🇦 | MBC 1
+http://185.9.2.18/chid_374/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%202.png",🇸🇦 | MBC 2
+http://185.9.2.18/chid_375/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%203.png",🇸🇦 | MBC 3
+http://185.9.2.18/chid_376/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%204.png",🇸🇦 | MBC 4
+http://185.9.2.18/chid_377/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%20Action.png",🇸🇦 | MBC Action
+http://185.9.2.18/chid_378/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%20Max.png",🇸🇦 | MBC Max
+http://185.9.2.18/chid_379/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/Al%20Jadeed.png",🇱🇧 | Al Jadeed
+http://185.9.2.18/chid_391/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Qatar/Al%20Jazeera.png",🇶🇦 | Al Jazeera
+http://185.9.2.18/chid_423/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Hannibal%20TV.png",🇹🇳 | Hannibal TV
+http://185.9.2.18/chid_615/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/ON%20Egypt.png",🇪🇬 | ON Egypt
+http://185.9.2.18/chid_616/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC%20Sofra.png",🇪🇬 | CBC Sofra
+http://185.9.2.18/chid_652/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Alhayat.png",🇪🇬 | Alhayat
+http://185.9.2.18/chid_659/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC.png",🇪🇬 | CBC
+http://185.9.2.18/chid_679/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC%20Drama.png",🇪🇬 | CBC Drama
+http://185.9.2.18/chid_680/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Panorama%20Film.png",🇪🇬 | Panorama Film
+http://185.9.2.18/chid_706/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Elhiwar%20Ettounsi.png",🇹🇳 | Elhiwar Ettounsi
+http://185.9.2.18/chid_741/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/MBC%20Masr.png",🇪🇬 | MBC Masr
+http://185.9.2.18/chid_742/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/MBC%202%20Together.png",🇪🇬 | MBC 2 Together
+http://185.9.2.18/chid_743/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%201.png",🌍 | CHID 1
+http://185.9.2.18/chid_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%2027.png",🌍 | CHID 27
+http://185.9.2.18/chid_27/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20282.png",🌍 | CHID 282
+http://185.9.2.18/chid_282/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20283.png",🌍 | CHID 283
+http://185.9.2.18/chid_283/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20285.png",🌍 | CHID 285
+http://185.9.2.18/chid_285/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20286.png",🌍 | CHID 286
+http://185.9.2.18/chid_286/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20299.png",🌍 | CHID 299
+http://185.9.2.18/chid_299/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20312.png",🌍 | CHID 312
+http://185.9.2.18/chid_312/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20382.png",🌍 | CHID 382
+http://185.9.2.18/chid_382/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20387.png",🌍 | CHID 387
+http://185.9.2.18/chid_387/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20455.png",🌍 | CHID 455
+http://185.9.2.18/chid_455/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20516.png",🌍 | CHID 516
+http://185.9.2.18/chid_516/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20518.png",🌍 | CHID 518
+http://185.9.2.18/chid_518/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20521.png",🌍 | CHID 521
+http://185.9.2.18/chid_521/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20548.png",🌍 | CHID 548
+http://185.9.2.18/chid_548/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20597.png",🌍 | CHID 597
+http://185.9.2.18/chid_597/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20845.png",🌍 | CHID 845
+http://185.9.2.18/chid_845/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Overige/CHID%20926.png",🌍 | CHID 926
+http://185.9.2.18/chid_926/index.m3u8
 
 
 
