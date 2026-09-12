@@ -3817,22 +3817,46 @@ https://stream.hydeinnovations.com/tarari-west/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Tanzania%20Safari.png",🇹🇿 | Tanzania Safari Channel
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_12bb7dc0590211f1951119e8afeb4224/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/TBC1.png",🇹🇿 | TBC1 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/TBC2.png",🇹🇿 | TBC2 
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Mahaasin.png",🇹🇿 | Mahaasin TV
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 # --- 🇲🇦 Marokko ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Al%20Maghribia.png",🇲🇦 | Al Maghribia
+http://185.9.2.18/chid_205/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/2M.png",🇲🇦 | 2M
+http://185.9.2.18/chid_218/index.m3u8
 # --- 🇪🇭 Westelijke Sahara ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/RASD.png",🇪🇭 | RASD TV
+https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
 # --- 🇩🇿 Algerije ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV1%20Algerian%20Television.png",🇩🇿 | TV1 Algerian Television
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV2%20Canal%20Alg%C3%A9rie.png",🇩🇿 | TV2 Canal Algérie
+http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV4%20Tamazight%20TV.png",🇩🇿 | TV4 Tamazight TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV5%20Coran.png",🇩🇿 | TV5 Coran
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV6%20El-Chebabia.png",🇩🇿 | TV6 El-Chebabia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV7%20El-Maarifa.png",🇩🇿 | TV7 El-Maarifa 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV8%20El-Dhakira.png",🇩🇿 | TV8 El-Dhakira 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV9.svg.png",🇩🇿 | TV9 El-Barlamaniya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/El-HeddafTV.png",🇩🇿 | El-Heddaf TV
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/Berb%C3%A8re_T%C3%A9l%C3%A9vision.png",🇩🇿 | Berbere TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/Chebab%20TV.png",🇩🇿 | Chebab TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/Amou%20Yazid%20TV.png",🇩🇿 | Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/CNA.png",🇩🇿 | Chaîne Nord-Africaine
+https://live.creacast.com/cna/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/AL24%20News.png",🇩🇿 | AL24 News
 # --- 🇹🇳 Tunesië
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Elwat1.png",🇹🇳 | El Watania 1 
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Elwat2.png",🇹🇳 | El Watania 2
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Hannibal%20TV.jpg",🇹🇳 | Hannibal TV
+http://185.9.2.18/chid_615/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/Elhiwar%20Ettounsi.png",🇹🇳 | Elhiwar Ettounsi
+http://185.9.2.18/chid_741/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tunesi%C3%AB/MosFM.png",🇹🇳 | Mosaique FM
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
 # --- 🇨🇩 Democratische Republiek Congo ---
@@ -3897,13 +3921,50 @@ https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TV%20Mana%20Mozambique.png",🇲🇿 | TV Mana Mocambique
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 # --- 🇪🇬 Egypte ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC.png",🇪🇬 | CBC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC%20Sofra.png",🇪🇬 | CBC Sofra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC%20Drama.png",🇪🇬 | CBC Drama
+http://185.9.2.18/chid_680/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/MBC%20Masr.png",🇪🇬 | MBC Masr
+http://185.9.2.18/chid_742/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/MBC%202%20Together.png",🇪🇬 | MBC 2 Together
+http://185.9.2.18/chid_743/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Al%20Masriyah.png",🇪🇬 | Al Masriyah
+http://185.9.2.18/chid_247/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Rotana%20Cinema.png",🇪🇬 | Rotana Cinema
+http://185.9.2.18/chid_288/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Nile%20Cinema.png",🇪🇬 | Nile Cinema
+http://185.9.2.18/chid_290/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Nile%20Drama.png",🇪🇬 | Nile Drama
+http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Panorama%20Food.png",🇪🇬 | Panorama Food
+http://185.9.2.18/chid_367/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Panorama%20Film.png",🇪🇬 | Panorama Film
+http://185.9.2.18/chid_706/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/ON%20Egypt.png",🇪🇬 | ON Egypt
+http://185.9.2.18/chid_616/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/Alhayat.png",🇪🇬 | Alhayat
+http://185.9.2.18/chid_659/index.m3u8
 # --- 🇱🇾 Libië ---
 
 # --- 🇸🇾 Syrië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Syrie/SAMA%20TV.png",🇸🇾 | SAMA TV
+http://185.9.2.18/chid_372/index.m3u8
 # --- 🇸🇦 Saoedi-Arabië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%201.png",🇸🇦 | MBC 1
+http://185.9.2.18/chid_374/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%202.png",🇸🇦 | MBC 2
+http://185.9.2.18/chid_375/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%203.png",🇸🇦 | MBC 3
+http://185.9.2.18/chid_376/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%204.png",🇸🇦 | MBC 4
+http://185.9.2.18/chid_377/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%20Action.png",🇸🇦 | MBC Action
+http://185.9.2.18/chid_378/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabi%C3%AB/MBC%20MAX.png",🇸🇦 | MBC Max
+http://185.9.2.18/chid_379/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/MBC%20Drama.png",🇸🇦 | MBC Drama
+http://185.9.2.18/chid_382/index.m3u8
 # --- 🇦🇪 Verenigde Arabische Emiraten ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/.png",🇦🇪 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/DubaiINT.png",🇦🇪 | Dubai TV International
@@ -3930,6 +3991,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/MBC_Persia.jpg",🇦🇪 | MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Verenigde%20Arabische%20Emiraten/National%20Geographic%20Abu%20Dhabi.png",🇦🇪 | National Geographic Abu Dhabi
+http://185.9.2.18/chid_597/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Sharjah%20tv.jpg",🇦🇪 | Sharjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/Sharjah%202.jpg",🇦🇪 | Sharjah 2
@@ -3966,9 +4029,17 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 # --- 🇮🇷 Iran ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/.png",🇮🇷 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/IRINN.png",🇮🇷 | IRINN
+http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Iran/IraneFardaTV.png",🇮🇷 | IraneFarda TV
 https://iranefardalive.com/stream/live.m3u8
 # --- 🇮🇶 Irak ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Al%20Sharqiya.png",🇮🇶 | Al Sharqiya
+http://185.9.2.18/chid_144/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Kurdsat.png",🇮🇶 | Kurdsat
+http://185.9.2.18/chid_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/Kirkuk%20TV.jpg",🇮🇶 | Kirkuk TV
+http://185.9.2.18/chid_516/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Irak/cira.png",🇮🇶 | Cira TV 
 https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 # --- 🇰🇼 Koeweit ---
@@ -4076,7 +4147,12 @@ https://fast.kwikmotion.com/roya/big_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Jordani%C3%AB/RoyaKids.png",🇯🇴 | Roya 
 https://fast.kwikmotion.com/roya/kids/playlist.m3u8
 # --- 🇱🇧 Libanon ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/LBC.png",🇱🇧 | LBC
+http://185.9.2.18/chid_327/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/Al%20Jadeed.png",🇱🇧 | Al Jadeed
+http://185.9.2.18/chid_391/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Libanon/OTV.png",🇱🇧 | OTV
+http://185.9.2.18/chid_312/index.m3u8
 # --- 🇮🇱 Israël ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/.png",🇮🇱 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Israel/5Sport.png",🇮🇱 | 5Sport
