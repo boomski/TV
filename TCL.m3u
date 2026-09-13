@@ -164,6 +164,8 @@ https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Luxemburg/LuxeTV.png",🇱🇺 | Luxe TV
 http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
 # --- 🇫🇷 Frankrijk ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/L'Equipe.png",🇫🇷 | L'ÉQUIPE
+https://jmp2.uk/stvp-FR200016Y5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TF1.png",🇫🇷 | TF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://151.80.18.177:86/TF1_HD/index.m3u8
@@ -618,6 +620,8 @@ https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/FailArmy.png",🇺🇸 | Failarmy International
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png",🇺🇸 | Drone TV
+https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 # --- 🇨🇦 Canada ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Canada/TSN1.png",🇨🇦 | TSN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -1112,6 +1116,8 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/kuriakoskids.png",🇵🇹 | Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.naminhaterra.com/assets/images/Logo-1802x716.png",🇵🇹 | NMT TV 
+https://rtmp.w2.stream-sx.com/live/K6Ole9wB/index.m3u8
 # --- 🇩🇰 Denemarken ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Denemarken/DR1.png",🇩🇰 | DR1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -3535,7 +3541,10 @@ https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/.png",🇷🇺 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201.jpg",🇷🇺 | Россия 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/Channel%20One%20Russia.png",🇷🇺 | ПЕРВЫЙ КАНАЛ HD
-https://salam-de-rasc-87.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/TjCF-gRAcvXyxfPiwL0mMg/stream/genetta-319.m9.rutube.ru/3C9c-XTeS-PmutR-wgnSaQ/1788108219/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/MatchFutbol1.png",🇷🇺 | Матч!Футбол 1
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/MatchFutbol2.png",🇷🇺 | Матч!Футбол 2
+http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/OkkoSport.png",🇷🇺 | Okko Sport
 http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/OkkoPrimeSport.png",🇷🇺 | Okko Prime Sport
@@ -3600,7 +3609,12 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/FashionTV.png",🇷🇺 | FashionTV
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 # --- 🇨🇳 China ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/.jpg",🇨🇳 | 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CCTV5.png",🇨🇳 | CCTV 5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CCTV5plus.png",🇨🇳 | CCTV 5+
+http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CCTV16.png",🇨🇳 | CCTV 16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CCTVplus1.png",🇨🇳 | CCTV+ 1 
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/China/CCTVplus2.png",🇨🇳 | CCTV+ 2
@@ -4439,5 +4453,6 @@ http://185.63.254.139:8000/play/adult-redlight-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Shalun.png",🔞 | Shalun
 http://185.63.254.139:8000/play/adult-shalun/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/PrivateSD.png",🔞 | Private SD
-
+#EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/spoops.png",🔞 | Spoops tv
+https://fl1003.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 
