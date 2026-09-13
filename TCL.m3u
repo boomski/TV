@@ -2561,6 +2561,8 @@ https://hls.tvabierta.net/hls/038.m3u8
 https://hls.tvabierta.net/hls/039.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/Teleuniverso.png",🇩🇴 | Teleuniverso 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Dominicaanse%20Republiek/TLSD.jpg",🇩🇴 | Tele Santo Domingo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTVLCOPT:http-referrer=https://www.telesantodomingo.com/
 https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8
 # --- 🇰🇳 Saint Kitts en Nevis ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saint%20Kitts%20en%20Nevis/.jpg",🇰🇳 | 
@@ -2702,6 +2704,10 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/c7.png",🇦🇷 | Canal 7 Santiago del Estero 
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/C8MDP.png",🇦🇷 |Canal 8 Mar del Plata
+https://canal8mdq.unpocodeawita.workers.dev/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/TelefeSalta.png",🇦🇷 | Telefe Salta
+https://canal11saltatv.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Eco.jpg",🇦🇷 | Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Catamarca.png",🇦🇷 | Catamarca TV
@@ -2871,8 +2877,6 @@ http://170.83.49.66:8083/SPORTV3HD/index.m3u8
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/ESPN.png",🇧🇷 | ESPN
 http://190.83.2.182:8090/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/ESPN3.png",🇧🇷 | ESPN 3
-http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/ESPN3.png",🇧🇷 | ESPN 3
 http://181.78.197.59:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Brazili%C3%AB/ESPN4.png",🇧🇷 | ESPN 4
