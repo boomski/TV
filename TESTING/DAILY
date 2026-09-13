@@ -1,47 +1,4 @@
 #EXTM3U
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Jednotka.png",🇸🇰 | Jednotka
-http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Dvojka.png",🇸🇰 | Dvojka
-http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Trojka.png",🇸🇰 | Trojka
-http://88.212.15.19/live/test_trojka_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/RTVS%2024.png",🇸🇰 | RTVS :24
-http://88.212.15.19/live/test_trojka_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Markiza.png",🇸🇰 | Markíza
-http://88.212.15.19/live/test_markiza_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Markiza%20Krimi.png",🇸🇰 | Markíza Krimi
-http://88.212.15.19/live/test_markiza_krimi_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Markiza%20International.png",🇸🇰 | Markíza International
-http://88.212.15.19/live/test_markiza_int_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Dajto.png",🇸🇰 | Dajto
-http://88.212.15.19/live/test_dajto_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ.png",🇸🇰 | JOJ
-http://88.212.15.19/live/test_joj_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ%20Plus.png",🇸🇰 | JOJ Plus
-http://88.212.15.19/live/test_pluska_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ%20Cinema.png",🇸🇰 | JOJ Cinema
-http://88.212.15.19/live/test_joj_cinema_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/JOJ%20Family.png",🇸🇰 | JOJ Family
-http://88.212.15.19/live/test_joj_family_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Wau.png",🇸🇰 | Wau
-http://88.212.15.19/live/test_wau_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/Doma.png",🇸🇰 | Doma
-http://88.212.15.19/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TA3.png",🇸🇰 | TA3
-http://88.212.15.19/live/test_ta3_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Slowakije/TV%20Lux.png",🇸🇰 | TV Lux
-http://88.212.15.19/live/test_lux_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT1.png",🇨🇿 | CT1
-http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT2.png",🇨🇿 | CT2
-http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT3.png",🇨🇿 | CT3
-http://88.212.15.19/live/test_ct_3_hd_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/CT24.png",🇨🇿 | CT24
-http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima.png",🇨🇿 | Prima
 http://88.212.7.11/live/prima_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjechie/Prima%20Star.png",🇨🇿 | Prima Star
