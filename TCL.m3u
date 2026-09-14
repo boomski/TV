@@ -4066,8 +4066,8 @@ https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/KassouaTV.png",🇧🇯 | KassouaTV
 https://playtv4k.live/live/kassouatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/Speedline.png",🇧🇯 | Speedline TV
-https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/ICONE.jpg",🇧🇯 | ICONE TV
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/source/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/ICONE.png",🇧🇯 | ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/Power.png",🇧🇯 | Power TV
 https://stream.it-innov.com/powertv/index.fmp4.m3u8
