@@ -650,14 +650,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Artflix.png",🇺🇸 | Artflix Movie Classics
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Aspire.png",🇺🇸 | Aspire TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/ABCnews.jpg",🇺🇸 | ABC News
+http://stream.cammonitorplus.net/1742/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/ABC2Atlanta.png",🇺🇸 | ABC 2 Atlanta
 http://stream.cammonitorplus.net/1738/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/ANF.png",🇺🇸 | Atlanta News First
 http://stream.cammonitorplus.net/1739/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/CBSKMOV.png",🇺🇸 | CBS KMOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://best.happytv.xyz:2082/live/JThibodeau0923/gcEyG7W3/2193473.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/NBCALIVE.jpg",🇺🇸 | NBC Alive
 http://stream.cammonitorplus.net/1741/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/ABCnews.jpg",🇺🇸 | ABC News
-http://stream.cammonitorplus.net/1742/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WVIT-DT1.png",🇺🇸 | NBC Connecticut
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WRC-DT1.png",🇺🇸 | NBC 4 Washington
@@ -3435,6 +3438,8 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 https://video.ipstream.cl:3459/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/ViaX.jpg",🇨🇱 | Via X 
 http://45.170.130.224:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/KNino.png",🇨🇱 | KNino
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/NT.png",🇨🇱 | Nuevo Tiempo TV 
 https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 # --- 🇨🇷 Costa Rica ---
@@ -3893,6 +3898,12 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/HUBSPORTS1.png",🇸🇬 | Hub Sports 1 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/GlobalTrekker.jpg",🇸🇬 | Global Trekker
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/CI.png",🇸🇬 | Crime + Investigation Asia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/NickJrAsia.png",🇸🇬 | Nick Jr. Asia HD
+http://58.8.186.128:10003/bysid/2330
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/ROCKXStream.png",🇸🇬 | ROCK X Stream
+http://58.8.186.128:10007/bysid/2811
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Singapore/ROCKEntertainment.png",🇸🇬 | ROCK Entertainment HD
+http://58.8.186.128:10006/bysid/2612
 # --- 🇭🇰 Hongkong ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%201.png",🇭🇰 | Now Sports 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hong%20Kong/Now%20Sports%202.png",🇭🇰 | Now Sports 2
@@ -3919,8 +3930,23 @@ http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macau/tdmmacau_logo.jpg",🇲🇴 | TDM Macau
 https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8?wowzasessionid=@iprtlk
 # --- 🇮🇩 Indonesië ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Indonesi%C3%AB/RajawaliTV.png",🇮🇩 | Rajawali TV
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Indonesi%C3%AB/SPOTV.png",🇮🇩 | SPOTV
+http://58.8.186.128:10006/bysid/2614
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Indonesi%C3%AB/SPOTV2.png",🇮🇩 | SPOTV 2
+http://58.8.186.128:10006/bysid/2630
 # --- 🇹🇭 Thailand ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Thailand/AXNAsia.png",🇹🇭 | AXN Asia Thailand
+http://58.8.186.128:10007/bysid/2814
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Thailand/TrueThaiFilm.png",🇹🇭 | True Thai Film
+http://58.8.186.128:10003/bysid/2326
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Thailand/TrueMovieHits.png",🇹🇭 | True Movie Hits
+http://58.8.186.128:10003/bysid/2325
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Thailand/TrueFilmAsia.png",🇹🇭 | True Film Asia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Thailand/TrueFilm1.png",🇹🇭 | True Film 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Thailand/TrueFilm2.png",🇹🇭 | True Film 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Thailand/TrueTennis.png",🇹🇭 | True Tennis
 # --- 🇵🇭 Filipijnen ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Filipijnen/PremierSports-ph.png",🇵🇭 | Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
@@ -4051,6 +4077,8 @@ https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Maldiven/YES.png",🇲🇻 | YES
 https://lana.psm.mv/live/yes.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Maldiven/VTV.png",🇲🇻 | VTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
 # --- 🇲🇲 Myanmar ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Myanmar/MITV.png",🇲🇲 | MITV
 https://mrtvott.com/cache/MITV/m3u8/cache_MITV_m3u8_hls_m3u8_MITV-TS-M.m3u8
@@ -4246,6 +4274,8 @@ http://185.9.2.18/chid_845/index.m3u8
 http://185.9.2.18/chid_285/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/Rotana%20Classic.png",🇸🇦 | Rotana Classic
 http://185.9.2.18/chid_286/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/AlSaudiya.png",🇸🇦 | Al Saudiya
+https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8
 # --- 🇦🇪 Verenigde Arabische Emiraten ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/.png",🇦🇪 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/DubaiINT.png",🇦🇪 | Dubai TV International
