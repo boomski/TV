@@ -3436,6 +3436,8 @@ https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/C9BioBio.png",🇨🇱 | Canal 9 Bio Bio
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/TVChile.png",🇨🇱 | TV Chile
+https://xyktmobile00.s.gy/093_TV_CHILE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/Elradar.png",🇨🇱 | El Radar
 https://video.ipstream.cl:3459/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/ViaX.jpg",🇨🇱 | Via X 
@@ -4122,10 +4124,28 @@ https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Mahaasin.png",🇹🇿 | Mahaasin TV
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 # --- 🇲🇦 Marokko ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Arryadia.png",🇲🇦 | Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Al%20Maghribia.png",🇲🇦 | Al Maghribia
 http://185.9.2.18/chid_205/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/2M.png",🇲🇦 | 2M
 http://185.9.2.18/chid_218/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/2MMonde.png",🇲🇦 | 2M Monde
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/2MMonde.png",🇲🇦 | 2M Monde +1
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/ChadaTV.png",🇲🇦 | Chada TV
+https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Medi1TVAfrique.png",🇲🇦 | Medi1TV Afrique
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Medi1TVArabic.jpg",🇲🇦 | Medi 1 TV Arabic
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Medi1TVMaghreb.jpg",🇲🇦 | Medi 1 TV Maghreb
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/StoryChannelTV.png",🇲🇦 | StoryChannel TV
+https://136044159.r.cdnsun.net/storychannel.m3u8
 # --- 🇪🇭 Westelijke Sahara ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/RASD.png",🇪🇭 | RASD TV
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
