@@ -1,37 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/PROTVChisinau.png",🇲🇩 | PRO TV Chisinau
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/BaltiTV.png",🇲🇩 | Bălţi TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/BusuiocTV.png",🇲🇩 | Busuioc TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/ExclusivTV.png",🇲🇩 | Exclusiv TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/N4.png",🇲🇩 | N4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/TVRMoldova.png",🇲🇩 | TVR Moldova HD
-https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/TV8.png",🇲🇩 | TV8
-http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/MoldovaTV.png",🇲🇩 | Moldova TV
-https://moldovatv.ro/live-tv/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/NorocTV.png",🇲🇩 | Noroc TV
-https://media.noroc.tv/noroc/bitrate_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/PrivescEuTV.png",🇲🇩 | Privesc.Eu TV
-https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/RliveTV.png",🇲🇩 | Rlive TV
-https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/TSV.png",🇲🇩 | TSV
-https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/VoceaBasarabieiTV.png",🇲🇩 | Vocea Basarabiei TV
-https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/RadioChisinau.png",🇲🇩 | Radio Chisinau
-#EXTVLCOPT:http-referrer=https://radiochisinau.md/
-https://radiochisinau.md/hls/RChisinau.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/RadioMoldova.png",🇲🇩 | Radio Moldova
-https://radiolive.trm.md/hls_rma/actualitati.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/RadioMoldovaMuzical.png",🇲🇩 | Radio Moldova Muzical
-https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/RadioMoldovaTineret.png",🇲🇩 | Radio Moldova Tineret
-https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Moldavi%C3%AB/HitFM.png",🇲🇩 | Hit FM
-https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
+
 
 
 
