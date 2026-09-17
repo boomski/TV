@@ -2396,9 +2396,11 @@ https://stream.rtvze.ba/live/123/123.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kroati%C3%AB/A4.png",🇷🇸 | Arena Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/SciFi.jpg",🇷🇸 | Sci Fi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/SciFi.jpg",🇷🇸 | Sci Fi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/TVAS.jpg",🇷🇸 | TV AS
+https://stream.toobimedia.org/public/assabac.m3u8
 # --- 🇲🇪 Montenegro ---
 
 # --- 🇽🇰 Kosovo ---
@@ -3611,18 +3613,69 @@ https://tv.nucast.tv/lb/gpb-2tv/index.m3u8
 https://tv.nucast.tv/lb/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Imedi.png",🇬🇪 | Imedi TV 
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Formula.png",🇬🇪 | Formula
-https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/PalitraNews.png",🇬🇪 | Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/BMGTV.png",🇬🇪 | BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/TVPirveli.png",🇬🇪 | TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Rustavi2.png",🇬🇪 | Rustavi 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/TV4.png",🇬🇪 | TV4
+https://nue01-edge01.itdc.ge/qvemoqartli/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/TV25.jpg",🇬🇪 | TV25
+https://nue01-edge01.itdc.ge/tv25/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/EuronewsGeorgia.png",🇬🇪 | Euronews Georgia
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Trialeti.png",🇬🇪 | Trialeti
+https://nue01-edge01.itdc.ge/trialeti/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/TOKTV.png",🇬🇪 | TOK TV
+https://nue01-edge01.itdc.ge/toktv/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/GDSTV.png",🇬🇪 | GDS TV
+http://nue01-edge01.itdc.ge/gdstv/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/GMSTV.png",🇬🇪 | GMS TV
+https://nue01-edge01.itdc.ge/gms/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/PKTV.jpg",🇬🇪 | PKTV
+https://nue01-edge01.itdc.ge/pktv/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Batumi.png",🇬🇪 | Batumi TV
+https://nue01-edge01.itdc.ge/batumitv/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Marao.png",🇬🇪 | Marao
+http://nue01-edge01.itdc.ge/marao/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Maestro.png",🇬🇪 | Maestro
+http://nue01-edge01.itdc.ge/maestro/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/ObieqtiviTV.png",🇬🇪 | Obieqtivi TV
+http://nue01-edge01.itdc.ge/obiektivi/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/AbkhazTV.jpg",🇬🇪 | Abkhaz TV
+http://nue01-edge01.itdc.ge/abkhaz/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Caucasia.jpg",🇬🇪 | Caucasia
+http://nue01-edge01.itdc.ge/caucasia/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/AdjaraTV.png",🇬🇪 | Adjara TV
+http://nue01-edge01.itdc.ge/adjara/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/DroTV.png",🇬🇪 | Dro TV
+http://nue01-edge01.itdc.ge/drotv/mpegts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/RioniTV.png",🇬🇪 | Rioni TV
+http://nue01-edge01.itdc.ge/rioni/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Ertsulovneba.png",🇬🇪 | Ertsulovneba
-https://stream.sstv.ge/live/sstv/playlist.m3u8
+http://nue01-edge01.itdc.ge/ertsulovneba/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/%D0%90%D0%91%D0%90%D0%97%D0%90-%D0%A2%D0%92.png",🇬🇪 | АБАЗА-ТВ
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Formula.png",🇬🇪 | Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/ApsuaTV.jpg",🇬🇪 | Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/ComedyTV.png",🇬🇪 | Comedy TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/MtavariArkhi.png",🇬🇪 | Mtavari Arkhi
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/TVC.png",🇬🇪 | TVC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Setanta-logo.jpg",🇬🇪 | Setanta Sports 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Setanta-logo.jpg",🇬🇪 | Setanta Sports 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Setanta-logo.jpg",🇬🇪 | Setanta Sports 3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Silk%20Sport.png",🇬🇪 | Silk Sport 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Silk%20Sport.png",🇬🇪 | Silk Sport 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Silk%20Sport.png",🇬🇪 | Silk Sport 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/Adjarasport.png",🇬🇪 | Adjarasport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Georgi%C3%AB/RTV.png",🇬🇪 | Rugby TV
+http://nue01-edge01.itdc.ge/rtv/mpegts
 # --- 🇦🇲 Armenië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/",🇦🇲 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Armeni%C3%AB/Armenia1.png",🇦🇲 | Armenia 1 
