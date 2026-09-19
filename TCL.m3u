@@ -2478,14 +2478,40 @@ http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/INTV.jpg",🇲🇰 | INTV
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 # --- 🇬🇷 Griekenland --- 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/ERTCosmos.png",🇬🇷 | ERT Cosmos
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/ERTNews.png",🇬🇷 | ERT News
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR HD
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Star.png",🇬🇷 | STAR International
-https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/StarKentrikisElladas.png",🇬🇷 | Star Kentrikis Elladas
+https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Action24.png",🇬🇷 | Action 24
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/SkaiTV.png",🇬🇷 | Skai TV
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/OneChannel.png",🇬🇷 | One Channel
+https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Cosmote1.png",🇬🇷 | Cosmote sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/Cosmote4.png",🇬🇷 | Cosmote Sport 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/ANT1.png",🇬🇷 | ANT1
+#EXTVLCOPT:http-referrer=http://watch.antennaplus.gr
+#EXTVLCOPT:http-user-agent=Chrome
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/AlphaTV.png",🇬🇷 | Alpha TV
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/DELTATV.png",🇬🇷 | DELTA TV
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/TRT.png",🇬🇷 | TRT
+https://av.hellasnet.tv/rst/trt/main_stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/SyrosTV1.png",🇬🇷 | Syros TV1
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/CorfuChannel.png",🇬🇷 | Corfu Channel
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 # --- 🇨🇾 Cyprus ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/BRT1.png",🇨🇾 | BRT1
 #EXTVLCOPT:http-referrer=https://canlitv.com/brt-1?ulke=cy
@@ -4310,6 +4336,22 @@ https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_12bb7dc0590211f195
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tanzania/Mahaasin.png",🇹🇿 | Mahaasin TV
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
+# --- 🇰🇪 Kenia ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kenia/K24.png",🇰🇪 | K24
+https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kenia/InooroTV.png",🇰🇪 | Inooro TV
+https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kenia/MorningCloudTV.png",🇰🇪 | Morning Cloud TV
+https://livecdn.live247stream.com/mc/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kenia/YOUNIBMediaTV.jpg",🇰🇪 | YOUNIB Media TV
+https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kenia/MERUTV.png",🇰🇪 | MERU TV
+https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kenia/CapuchinTV.png",🇰🇪 | Capuchin TV
+https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
+# --- 🇬🇭 Ghana ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/GreatCommissionTV.png",🇬🇭 | Great Commission TV
+https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
 # --- 🇲🇦 Marokko ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/Arryadia.png",🇲🇦 | Arryadia
 http://149.100.11.252:8000/play/a065/index.m3u8
