@@ -4559,6 +4559,11 @@ http://185.9.2.18/chid_616/index.m3u8
 http://185.9.2.18/chid_27/index.m3u8
 # --- 🇱🇾 Libië ---
 
+# --- 🇸🇩 Soedan ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Soedan/DabangaTV.png",🇸🇩 | Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Soedan/SudanTV.png",🇸🇩 | Sudan TV
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 # --- 🇸🇾 Syrië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Syri%C3%AB/SAMA%20TV.png",🇸🇾 | SAMA TV
 http://185.9.2.18/chid_372/index.m3u8
