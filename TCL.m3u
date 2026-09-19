@@ -308,6 +308,13 @@ https://live.azenagroup.com/zenith/index.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/Equidia%20Racing%20Mag.png",🇫🇷 | Equidia Racing Mag
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
+# --- 🇲🇨 Monaco ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Monaco/TVMonaco.png",🇲🇨 | TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Monaco/MonacoInfo.png",🇲🇨 | Monaco Info
+https://webtv.monacoinfo.com/live/prod/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Monaco/SuperyachtTV.png",🇲🇨 | Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
 # --- 🇩🇪 Duitsland ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/ARD.png",🇩🇪 | Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
@@ -4463,6 +4470,18 @@ https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TV%20Vit%C3%B3ria.png",🇲🇿 | TV Vitória
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TV%20Mana%20Mozambique.png",🇲🇿 | TV Mana Mocambique
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+# --- 🇪🇷 Eritrea ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Eritrea/ERi-TV1.png",🇪🇷 | ERi-TV 1
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
+# --- 🇪🇹 Ethiopië ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ethiopi%C3%AB/EBSHD.png",🇪🇹 | EBS HD
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ethiopi%C3%AB/EBSCinema.png",🇪🇹 | EBS Cinema
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ethiopi%C3%AB/EBSMusika.png",🇪🇹 | EBS Musika
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ethiopi%C3%AB/NesihaTV.jpg",🇪🇹 | Nesiha TV
+https://stream.cisk.tech/nasihatv/index.m3u8
 # --- 🇪🇬 Egypte ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC.png",🇪🇬 | CBC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC%20Sofra.png",🇪🇬 | CBC Sofra
