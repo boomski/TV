@@ -2595,6 +2595,8 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTVLCOPT:http-referrer=https://www.sportstv.com.tr/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ekol-sport.png",🇹🇷 | Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/HTSporTV.png",🇹🇷 | HT Spor TV
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT%20Spor.png",🇹🇷 | TRT Spor
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT1.png",🇹🇷 | TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
@@ -2614,10 +2616,145 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRT%20World.jpg",🇹🇷 | TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRTMuzik.png",🇹🇷 | TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRTDiyanetCocuk.png",🇹🇷 | TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TRTEBAOrtaokul.png",🇹🇷 | TRT EBA Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ATV.png",🇹🇷 | ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/A2TV.png",🇹🇷 | A2TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/AHaber.png",🇹🇷 | A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ASpor.png",🇹🇷 | A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TV4.png",🇹🇷 | TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TV24.png",🇹🇷 | TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/360TV.png",🇹🇷 | 360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/StarTV.png",🇹🇷 | Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/KanalD.png",🇹🇷 | Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/KanalDDrama.png",🇹🇷 | Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/KanalDDrama.png",🇹🇷 | Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/KanalDDrama.png",🇹🇷 | Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/KanalDDrama.png",🇹🇷 | Kanal D Drama
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/EuroD.png",🇹🇷 | Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/DreamTurk.png",🇹🇷 | Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TV8.png",🇹🇷 | TV 8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivi6.png",🇹🇷 | Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/DenizPostasiTV.png",🇹🇷 | Deniz Postası TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/AnadoluNetTV.png",🇹🇷 | Anadolu Net TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/AksuTV.png",🇹🇷 | Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BRTV.png",🇹🇷 | BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/CiftciTV.png",🇹🇷 | Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BursaASTV.png",🇹🇷 | Bursa AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/DiyarTV.png",🇹🇷 | Diyar TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ErTV.png",🇹🇷 | Er TV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ESTV.png",🇹🇷 | ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ETVK​ayseri.png",🇹🇷 | ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/HunatTV.png",🇹🇷 | Hunat TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TV41.png",🇹🇷 | TV 41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BirTV.png",🇹🇷 | Bir TV
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/FortunaTV.png",🇹🇷 | Fortuna TV
+https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/FortunaTV.png",🇹🇷 | Fortuna TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TV1.png",🇹🇷 | TV 1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TV52.png",🇹🇷 | TV 52
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/GuneydoguTV.png",🇹🇷 | Guneydogu TV
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/AfroturkTV.png",🇹🇷 | Afroturk TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/MTurkTV.png",🇹🇷 | MTürk TV
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/AltasTV.png",🇹🇷 | Altas TV
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/CayTV.jpg",🇹🇷 | Cay TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ETVManisa.png",🇹🇷 | ETV Manisa
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/GZT.png",🇹🇷 | GZT
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TV100.png",🇹🇷 | TV 100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TV264.png",🇹🇷 | TV 264
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Ekoturk.png",🇹🇷 | Ekoturk 
 https://cdn.ekoturk.net/hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/TGRTHaber.png",🇹🇷 | TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BenguturkTV.png",🇹🇷 | Benguturk TV
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/FBTV.png",🇹🇷 | FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ATVAlanya.png",🇹🇷 | ATV Alanya
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/AlanyaPostaTV.png",🇹🇷 | Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Haber61TV.png",🇹🇷 | Haber61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/CekmekoyTV.png",🇹🇷 | Cekmeköy TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/DHA.png",🇹🇷 | DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/DostTV.png",🇹🇷 | Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/EdessaTV.png",🇹🇷 | Edessa TV
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ErzurumWebTV.png",🇹🇷 | Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/DiyanetTV.png",🇹🇷 | Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Al-ZahraTVTurkic.png",🇹🇷 | Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/AlmahriahTV.png",🇹🇷 | Almahriah TV
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/4UTV.png",🇹🇷 | 4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/FinansTurkTV.png",🇹🇷 | Finans Turk TV
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/FlashHaberTV.png",🇹🇷 | Flash Haber TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BloombergHT.png",🇹🇷 | Bloomberg HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/HaberGlobal.png",🇹🇷 | Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/HaberturkTV.png",🇹🇷 | Habertürk TV
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/HalkTV.png",🇹🇷 | Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/CNBC-e.png",🇹🇷 | CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 # --- 🇧🇬 Bulgarije ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/.png",🇧🇬 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BNT1.png",🇧🇬 | BNT 1
