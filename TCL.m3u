@@ -3095,6 +3095,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-dist
 https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mexico/EstrellaGames.png",🇲🇽 | Estrella Games 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
+# --- 🇬🇹 Guatemala ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Guatemala/ConectadoConDios.png",🇬🇹 | Conectados con Dios TV
+https://cdn.oktvus.com/ConectadoConDios/tracks-v1a1/mono.ts.m3u8
 # --- 🇦🇷 Argentinië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/.png",🇦🇷 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/ESPN_Premium_logo.svg.png",🇦🇷 | ESPN Premium
@@ -4770,6 +4773,12 @@ https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dbe59037-
 https://lecteur.iconetv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Benin/Power.png",🇧🇯 | Power TV
 https://stream.it-innov.com/powertv/index.fmp4.m3u8
+# --- 🇲🇱 Mali ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mali/MeieTV.png",🇲🇱 | MEIE TV
+https://meietv.eglisemeiemali.org/hls/meie.m3u8
+# --- 🇹🇩 Tsjaad ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Tsjaad/TeleTchad.png",🇹🇩 | Télé Tchad
+http://176.65.153.84:7013/play/a069/index.m3u8
 # --- 🇨🇲 Kameroen ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kameroen/Laura%20Dave%20Media%20TV.png",🇨🇲 | Laura Dave Media TV
 # --- 🇦🇴 Angola ---
