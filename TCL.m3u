@@ -719,6 +719,12 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRh
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/Univision.png",🇺🇸 | Univision West
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/TheWalkTV.png",🇺🇸 | The Walk TV
 https://wggstv16.ddns.net:9953/hls/walk1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/SCorbyTV.png",🇺🇸 | S Corby TV
+https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/SMetroTV.png",🇺🇸 | S Metro TV
+https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/SKPop.png",🇺🇸 | S KPop!
+https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/YoungHollywood.png",🇺🇸 | Young Hollywood
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/FailArmy.png",🇺🇸 | Failarmy International
@@ -2568,7 +2574,7 @@ http://213.7.216.229:8888/udp/239.23.0.2:1234
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Rik%20Sat.png",🇨🇾 | RΙΚ Sat
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Omega.png",🇨🇾 | Omega TV
-https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI2IDU6NTg6MjUgUE0maGFzaF92YWx1ZT15cVREc0tPZWJaNEdJSEp0OWoxem13PT0mdmFsaWRtaW51dGVzPTY2MA==
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Sigma%20TV.png",🇨🇾 | Sigma TV 
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Cyprus/Alpha%20Cyprus.png",🇨🇾 | Alpha Cyprus
@@ -3337,6 +3343,8 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 https://srs.unsj.edu.ar/live/xama/xama.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/LitusTV.png",🇦🇷 | Litus TV
 https://edge.enhdtv.com/litustv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/NorteTV.png",🇦🇷 | Norte TV
+https://ntvcanal7.com.ar:81/dash/stream.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/AiredeSantaFe.png",🇦🇷 | Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Bravotv.png.png",🇦🇷 | Bravo TV
@@ -4206,6 +4214,23 @@ https://tv.mtrk.my/api/stream/254/master.m3u8
 https://tv.mtrk.my/api/stream/255/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oezbekistan/ShifoTV.png",🇺🇿 | Shifo TV
 https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
+# --- 🇹🇲 Turkmenistan ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkmenistan/ArkadagTV.png",🇹🇲 | Arkadag TV
+https://alpha.tv.online.tm/hls/ch000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkmenistan/AltynAsyr.png",🇹🇲 | Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkmenistan/Yaslyk.png",🇹🇲 | Ýaşlyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkmenistan/Miras.png",🇹🇲 | Miras
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkmenistan/TurkmenistanSport.png",🇹🇲 | Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkmenistan/TurkmenOwazy.png",🇹🇲 | Türkmen Owazy
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkmenistan/Asgabat.png",🇹🇲 | Aşgabat
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkmenistan/Turkmenistan.png",🇹🇲 | Türkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
 # --- 🇰🇬 Kirgizië ---
 
 # --- 🇧🇾 Wit-Rusland ---
@@ -4301,6 +4326,8 @@ https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/Docubox.png",🇷🇺 | DocuBox 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/NatGeo.png",🇷🇺 | National Geographic 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/DomkinoPremium.png",🇷🇺 | Dom kino Premium
+http://88.212.15.19/live/test_dom_kino_premium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C.RuSport.jpg",🇷🇺 | Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/FashionTV.png",🇷🇺 | FashionTV
@@ -5194,6 +5221,8 @@ https://meialai.iptelevishion.com/meialai/2/index.m3u8
 https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/FAST1.png",🇮🇳 | Fast1 
 https://cdn.pishow.tv/ott/live/10008/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/India/ShemarooMarathiBana.png",🇮🇳 | Shemaroo Marathi Bana
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 # --- 🇧🇩 Bangladesh ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/.png",🇧🇩 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/Tsports.png",🇧🇩 | T Sports
@@ -5230,6 +5259,8 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/moviebangla.jpg",🇧🇩 | Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bangladesh/MatribhumiTV.jpg",🇧🇩 | Matribhumi TV
+http://live.playmax.live/matribhumi/index.m3u8
 # --- 🇦🇫 Afghanistan ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/",🇦🇫 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Afghanistan/Lemar%20TV.jpg",🇦🇫 | Lemar TV
