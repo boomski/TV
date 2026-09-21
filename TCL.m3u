@@ -4661,6 +4661,21 @@ https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kenia/CapuchinTV.png",🇰🇪 | Capuchin TV
 https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
 # --- 🇬🇭 Ghana ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/TV3.png",🇬🇭 | TV3
+#EXTVLCOPT:http-referrer=https://liveghanatv.com/
+https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/APTV.png",🇬🇭 | AP TV
+https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/G-eyeTV.png",🇬🇭 | G-eye TV
+https://online.geyetv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/MOGPATV.png",🇬🇭 | MOGPA TV
+https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/OTV.jpg",🇬🇭 | OTV
+https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/PentTV.png",🇬🇭 | Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/ResurrectionTV.png",🇬🇭 | Resurrection TV
+https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Ghana/GreatCommissionTV.png",🇬🇭 | Great Commission TV
 https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
 # --- 🇲🇦 Marokko ---
