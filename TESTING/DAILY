@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/NovorossiyaTV.png",🇷🇺 | Novorossiya TV
+http://31.131.139.253:9002/novoros/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/OplotTV.png",🇷🇺 | Oplot TV
+http://31.131.139.253:9002/oplot_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Rusland/6TVGorlovka.png",🇷🇺 | 6 TV Gorlovka
+http://91.214.48.158:4022/udp/224.2.2.4:10000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Belarus/TNTInternational.png",🇧🇾 | TNT International
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 
 
 
