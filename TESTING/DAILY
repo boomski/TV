@@ -1,12 +1,7 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/3Plus.png",🇦🇱 | 3 Plus
-#EXTVLCOPT:network-caching=1000
-http://185.30.144.63:8106/play/a00w
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/3Plus.png",🇦🇱 | 3 Plus
-#EXTVLCOPT:network-caching=1000
-http://185.30.144.63:8106/play/a001
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/A2CNN.png",🇦🇱 | A2 CNN
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a00q
