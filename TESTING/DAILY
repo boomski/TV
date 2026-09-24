@@ -6,6 +6,10 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/abc%20news%20albania.png",🇦🇱 | ABC News Albania
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/ItalianFishing.png",🇮🇹 | Italian Fishing
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/PlimPlim.png",🇦🇷 | Plim Plim
+https://xyktmobile00.s.gy/PPV911_CANCION_BEBE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Argentini%C3%AB/Pakapaka.png",🇦🇷 | Pakapaka
+https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/CaracolTV.png",🇨🇴 | Caracol TV
 http://181.79.86.130:8000/play/a077/index.m3u8
@@ -16,10 +20,46 @@ http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/CaracolInternacional.png",🇨🇴 | Caracol Internacional
 http://138.59.177.78:9999/play/a0a8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/JimJam.png",🇭🇺 | JimJam
+https://xyktmobile00.s.gy/PPV897_JIMJA_SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/HalomTV.png",🇭🇺 | Halom TV
+rtmp://212.92.13.108/live/livestream1
 
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/5Sport.png",🇮🇱 | 5Sport
+http://str2.iptvhd.ru:8080/5sport/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/5Live.png",🇮🇱 | 5Live
+http://str2.iptvhd.ru:8080/5live/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/FoodChannel.png",🇮🇱 | Food Channel
+http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/HOTComedy.png",🇮🇱 | HOT Comedy
+http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/5Gold.png",🇮🇱 | 5Gold
+http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/5Sport4K.png",🇮🇱 | 5Sport 4K
+http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/Sport2.png",🇮🇱 | Sport 2
+http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/VivaIstanbul.png",🇮🇱 | Viva Istanbul
+http://str2.iptvhd.ru:8080/viva_plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/VivaTelenovelas.png",🇮🇱 | Viva Telenovelas
+http://str2.iptvhd.ru:8080/VIVA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/Junior.png",🇮🇱 | Junior
+http://str2.iptvhd.ru:8080/junior/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/One2.png",🇮🇱 | One 2
+http://str2.iptvhd.ru:8080/One/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/HealthChannel.png",🇮🇱 | Health Channel
+http://89.33.29.115:8080/Health/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/TeenNick.png",🇮🇱 | TeenNick
+http://89.33.29.115:8080/TeenNick/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/HOTSenior.png",🇮🇱 | HOT Senior
+http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/Luli.png",🇮🇱 | Luli
+http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/HomePlus.png",🇮🇱 | Home +
+http://str2.iptvhd.ru:8080/home_plus/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Isra%C3%ABl/5Plus.png",🇮🇱 | 5Plus
+http://89.33.29.115:8080/sportplus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Kids.png",🇦🇱 | Kids
 #EXTVLCOPT:network-caching=1000
@@ -310,7 +350,10 @@ http://45.84.187.172:3001/udp/239.100.100.147:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Internationaal/XYMax.png",🌍 | XY Max
 http://45.84.187.172:3001/udp/239.100.100.148:5000
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kazachstan/Qazaqstan.png",🇰🇿 | Qazaqstan
+#EXTVLCOPT:http-referrer=https://megogo.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
 
 
 
