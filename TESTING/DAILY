@@ -7,7 +7,14 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Itali%C3%AB/ItalianFishing.png",🇮🇹 | Italian Fishing
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/CaracolTV.png",🇨🇴 | Caracol TV
+http://181.79.86.130:8000/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/CaracolTV.png",🇨🇴 | Caracol TV
+http://181.79.86.130:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/Telepacifico.png",🇨🇴 | Telepacifico
+http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/CaracolInternacional.png",🇨🇴 | Caracol Internacional
+http://138.59.177.78:9999/play/a0a8/index.m3u8
 
 
 
