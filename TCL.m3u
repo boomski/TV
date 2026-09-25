@@ -326,10 +326,14 @@ https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL-Super.png",🇩🇪 | RTL Super
 https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/SuperRTL.png",🇩🇪 | RTL Super
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a02g
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/Nitro.png",🇩🇪 | RTL Nitro
 https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL%20Crime.png",🇩🇪 | RTL Crime HD 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL_Passion.png",🇩🇪 | RTL Passion
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/3sat.png",🇩🇪 | 3sat
 https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/NTV.png",🇩🇪 | n-tv
@@ -804,6 +808,9 @@ http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/ORF%203.png",🇦🇹 | ORF III 
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/ORF%20Kids.png",🇦🇹 | ORF Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/VoxAustria.png",🇦🇹 | VOX Austria
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a02f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/ATV.png",🇦🇹 | ATV
 http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oostenrijk/ATV2.jpg",🇦🇹 | ATV2
@@ -2464,6 +2471,54 @@ http://185.30.144.63:8106/play/a01u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/RTSHShqip.png",🇦🇱 | RTSH Shqip
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a01m
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringAction.png",🇦🇱 | Tring Action
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00n
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringClassic.png",🇦🇱 | Tring Classic
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a01g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringCollection.png",🇦🇱 | Tring Collection
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a01e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringComedy.png",🇦🇱 | Tring Comedy
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a010
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringFamily.png",🇦🇱 | Tring Family
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a02n
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringFantasy.png",🇦🇱 | Tring Fantasy
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringHistory.png",🇦🇱 | Tring History
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a02k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringLife.png",🇦🇱 | Tring Life
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00y
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringNovelas.png",🇦🇱 | Tring Novelas
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a01c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Tring.jpg",🇦🇱 | Tring Original
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a02m
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringPlanet.png",🇦🇱 | Tring Planet
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringShqip.png",🇦🇱 | Tring Shqip
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00r
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringSportNews.png",🇦🇱 | Tring Sport News
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00k
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringSuper.png",🇦🇱 | Tring Super
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00v
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringTring.png",🇦🇱 | Tring Tring
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TringWorld.png",🇦🇱 | Tring World
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a014
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/DigitAlb20Vjet.png",🇦🇱 | DigitAlb 20 Vjet
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a022
@@ -2482,6 +2537,12 @@ http://185.30.144.63:8106/play/a021
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/FilmHits.png",🇦🇱 | Film Hits
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a01f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/THD.png",🇦🇱 | T HD
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Stinet.png",🇦🇱 | Stinet
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a01b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/ExplorerHistori.png",🇦🇱 | Explorer Histori
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a016
@@ -2500,6 +2561,9 @@ http://185.30.144.63:8106/play/a01y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/KlanPlus.png",🇦🇱 | Klan Plus
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a01d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Smile.png",🇦🇱 | Smile
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a011
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TV7.png",🇦🇱 | TV 7 Albania
 https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Vizion%20Plus.png",🇦🇱 | Vizion Plus
@@ -2510,6 +2574,9 @@ http://185.30.144.63:8106/play/a00x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/KanalDDrama.png",🇦🇱 | KanalD Drama
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a019
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TipTV.png",🇦🇱 | Tip TV
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a018
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Zjarr%20TV.png",🇦🇱 | Zjarr TV
 https://zjarr.future.al/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Euronews%20Albania.png",🇦🇱 | Euronews Albania
@@ -2523,6 +2590,9 @@ http://185.30.144.63:8106/play/a00q
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/A2CNN.png",🇦🇱 | A2 CNN
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a002
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TopChannel.png",🇦🇱 | Top Channel
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a00a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/TopNews.png",🇦🇱 | Top News
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a00p
@@ -2552,6 +2622,9 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 http://185.30.144.63:8106/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Syri.png",🇦🇱 | Syri
 https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/Syri.png",🇦🇱 | Syri
+#EXTVLCOPT:network-caching=1000
+http://185.30.144.63:8106/play/a01x
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/LivingHD.png",🇦🇱 | Living HD
 #EXTVLCOPT:network-caching=1000
 http://185.30.144.63:8106/play/a00t
@@ -3029,17 +3102,35 @@ http://45.84.187.172:3001/udp/224.156.69.174:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BNT3.png",🇧🇬 | BNT 3
 http://45.84.187.172:3001/udp/224.156.69.75:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BNT4.png",🇧🇬 | BNT 4
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Dizi.png",🇧🇬 | Dizi
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TV1000.png",🇧🇬 | TV1000
 http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DiemaS.png",🇧🇬 | Diema Sport
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DiemaS2.png",🇧🇬 | Diema Sport 2
-
+http://45.84.187.172:3001/udp/239.10.10.141:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DiemaS3.png",🇧🇬 | Diema Sport 3
 http://45.84.187.172:3001/udp/226.156.69.136:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/MaxSport3.png",🇧🇬 | MAX Sport 3 HD
+http://45.84.187.172:3001/udp/239.100.100.48:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/MaxSport4.png",🇧🇬 | MAX Sport 4 HD
+http://45.84.187.172:3001/udp/239.100.100.64:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Nova.png",🇧🇬 | NOVA
+http://45.84.187.172:3001/udp/239.100.10.7:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/NovaSport.png",🇧🇬 | NOVA Sport
+http://45.84.187.172:3001/udp/239.10.10.2:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/WNess.png",🇧🇬 | W NESS
+http://45.84.187.172:3001/udp/224.156.69.196:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/bTV.png",🇧🇬 | bTV
+http://45.84.187.172:3001/udp/224.156.69.201:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/bTV.png",🇧🇬 | bTV
+http://45.84.187.172:3001/udp/239.100.10.2:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Discovery.png",🇧🇬 | Discovery
+http://45.84.187.172:3001/udp/239.100.10.37:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/FoodNetwork.png",🇧🇬 | Food Network
+http://45.84.187.172:3001/udp/239.10.10.4:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/AnimalPlanet.png",🇧🇬 | Animal Planet
+http://45.84.187.172:3001/udp/239.100.10.14:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DSTV.png",🇧🇬 | DSTV 
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Magic.png",🇧🇬 | Magic TV
@@ -5552,6 +5643,18 @@ http://88.212.15.19/live/test_erox_hd_hevc/playlist.m3u8
 http://185.63.254.139:8000/play/adult-redlight-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/Shalun.png",🔞 | Shalun
 http://185.63.254.139:8000/play/adult-shalun/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/PinkoTV.png",🔞 | PINKO TV
+http://45.84.187.172:3001/udp/224.156.69.250:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/PinkoTV.png",🔞 | PINKO TV
+http://45.84.187.172:3001/udp/224.156.69.251:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/CentoXCento.png",🔞 | Cento X Cento
+http://45.84.187.172:3001/udp/224.156.69.252:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/XYPlus.png",🔞 | XY Plus
+http://45.84.187.172:3001/udp/239.100.100.146:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/XYMix.png",🔞 | XY Mix
+http://45.84.187.172:3001/udp/239.100.100.147:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/XYMax.png",🔞 | XY Max
+http://45.84.187.172:3001/udp/239.100.100.148:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/18%2B/PrivateSD.png",🔞 | Private SD
 #EXTINF:-1 tvg-logo="https://github.com/iprtl/p1/raw/master/logo/spoops.png",🔞 | Spoops tv
 https://fl1003.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
