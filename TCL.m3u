@@ -3938,6 +3938,10 @@ https://jmp2.uk/plu-681111be5e0764e297fb200e.m3u8
 # --- 🇨🇴 Colombia ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/SenalCol.png",🇨🇴 | Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/ESPN3.png",🇨🇴 | ESPN 3
+http://181.78.12.119:16123/play/ch18/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/ESPN5.png",🇨🇴 | ESPN 5
+http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/RCNHD2.png",🇨🇴 | RCN HD2
 #EXTINF:-1 tvg-id="RCNHD2.co@SD",RCN HD2
 http://181.78.14.26:4000/play/a07m/index.m3u8
@@ -3993,6 +3997,8 @@ http://138.121.15.230:9002/BETHEL/index.m3u8
 http://138.121.15.230:9002/ZOOM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/STREAMFORCE360.png",🇨🇴 | StreamForce 360
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Colombia/NTN24.png",🇨🇴 | NTN24
+http://181.78.12.119:16123/play/ch80/index.m3u8
 # --- 🇨🇱 Chili ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Chili/CanalClaro.png",🇨🇱 | Canal Claro
 http://190.61.90.17:40000/play/a0fv/index.m3u8
