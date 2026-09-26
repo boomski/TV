@@ -5046,6 +5046,22 @@ https://136044159.r.cdnsun.net/storychannel.m3u8
 # --- 🇪🇭 Westelijke Sahara ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Marokko/RASD.png",🇪🇭 | RASD TV
 https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
+# --- 🇲🇷 Mauritanië ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mauritani%C3%AB/Sahara24.png",🇲🇷 | Sahara 24
+https://live.saharamedias.net:3317/live/shara24live.m3u8
+# --- 🇸🇳 Senegal ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Senegal/Diaspora24.png",🇸🇳 | Diaspora 24
+https://vdo3.pro-fhi.net:3218/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Senegal/SenewebTV.png",🇸🇳 | Seneweb TV
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Senegal/SenJeunesTV.jpg",🇸🇳 | SenJeunes TV
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Senegal/A2iReligion.jpg",🇸🇳 | A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Senegal/GMSTV.png",🇸🇳 | GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Senegal/LougaTV.jpg",🇸🇳 | Louga TV
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 # --- 🇩🇿 Algerije ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV1%20Algerian%20Television.png",🇩🇿 | TV1 Algerian Television
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Algerije/TV2%20Canal%20Alg%C3%A9rie.png",🇩🇿 | TV2 Canal Algérie
@@ -5186,6 +5202,9 @@ https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TV%20Vit%C3%B3ria.png",🇲🇿 | TV Vitória
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Mozambique/TV%20Mana%20Mozambique.png",🇲🇿 | TV Mana Mocambique
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+# --- 🇨🇻 Kaapverdië ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kaapverdi%C3%AB/TVCidade.png",🇨🇻 | TV Cidade
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 # --- 🇪🇷 Eritrea ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Eritrea/ERi-TV1.png",🇪🇷 | ERi-TV 1
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
@@ -5201,6 +5220,11 @@ https://stream.cisk.tech/nasihatv/index.m3u8
 # --- 🇸🇴 Somalië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Somali%C3%AB/SaabTV.png",🇸🇴 | Saab TV
 https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+# --- 🇬🇶 Equatoriaal-Guinea ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Equatoriaal-Guinea/SolTV.png",🇬🇶 | SolTV
+https://stream.solmediaeg.com/soltv/soltv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Equatoriaal-Guinea/TVGEINT.png",🇬🇶 | TVGE Internacional
+https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8
 # --- 🇪🇬 Egypte ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC.png",🇪🇬 | CBC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Egypte/CBC%20Sofra.png",🇪🇬 | CBC Sofra
