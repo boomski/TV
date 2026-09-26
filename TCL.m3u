@@ -263,6 +263,8 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/france24.png",🇫🇷 | France 24 Arabic
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Frankrijk/TV5Monde.png",🇫🇷 | TV5MONDE
+http://45.84.187.172:3001/udp/239.100.10.101:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/TV5MondeFranceBelgiqueSuisseMonaco.png",🇫🇷 | TV5Monde France Belgique Suisse Monaco
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/thomraider12/icones_tv/main/TV5Europe.png",🇫🇷 | TV5Monde Europe
@@ -322,6 +324,8 @@ https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL.png",🇩🇪 | RTL
 https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL.png",🇩🇪 | RTL 
+http://45.84.187.172:3001/udp/239.100.10.83:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL%202.png",🇩🇪 | RTL 2
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/RTL-Super.png",🇩🇪 | RTL Super
@@ -434,7 +438,7 @@ https://jmp2.uk/stvp-DEAJ0500429A
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/OstWest.png",🇩🇪 | Ost West 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://hls127.freeott.top:8080/OstWest/video.m3u8
+/OstWest/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Duitsland/OstWest24.png",🇩🇪 | Ost West 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/455/index.m3u8
@@ -467,6 +471,8 @@ https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/IUOAMC.jpg",🇬🇧 | Master Chefs Academy TV
 https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/EnglishClubTV.png",🇬🇧 | English Club TV
+http://45.84.187.172:3001/udp/224.156.69.188:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/MUTV.png",🇬🇧 | MUTV
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UK/MontyDon.jpg",🇬🇧 | Gardening With Monty Don
@@ -2270,7 +2276,7 @@ http://stream.mcquack.net/390/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/SuspilneDonbas.png",🇺🇦 | Suspilne. Donbas
-http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
+/UA_DONBAS/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/UPL.png",🇺🇦 | UPL.TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Oekra%C3%AFne/Sport1UA.png",🇺🇦 | Sport 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -2410,7 +2416,6 @@ https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat%20Music.png",🇧🇦 | Hayat Music
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayat%20Folk.png",🇧🇦 | Hayat Folk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bosni%C3%AB/Hayatovci.png",🇧🇦 | Hayatovci
-
 # --- 🇷🇸 Servië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/A1P.png",🇷🇸 | Arena 1 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
@@ -2691,6 +2696,8 @@ https://eu.live.skyfolk.mk/live.m3u8
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/INTV.jpg",🇲🇰 | INTV
 http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Macedoni%C3%AB/NasaTV.png",🇲🇰 | Naša TV
+http://45.84.187.172:3001/udp/224.156.69.100:5000
 # --- 🇬🇷 Griekenland --- 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Griekenland/ERTCosmos.png",🇬🇷 | ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
@@ -3105,6 +3112,8 @@ http://45.84.187.172:3001/udp/224.156.69.75:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Dizi.png",🇧🇬 | Dizi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TV1000.png",🇧🇬 | TV1000
 http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Diema.png",🇧🇬 | Diema
+http://45.84.187.172:3001/udp/226.156.69.138:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DiemaS.png",🇧🇬 | Diema Sport
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DiemaS2.png",🇧🇬 | Diema Sport 2
@@ -3119,6 +3128,34 @@ http://45.84.187.172:3001/udp/239.100.100.64:5000
 http://45.84.187.172:3001/udp/239.100.10.7:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/NovaSport.png",🇧🇬 | NOVA Sport
 http://45.84.187.172:3001/udp/239.10.10.2:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/KinoNova.png",🇧🇬 | Kino Nova
+http://45.84.187.172:3001/udp/226.156.69.137:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Eurosport1.png",🇧🇬 | Eurosport 1 BG
+http://45.84.187.172:3001/udp/224.156.69.106:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Eurosport1.png",🇧🇬 | Eurosport 1 BG
+http://45.84.187.172:3001/udp/239.100.10.45:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Eurosport2.png",🇧🇬 | Eurosport 2 BG
+http://45.84.187.172:3001/udp/224.156.69.132:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Eurosport2.png",🇧🇬 | Eurosport 2 BG
+http://45.84.187.172:3001/udp/239.100.10.46:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DF.png",🇧🇬 | DF
+http://45.84.187.172:3001/udp/226.156.69.139:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Bulgaria24.png",🇧🇬 | Bulgaria 24
+http://45.84.187.172:3001/udp/239.10.10.128:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/CETVCT3.png",🇧🇬 | CE TV CT 3
+http://45.84.187.172:3001/udp/224.156.69.50:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/StarLive.png",🇧🇬 | Star Life
+http://45.84.187.172:3001/udp/239.10.10.134:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/StarCrime.png",🇧🇬 | Star Crime
+http://45.84.187.172:3001/udp/239.10.10.138:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/StarCrime.png",🇧🇬 | Star Crime
+http://45.84.187.172:3001/udp/239.100.10.54:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/HBO.png",🇧🇬 | HBO
+http://45.84.187.172:3001/udp/239.100.10.57:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/HBO2.png",🇧🇬 | HBO 2
+http://45.84.187.172:3001/udp/239.10.10.5:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TVT.png",🇧🇬 | TVT
+http://45.84.187.172:3001/udp/239.100.10.104:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/WNess.png",🇧🇬 | W NESS
 http://45.84.187.172:3001/udp/224.156.69.196:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/bTV.png",🇧🇬 | bTV
@@ -3127,32 +3164,68 @@ http://45.84.187.172:3001/udp/224.156.69.201:5000
 http://45.84.187.172:3001/udp/239.100.10.2:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Discovery.png",🇧🇬 | Discovery
 http://45.84.187.172:3001/udp/239.100.10.37:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Discovery.png",🇧🇬 | Discovery
+http://45.84.187.172:3001/udp/224.156.69.108:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/IDDiscovery.png",🇧🇬 | ID Discovery
+http://45.84.187.172:3001/udp/224.156.69.134:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/NatGeoWild.png",🇧🇬 | Nat Geo Wild BG
+http://45.84.187.172:3001/udp/239.100.10.68:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/NatGeo.png",🇧🇬 | Nat Geo BG
+http://45.84.187.172:3001/udp/239.100.10.69:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Planeta.png",🇧🇬 | Planeta
+http://45.84.187.172:3001/udp/239.100.10.75:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Planeta4K.png",🇧🇬 | Planeta Ultra HD 4K
+http://45.84.187.172:3001/udp/224.156.69.80:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/FoodNetwork.png",🇧🇬 | Food Network
 http://45.84.187.172:3001/udp/239.10.10.4:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/24Kitchen.png",🇧🇬 | 24 Kitchen
+http://45.84.187.172:3001/udp/239.10.10.133:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/AnimalPlanet.png",🇧🇬 | Animal Planet
 http://45.84.187.172:3001/udp/239.100.10.14:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/DSTV.png",🇧🇬 | DSTV 
 http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/MTV.jpg",🇧🇬 | MTV
+http://45.84.187.172:3001/udp/239.100.10.67:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/FenTV.png",🇧🇬 | FEN TV
+http://45.84.187.172:3001/udp/224.156.69.82:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BGMusicChannel.png",🇧🇬 | BG Music Channel
+http://45.84.187.172:3001/udp/239.100.10.22:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Box.png",🇧🇬 | BOX
+http://45.84.187.172:3001/udp/239.100.10.29:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/HitMixMusic.png",🇧🇬 | Hit Mix Music
+http://45.84.187.172:3001/udp/224.156.69.180:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Magic.png",🇧🇬 | Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TheVoice.png",🇧🇬 | The Voice TV
-https://bss1.neterra.tv/thevoice/thevoice.m3u8
+https://bss1.neterra.tv/thevoice/thevoice.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TheVoice.png",🇧🇬 | The Voice TV
+http://45.84.187.172:3001/udp/239.100.10.93:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/ThisisBulgaria.png",🇧🇬 | This is Bulgaria HD
-https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+https://streamer103.neterra.tv/thisisbulgaria/live.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/ThisisBulgaria.png",🇧🇬 | This is Bulgaria HD
+http://45.84.187.172:3001/udp/224.156.69.51:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TiankovFolk.png",🇧🇬 | Tiankov Folk
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TiankovFolk.png",🇧🇬 | Tiankov Folk
+http://45.84.187.172:3001/udp/239.100.10.94:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TiankovOrientF.png",🇧🇬 | Tiankov Orient Folk
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Travel.png",🇧🇬 | Travel TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TravelTV.png",🇧🇬 | Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TravelTV.png",🇧🇬 | Travel TV
+http://45.84.187.172:3001/udp/224.156.69.52:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TVShumen.png",🇧🇬 | TV Shumen
 https://www.tvshumen.tv/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Agro.png",🇧🇬 | Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/City.png",🇧🇬 | City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/City.png",🇧🇬 | City TV
+http://45.84.187.172:3001/udp/224.156.69.91:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Kanal3.jpg",🇧🇬 | Kanal 3
 https://cdn2.invivo.bg/k3artfrwbsitfrnglpvlv/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/CodeFashion.png",🇧🇬 | Code Fashion TV
+http://45.84.187.172:3001/udp/239.10.10.144:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/CodeFashion.png",🇧🇬 | Code Fashion TV
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/CodeHealth.png",🇧🇬 | Code Health TV
@@ -3170,15 +3243,26 @@ http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/LightChannel.png",🇧🇬 | Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/ViasatKino.png",🇧🇬 | Viasat Kino 
-http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Filmboxplusone.png",🇧🇬 | FILMBOX+ One  
-http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Filmboxpluslc.png",🇧🇬 | FILMBOX+ Love & Crime
-http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/AXNB.png",🇧🇬 | AXN Black 
-http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/AXNW.png",🇧🇬 | AXN White 
-http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/CartoonNetwork.png",🇧🇬 | Cartoon Network
+http://45.84.187.172:3001/udp/239.100.10.33:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Cartoonito.png",🇧🇬 | Cartoonito
+http://45.84.187.172:3001/udp/239.100.10.27:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Euronews.png",🇧🇬 | Euronews
+http://45.84.187.172:3001/udp/224.156.69.54:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/TheWorld.png",🇧🇬 | The World
+http://45.84.187.172:3001/udp/224.156.69.192:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/ClassicalHarmony.png",🇧🇬 | Classical Harmony
+http://45.84.187.172:3001/udp/224.156.69.195:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Balkanika.png",🇧🇬 | Balkanika Music TV
+http://45.84.187.172:3001/udp/224.156.69.84:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/Balkanika.png",🇧🇬 | Balkanika Music TV
+http://45.84.187.172:3001/udp/239.100.10.19:5000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/FolklorTVHD.png",🇧🇬 | Folklor TV HD
+http://45.84.187.172:3001/udp/224.156.69.92:5000
 # --- 🇦🇼 Aruba ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Aruba/Aruba%20TV.jpg",🇦🇼 | Aruba TV
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
