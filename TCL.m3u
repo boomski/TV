@@ -1937,7 +1937,8 @@ https://saruman1.tharen1.cfd/hap/usergenrnd2gd3ogS7bkd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Antena%20Monden.png",🇷🇴 | Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Antena%20Observator.jpg",🇷🇴 | Antena Observator News
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemeni%C3%AB/InsulaNonStop.png",🇷🇴 | Insula non stop
+https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/Kanal%20D.jpg",🇷🇴 | Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
@@ -2128,8 +2129,12 @@ https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://flash1.bogulus1.cfd/realy/usergenrx0j3qt.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/B1_TV_logo.svg.png",🇷🇴 | B1
-https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemeni%C3%AB/CinemaratonPlus.jpg",🇷🇴 | Cinemaraton Plus
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemeni%C3%AB/ImpactTV.png",🇷🇴 | Impact TV
+https://live.tvimpact.ro:8088/live/impact.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemeni%C3%AB/ImpactTV2.png",🇷🇴 | Impact TV 2
+https://online.tvimpact.live/hls/impact_tv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/National%20TV.png",🇷🇴 | National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/National%20TV.png",🇷🇴 | National TV
@@ -5291,6 +5296,8 @@ http://185.9.2.18/chid_285/index.m3u8
 http://185.9.2.18/chid_286/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/AlSaudiya.png",🇸🇦 | Al Saudiya
 https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Saoedi-Arabie/Tarab.png",🇸🇦 | Tarab
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
 # --- 🇦🇪 Verenigde Arabische Emiraten ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/.png",🇦🇪 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/UAE/DubaiINT.png",🇦🇪 | Dubai TV International
