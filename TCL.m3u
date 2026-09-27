@@ -1899,6 +1899,8 @@ http://88.212.15.19/live/history_hun/index.m3u8
 https://xyktmobile00.s.gy/PPV897_JIMJA_SD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/HalomTV.png",🇭🇺 | Halom TV
 rtmp://212.92.13.108/live/livestream1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Hongarije/RTVPannon.png",🇭🇺 | RTV Pannon
+https://stream2.nmih.hu:4102/live.m3u8
 # --- 🇷🇴 Roemenië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Roemenie/TVRI.jpg",🇷🇴 | TVR International
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/master.m3u8
@@ -2430,10 +2432,37 @@ https://stream.rtvze.ba/live/123/123.m3u8
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/TVAS.jpg",🇷🇸 | TV AS
 https://stream.toobimedia.org/public/assabac.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/RTV1.png",🇷🇸 | RTV 1
+http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/RTV2.png",🇷🇸 | RTV 2
+http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/RTVNoviPazar.png",🇷🇸 | RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/K1.png",🇷🇸 | K1
+https://edge-rs-03.maksnet.tv/minacordmedia-secure/k1studio/chunklist_w803571054.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/InformerTV.png",🇷🇸 | Informer TV
+https://edge-de-04.maksnet.tv/informertv-secure/web/chunklist_w883660029.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Servi%C3%AB/SOSKanalPlus.png",🇷🇸 | SOS Kanal Plus
+https://edge-rs-05.maksnet.tv/soskanalplus/soskanalplus.stream/playlist.m3u8
 # --- 🇲🇪 Montenegro ---
 
 # --- 🇽🇰 Kosovo ---
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kosovo/RTVMIR.png",🇽🇰 | RTV MIR
+https://rtvmir.info/MIR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kosovo/ArtaN.png",🇽🇰 | Arta News
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kosovo/Kohavision.png",🇽🇰 | Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kosovo/T7.png",🇽🇰 | T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kosovo/ATVLive.png",🇽🇰 | ATV Live
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kosovo/RTVBesa.png",🇽🇰 | RTV Besa
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kosovo/ZicoTV.png",🇽🇰 | ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Kosovo/TVDielli.png",🇽🇰 | TV Dielli
+https://stream.tvdielli.com/hls/dielli/index.m3u8
 # --- 🇦🇱 Albanië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/",🇦🇱 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Albani%C3%AB/RTSH%20Sport.png",🇦🇱 | RTSH Sport
@@ -2809,13 +2838,9 @@ https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor%203.jpg",🇹🇷 | Tivibu Spor 3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/Tivibu%20Spor%204.png",🇹🇷 | Tivibu Spor 4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/BeIN%20Sports.jpg",🇹🇷 | BeIN Sports 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/SSPORT.jpg",🇹🇷 | S Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/SSPORT2.png",🇹🇷 | S Sport 2
@@ -3102,6 +3127,8 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/CNBC-e.png",🇹🇷 | CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Turkije/ASFTV.png",🇹🇷 | ASF TV
+https://cdn4.yayin.com.tr/serhattv/tracks-v1a1/mono.m3u8
 # --- 🇧🇬 Bulgarije ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/.png",🇧🇬 | 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Bulgarije/BNT1.png",🇧🇬 | BNT 1
@@ -5237,6 +5264,8 @@ https://stream.cisk.tech/nasihatv/index.m3u8
 # --- 🇸🇴 Somalië ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Somali%C3%AB/SaabTV.png",🇸🇴 | Saab TV
 https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Somali%C3%AB/Somalicable.png",🇸🇴 | Somalicable
+https://cdn.mediavisionuk.com:9000/somalicable/index.m3u8
 # --- 🇬🇶 Equatoriaal-Guinea ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/Equatoriaal-Guinea/SolTV.png",🇬🇶 | SolTV
 https://stream.solmediaeg.com/soltv/soltv.m3u8
